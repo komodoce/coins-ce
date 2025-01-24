@@ -41,5 +41,4 @@ jobs:
             - Electrum scan report updated
           labels: |
             config-update
-          reviewers: cipig, smk762, gcharang
           draft: false
