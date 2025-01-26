@@ -24654,8 +24654,8 @@
         "overwintered": 1,
         "txfee": 1000,
         "mm2": 1,
-        "required_confirmations": 2,
-        "requires_notarization": true,
+        "required_confirmations": 3,
+        "requires_notarization": false,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -46379,6 +46379,18 @@
             {
                 "url": "88.99.26.209:5036",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrum-verge.cloud:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
             },
             {
                 "url": "electrumx-verge.cloud:50001",
