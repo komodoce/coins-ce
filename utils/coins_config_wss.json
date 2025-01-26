@@ -19765,8 +19765,8 @@
         "overwintered": 1,
         "txfee": 1000,
         "mm2": 1,
-        "required_confirmations": 2,
-        "requires_notarization": true,
+        "required_confirmations": 3,
+        "requires_notarization": false,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -36651,6 +36651,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumx-verge.cloud:50004",
                 "protocol": "WSS"
