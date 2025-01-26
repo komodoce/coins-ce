@@ -8036,8 +8036,8 @@
     "txfee": 1000,
     "mm2": 1,
     "sign_message_prefix": "Komodo Signed Message:\n",
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 3,
+    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
