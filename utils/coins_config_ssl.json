@@ -28071,6 +28071,62 @@
         ],
         "explorer_block_url": "block/"
     },
+    "FLOP": {
+        "coin": "FLOP",
+        "type": "UTXO",
+        "name": "Flopcoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "FLOP",
+        "explorer_url": "https://explorer.flopcoin.net/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Flopcoin Signed Message:\n",
+        "fname": "Flopcoin",
+        "rpcport": 32552,
+        "pubtype": 35,
+        "p2shtype": 22,
+        "wiftype": 158,
+        "txfee": 500000000,
+        "dust": 1000000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/3'",
+        "links": {
+            "github": "https://github.com/Flopcoin/Flopcoin",
+            "homepage": "https://flopcoin.net"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.flopcoin.net:10004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "technovision"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.flopcoin.net:10004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "technovision"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "PEP": {
         "coin": "PEP",
         "type": "UTXO",
@@ -44598,6 +44654,18 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
