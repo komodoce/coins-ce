@@ -100,10 +100,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -150,10 +146,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -343,10 +335,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -411,10 +399,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -515,10 +499,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -581,10 +561,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -640,10 +616,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -775,10 +747,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -829,10 +797,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -872,6 +836,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -972,10 +939,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1225,10 +1188,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1278,10 +1237,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1346,10 +1301,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1404,10 +1355,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1480,10 +1427,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1530,10 +1473,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1707,10 +1646,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1765,10 +1700,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1841,10 +1772,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -1958,10 +1885,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -2016,10 +1939,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -2092,10 +2011,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -2153,10 +2068,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -2282,10 +2193,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -2340,10 +2247,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -2634,10 +2537,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -2817,10 +2716,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -2907,10 +2802,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -3086,10 +2977,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -3159,10 +3046,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -3369,10 +3252,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -3407,7 +3286,12 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/357'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "88.99.26.209:5151",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "AYA-BEP20": {
@@ -3638,10 +3522,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -3740,10 +3620,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -3932,10 +3808,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -3986,10 +3858,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -4036,10 +3904,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4097,10 +3961,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -4168,10 +4028,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -4324,10 +4180,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4616,10 +4468,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -4768,10 +4616,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4971,10 +4815,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -5045,10 +4885,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -5146,6 +4982,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "http://http-mainnet.hecochain.com"
+            },
+            {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
@@ -5237,7 +5076,17 @@
         "protocol": {
             "type": "UTXO"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "bitexplorer.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "c4pt#7855"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BCZERO": {
@@ -5640,7 +5489,12 @@
             "github": "https://github.com/BOLI-Project/BolivarCoin",
             "homepage": "https://bolis.info"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.bolivarcoin.tech:23001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BONE-ERC20": {
@@ -5702,10 +5556,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -5921,10 +5771,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -5971,10 +5817,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -6051,10 +5893,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -6174,10 +6012,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -6232,10 +6066,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -6293,10 +6123,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -6453,7 +6279,16 @@
             "github": "https://github.com/briskcoin-project/briskcoin",
             "homepage": "https://briskcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx1.briskcoin.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BTC-segwit": {
@@ -6633,7 +6468,35 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/177'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum1.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BTCZ-BEP20": {
@@ -7045,10 +6908,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -7095,10 +6954,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -7313,10 +7168,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -7431,10 +7282,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -7537,10 +7384,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -7611,10 +7454,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -7670,10 +7509,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8044,10 +7879,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -8118,10 +7949,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -8168,10 +7995,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8249,10 +8072,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -8373,10 +8192,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -8472,7 +8287,44 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/682'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.shorelinecrypto.com:10007",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum1.mooo.com:10007",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.mooo.com:10007",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "CHTA-BEP20": {
@@ -8594,10 +8446,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -8644,10 +8492,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8720,10 +8564,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -8814,10 +8654,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -9035,10 +8871,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9170,10 +9002,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9274,10 +9102,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -9348,10 +9172,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9442,10 +9262,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -9597,10 +9413,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9658,10 +9470,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9711,10 +9519,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9765,10 +9569,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -9867,10 +9667,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -10051,10 +9847,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10222,10 +10014,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10294,10 +10082,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10410,10 +10194,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10453,6 +10233,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -10555,10 +10338,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -10707,10 +10486,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10778,10 +10553,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10846,10 +10617,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -10904,10 +10671,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -11107,7 +10870,12 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/18'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.dgc.ewmcx.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "DIA-ERC20": {
@@ -11170,10 +10938,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -11434,6 +11198,18 @@
                         "discord": "dhop14#9359"
                     }
                 ]
+            },
+            {
+                "url": "electrumx2.dimecoinnetwork.com:50001",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ],
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -11691,10 +11467,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -11821,10 +11593,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -12039,7 +11807,12 @@
             "github": "https://github.com/dogecash/dogecash",
             "homepage": "https://dogecash.net"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "dogec-one.ewm-cx.com:50006",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "DOGEDASH-BEP20": {
@@ -12248,6 +12021,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "http://http-mainnet.hecochain.com"
+            },
+            {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
@@ -12283,7 +12059,17 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "1.eu.dp.electrum.dexstats.info:10021",
+                "contact": [
+                    {
+                        "discord": "Zanzarismo#6500"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "DOI": {
@@ -12515,10 +12301,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -12650,10 +12432,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -12781,10 +12559,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -12875,10 +12649,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13109,10 +12879,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -13163,10 +12929,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -13218,10 +12980,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -13336,10 +13094,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -13380,6 +13134,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -13484,10 +13241,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -13559,10 +13312,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -13617,10 +13366,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13693,10 +13438,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -13751,10 +13492,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13832,10 +13569,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -13890,10 +13623,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -14064,10 +13793,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -14198,10 +13923,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -14266,10 +13987,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -14371,10 +14088,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -14509,10 +14222,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -14553,6 +14262,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "http://http-mainnet.hecochain.com"
+            },
+            {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
@@ -14592,7 +14304,44 @@
             "github": "https://github.com/firoorg/firo",
             "homepage": "https://firo.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.firo.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx01.firo.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx02.firo.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx03.firo.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/",
         "binance_id": "FIRO"
     },
@@ -15009,10 +14758,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -15315,10 +15060,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -15443,10 +15184,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -15575,10 +15312,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -15633,10 +15366,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -15694,10 +15423,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -15800,10 +15525,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -15868,10 +15589,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -15991,10 +15708,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -16051,10 +15764,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -16100,7 +15809,12 @@
             "github": "https://github.com/gobytecoin/gobyte",
             "homepage": "https://gobyte.network"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "88.99.26.209:5128",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "GBX-BEP20": {
@@ -16468,10 +16182,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -16526,10 +16236,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -16703,10 +16409,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -16770,10 +16472,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -16831,10 +16529,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -16903,10 +16597,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -16953,10 +16643,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17022,10 +16708,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17080,10 +16762,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17210,10 +16888,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17323,6 +16997,330 @@
                         "discord": "jackielove4u#0412"
                     }
                 ]
+            },
+            {
+                "url": "electrum12.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum13.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum14.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum15.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum16.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum17.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum18.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum19.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum20.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum21.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum23.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum24.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum25.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum26.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum27.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum28.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum31.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum32.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum33.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum34.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum35.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum36.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum37.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum38.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum39.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum40.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -17380,10 +17378,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17433,10 +17427,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17506,10 +17496,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17608,10 +17594,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17739,10 +17721,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17865,10 +17843,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17938,10 +17912,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -17996,10 +17966,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18072,10 +18038,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -18124,10 +18086,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18170,6 +18128,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -18239,10 +18200,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -18307,10 +18264,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -18350,6 +18303,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -18444,10 +18400,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18518,10 +18470,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -18631,10 +18579,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18839,10 +18783,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18895,10 +18835,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18971,10 +18907,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -19102,10 +19034,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -19231,10 +19159,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -19407,10 +19331,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -19481,10 +19401,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -19658,10 +19574,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -19781,10 +19693,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -19848,10 +19756,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -19908,10 +19812,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -20031,10 +19931,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -20089,10 +19985,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20157,10 +20049,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20217,10 +20105,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -20340,10 +20224,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -20398,10 +20278,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20529,10 +20405,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -20589,10 +20461,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20645,10 +20513,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20714,10 +20578,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20771,10 +20631,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20840,10 +20696,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20907,10 +20759,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20966,10 +20814,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -21023,10 +20867,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21085,10 +20925,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -21143,10 +20979,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21218,10 +21050,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -21268,10 +21096,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21326,10 +21150,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21395,10 +21215,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -21454,10 +21270,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -21511,10 +21323,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21895,10 +21703,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -21953,10 +21757,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22014,10 +21814,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22302,6 +22098,10 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "88.99.26.209:5140",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -22353,6 +22153,10 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "88.99.26.209:5140",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -22417,10 +22221,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22475,10 +22275,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22555,10 +22351,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22605,10 +22397,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22680,10 +22468,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22733,10 +22517,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22841,10 +22621,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -22884,6 +22660,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -22984,10 +22763,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -23178,10 +22953,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -23293,10 +23064,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -23366,10 +23133,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -23439,10 +23202,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -23845,10 +23604,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -24004,10 +23759,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -24133,10 +23884,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -24191,10 +23938,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -24287,10 +24030,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -24431,10 +24170,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -24475,6 +24210,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -24587,10 +24325,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -24853,10 +24587,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -24925,10 +24655,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25048,10 +24774,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25156,10 +24878,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25283,10 +25001,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25387,10 +25101,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -25464,10 +25174,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25517,10 +25223,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25670,10 +25372,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -25721,7 +25419,20 @@
             "github": "https://github.com/monacoinproject/monacoin",
             "homepage": "https://monacoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "133.167.67.203:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.monacoin.ninja:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "MONA-segwit": {
@@ -25765,7 +25476,20 @@
             "github": "https://github.com/monacoinproject/monacoin",
             "homepage": "https://monacoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "133.167.67.203:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.monacoin.ninja:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "MOR-ERC20": {
@@ -25828,10 +25552,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -25889,10 +25609,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -26183,7 +25899,44 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/681'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.shorelinecrypto.com:10001",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum1.mooo.com:10001",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.mooo.com:10001",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "NENG-BEP20": {
@@ -26305,10 +26058,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -26407,10 +26156,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -26869,10 +26614,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -26922,10 +26663,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -26971,7 +26708,12 @@
             "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
             "homepage": "https://newyorkcoin.online"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "88.99.26.209:5127",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "NYC-BEP20": {
@@ -27147,10 +26889,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -27197,10 +26935,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -27273,10 +27007,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -27396,10 +27126,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -27475,10 +27201,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -27525,10 +27247,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -27580,10 +27298,6 @@
             {
                 "url": "https://harmony-0.drpc.org",
                 "ws_url": "wss://harmony-0.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/harmony",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -27715,10 +27429,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -27865,10 +27575,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -27998,10 +27704,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28056,10 +27758,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28246,10 +27944,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28314,10 +28008,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28440,10 +28130,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28560,10 +28246,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28602,7 +28284,16 @@
             "github": "https://github.com/Pink2Dev/Pink2",
             "homepage": "https://getstarted.with.pink"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "pink-one.ewm-cx.net:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "pink-two.ewm-cx.net:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "PIVX": {
@@ -28635,7 +28326,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/119'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum01.chainster.org:50001",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?",
         "binance_id": "PIVX"
     },
@@ -28672,7 +28373,12 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/37'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.thepandacoin.net:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "POT": {
@@ -28780,10 +28486,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28838,10 +28540,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28918,10 +28616,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -28968,10 +28662,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -29096,10 +28786,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -29146,10 +28832,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -29276,10 +28958,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -29326,10 +29004,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -29402,10 +29076,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -29460,10 +29130,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -29593,10 +29259,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -29695,10 +29357,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -30073,10 +29731,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -30146,10 +29800,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -30396,10 +30046,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -30643,10 +30289,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -30686,6 +30328,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -30755,10 +30400,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -30823,10 +30464,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -30881,10 +30518,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31272,10 +30905,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -31322,10 +30951,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31398,10 +31023,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -31456,10 +31077,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31532,10 +31149,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -31605,10 +31218,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -31642,7 +31251,16 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/10226'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "x1.raptoreum.com:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "x2.raptoreum.com:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "RTM-BEP20": {
@@ -31836,10 +31454,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -31949,10 +31563,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -32136,10 +31746,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32263,10 +31869,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32317,10 +31919,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32419,10 +32017,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -32542,10 +32136,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -32615,10 +32205,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32746,10 +32332,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32799,10 +32381,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32907,10 +32485,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -32965,10 +32539,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -33031,10 +32601,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -33107,10 +32673,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33157,10 +32719,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -33218,10 +32776,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33345,10 +32899,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33399,10 +32949,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33547,10 +33093,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -33731,10 +33273,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33842,10 +33380,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -33957,10 +33491,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -34016,10 +33546,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -34070,10 +33596,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -34298,10 +33820,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -34421,10 +33939,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -34481,10 +33995,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -34537,6 +34047,10 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "testnet.aranguren.org:51001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -34587,6 +34101,10 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "testnet.aranguren.org:51001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -34651,10 +34169,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -34753,10 +34267,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -34862,7 +34372,26 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "1.eu.thc.electrum.dexstats.info:10020",
+                "contact": [
+                    {
+                        "discord": "CHMEX#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "2.eu.thc.electrum.dexstats.info:10020",
+                "contact": [
+                    {
+                        "discord": "CHMEX#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "THC-BEP20": {
@@ -35026,10 +34555,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35298,10 +34823,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35412,10 +34933,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -35485,10 +35002,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35612,10 +35125,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35665,10 +35174,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35719,10 +35224,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -35762,6 +35263,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -35854,10 +35358,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -35989,10 +35489,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36039,10 +35535,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -36191,10 +35683,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36259,10 +35747,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36309,10 +35793,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -36370,10 +35850,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36442,10 +35918,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36539,6 +36011,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -36639,10 +36114,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -36760,10 +36231,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36813,10 +36280,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36866,10 +36329,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -36938,10 +36397,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37053,10 +36508,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37096,6 +36547,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -37244,10 +36698,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -37300,10 +36750,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -37431,10 +36877,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37531,10 +36973,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37574,6 +37012,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "http://http-mainnet.hecochain.com"
+            },
             {
                 "url": "https://http-mainnet-node.huobichain.com"
             }
@@ -37676,10 +37117,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
-            },
-            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -37743,10 +37180,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37804,10 +37237,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37857,10 +37286,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -37990,10 +37415,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -38329,10 +37750,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -38397,10 +37814,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -38447,10 +37860,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -38818,7 +38227,30 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "88.99.26.209:5028",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55001",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "VTC-segwit": {
@@ -38862,7 +38294,30 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "88.99.26.209:5028",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55001",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "WAVES-BEP20": {
@@ -38985,10 +38440,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39043,10 +38494,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -39119,10 +38566,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39187,10 +38630,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39248,10 +38687,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/arb/",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/arb/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/arbitrum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39301,10 +38736,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39410,10 +38841,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39468,10 +38895,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -39544,10 +38967,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39645,7 +39064,35 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/597'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx1.electraprotocol.eu:50001",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.electraprotocol.eu:50001",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx3.electraprotocol.eu:50001",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "XEP-BEP20": {
@@ -39763,10 +39210,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39821,10 +39264,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -39930,7 +39369,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/90'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "xmy-two.ewm-cx.net:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "XMY-segwit": {
@@ -39968,7 +39417,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/90'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "xmy-two.ewm-cx.net:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "XNA": {
@@ -40067,7 +39526,20 @@
             "github": "https://github.com/primecoin/primecoin",
             "homepage": "https://primecoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.gemmer.primecoin.org:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.mainnet.primecoin.org:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.primecoin.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "XRG": {
@@ -40251,10 +39723,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -40324,10 +39792,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -40382,10 +39846,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -40504,6 +39964,14 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.vanillacash.info:50011",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -40684,6 +40152,10 @@
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "88.99.26.209:5036",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/",
@@ -40796,10 +40268,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -40931,10 +40399,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -40985,10 +40449,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -41087,10 +40547,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -41222,10 +40678,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -41488,6 +40940,10 @@
             {
                 "url": "zeta-seed-d.zetacoin.network:50012",
                 "protocol": "SSL"
+            },
+            {
+                "url": "207.180.252.200:50011",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -41599,10 +41055,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -41672,10 +41124,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -41722,10 +41170,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -41851,7 +41295,16 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/19167'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.runonflux.io:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.runonflux.io:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/",
         "binance_id": "FLUX"
     },
@@ -41915,10 +41368,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -42693,10 +42142,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -42765,10 +42210,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -42838,10 +42279,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -42911,10 +42348,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -42979,10 +42412,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43047,10 +42476,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43119,10 +42544,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43187,10 +42608,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43260,10 +42677,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43332,10 +42745,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43446,10 +42855,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43514,10 +42919,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43586,10 +42987,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43659,10 +43056,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43727,10 +43120,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43795,10 +43184,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43867,10 +43252,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -43935,10 +43316,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -44003,10 +43380,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -44126,10 +43499,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -45704,10 +45073,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/ethereum",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -45758,10 +45123,6 @@
             {
                 "url": "https://block-proxy.komodo.earth/rpc/avax",
                 "ws_url": "wss://block-proxy.komodo.earth/rpc/avax/websocket"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/avalanche",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -45869,10 +45230,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/fantom",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/"
@@ -45920,10 +45277,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/polygon",
-                "komodo_proxy": true
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
