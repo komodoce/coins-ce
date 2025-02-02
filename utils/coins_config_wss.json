@@ -5684,6 +5684,10 @@
         "derivation_path": "m/44'/664'",
         "electrum": [
             {
+                "url": "electrumserver01.globalboost.info:50013",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumserver02.globalboost.info:50013",
                 "protocol": "WSS"
             }
