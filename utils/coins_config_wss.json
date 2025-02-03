@@ -17086,28 +17086,6 @@
                         "github": "WikiMin3R"
                     }
                 ]
-            },
-            {
-                "url": "il9p.electrumx.transcenders.name:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -32645,11 +32623,6 @@
                 "url": "failover.trc-uis.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": false
-            },
-            {
-                "url": "uis-uno.ewmcx.net:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -33083,6 +33056,11 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
@@ -37441,15 +37419,6 @@
         },
         "electrum": [
             {
-                "url": "zet-ex-three.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "zeta-seed-d.zetacoin.network:50013",
                 "protocol": "WSS"
             }
@@ -40745,52 +40714,6 @@
                     },
                     {
                         "discord": "Hans_Schmidt#0745"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "KIIRO": {
-        "coin": "KIIRO",
-        "type": "UTXO",
-        "name": "Kiiro",
-        "coinpaprika_id": "kiiro-kiirocoin",
-        "coingecko_id": "kiirocoin",
-        "livecoinwatch_id": "KIIRO",
-        "explorer_url": "https://explorer.kiirocoin.org/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Zcoin Signed Message:\n",
-        "fname": "Kiiro",
-        "rpcport": 8999,
-        "pubtype": 45,
-        "p2shtype": 7,
-        "wiftype": 210,
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 150,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/136'",
-        "links": {
-            "github": "https://github.com/kiirocoin/kiiro",
-            "homepage": "https://kiirocoin.org"
-        },
-        "electrum": [
-            {
-                "url": "electrum3.kiirocoin.org:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
                     }
                 ]
             }
