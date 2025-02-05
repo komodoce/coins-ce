@@ -7216,6 +7216,11 @@
         "derivation_path": "m/44'/34'",
         "electrum": [
             {
+                "url": "holland.ecoincore.com:34335",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "miami.ecoincore.com:34335",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -7265,6 +7270,11 @@
         },
         "derivation_path": "m/44'/34'",
         "electrum": [
+            {
+                "url": "holland.ecoincore.com:34335",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "miami.ecoincore.com:34335",
                 "protocol": "WSS",
