@@ -36226,6 +36226,18 @@
                         "discord": "456566604809895947"
                     }
                 ]
+            },
+            {
+                "url": "electrumx3.neurai.top:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "alarm@neurai.org"
+                    },
+                    {
+                        "discord": "456566604809895947"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
