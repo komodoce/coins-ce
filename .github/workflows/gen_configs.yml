@@ -2,7 +2,7 @@ name: Update Coin Configs and create 128x128 images in icons dir
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "nogeo" ]
     paths-ignore:
       - 'utils/coins_config.json'
       - 'utils/coins_config_ssl.json'
@@ -43,5 +43,4 @@ jobs:
             - Electrum scan report updated
           labels: |
             config-update
-          reviewers: cipig, smk762, gcharang
           draft: false
