@@ -11149,6 +11149,82 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "DOI": {
+        "coin": "DOI",
+        "type": "UTXO",
+        "name": "Doichain",
+        "coinpaprika_id": "doi-doichain",
+        "coingecko_id": "doichain",
+        "livecoinwatch_id": "DOI",
+        "explorer_url": "https://explorer.doichain.org/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Doichain Signed Message:\n",
+        "fname": "Doichain",
+        "rpcport": 8339,
+        "pubtype": 52,
+        "p2shtype": 13,
+        "wiftype": 180,
+        "txfee": 1000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "dc",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/7070'",
+        "electrum": [
+            {
+                "url": "big-parrot-60.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "itchy-jellyfish-89.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "EFL": {
         "coin": "EFL",
         "type": "UTXO",
