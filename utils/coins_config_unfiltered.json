@@ -14299,8 +14299,17 @@
                         "github": "https://github.com/doichain/electrum-doi/issues",
                         "twitter": "doichain"
                     }
-                ],
-                "ws-url": "big-parrot-60.doi.works:50004"
+                ]
+            },
+            {
+                "url": "big-parrot-60.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             },
             {
                 "url": "itchy-jellyfish-89.doi.works:50002",
@@ -14310,8 +14319,17 @@
                         "github": "https://github.com/doichain/electrum-doi/issues",
                         "twitter": "doichain"
                     }
-                ],
-                "ws-url": "itchy-jellyfish-89.doi.works:50004"
+                ]
+            },
+            {
+                "url": "itchy-jellyfish-89.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             },
             {
                 "url": "pink-deer-69.doi.works:50001",
@@ -14331,8 +14349,17 @@
                         "github": "https://github.com/doichain/electrum-doi/issues",
                         "twitter": "doichain"
                     }
-                ],
-                "ws-url": "pink-deer-69.doi.works:50004"
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             },
             {
                 "url": "ugly-bird-70.doi.works:50002",
@@ -14342,8 +14369,17 @@
                         "github": "https://github.com/doichain/electrum-doi/issues",
                         "twitter": "doichain"
                     }
-                ],
-                "ws-url": "ugly-bird-70.doi.works:50004"
+                ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
