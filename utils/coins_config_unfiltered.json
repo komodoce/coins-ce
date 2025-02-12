@@ -1045,14 +1045,6 @@
             {
                 "url": "elec-seeder-two.artbytecoin.org:50013",
                 "protocol": "WSS"
-            },
-            {
-                "url": "electrumx-three.artbyte.live:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx-three.artbyte.live:50013",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -5647,17 +5639,7 @@
         "protocol": {
             "type": "UTXO"
         },
-        "electrum": [
-            {
-                "url": "bitexplorer.io:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "c4pt#7855"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "BCZERO": {
@@ -6977,18 +6959,6 @@
             },
             {
                 "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
             }
         ],
@@ -20222,30 +20192,6 @@
             },
             {
                 "url": "electrum21.groestlcoin.org:50004",
-                "contact": [
-                    {
-                        "email": "jackielove4u@hotmail.com"
-                    },
-                    {
-                        "discord": "jackielove4u#0412"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum22.groestlcoin.org:50001",
-                "contact": [
-                    {
-                        "email": "jackielove4u@hotmail.com"
-                    },
-                    {
-                        "discord": "jackielove4u#0412"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum22.groestlcoin.org:50004",
                 "contact": [
                     {
                         "email": "jackielove4u@hotmail.com"
@@ -42741,16 +42687,6 @@
         },
         "electrum": [
             {
-                "url": "failover.trc-uis.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
-            {
                 "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": false
@@ -43353,16 +43289,6 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
-            {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
             {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
@@ -49026,14 +48952,6 @@
             {
                 "url": "207.180.252.200:50011",
                 "protocol": "TCP"
-            },
-            {
-                "url": "zeta-seed-d.zetacoin.network:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "zeta-seed-d.zetacoin.network:50013",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -52465,15 +52383,6 @@
         "slp_prefix": "slptest",
         "electrum": [
             {
-                "url": "electrs.electroncash.de:60002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
-                    }
-                ]
-            },
-            {
                 "url": "tbch.loping.net:60002",
                 "protocol": "SSL",
                 "contact": [
@@ -52955,6 +52864,118 @@
                     },
                     {
                         "discord": "smk#7640"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "ZDEEX": {
+        "coin": "ZDEEX",
+        "type": "ZHTLC",
+        "name": "Zdeex",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.zdeex.org",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "light_wallet_d_servers": [
+            "https://zdeexlightd.zdeex.org:443",
+            "https://zdeexlightd.zdeex.org:9067",
+            "https://zdeexlightd1.zdeex.org:443",
+            "https://zdeexlightd1.zdeex.org:9067"
+        ],
+        "asset": "ZDEEX",
+        "fname": "Zdeex",
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "avg_blocktime": 300,
+        "protocol": {
+            "type": "ZHTLC",
+            "protocol_data": {
+                "consensus_params": {
+                    "overwinter_activation_height": 0,
+                    "sapling_activation_height": 1,
+                    "blossom_activation_height": null,
+                    "heartwood_activation_height": null,
+                    "canopy_activation_height": null,
+                    "coin_type": 133,
+                    "hrp_sapling_extended_spending_key": "secret-extended-key-main",
+                    "hrp_sapling_extended_full_viewing_key": "zxviews",
+                    "hrp_sapling_payment_address": "zs",
+                    "b58_pubkey_address_prefix": [
+                        28,
+                        184
+                    ],
+                    "b58_script_address_prefix": [
+                        28,
+                        189
+                    ]
+                },
+                "z_derivation_path": "m/32'/133'"
+            }
+        },
+        "derivation_path": "m/44'/133'",
+        "required_confirmations": 3,
+        "electrum": [
+            {
+                "url": "electrum.zdeex.org:17487",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum.zdeex.org:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.zdeex.org:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.zdeex.org:17487",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.zdeex.org:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.zdeex.org:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
                     }
                 ]
             }
