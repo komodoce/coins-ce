@@ -22123,6 +22123,30 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
+                "url": "electrum1.ilien.io:30069",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum1.ilien.io:65011",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
                 "url": "electrum2.ilien.io:30069",
                 "contact": [
                     {
