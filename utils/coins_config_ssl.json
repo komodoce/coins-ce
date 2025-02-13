@@ -22039,8 +22039,8 @@
         "overwintered": 1,
         "txfee": 1000,
         "mm2": 1,
-        "required_confirmations": 2,
-        "requires_notarization": true,
+        "required_confirmations": 3,
+        "requires_notarization": false,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -39359,6 +39359,69 @@
         ],
         "explorer_block_url": "block/"
     },
+    "GRMS": {
+        "coin": "GRMS",
+        "type": "Smart Chain",
+        "name": "GRMS",
+        "coinpaprika_id": "grms-grms",
+        "coingecko_id": "",
+        "livecoinwatch_id": "GRMS",
+        "explorer_url": "https://explorer.grms.pw/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "GRMS",
+        "fname": "GRMS",
+        "rpcport": 21687,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "electrum1.grms.pw:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@grms.pw"
+                    },
+                    {
+                        "discord": "miner113#7864"
+                    },
+                    {
+                        "github": "Miner113"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.grms.pw:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@grms.pw"
+                    },
+                    {
+                        "discord": "miner113#7864"
+                    },
+                    {
+                        "github": "Miner113"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "VTC": {
         "coin": "VTC",
         "type": "UTXO",
@@ -45176,9 +45239,9 @@
         "coin": "ZDEEX",
         "type": "ZHTLC",
         "name": "Zdeex",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "zdeex-zdeex",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "ZDEEX",
         "explorer_url": "https://explorer.zdeex.org",
         "explorer_tx_url": "",
         "explorer_address_url": "",
@@ -45189,9 +45252,8 @@
         "wallet_only": false,
         "light_wallet_d_servers": [
             "https://zdeexlightd.zdeex.org:443",
-            "https://zdeexlightd.zdeex.org:9067",
             "https://zdeexlightd1.zdeex.org:443",
-            "https://zdeexlightd1.zdeex.org:9067"
+            "https://zdeexlightd2.zdeex.org:443"
         ],
         "asset": "ZDEEX",
         "fname": "Zdeex",
@@ -45340,6 +45402,18 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
