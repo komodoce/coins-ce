@@ -6778,6 +6778,15 @@
                     }
                 ],
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ],
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
