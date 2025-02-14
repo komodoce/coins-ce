@@ -6335,6 +6335,10 @@
             {
                 "url": "electrumserver01.globalboost.info:50014",
                 "protocol": "SSL"
+            },
+            {
+                "url": "electrumserver02.globalboost.info:50014",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -44623,6 +44627,19 @@
             {
                 "url": "ecash.stackwallet.com:59002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "fulcrum.pepipierre.fr:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "contact@e.cash"
+                    },
+                    {
+                        "twitter": "ecashofficial"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/",
