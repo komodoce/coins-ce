@@ -13,6 +13,10 @@
         {
             "url": "https://bsc3.cipig.net:18655",
             "ws_url": "wss://bsc3.cipig.net:38655"
+        },
+        {
+            "url": "https://bsc-rpc.publicnode.com",
+            "ws_url": "wss://bsc-rpc.publicnode.com"
         }
     ]
 }
