@@ -25354,12 +25354,12 @@
         "electrum": [
             {
                 "url": "electrum01.chainster.org:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "312541186793406465"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             }
         ],
         "explorer_block_url": "block.dws?",
