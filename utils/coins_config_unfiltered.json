@@ -42985,13 +42985,22 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ]
             },
             {
                 "url": "electrumx.javerity.com:5885",
@@ -43003,13 +43012,22 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx.javerity.com:5887",
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -43070,13 +43088,22 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ]
             },
             {
                 "url": "electrumx.javerity.com:5885",
@@ -43088,13 +43115,22 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx.javerity.com:5887",
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"

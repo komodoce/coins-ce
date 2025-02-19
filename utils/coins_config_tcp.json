@@ -37251,25 +37251,25 @@
         },
         "electrum": [
             {
-                "url": "88.99.26.209:5028",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrumx.javerity.com:5885",
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
+                ]
+            },
+            {
+                "url": "88.99.26.209:5028",
                 "protocol": "TCP"
             }
         ],
@@ -37318,25 +37318,25 @@
         },
         "electrum": [
             {
-                "url": "88.99.26.209:5028",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrumx.javerity.com:5885",
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
+                ]
+            },
+            {
+                "url": "88.99.26.209:5028",
                 "protocol": "TCP"
             }
         ],

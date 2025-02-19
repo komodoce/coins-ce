@@ -36594,7 +36594,26 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "VTC-segwit": {
@@ -36638,7 +36657,26 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx-vtc.cryptoverted.com:55002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "alviemahmud"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "WAVES-BEP20": {

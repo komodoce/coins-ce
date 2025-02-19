@@ -33985,21 +33985,21 @@
         "electrum": [
             {
                 "url": "electrumx-vtc.cryptoverted.com:55004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             },
             {
                 "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -34048,21 +34048,21 @@
         "electrum": [
             {
                 "url": "electrumx-vtc.cryptoverted.com:55004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "alviemahmud"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             },
             {
                 "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "cruelnovo#4936"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
