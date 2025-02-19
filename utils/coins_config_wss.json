@@ -25360,6 +25360,15 @@
                         "discord": "312541186793406465"
                     }
                 ]
+            },
+            {
+                "url": "electrum02.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?",
@@ -34760,30 +34769,30 @@
         "electrum": [
             {
                 "url": "electrumx1.electraprotocol.eu:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             },
             {
                 "url": "electrumx2.electraprotocol.eu:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             },
             {
                 "url": "electrumx3.electraprotocol.eu:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             }
         ],
         "explorer_block_url": "block/"

@@ -27181,7 +27181,26 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/119'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum01.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum02.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?",
         "binance_id": "PIVX"
     },
@@ -37375,7 +37394,35 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/597'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx1.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx3.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "XEP-BEP20": {
