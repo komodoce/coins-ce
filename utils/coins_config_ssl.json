@@ -11278,7 +11278,12 @@
             "github": "https://github.com/dogecash/dogecash",
             "homepage": "https://dogecash.net"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "dogec-one.ewm-cx.com:50007",
+                "protocol": "SSL"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "DOGEDASH-BEP20": {
