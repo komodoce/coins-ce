@@ -13776,8 +13776,8 @@
         },
         "electrum": [
             {
-                "url": "electrumx.firo.org:50001",
-                "protocol": "TCP",
+                "url": "electrumx.firo.org:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
@@ -13785,8 +13785,8 @@
                 ]
             },
             {
-                "url": "electrumx01.firo.org:50001",
-                "protocol": "TCP",
+                "url": "electrumx01.firo.org:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
@@ -13794,8 +13794,8 @@
                 ]
             },
             {
-                "url": "electrumx02.firo.org:50001",
-                "protocol": "TCP",
+                "url": "electrumx02.firo.org:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
@@ -13803,8 +13803,8 @@
                 ]
             },
             {
-                "url": "electrumx03.firo.org:50001",
-                "protocol": "TCP",
+                "url": "electrumx03.firo.org:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
@@ -42924,6 +42924,18 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {

@@ -15538,13 +15538,22 @@
                 ]
             },
             {
+                "url": "electrumx.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.firo.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
-                ],
-                "url": "electrumx.firo.org:50004"
+                ]
             },
             {
                 "url": "electrumx01.firo.org:50001",
@@ -15556,13 +15565,22 @@
                 ]
             },
             {
+                "url": "electrumx01.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx01.firo.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
-                ],
-                "url": "electrumx01.firo.org:50004"
+                ]
             },
             {
                 "url": "electrumx02.firo.org:50001",
@@ -15574,13 +15592,22 @@
                 ]
             },
             {
+                "url": "electrumx02.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx02.firo.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
-                ],
-                "url": "electrumx02.firo.org:50004"
+                ]
             },
             {
                 "url": "electrumx03.firo.org:50001",
@@ -15592,13 +15619,22 @@
                 ]
             },
             {
+                "url": "electrumx03.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx03.firo.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
-                ],
-                "url": "electrumx03.firo.org:50004"
+                ]
             }
         ],
         "explorer_block_url": "block/",
@@ -49519,6 +49555,42 @@
             },
             {
                 "url": "electrum3.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
