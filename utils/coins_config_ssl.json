@@ -38255,6 +38255,14 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
                 "url": "xvc-ex-seven.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
