@@ -30595,12 +30595,12 @@
         "derivation_path": "m/44'/10226'",
         "electrum": [
             {
-                "url": "x1.raptoreum.com:50001",
-                "protocol": "TCP"
+                "url": "x1.raptoreum.com:50002",
+                "protocol": "SSL"
             },
             {
-                "url": "x2.raptoreum.com:50001",
-                "protocol": "TCP"
+                "url": "x2.raptoreum.com:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
