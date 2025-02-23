@@ -27132,7 +27132,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/37'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.thepandacoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "374235093348253706"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "POT": {
