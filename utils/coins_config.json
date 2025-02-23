@@ -31678,11 +31678,30 @@
         "electrum": [
             {
                 "url": "electrum.thepandacoin.net:443",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "374235093348253706"
+                    }
+                ]
             },
             {
                 "url": "electrum.thepandacoin.net:50001",
-                "protocol": "TCP"
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "374235093348253706"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.thepandacoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "374235093348253706"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
