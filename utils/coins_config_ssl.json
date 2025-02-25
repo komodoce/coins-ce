@@ -1056,6 +1056,11 @@
                 ]
             },
             {
+                "url": "elec-seeder-one.artbytecoin.org:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             }
@@ -12612,6 +12617,16 @@
                         "twitter": "doichain"
                     }
                 ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -12649,6 +12664,11 @@
         "electrum": [
             {
                 "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             },
@@ -46137,6 +46157,18 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {

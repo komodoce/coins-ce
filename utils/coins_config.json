@@ -1086,6 +1086,16 @@
                 ]
             },
             {
+                "url": "elec-seeder-one.artbytecoin.org:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "elec-seeder-one.artbytecoin.org:50013",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             },
@@ -14434,6 +14444,26 @@
                         "twitter": "doichain"
                     }
                 ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -14476,6 +14506,16 @@
             },
             {
                 "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             },
@@ -34345,6 +34385,24 @@
                     }
                 ],
                 "protocol": "WSS"
+            },
+            {
+                "url": "electrum02.chainster.org:50001",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum02.chainster.org:50003",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ],
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?",
@@ -53550,6 +53608,42 @@
             },
             {
                 "url": "electrum2.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
