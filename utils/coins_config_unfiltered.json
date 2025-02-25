@@ -43741,22 +43741,13 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx1.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx1.electraprotocol.eu:50003",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "WSS"
             },
             {
                 "url": "electrumx2.electraprotocol.eu:50001",
@@ -43768,22 +43759,13 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx2.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.electraprotocol.eu:50003",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "WSS"
             },
             {
                 "url": "electrumx3.electraprotocol.eu:50001",
@@ -43795,22 +43777,13 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx3.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx3.electraprotocol.eu:50003",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -45050,6 +45023,18 @@
             {
                 "url": "88.99.26.209:5036",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx-verge.cloud:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx-verge.cloud:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/",
