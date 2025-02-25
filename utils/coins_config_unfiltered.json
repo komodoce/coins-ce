@@ -51374,8 +51374,8 @@
         "name": "Bonkcoin",
         "coinpaprika_id": "bonc1-bonkcoin",
         "coingecko_id": "",
-        "livecoinwatch_id": "BonkCoin-_BONC",
-        "explorer_url": "https://shibaexplorer.com/",
+        "livecoinwatch_id": "_BONC",
+        "explorer_url": "https://explorer.bonkscoin.io/",
         "explorer_tx_url": "",
         "explorer_address_url": "",
         "supported": [],
@@ -51397,7 +51397,7 @@
         "protocol": {
             "type": "UTXO"
         },
-        "derivation_path": "m/44'/63'",
+        "derivation_path": "m/44'/6363'",
         "links": {
             "github": "https://github.com/Bonkcoin/Bonkcoin-core",
             "homepage": "https://bonkscoin.io"
