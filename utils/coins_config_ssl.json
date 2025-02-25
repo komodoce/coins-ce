@@ -37270,35 +37270,7 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/597'",
-        "electrum": [
-            {
-                "url": "electrumx1.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx3.electraprotocol.eu:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "XEP-BEP20": {
@@ -38320,7 +38292,12 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/77'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
+            }
+        ],
         "explorer_block_url": "block/",
         "binance_id": "XVG"
     },

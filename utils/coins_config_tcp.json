@@ -37867,31 +37867,31 @@
         "derivation_path": "m/44'/597'",
         "electrum": [
             {
-                "url": "electrumx1.electraprotocol.eu:50002",
-                "protocol": "SSL",
+                "url": "electrumx1.electraprotocol.eu:50001",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "TCP"
             },
             {
-                "url": "electrumx2.electraprotocol.eu:50002",
-                "protocol": "SSL",
+                "url": "electrumx2.electraprotocol.eu:50001",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "TCP"
             },
             {
-                "url": "electrumx3.electraprotocol.eu:50002",
-                "protocol": "SSL",
+                "url": "electrumx3.electraprotocol.eu:50001",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ]
+                ],
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -38929,6 +38929,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
+            },
             {
                 "url": "88.99.26.209:5036",
                 "protocol": "TCP"
