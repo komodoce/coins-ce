@@ -16471,6 +16471,18 @@
                 "protocol": "TCP"
             },
             {
+                "url": "electrum26.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
                 "url": "electrum27.groestlcoin.org:50001",
                 "contact": [
                     {
@@ -37867,31 +37879,31 @@
         "derivation_path": "m/44'/597'",
         "electrum": [
             {
-                "url": "electrumx1.electraprotocol.eu:50001",
+                "url": "electrumx1.electraprotocol.eu:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrumx2.electraprotocol.eu:50001",
+                "url": "electrumx2.electraprotocol.eu:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrumx3.electraprotocol.eu:50001",
+                "url": "electrumx3.electraprotocol.eu:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "287952234317348865"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -42733,6 +42745,18 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
             {
                 "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",

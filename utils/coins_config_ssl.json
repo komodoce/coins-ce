@@ -37270,7 +37270,35 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/597'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx1.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx3.electraprotocol.eu:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "XEP-BEP20": {
@@ -42080,6 +42108,18 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
             {
                 "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
