@@ -6171,15 +6171,6 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
-                "url": "electrum1.btcz.rocks:50001",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
                 "url": "electrum3.btcz.rocks:50001",
                 "contact": [
                     {
@@ -10463,6 +10454,11 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -33578,15 +33574,6 @@
         "electrum": [
             {
                 "url": "1.eu.thc.electrum.dexstats.info:10020",
-                "contact": [
-                    {
-                        "discord": "CHMEX#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "2.eu.thc.electrum.dexstats.info:10020",
                 "contact": [
                     {
                         "discord": "CHMEX#0686"
