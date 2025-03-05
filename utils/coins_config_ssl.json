@@ -11655,11 +11655,6 @@
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "holland.ecoincore.com:11017",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -29394,15 +29389,6 @@
                         "discord": "cipi#4502"
                     }
                 ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -29452,15 +29438,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
                     }
                 ]
             }
