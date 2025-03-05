@@ -5795,10 +5795,6 @@
             {
                 "url": "electrumserver01.globalboost.info:50013",
                 "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50013",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -11471,11 +11467,6 @@
                 "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "holland.ecoincore.com:11019",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -16316,18 +16307,6 @@
                 "protocol": "WSS"
             },
             {
-                "url": "electrum38.groestlcoin.org:50004",
-                "contact": [
-                    {
-                        "email": "jackielove4u@hotmail.com"
-                    },
-                    {
-                        "discord": "jackielove4u#0412"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
                 "url": "electrum39.groestlcoin.org:50004",
                 "contact": [
                     {
@@ -17490,15 +17469,6 @@
             "homepage": "https://infiniloop.io"
         },
         "electrum": [
-            {
-                "url": "il8p-ex-five.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "il8p.electrumx.transcenders.name:50003",
                 "protocol": "WSS",
@@ -29258,15 +29228,6 @@
                         "discord": "cipi#4502"
                     }
                 ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -29316,15 +29277,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -34454,11 +34406,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -36237,69 +36184,6 @@
                     }
                 ],
                 "disable_cert_verification": false
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "GRMS": {
-        "coin": "GRMS",
-        "type": "Smart Chain",
-        "name": "GRMS",
-        "coinpaprika_id": "grms-grms",
-        "coingecko_id": "",
-        "livecoinwatch_id": "GRMS",
-        "explorer_url": "https://explorer.grms.pw/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "GRMS",
-        "fname": "GRMS",
-        "rpcport": 21687,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "electrum1.grms.pw:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "contact@grms.pw"
-                    },
-                    {
-                        "discord": "miner113#7864"
-                    },
-                    {
-                        "github": "Miner113"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.grms.pw:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "contact@grms.pw"
-                    },
-                    {
-                        "discord": "miner113#7864"
-                    },
-                    {
-                        "github": "Miner113"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -41706,15 +41590,6 @@
         "required_confirmations": 3,
         "electrum": [
             {
-                "url": "electrum.zdeex.org:50006",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "contact@zdeex.org"
-                    }
-                ]
-            },
-            {
                 "url": "electrum2.zdeex.org:50006",
                 "protocol": "WSS",
                 "contact": [
@@ -41824,18 +41699,6 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -42787,112 +42650,6 @@
         ],
         "explorer_block_url": "nucleus/blocks/",
         "binance_id": "OSMO"
-    },
-    "LUPA": {
-        "coin": "LUPA",
-        "type": "Smart Chain",
-        "name": "Lupaza",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://explorer.lupacoin.biz/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "LUPA",
-        "fname": "Lupaza",
-        "rpcport": 64151,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "electrum.lupacoin.biz:50006",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "contact@lupacoin.biz"
-                    },
-                    {
-                        "github": "LUPAZA-coin"
-                    }
-                ]
-            },
-            {
-                "url": "electrum1.lupacoin.biz:50006",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "contact@lupacoin.biz"
-                    },
-                    {
-                        "github": "LUPAZA-coin"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "ZOIN": {
-        "coin": "ZOIN",
-        "type": "UTXO",
-        "name": "ZoinCommunity",
-        "coinpaprika_id": "zoin-zoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "http://zoincommunity.com:3001/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Zoincoin Signed Message:\n",
-        "fname": "ZoinCommunity",
-        "rpcport": 8256,
-        "pubtype": 80,
-        "p2shtype": 53,
-        "wiftype": 208,
-        "segwit": false,
-        "txfee": 1000000,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 150,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/60'",
-        "links": {
-            "github": "https://github.com/seopub/zoincomumity",
-            "homepage": "http://zoincommunity.com/"
-        },
-        "electrum": [
-            {
-                "url": "electrum.zoincommunity.com:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "github": "https://github.com/seopub/electrumx_zoin/issues"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
     },
     "NFT_ETH": {
         "coin": "NFT_ETH",
