@@ -746,15 +746,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -4127,15 +4118,6 @@
                         "discord": "475820011634819072"
                     }
                 ]
-            },
-            {
-                "url": "bbk-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -5353,10 +5335,6 @@
         "electrum": [
             {
                 "url": "electrumserver01.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50013",
                 "protocol": "WSS"
             }
         ],
@@ -7701,15 +7679,6 @@
         },
         "electrum": [
             {
-                "url": "clam-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.cipig.net:30075",
                 "protocol": "WSS",
                 "contact": [
@@ -9855,56 +9824,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "DIME": {
-        "coin": "DIME",
-        "type": "UTXO",
-        "name": "Dimecoin",
-        "coinpaprika_id": "dime-dimecoin",
-        "coingecko_id": "dimecoin",
-        "livecoinwatch_id": "DIME",
-        "explorer_url": "https://chainz.cryptoid.info/dime/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Dimecoin Signed Message:\n",
-        "fname": "Dimecoin",
-        "rpcport": 11931,
-        "pubtype": 15,
-        "p2shtype": 9,
-        "wiftype": 143,
-        "segwit": false,
-        "bech32_hrp": "vx",
-        "txfee": 1000,
-        "decimals": 5,
-        "mm2": 1,
-        "required_confirmations": 6,
-        "avg_blocktime": 64,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "links": {
-            "github": "https://github.com/dime-coin/dimecoin/"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
     },
     "DIMI": {
         "coin": "DIMI",
@@ -16350,6 +16269,28 @@
         "electrum": [
             {
                 "url": "il8p.electrumx.transcenders.name:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "InfiniLooP"
+                    },
+                    {
+                        "github": "WikiMin3R"
+                    }
+                ]
+            },
+            {
+                "url": "il9p.electrumx.transcenders.name:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
                 "contact": [
@@ -31813,11 +31754,6 @@
         },
         "electrum": [
             {
-                "url": "failover.trc-uis.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
-            {
                 "url": "uis-uno.ewmcx.net:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": false
@@ -32224,11 +32160,6 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
-            {
-                "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
@@ -35564,10 +35495,6 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
-            {
-                "url": "electrumx1.vanillacash.info:50013",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrumx2.vanillacash.info:50013",
                 "protocol": "WSS"
@@ -39088,6 +39015,15 @@
         "required_confirmations": 3,
         "electrum": [
             {
+                "url": "electrum.zdeex.org:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.zdeex.org:50006",
                 "protocol": "WSS",
                 "contact": [
@@ -39641,7 +39577,7 @@
         "coinpaprika_id": "crnc-crionic",
         "coingecko_id": "crionic",
         "livecoinwatch_id": "CRNC",
-        "explorer_url": "https://explorer.crionic.org/",
+        "explorer_url": "https://crncexplorer.nostrweb.gleeze.com/",
         "explorer_tx_url": "",
         "explorer_address_url": "",
         "supported": [],
@@ -40156,6 +40092,63 @@
         ],
         "explorer_block_url": "nucleus/blocks/",
         "binance_id": "OSMO"
+    },
+    "LUPA": {
+        "coin": "LUPA",
+        "type": "Smart Chain",
+        "name": "Lupaza",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.lupacoin.biz/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "LUPA",
+        "fname": "Lupaza",
+        "rpcport": 64151,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "electrum.lupacoin.biz:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.lupacoin.biz:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "NFT_ETH": {
         "coin": "NFT_ETH",
