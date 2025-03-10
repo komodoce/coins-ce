@@ -37925,6 +37925,11 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
             },
@@ -45863,6 +45868,15 @@
         "required_confirmations": 3,
         "electrum": [
             {
+                "url": "electrum.zdeex.org:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.zdeex.org:50005",
                 "protocol": "SSL",
                 "contact": [
@@ -45972,6 +45986,18 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -46923,6 +46949,63 @@
         ],
         "explorer_block_url": "nucleus/blocks/",
         "binance_id": "OSMO"
+    },
+    "LUPA": {
+        "coin": "LUPA",
+        "type": "Smart Chain",
+        "name": "Lupaza",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.lupacoin.biz/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "LUPA",
+        "fname": "Lupaza",
+        "rpcport": 64151,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "electrum.lupacoin.biz:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.lupacoin.biz:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "NFT_ETH": {
         "coin": "NFT_ETH",

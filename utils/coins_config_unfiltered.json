@@ -20831,6 +20831,30 @@
                 "protocol": "WSS"
             },
             {
+                "url": "electrum38.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum38.groestlcoin.org:50004",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrum39.groestlcoin.org:50001",
                 "contact": [
                     {
@@ -43851,6 +43875,16 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
@@ -53612,6 +53646,33 @@
         "required_confirmations": 3,
         "electrum": [
             {
+                "url": "electrum.zdeex.org:17487",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum.zdeex.org:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.zdeex.org:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@zdeex.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.zdeex.org:17487",
                 "contact": [
                     {
@@ -53763,6 +53824,42 @@
             },
             {
                 "url": "electrum2.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -54939,7 +55036,80 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.lupacoin.biz:17487",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum.lupacoin.biz:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.lupacoin.biz:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.lupacoin.biz:17487",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum1.lupacoin.biz:50005",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.lupacoin.biz:50006",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@lupacoin.biz"
+                    },
+                    {
+                        "github": "LUPAZA-coin"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "ZOIN": {
