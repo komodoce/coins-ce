@@ -2752,11 +2752,6 @@
                 "url": "electrumx.aur.ewmcx.info:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "failover.aur.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -28020,43 +28015,6 @@
         "explorer_block_url": "block/",
         "forex_id": "NZD"
     },
-    "NYC": {
-        "coin": "NYC",
-        "type": "UTXO",
-        "name": "NewYorkCoin",
-        "coinpaprika_id": "nyc-newyorkcoin",
-        "coingecko_id": "newyorkcoin",
-        "livecoinwatch_id": "NYC",
-        "explorer_url": "https://chainz.cryptoid.info/nyc/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "NewYorkCoin Signed Message:\n",
-        "fname": "NewYorkCoin",
-        "rpcport": 22555,
-        "pubtype": 60,
-        "p2shtype": 22,
-        "wiftype": 188,
-        "segwit": false,
-        "txfee": 100000000,
-        "mm2": 1,
-        "required_confirmations": 7,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/179'",
-        "links": {
-            "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
-            "homepage": "https://newyorkcoin.online"
-        },
-        "electrum": [],
-        "explorer_block_url": "block.dws?"
-    },
     "NYC-BEP20": {
         "coin": "NYC-BEP20",
         "type": "BEP-20",
@@ -32104,6 +32062,15 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -32153,6 +32120,15 @@
                     },
                     {
                         "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -37320,11 +37296,6 @@
             "homepage": "https://unituscurrency.com"
         },
         "electrum": [
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
             {
                 "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
@@ -45435,6 +45406,15 @@
         "slp_prefix": "slptest",
         "electrum": [
             {
+                "url": "electrs.electroncash.de:60002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
+                    }
+                ]
+            },
+            {
                 "url": "tbch.loping.net:60002",
                 "protocol": "SSL",
                 "contact": [
@@ -45998,6 +45978,18 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -46689,15 +46681,6 @@
         "electrum": [
             {
                 "url": "meowcoinelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
