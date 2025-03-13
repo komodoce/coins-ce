@@ -2970,16 +2970,6 @@
                 "url": "electrumx.aur.ewmcx.info:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "failover.aur.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.aur.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -32763,12 +32753,7 @@
             "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
             "homepage": "https://newyorkcoin.online"
         },
-        "electrum": [
-            {
-                "url": "88.99.26.209:5127",
-                "protocol": "TCP"
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block.dws?"
     },
     "NYC-BEP20": {
@@ -37441,6 +37426,33 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -37502,6 +37514,33 @@
                     },
                     {
                         "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -43257,16 +43296,6 @@
             "homepage": "https://unituscurrency.com"
         },
         "electrum": [
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
             {
                 "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
@@ -53087,6 +53116,15 @@
         "slp_prefix": "slptest",
         "electrum": [
             {
+                "url": "electrs.electroncash.de:60002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
+                    }
+                ]
+            },
+            {
                 "url": "tbch.loping.net:60002",
                 "protocol": "SSL",
                 "contact": [
@@ -53860,6 +53898,42 @@
             },
             {
                 "url": "electrum3.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -54737,24 +54811,6 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
