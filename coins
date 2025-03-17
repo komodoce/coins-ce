@@ -13554,6 +13554,7 @@
     "p2shtype": 85,
     "wiftype": 153,
     "txfee": 100000,
+    "dust": 100000,
     "segwit": false,
     "mm2": 1,
     "required_confirmations": 4,
@@ -14534,23 +14535,6 @@
     "mm2": 1,
     "required_confirmations": 5,
     "avg_blocktime": 60,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/141'",
-    "trezor_coin": "Komodo"
-  },
-  {
-    "coin": "VPRM",
-    "sign_message_prefix": "Komodo Signed Message:\n",
-    "asset": "VPRM",
-    "fname": "Vaporum",
-    "rpcport": 51609,
-    "txversion": 4,
-    "overwintered": 1,
-    "mm2": 1,
-    "required_confirmations": 5,
-    "avg_blocktime": 30,
     "protocol": {
       "type": "UTXO"
     },
@@ -16992,6 +16976,34 @@
     }
   },
   {
+    "coin": "NITO-segwit",
+    "name": "nito",
+    "fname": "NITO",
+    "rpcport": 8825,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "txfee": 10000,
+    "wallet_only": true,
+    "segwit": true,
+    "bech32_hrp": "nito",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "NITO",
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/NitoNetwork/",
+      "homepage": "https://nito.network/"
+    }
+  },
+  {
     "coin": "EVR",
     "name": "evrmore",
     "fname": "Evrmore Coin",
@@ -17313,6 +17325,29 @@
     "trezor_coin": "Polygon",
     "links": {
       "homepage": "https://polygon.technology/"
+    }
+  },
+  {
+    "coin": "BONC",
+    "name": "bonkcoin",
+    "fname": "Bonkcoin",
+    "rpcport": 15612,
+    "pubtype": 25,
+    "p2shtype": 28,
+    "wiftype": 151,
+    "segwit": false,
+    "txfee": 1000000,
+    "mm2": 1,
+    "sign_message_prefix": "Bonkcoin Signed Message:\n",
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/6363'",
+    "links": {
+      "github": "https://github.com/Bonkcoin/Bonkcoin-core",
+      "homepage": "https://bonkscoin.io"
     }
   }
 ]
