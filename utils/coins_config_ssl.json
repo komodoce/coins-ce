@@ -7890,7 +7890,44 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/682'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.blastinvest.com:10008",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.shorelinecrypto.com:10008",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.mooo.com:10008",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "CHTA-BEP20": {
@@ -24864,7 +24901,44 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/681'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.blastinvest.com:10002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.shorelinecrypto.com:10002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.mooo.com:10002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "NENG-BEP20": {

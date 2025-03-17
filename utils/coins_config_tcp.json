@@ -7945,7 +7945,8 @@
         "derivation_path": "m/44'/682'",
         "electrum": [
             {
-                "url": "electrum.shorelinecrypto.com:10007",
+                "url": "electrum.blastinvest.com:10008",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -7953,11 +7954,11 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrum1.mooo.com:10007",
+                "url": "electrum.shorelinecrypto.com:10008",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -7965,11 +7966,11 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrum2.mooo.com:10007",
+                "url": "electrum2.mooo.com:10008",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -7977,8 +7978,7 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -25390,7 +25390,8 @@
         "derivation_path": "m/44'/681'",
         "electrum": [
             {
-                "url": "electrum.shorelinecrypto.com:10001",
+                "url": "electrum.blastinvest.com:10002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -25398,11 +25399,11 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrum1.mooo.com:10001",
+                "url": "electrum.shorelinecrypto.com:10002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -25410,11 +25411,11 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             },
             {
-                "url": "electrum2.mooo.com:10001",
+                "url": "electrum2.mooo.com:10002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "support@shorelinecrypto.com"
@@ -25422,8 +25423,7 @@
                     {
                         "discord": "honglu69#5911"
                     }
-                ],
-                "protocol": "TCP"
+                ]
             }
         ],
         "explorer_block_url": "block/"
