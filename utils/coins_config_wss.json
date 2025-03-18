@@ -753,6 +753,10 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "elec-seeder-two.artbytecoin.org:50013",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -2257,6 +2261,11 @@
             },
             {
                 "url": "electrumx.aur.ewmcx.info:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.aur.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             }
@@ -31924,6 +31933,11 @@
             "homepage": "https://unituscurrency.com"
         },
         "electrum": [
+            {
+                "url": "failover.trc-uis.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": false
+            },
             {
                 "url": "uis-uno.ewmcx.net:50003",
                 "protocol": "WSS",
