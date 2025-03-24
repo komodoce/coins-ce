@@ -39282,8 +39282,8 @@
         "pubtype": 61,
         "p2shtype": 123,
         "wiftype": 216,
-        "txfee": 5000000,
-        "dust": 400000,
+        "txfee": 40000000,
+        "dust": 72800,
         "mature_confirmations": 120,
         "segwit": true,
         "bech32_hrp": "rc",
@@ -39780,6 +39780,18 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
+            {
+                "url": "coin.crionic.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
             {
                 "url": "explorer.crionic.org:50005",
                 "protocol": "WSS",
