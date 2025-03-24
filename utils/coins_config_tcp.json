@@ -11359,8 +11359,7 @@
         "pubtype": 30,
         "p2shtype": 22,
         "wiftype": 158,
-        "txfee": 0,
-        "force_min_relay_fee": true,
+        "txfee": 1000000,
         "dust": 1000000,
         "mm2": 1,
         "required_confirmations": 2,
@@ -30720,7 +30719,7 @@
         "p2shtype": 122,
         "wiftype": 128,
         "segwit": true,
-        "txfee": 1100000,
+        "txfee": 1000000,
         "mm2": 1,
         "required_confirmations": 3,
         "avg_blocktime": 60,
@@ -42915,6 +42914,18 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
