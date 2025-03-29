@@ -9938,6 +9938,18 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.dimecoinnetwork.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx2.dimecoinnetwork.com:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -40138,15 +40150,6 @@
             "homepage": "https://www.mewccrypto.com/"
         },
         "electrum": [
-            {
-                "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
             {
                 "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
