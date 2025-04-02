@@ -45226,10 +45226,6 @@
         "derivation_path": "m/44'/77'",
         "electrum": [
             {
-                "url": "88.99.26.209:5036",
-                "protocol": "TCP"
-            },
-            {
                 "url": "electrum-verge.cloud:50001",
                 "protocol": "TCP"
             },
@@ -46158,6 +46154,33 @@
             {
                 "url": "zet-ex-four.ewmci.online:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50011",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50013",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "475820011634819072"

@@ -39184,10 +39184,6 @@
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "88.99.26.209:5036",
-                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/",
@@ -39936,6 +39932,15 @@
         "electrum": [
             {
                 "url": "zet-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
                 "protocol": "SSL",
                 "contact": [
                     {
