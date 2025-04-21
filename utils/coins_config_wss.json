@@ -85,6 +85,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -244,6 +248,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -296,6 +308,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -366,6 +386,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -422,6 +446,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -575,6 +603,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -688,6 +724,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -918,6 +958,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -1013,6 +1061,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -1082,6 +1138,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -1123,6 +1183,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1183,6 +1251,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -1337,6 +1409,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -1406,6 +1486,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -1447,6 +1531,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1626,6 +1718,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -1667,6 +1763,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1832,6 +1936,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -1899,6 +2011,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -2185,6 +2301,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -2326,6 +2446,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -2556,6 +2684,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -2596,6 +2728,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -2791,6 +2931,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -3013,6 +3161,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -3080,6 +3236,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -3240,6 +3400,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -3347,6 +3515,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -3433,6 +3605,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -3555,6 +3735,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -3815,6 +3999,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -3976,6 +4168,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -4171,6 +4367,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -4212,6 +4412,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -4742,6 +4950,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -4904,6 +5120,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -4965,6 +5189,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -5010,6 +5238,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -5119,6 +5355,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -5186,6 +5430,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -5949,6 +6197,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -6008,6 +6264,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -6301,6 +6561,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -6416,6 +6684,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -6457,6 +6729,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -6526,6 +6806,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -6872,6 +7156,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -6913,6 +7201,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -6975,6 +7271,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -7021,6 +7321,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -7450,6 +7758,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -7511,6 +7827,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -7552,6 +7872,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -7612,6 +7940,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -7925,6 +8257,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -7994,6 +8334,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -8035,6 +8379,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -8095,6 +8447,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -8217,6 +8573,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -8425,6 +8789,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -8574,6 +8942,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -8791,6 +9167,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -9015,6 +9399,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -9133,6 +9521,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -9189,6 +9585,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -9241,6 +9645,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -9309,6 +9721,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -9550,6 +9966,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -10296,6 +10720,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -10874,6 +11306,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -10994,6 +11434,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -11110,6 +11558,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -11169,6 +11625,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -11323,6 +11783,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11591,6 +12059,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -11633,6 +12105,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11703,6 +12183,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -11744,6 +12228,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11814,6 +12306,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -11860,6 +12356,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11928,6 +12432,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -12029,6 +12537,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12149,6 +12665,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -12201,6 +12725,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12318,6 +12850,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -12421,6 +12957,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12903,6 +13447,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -13280,6 +13832,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -13397,6 +13957,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -13464,6 +14032,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -13648,6 +14220,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -13756,6 +14336,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -13823,6 +14411,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -14172,6 +14764,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -14239,6 +14839,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -14408,6 +15012,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -14554,6 +15162,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -14613,6 +15229,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -14723,6 +15343,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -14818,6 +15442,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15077,6 +15709,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -15144,6 +15784,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -15242,6 +15886,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15354,6 +16006,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -15411,6 +16071,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15481,6 +16149,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -15522,6 +16194,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15584,6 +16264,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -15628,6 +16312,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15681,6 +16373,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15743,6 +16443,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -15784,6 +16488,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15907,6 +16619,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -16159,6 +16875,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -16209,6 +16929,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -16250,6 +16974,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16367,6 +17099,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -16480,6 +17220,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16666,6 +17414,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -16707,6 +17459,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16894,6 +17654,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17009,6 +17773,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17066,6 +17834,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -17208,6 +17980,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -17277,6 +18057,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17333,6 +18117,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -17475,6 +18263,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -17542,6 +18338,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -17641,6 +18441,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -17710,6 +18518,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17758,6 +18570,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -17819,6 +18635,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17868,6 +18688,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -17929,6 +18753,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -17988,6 +18816,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18039,6 +18871,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18088,6 +18924,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -18191,6 +19031,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18231,6 +19075,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -18293,6 +19145,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18341,6 +19197,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -18402,6 +19262,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18453,6 +19317,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -18502,6 +19370,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -19080,6 +19952,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -19147,6 +20027,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -19837,6 +20721,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -19906,6 +20798,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -19951,6 +20847,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -20013,6 +20917,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -20053,6 +20961,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -20265,6 +21181,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -20425,6 +21345,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -20549,6 +21477,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -20589,6 +21521,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -20647,6 +21587,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -21039,6 +21987,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -21163,6 +22119,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -21260,6 +22220,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -21329,6 +22297,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -21376,6 +22348,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -21488,6 +22464,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -21541,6 +22525,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -21793,6 +22785,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -21849,6 +22849,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -21957,6 +22965,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -22167,6 +23183,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -22236,6 +23260,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -22280,6 +23308,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -22485,6 +23521,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -22526,6 +23566,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23015,6 +24063,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -23082,6 +24138,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -23421,6 +24481,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -23481,6 +24549,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -23639,6 +24711,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -23700,6 +24780,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -23741,6 +24825,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23874,6 +24966,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -23920,6 +25016,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23982,11 +25086,53 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
+    },
+    "ONE": {
+        "coin": "ONE",
+        "type": "HRC-20",
+        "name": "Harmony",
+        "coinpaprika_id": "one-harmony",
+        "coingecko_id": "harmony",
+        "livecoinwatch_id": "ONE",
+        "explorer_url": "https://explorer.harmony.one/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Harmony",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 1666600000,
+        "use_access_list": true,
+        "max_eth_tx_type": 2,
+        "required_confirmations": 3,
+        "avg_blocktime": 15,
+        "protocol": {
+            "type": "ETH"
+        },
+        "derivation_path": "m/44'/60'",
+        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "nodes": [
+            {
+                "url": "https://harmony-0.drpc.org",
+                "ws_url": "wss://harmony-0.drpc.org"
+            }
+        ],
+        "explorer_block_url": "block/",
+        "binance_id": "ONE"
     },
     "ONT-BEP20": {
         "coin": "ONT-BEP20",
@@ -24089,6 +25235,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -24205,6 +25359,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -24306,6 +25464,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -24373,6 +25539,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -24589,6 +25759,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -24699,6 +25877,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -24997,6 +26183,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -25066,6 +26260,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -25111,6 +26309,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25171,6 +26377,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -25267,6 +26477,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -25326,6 +26544,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -25424,6 +26646,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -25485,6 +26715,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -25526,6 +26760,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25594,6 +26836,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -25695,6 +26941,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -25762,6 +27016,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -26156,6 +27414,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -26213,6 +27479,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -26404,6 +27678,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -26637,6 +27919,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -26693,6 +27983,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -26745,6 +28043,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -26813,6 +28119,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -27172,6 +28482,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -27233,6 +28551,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -27274,6 +28596,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27344,6 +28674,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -27385,6 +28719,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27443,6 +28785,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27669,6 +29019,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -27791,6 +29149,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -28062,6 +29424,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -28177,6 +29547,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -28290,6 +29664,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -28330,6 +29708,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -28662,6 +30048,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -28720,6 +30110,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -28761,6 +30155,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -28821,6 +30223,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -28965,6 +30371,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -29127,6 +30541,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -29277,6 +30695,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -29329,6 +30755,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -29452,6 +30886,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -29744,6 +31182,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -29852,6 +31298,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -29919,6 +31373,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -30059,6 +31517,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -30126,6 +31592,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -30333,6 +31803,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -30718,6 +32196,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -30758,6 +32240,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -30870,6 +32360,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -31020,6 +32518,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -31121,6 +32623,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -31180,6 +32690,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -31314,6 +32828,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -31373,6 +32895,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -31462,6 +32988,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -31584,6 +33118,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -31814,6 +33352,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -32036,6 +33582,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -32084,6 +33634,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -32182,6 +33736,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -32342,6 +33904,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -32592,6 +34158,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -32917,6 +34491,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -32969,6 +34551,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -33029,6 +34619,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -33510,6 +35104,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -33579,6 +35181,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -33620,6 +35226,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -33673,6 +35287,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -33936,6 +35558,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -33977,6 +35603,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -34210,6 +35844,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -34277,6 +35919,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -34688,6 +36334,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -34745,6 +36399,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -34813,6 +36475,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -35327,6 +36993,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -35442,6 +37116,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -35542,6 +37220,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -35963,6 +37649,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -36022,6 +37716,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
@@ -36145,6 +37843,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -36909,6 +38615,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -36965,6 +38679,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37024,6 +38746,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37082,6 +38812,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37135,6 +38873,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37187,6 +38933,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37245,6 +38999,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37297,6 +39059,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37356,6 +39126,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37412,6 +39190,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37471,6 +39257,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37523,6 +39317,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37580,6 +39382,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37639,6 +39449,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37692,6 +39510,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37744,6 +39570,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37802,6 +39636,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37855,6 +39697,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -37907,6 +39757,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -38015,6 +39873,14 @@
         "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39417,6 +41283,14 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": {
@@ -39623,6 +41497,10 @@
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
+            },
+            {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
             },
             {
                 "url": "https://polygon.gateway.tenderly.co",
