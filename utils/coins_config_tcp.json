@@ -16889,6 +16889,18 @@
         },
         "electrum": [
             {
+                "url": "electrum1.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
                 "url": "electrum2.groestlcoin.org:50001",
                 "contact": [
                     {
