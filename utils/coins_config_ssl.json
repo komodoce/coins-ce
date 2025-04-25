@@ -6004,10 +6004,6 @@
         "derivation_path": "m/44'/664'",
         "electrum": [
             {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
-            {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
             }
@@ -43514,6 +43510,18 @@
                         "discord": "Bago#7842"
                     }
                 ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -43959,20 +43967,7 @@
             "github": "https://github.com/diabaths/Crionic-Coin",
             "homepage": "https://coin.crionic.org"
         },
-        "electrum": [
-            {
-                "url": "explorer.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "NITO-segwit": {
