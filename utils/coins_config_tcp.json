@@ -968,29 +968,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "aby-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "elec-seeder-one.artbytecoin.org:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             }
@@ -2558,11 +2535,6 @@
             },
             {
                 "url": "electrumx.aur.ewmcx.info:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.aur.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             }
@@ -5022,8 +4994,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "forex_id": "IDR"
+        "explorer_block_url": "block/"
     },
     "BCZERO": {
         "coin": "BCZERO",
@@ -5281,56 +5252,6 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BLOCX": {
-        "coin": "BLOCX",
-        "type": "UTXO",
-        "name": "BLOCX.",
-        "coinpaprika_id": "blocx-blocx",
-        "coingecko_id": "blocx-2",
-        "livecoinwatch_id": "BLOCX",
-        "explorer_url": "https://explorer.blocx.space/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "DarkCoin Signed Message:\n",
-        "fname": "BLOCX.",
-        "rpcport": 12973,
-        "pubtype": 25,
-        "p2shtype": 26,
-        "wiftype": 153,
-        "segwit": false,
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 90,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/5'",
-        "links": {
-            "github": "https://github.com/BLOCXTECH/BLOCX",
-            "homepage": "https://blocx.tech"
-        },
-        "electrum": [
-            {
-                "url": "electrum1.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum2.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum3.blocx.live:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -7363,8 +7284,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "forex_id": "CAD"
+        "explorer_block_url": "block/"
     },
     "CADC-PLG20": {
         "coin": "CADC-PLG20",
@@ -7426,8 +7346,7 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "forex_id": "CAD"
+        "explorer_block_url": "block/"
     },
     "CAKE-BEP20": {
         "coin": "CAKE-BEP20",
@@ -11173,28 +11092,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.diminutivecoin.com:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "support@diminutivecoin.com"
-                    },
-                    {
-                        "twitter": "coin_dimi"
-                    },
-                    {
-                        "reddit": "DiminutiveCoin_DIMI"
-                    },
-                    {
-                        "github": "MadCatMining"
-                    },
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.diminutivecoin.com:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
@@ -11376,15 +11273,6 @@
             "homepage": "https://dingocoin.com"
         },
         "electrum": [
-            {
-                "url": "elecx1.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
             {
                 "url": "elecx2.dingocoin.com:3342",
                 "protocol": "SSL",
@@ -18251,28 +18139,6 @@
                         "github": "WikiMin3R"
                     }
                 ]
-            },
-            {
-                "url": "il9p.electrumx.transcenders.name:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -20214,58 +20080,6 @@
         "explorer_block_url": "block/",
         "forex_id": "JPY"
     },
-    "JKC": {
-        "coin": "JKC",
-        "type": "UTXO",
-        "name": "JunkCoin",
-        "coinpaprika_id": "jkc-junkcoin",
-        "coingecko_id": "junkcoin",
-        "livecoinwatch_id": "JKC",
-        "explorer_url": "https://explorer.junk-coin.com/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "JunkCoin Signed Message:\n",
-        "fname": "JunkCoin",
-        "rpcport": 9771,
-        "pubtype": 16,
-        "p2shtype": 5,
-        "wiftype": 144,
-        "decimals": 8,
-        "txfee": 100000,
-        "dust": 100000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "mature_confirmations": 70,
-        "derivation_path": "m/44'/2013'",
-        "links": {
-            "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
-            "homepage": "https://junk-coin.com"
-        },
-        "electrum": [
-            {
-                "url": "electrum.junkiewally.xyz:50003",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "nekohime@nodecattel.xyz"
-                    },
-                    {
-                        "discord": "@moonether"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "JKRW-PLG20": {
         "coin": "JKRW-PLG20",
         "type": "Matic",
@@ -22023,15 +21837,6 @@
         "derivation_path": "m/44'/192'",
         "electrum": [
             {
-                "url": "lcc-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "88.99.26.209:5140",
                 "protocol": "TCP"
             }
@@ -22077,15 +21882,6 @@
         },
         "derivation_path": "m/44'/192'",
         "electrum": [
-            {
-                "url": "lcc-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "88.99.26.209:5140",
                 "protocol": "TCP"
@@ -25563,10 +25359,6 @@
             {
                 "url": "133.167.67.203:50001",
                 "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.tamami-foundation.org:50001",
-                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -25615,10 +25407,6 @@
         "electrum": [
             {
                 "url": "133.167.67.203:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.tamami-foundation.org:50001",
                 "protocol": "TCP"
             }
         ],
@@ -26735,8 +26523,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "forex_id": "NZD"
+        "explorer_block_url": "block/"
     },
     "NZDS-PLG20": {
         "coin": "NZDS-PLG20",
@@ -26790,8 +26577,7 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "forex_id": "NZD"
+        "explorer_block_url": "block/"
     },
     "NYC-BEP20": {
         "coin": "NYC-BEP20",
@@ -36116,11 +35902,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
             },
@@ -39444,11 +39225,6 @@
                         "telegram": "@fsmv0"
                     }
                 ]
-            },
-            {
-                "url": "xrg_ful.googol.cash:52138",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39809,15 +39585,6 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
-            },
-            {
-                "url": "xvc-ex-seven.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -43847,6 +43614,18 @@
         },
         "electrum": [
             {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -43861,6 +43640,18 @@
             {
                 "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.runebase.io:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "email": "support@runebase.io"
