@@ -968,6 +968,24 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "aby-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             },
@@ -5777,6 +5795,68 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "BLOCX": {
+        "coin": "BLOCX",
+        "type": "UTXO",
+        "name": "BLOCX.",
+        "coinpaprika_id": "blocx-blocx",
+        "coingecko_id": "blocx-2",
+        "livecoinwatch_id": "BLOCX",
+        "explorer_url": "https://explorer.blocx.space/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "DarkCoin Signed Message:\n",
+        "fname": "BLOCX.",
+        "rpcport": 12973,
+        "pubtype": 25,
+        "p2shtype": 26,
+        "wiftype": 153,
+        "segwit": false,
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/5'",
+        "links": {
+            "github": "https://github.com/BLOCXTECH/BLOCX",
+            "homepage": "https://blocx.tech"
+        },
+        "electrum": [
+            {
+                "url": "electrum2.blocx.live:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.blocx.live:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum2.blocx.live:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum3.blocx.live:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.blocx.live:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum3.blocx.live:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -28744,6 +28824,10 @@
             {
                 "url": "133.167.67.203:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -28792,6 +28876,10 @@
         "electrum": [
             {
                 "url": "133.167.67.203:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
                 "protocol": "TCP"
             }
         ],
