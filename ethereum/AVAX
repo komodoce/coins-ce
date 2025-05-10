@@ -8,6 +8,10 @@
     {
       "url": "https://avalanche-c-chain-rpc.publicnode.com",
       "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+    },
+    {
+      "url": "https://0xrpc.io/avax",
+      "ws_url": "wss://0xrpc.io/avax"
     }
   ]
 }
