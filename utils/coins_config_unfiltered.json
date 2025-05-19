@@ -6008,32 +6008,7 @@
             "github": "https://github.com/BLOCXTECH/BLOCX",
             "homepage": "https://blocx.tech"
         },
-        "electrum": [
-            {
-                "url": "electrum2.blocx.live:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum2.blocx.live:50004",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum3.blocx.live:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum3.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum3.blocx.live:50004",
-                "protocol": "WSS"
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "BNB": {
@@ -13215,6 +13190,60 @@
             "homepage": "https://dingocoin.com"
         },
         "electrum": [
+            {
+                "url": "delecx.twinkykms.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "405102339612082177"
+                    }
+                ]
+            },
+            {
+                "url": "delecx.twinkykms.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "405102339612082177"
+                    }
+                ]
+            },
+            {
+                "url": "delecx.twinkykms.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "405102339612082177"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
             {
                 "url": "elecx2.dingocoin.com:3339",
                 "protocol": "TCP",
