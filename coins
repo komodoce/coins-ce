@@ -1818,6 +1818,31 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "JKC",
+    "name": "junkcoin",
+    "fname": "JunkCoin",
+    "sign_message_prefix": "JunkCoin Signed Message:\n",
+    "rpcport": 9771,
+    "pubtype": 16,
+    "p2shtype": 5,
+    "wiftype": 144,
+    "decimals": 8,
+    "txfee": 100000,
+    "dust": 100000,
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "mature_confirmations": 70,
+    "derivation_path": "m/44'/2013'",
+    "links": {
+      "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
+      "homepage": "https://junk-coin.com"
+    }
+  },
+  {
     "coin": "MAZE-SLP",
     "fname": "Maze",
     "protocol": {
@@ -10597,15 +10622,15 @@
     "coin": "FLOP",
     "name": "flopcoin",
     "fname": "Flopcoin",
-    "sign_message_prefix": "Flopcoin Signed Message:\n",
     "rpcport": 32552,
     "pubtype": 35,
     "p2shtype": 22,
     "wiftype": 158,
-    "txfee": 500000000,
-    "dust": 1000000,
+    "segwit": false,
+    "txfee": 1000000,
     "mm2": 1,
-    "required_confirmations": 2,
+    "sign_message_prefix": "Flopcoin Signed Message:\n",
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -10626,6 +10651,7 @@
     "wiftype": 158,
     "segwit": false,
     "txfee": 1000000,
+    "dust": 1000000,
     "mm2": 1,
     "sign_message_prefix": "Pepecoin Signed Message:\n",
     "required_confirmations": 5,
@@ -16774,8 +16800,8 @@
     "pubtype": 61,
     "p2shtype": 123,
     "wiftype": 216,
-    "txfee": 5000000,
-    "dust": 400000,
+    "txfee": 40000000,
+    "dust": 72800,
     "mature_confirmations": 120,
     "segwit": true,
     "bech32_hrp": "rc",
