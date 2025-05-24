@@ -6341,6 +6341,178 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "BTE": {
+        "coin": "BTE",
+        "type": "UTXO",
+        "name": "Bitweb",
+        "coinpaprika_id": "bte-bitweb",
+        "coingecko_id": "bitweb",
+        "livecoinwatch_id": "_BTE",
+        "explorer_url": "https://explorer.bitwebcore.net/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitweb Signed Message:\n",
+        "fname": "Bitweb",
+        "rpcport": 1605,
+        "pubtype": 33,
+        "p2shtype": 30,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "web",
+        "txfee": 20000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/738'",
+        "links": {
+            "github": "https://github.com/bitweb-project/bitweb",
+            "homepage": "https://bitwebcore.net"
+        },
+        "electrum": [
+            {
+                "url": "electrumx.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx1.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "BTE-segwit": {
+        "coin": "BTE-segwit",
+        "type": "UTXO",
+        "name": "Bitweb",
+        "coinpaprika_id": "bte-bitweb",
+        "coingecko_id": "bitweb",
+        "livecoinwatch_id": "_BTE",
+        "explorer_url": "https://explorer.bitwebcore.net/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitweb Signed Message:\n",
+        "fname": "Bitweb",
+        "rpcport": 1605,
+        "pubtype": 33,
+        "p2shtype": 30,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "web",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "BTE",
+        "txfee": 20000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/738'",
+        "links": {
+            "github": "https://github.com/bitweb-project/bitweb",
+            "homepage": "https://bitwebcore.net"
+        },
+        "electrum": [
+            {
+                "url": "electrumx.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx1.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.bitwebcore.net:20003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "mraksoll@gmail.com"
+                    },
+                    {
+                        "discord": "mraksoll"
+                    },
+                    {
+                        "github": "https://github.com/bitweb-project/electrumx/issues"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BTT-BEP20": {
         "coin": "BTT-BEP20",
         "type": "BEP-20",
@@ -11972,6 +12144,18 @@
         },
         "derivation_path": "m/44'/41'",
         "electrum": [
+            {
+                "url": "electrum1.cipig.net:30062",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
             {
                 "url": "electrum2.cipig.net:30062",
                 "protocol": "WSS",
