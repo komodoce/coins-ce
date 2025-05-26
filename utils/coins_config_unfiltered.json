@@ -51701,7 +51701,7 @@
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
             {
-                "url": "https://iristest-rpc.bravo.komodo.earth/"
+                "url": "https://evmrpc.nyancat.irisnet.org"
             }
         ],
         "explorer_block_url": "#/blocks/"
@@ -51792,7 +51792,7 @@
         "parent_coin": "IRISTEST",
         "rpc_urls": [
             {
-                "url": "https://iristest-rpc.bravo.komodo.earth/"
+                "url": "https://evmrpc.nyancat.irisnet.org"
             }
         ],
         "explorer_block_url": "#/blocks/"
