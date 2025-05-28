@@ -43559,7 +43559,20 @@
             "github": "https://github.com/runebase/runebase",
             "homepage": "https://www.runebase.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "ACTN": {
