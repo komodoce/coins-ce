@@ -194,10 +194,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -255,10 +251,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -657,10 +649,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -1040,10 +1028,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -1101,10 +1085,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -1565,10 +1545,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -1810,10 +1786,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -2095,10 +2067,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -2374,10 +2342,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -2435,10 +2399,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -2607,10 +2567,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -2819,10 +2775,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -3136,10 +3088,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -3256,10 +3204,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -3310,10 +3254,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -3363,10 +3303,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -3590,10 +3526,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -3651,10 +3583,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -3987,10 +3915,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -4714,10 +4638,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -4885,10 +4805,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -4981,10 +4897,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -5177,10 +5089,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -5298,10 +5206,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -5546,10 +5450,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -5785,10 +5685,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -6261,10 +6157,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -6351,10 +6243,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -6578,10 +6466,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -6640,10 +6524,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -6918,10 +6798,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -7131,10 +7007,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -7371,10 +7243,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -7425,10 +7293,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -7930,10 +7794,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -8045,10 +7905,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -8240,10 +8096,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -8679,10 +8531,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -8789,10 +8637,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -9569,10 +9413,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -9622,10 +9462,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -9977,10 +9813,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -10827,10 +10659,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -11123,10 +10951,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -11313,10 +11137,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -11427,10 +11247,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -11663,10 +11479,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -11760,10 +11572,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -11813,10 +11621,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -11875,10 +11679,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -12132,10 +11932,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -12254,10 +12050,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -12605,10 +12397,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -12708,10 +12496,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -12930,10 +12714,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -13601,10 +13381,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -13730,10 +13506,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -13908,10 +13680,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -14023,10 +13791,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -14262,10 +14026,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -14436,10 +14196,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -14489,10 +14245,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -14551,10 +14303,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -14675,10 +14423,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -14972,10 +14716,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -15101,10 +14841,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -15488,10 +15224,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -15666,10 +15398,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -15728,10 +15456,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -16093,10 +15817,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -16147,10 +15867,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -16724,10 +16440,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -17093,10 +16805,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -17211,10 +16919,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -17937,10 +17641,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18174,10 +17874,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18406,10 +18102,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18529,10 +18221,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18651,10 +18339,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18712,10 +18396,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -18891,10 +18571,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -18944,10 +18620,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -19062,10 +18734,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -19293,10 +18961,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -19584,10 +19248,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -19761,10 +19421,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -20810,10 +20466,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -21079,10 +20731,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -21267,10 +20915,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -21321,10 +20965,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -21630,10 +21270,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -22102,10 +21738,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -22507,10 +22139,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -22758,10 +22386,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -22812,10 +22436,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -22941,10 +22561,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -23185,10 +22801,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -23239,10 +22851,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -23576,10 +23184,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -23736,10 +23340,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -24021,10 +23621,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -24290,10 +23886,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -24615,10 +24207,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -24731,10 +24319,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -24833,10 +24417,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -25173,10 +24753,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -25674,10 +25250,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -25735,10 +25307,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -25858,10 +25426,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -26337,10 +25901,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -26586,10 +26146,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -26639,10 +26195,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -26882,10 +26434,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -27177,10 +26725,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -27295,10 +26839,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -27447,10 +26987,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -27867,10 +27403,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -27988,10 +27520,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -28678,10 +28206,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -28969,10 +28493,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -29486,10 +29006,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -30499,10 +30015,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -31104,10 +30616,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -31296,10 +30804,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -31421,10 +30925,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -31483,10 +30983,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -31586,10 +31082,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -31859,10 +31351,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -32207,10 +31695,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -32596,10 +32080,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -32914,10 +32394,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -32967,10 +32443,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -33190,10 +32662,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -33623,10 +33091,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -34073,10 +33537,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -34160,10 +33620,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -34323,10 +33779,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -34416,10 +33868,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -34478,10 +33926,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -34589,10 +34033,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -34766,10 +34206,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -35120,10 +34556,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -35664,10 +35096,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -36141,10 +35569,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -36487,10 +35911,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -37009,10 +36429,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -37344,10 +36760,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -37694,10 +37106,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -37951,10 +37359,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -38359,10 +37763,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -38583,10 +37983,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -38706,10 +38102,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -38891,10 +38283,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -39234,10 +38622,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -39485,10 +38869,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -39594,10 +38974,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -39784,10 +39160,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -39894,10 +39266,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -40166,10 +39534,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -40442,10 +39806,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -40552,10 +39912,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -40963,10 +40319,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -42913,10 +42265,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -43028,10 +42376,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -43391,10 +42735,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -43511,10 +42851,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -43687,10 +43023,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
@@ -43834,10 +43166,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -44288,10 +43616,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
@@ -44751,10 +44075,6 @@
         "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
