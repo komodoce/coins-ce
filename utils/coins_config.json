@@ -106,7 +106,7 @@
     },
     "ILNF-PLG20": {
         "coin": "ILNF-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ilien Fuel",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -129,13 +129,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xaFf5Ed00c57b0E0c22123dbA28Cb6A5B26651Bbd"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xaFf5Ed00c57b0E0c22123dbA28Cb6A5B26651Bbd",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -435,7 +435,7 @@
     },
     "1INCH-PLG20": {
         "coin": "1INCH-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "1Inch",
         "coinpaprika_id": "1inch-1inch",
         "coingecko_id": "1inch",
@@ -458,7 +458,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
             }
         },
@@ -472,7 +472,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -497,7 +497,7 @@
     },
     "PGX-PLG20": {
         "coin": "PGX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Pegaxy Stone",
         "coinpaprika_id": "",
         "coingecko_id": "pegaxy-stone",
@@ -520,7 +520,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE"
             }
         },
@@ -534,7 +534,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -866,7 +866,7 @@
     },
     "AAVE-PLG20": {
         "coin": "AAVE-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "AAVE",
         "coinpaprika_id": "aave-new",
         "coingecko_id": "aave",
@@ -889,7 +889,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
             }
         },
@@ -903,7 +903,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -1304,7 +1304,7 @@
     },
     "AGEUR-PLG20": {
         "coin": "AGEUR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "agEUR",
         "coinpaprika_id": "",
         "coingecko_id": "ageur",
@@ -1327,7 +1327,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
             }
         },
@@ -1341,7 +1341,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -1427,7 +1427,7 @@
     },
     "AGIX-PLG20": {
         "coin": "AGIX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "SingularityNET",
         "coinpaprika_id": "agix-singularitynet",
         "coingecko_id": "singularitynet",
@@ -1450,13 +1450,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x190Eb8a183D22a4bdf278c6791b152228857c033"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -1666,7 +1666,7 @@
     },
     "ANKR-PLG20": {
         "coin": "ANKR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ankr",
         "coinpaprika_id": "ankr-ankr-network",
         "coingecko_id": "ankr",
@@ -1689,7 +1689,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35"
             }
         },
@@ -1703,7 +1703,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -1894,7 +1894,7 @@
     },
     "APE-PLG20": {
         "coin": "APE-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "ApeCoin",
         "coinpaprika_id": "ape-apecoin",
         "coingecko_id": "apecoin",
@@ -1917,7 +1917,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
             }
         },
@@ -1931,7 +1931,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -2188,7 +2188,7 @@
     },
     "ARPA-PLG20": {
         "coin": "ARPA-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "ARPA Chain",
         "coinpaprika_id": "",
         "coingecko_id": "arpa",
@@ -2211,7 +2211,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26"
             }
         },
@@ -2225,7 +2225,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -2534,7 +2534,7 @@
     },
     "ATOM-PLG20": {
         "coin": "ATOM-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Cosmos",
         "coinpaprika_id": "atom-cosmos",
         "coingecko_id": "cosmos",
@@ -2557,7 +2557,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b"
             }
         },
@@ -2571,7 +2571,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -3055,7 +3055,7 @@
     },
     "AVN-PLG20": {
         "coin": "AVN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Avian",
         "coinpaprika_id": "avn-avian",
         "coingecko_id": "avian-network",
@@ -3078,13 +3078,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x752DC265EAf6Da2Db0F8e4a32D5596D3f18e8701"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x752DC265EAf6Da2Db0F8e4a32D5596D3f18e8701",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -3739,7 +3739,7 @@
     },
     "BAL-PLG20": {
         "coin": "BAL-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Balancer",
         "coinpaprika_id": "bal-balancer",
         "coingecko_id": "balancer",
@@ -3762,7 +3762,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
             }
         },
@@ -3776,7 +3776,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -4016,7 +4016,7 @@
     },
     "BAND-PLG20": {
         "coin": "BAND-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Band Protocol",
         "coinpaprika_id": "band-band-protocol",
         "coingecko_id": "band-protocol",
@@ -4039,13 +4039,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -4285,7 +4285,7 @@
     },
     "BAT-PLG20": {
         "coin": "BAT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Basic Attention Token",
         "coinpaprika_id": "bat-basic-attention-token",
         "coingecko_id": "basic-attention-token",
@@ -4308,13 +4308,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -4754,7 +4754,7 @@
     },
     "JOY-PLG20": {
         "coin": "JOY-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Joystick.club",
         "coinpaprika_id": "",
         "coingecko_id": "joystick-club",
@@ -4777,13 +4777,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x218645F85Ff27FC456ef46c3CdacBF5c40B2F9E8"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x218645F85Ff27FC456ef46c3CdacBF5c40B2F9E8",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -5059,7 +5059,7 @@
     },
     "BBK-PLG20": {
         "coin": "BBK-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "BitBlocks",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -5082,13 +5082,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2C8a46eF99Cb64928eB3Dd50A925327e02296F63"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2C8a46eF99Cb64928eB3Dd50A925327e02296F63",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -6131,7 +6131,7 @@
     },
     "BNT-PLG20": {
         "coin": "BNT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Bancor",
         "coinpaprika_id": "bnt-bancor",
         "coingecko_id": "bancor",
@@ -6154,13 +6154,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -6362,7 +6362,7 @@
     },
     "BRZ-PLG20": {
         "coin": "BRZ-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Brazilian Digital Token",
         "coinpaprika_id": "brz-brazilian-digital-token",
         "coingecko_id": "brz",
@@ -6385,7 +6385,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc"
             }
         },
@@ -6399,7 +6399,7 @@
             "erc20_sender_refund": 90000
         },
         "contract_address": "0x4eD141110F6EeeAbA9A1df36d8c26f684d2475Dc",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -6996,6 +6996,15 @@
                     }
                 ],
                 "protocol": "WSS"
+            },
+            {
+                "url": "electrum5.btcz.rocks:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -7490,7 +7499,7 @@
     },
     "BTU-PLG20": {
         "coin": "BTU-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "BTU Protocol",
         "coinpaprika_id": "btu-btu-protocol",
         "coingecko_id": "btu-protocol",
@@ -7513,13 +7522,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -7927,7 +7936,7 @@
     },
     "BUSD-PLG20": {
         "coin": "BUSD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Binance USD",
         "coinpaprika_id": "busd-binance-usd",
         "coingecko_id": "binance-usd",
@@ -7950,13 +7959,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -8042,7 +8051,7 @@
     },
     "CADC-PLG20": {
         "coin": "CADC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "CAD Coin",
         "coinpaprika_id": "cadc-cad-coin",
         "coingecko_id": "cad-coin",
@@ -8065,7 +8074,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x9de41aFF9f55219D5bf4359F167d1D0c772A396D"
             }
         },
@@ -8079,7 +8088,7 @@
             "erc20_sender_refund": 90000
         },
         "contract_address": "0x9de41aFF9f55219D5bf4359F167d1D0c772A396D",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -8501,7 +8510,7 @@
     },
     "CDS-PLG20": {
         "coin": "CDS-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Crypto Development Services",
         "coinpaprika_id": "cds-crypto-development-services",
         "coingecko_id": "",
@@ -8524,13 +8533,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xF7B5991c676929BF98BF3E2e2e386789BB16912a"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xF7B5991c676929BF98BF3E2e2e386789BB16912a",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -8616,7 +8625,7 @@
     },
     "CEL-PLG20": {
         "coin": "CEL-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Celsius",
         "coinpaprika_id": "cel-celsius",
         "coingecko_id": "celsius-degree-token",
@@ -8639,13 +8648,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -9307,7 +9316,7 @@
     },
     "CHSB-PLG20": {
         "coin": "CHSB-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "SwissBorg (OLD)",
         "coinpaprika_id": "chsb-swissborg",
         "coingecko_id": "swissborg",
@@ -9330,13 +9339,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x67Ce67ec4fCd4aCa0Fcb738dD080b2a21ff69D75"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x67Ce67ec4fCd4aCa0Fcb738dD080b2a21ff69D75",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -9466,7 +9475,7 @@
     },
     "CHZ-PLG20": {
         "coin": "CHZ-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Chiliz",
         "coinpaprika_id": "chz-chiliz",
         "coingecko_id": "chiliz",
@@ -9489,13 +9498,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xf1938Ce12400f9a761084E7A80d37e732a4dA056"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xf1938Ce12400f9a761084E7A80d37e732a4dA056",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -9947,7 +9956,7 @@
     },
     "COMP-PLG20": {
         "coin": "COMP-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Compound",
         "coinpaprika_id": "comp-compoundd",
         "coingecko_id": "compound-governance-token",
@@ -9970,7 +9979,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c"
             }
         },
@@ -9984,7 +9993,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -10114,7 +10123,7 @@
     },
     "CRO-PLG20": {
         "coin": "CRO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Crypto.com",
         "coinpaprika_id": "cro-cryptocom-chain",
         "coingecko_id": "crypto-com-chain",
@@ -10137,13 +10146,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -10572,7 +10581,7 @@
     },
     "CRV-PLG20": {
         "coin": "CRV-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Curve DAO",
         "coinpaprika_id": "crv-curve-dao-token",
         "coingecko_id": "curve-dao-token",
@@ -10595,7 +10604,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
             }
         },
@@ -10609,7 +10618,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -11257,7 +11266,7 @@
     },
     "DAI-PLG20": {
         "coin": "DAI-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Dai",
         "coinpaprika_id": "dai-dai",
         "coingecko_id": "dai",
@@ -11280,7 +11289,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
             }
         },
@@ -11294,7 +11303,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -11653,7 +11662,7 @@
     },
     "DFX-PLG20": {
         "coin": "DFX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "DFX Finance",
         "coinpaprika_id": "",
         "coingecko_id": "dfx-finance",
@@ -11676,7 +11685,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x27f485b62C4A7E635F561A87560Adf5090239E93"
             }
         },
@@ -11690,7 +11699,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -14265,7 +14274,7 @@
     },
     "ENJ-PLG20": {
         "coin": "ENJ-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Enjin Coin",
         "coinpaprika_id": "enj-enjin-coin",
         "coingecko_id": "enjincoin",
@@ -14288,13 +14297,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -14833,7 +14842,7 @@
     },
     "ETH-PLG20": {
         "coin": "ETH-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ethereum",
         "coinpaprika_id": "eth-ethereum",
         "coingecko_id": "ethereum",
@@ -14856,7 +14865,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
             }
         },
@@ -14870,7 +14879,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -14957,7 +14966,7 @@
     },
     "EURE-PLG20": {
         "coin": "EURE-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Monerium EUR",
         "coinpaprika_id": "",
         "coingecko_id": "monerium-eur-money",
@@ -14980,7 +14989,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x18ec0A6E18E5bc3784fDd3a3634b31245ab704F6"
             }
         },
@@ -14994,7 +15003,7 @@
             "erc20_sender_refund": 120000
         },
         "contract_address": "0x18ec0A6E18E5bc3784fDd3a3634b31245ab704F6",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -15080,7 +15089,7 @@
     },
     "EUROE-PLG20": {
         "coin": "EUROE-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "EUROe Stablecoin",
         "coinpaprika_id": "",
         "coingecko_id": "euroe-stablecoin",
@@ -15103,7 +15112,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974"
             }
         },
@@ -15117,7 +15126,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -15208,7 +15217,7 @@
     },
     "EURS-PLG20": {
         "coin": "EURS-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "STASIS EURO",
         "coinpaprika_id": "eurs-stasis-eurs",
         "coingecko_id": "stasis-eurs",
@@ -15231,7 +15240,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99"
             }
         },
@@ -15245,7 +15254,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -15663,7 +15672,7 @@
     },
     "FET-PLG20": {
         "coin": "FET-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Fetch.ai",
         "coinpaprika_id": "fetch-ai",
         "coingecko_id": "fetch-ai",
@@ -15686,13 +15695,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x7583FEDDbceFA813dc18259940F76a02710A8905"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7583FEDDbceFA813dc18259940F76a02710A8905",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -17177,7 +17186,7 @@
     },
     "FXS-PLG20": {
         "coin": "FXS-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Frax Share",
         "coinpaprika_id": "",
         "coingecko_id": "frax-share",
@@ -17200,7 +17209,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062"
             }
         },
@@ -17214,7 +17223,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -17559,7 +17568,7 @@
     },
     "GAME-PLG20": {
         "coin": "GAME-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "GameCredits",
         "coinpaprika_id": "",
         "coingecko_id": "gamecredits",
@@ -17582,7 +17591,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D"
             }
         },
@@ -17596,7 +17605,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -18139,7 +18148,7 @@
     },
     "GLM-PLG20": {
         "coin": "GLM-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Golem",
         "coinpaprika_id": "glm-golem",
         "coingecko_id": "golem",
@@ -18162,7 +18171,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf"
             }
         },
@@ -18176,7 +18185,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -18302,7 +18311,7 @@
     },
     "GMT-PLG20": {
         "coin": "GMT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "STEPN",
         "coinpaprika_id": "gmt-stepn",
         "coingecko_id": "stepn",
@@ -18325,7 +18334,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x714DB550b574b3E927af3D93E26127D15721D4C2"
             }
         },
@@ -18339,7 +18348,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x714DB550b574b3E927af3D93E26127D15721D4C2",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -18539,7 +18548,7 @@
     },
     "GNO-PLG20": {
         "coin": "GNO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Gnosis",
         "coinpaprika_id": "gno-gnosis",
         "coingecko_id": "gnosis",
@@ -18562,13 +18571,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -18646,7 +18655,7 @@
     },
     "GNS-PLG20": {
         "coin": "GNS-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Gains Network",
         "coinpaprika_id": "gns-gains-network",
         "coingecko_id": "gains-network",
@@ -18669,7 +18678,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xE5417Af564e4bFDA1c483642db72007871397896"
             }
         },
@@ -18683,7 +18692,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xE5417Af564e4bFDA1c483642db72007871397896",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -19211,7 +19220,7 @@
     },
     "GRT-PLG20": {
         "coin": "GRT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "The Graph",
         "coinpaprika_id": "grt-the-graph",
         "coingecko_id": "the-graph",
@@ -19234,7 +19243,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
             }
         },
@@ -19248,7 +19257,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -19566,7 +19575,7 @@
     },
     "HEX-PLG20": {
         "coin": "HEX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "HEX",
         "coinpaprika_id": "hex-hex",
         "coingecko_id": "hex",
@@ -19589,7 +19598,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C"
             }
         },
@@ -19603,7 +19612,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -19689,7 +19698,7 @@
     },
     "HOT-PLG20": {
         "coin": "HOT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Holo",
         "coinpaprika_id": "hot-holo",
         "coingecko_id": "holotoken",
@@ -19712,13 +19721,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -20000,7 +20009,7 @@
     },
     "HUSD-PLG20": {
         "coin": "HUSD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "HUSD",
         "coinpaprika_id": "husd-husd",
         "coingecko_id": "husd",
@@ -20023,13 +20032,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2088C47Fc0c78356c622F79dBa4CbE1cCfA84A91"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2088C47Fc0c78356c622F79dBa4CbE1cCfA84A91",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -20166,7 +20175,7 @@
     },
     "IDRT-PLG20": {
         "coin": "IDRT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Rupiah Token",
         "coinpaprika_id": "idrt-rupiah-token",
         "coingecko_id": "rupiah-token",
@@ -20189,7 +20198,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b"
             }
         },
@@ -20203,7 +20212,7 @@
             "erc20_sender_refund": 90000
         },
         "contract_address": "0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -20492,7 +20501,7 @@
     },
     "ILN-PLG20": {
         "coin": "ILN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ilien",
         "coinpaprika_id": "iln-ilien9195",
         "coingecko_id": "",
@@ -20515,13 +20524,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2bAa79e7C13C302210436455925E68aD8fA687F0"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2bAa79e7C13C302210436455925E68aD8fA687F0",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -20546,7 +20555,7 @@
     },
     "ILNSW-PLG20": {
         "coin": "ILNSW-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ilien Swap",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -20569,13 +20578,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x0483Ddbb510d22b206f2F3bDAC18528C952c4213"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0483Ddbb510d22b206f2F3bDAC18528C952c4213",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21015,7 +21024,7 @@
     },
     "IOTX-PLG20": {
         "coin": "IOTX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "IoTeX",
         "coinpaprika_id": "iotx-iotex",
         "coingecko_id": "iotex",
@@ -21038,13 +21047,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21239,7 +21248,7 @@
     },
     "JAUD-PLG20": {
         "coin": "JAUD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Australian Dollar",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -21262,7 +21271,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xCB7F1Ef7246D1497b985f7FC45A1A31F04346133"
             }
         },
@@ -21276,7 +21285,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xCB7F1Ef7246D1497b985f7FC45A1A31F04346133",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21354,7 +21363,7 @@
     },
     "JBRL-PLG20": {
         "coin": "JBRL-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Brazilian Real",
         "coinpaprika_id": "",
         "coingecko_id": "jarvis-brazilian-real",
@@ -21377,7 +21386,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xf2f77FE7b8e66571E0fca7104c4d670BF1C8d722"
             }
         },
@@ -21391,7 +21400,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xf2f77FE7b8e66571E0fca7104c4d670BF1C8d722",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21417,7 +21426,7 @@
     },
     "JCAD-PLG20": {
         "coin": "JCAD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Canadian Dollar",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -21440,7 +21449,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3"
             }
         },
@@ -21454,7 +21463,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21641,7 +21650,7 @@
     },
     "JCHF-PLG20": {
         "coin": "JCHF-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Swiss Franc",
         "coinpaprika_id": "",
         "coingecko_id": "jarvis-synthetic-swiss-franc",
@@ -21664,7 +21673,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099"
             }
         },
@@ -21678,7 +21687,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21703,7 +21712,7 @@
     },
     "JCNY-PLG20": {
         "coin": "JCNY-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Chinese Yuan",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -21726,7 +21735,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x84526c812D8f6c4fD6C1a5B68713AFF50733E772"
             }
         },
@@ -21740,7 +21749,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x84526c812D8f6c4fD6C1a5B68713AFF50733E772",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -21927,7 +21936,7 @@
     },
     "JEUR-PLG20": {
         "coin": "JEUR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Euro",
         "coinpaprika_id": "",
         "coingecko_id": "jarvis-synthetic-euro",
@@ -21950,7 +21959,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c"
             }
         },
@@ -21964,7 +21973,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22101,7 +22110,7 @@
     },
     "JGBP-PLG20": {
         "coin": "JGBP-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis British Pound",
         "coinpaprika_id": "",
         "coingecko_id": "jarvis-synthetic-british-pound",
@@ -22124,7 +22133,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c"
             }
         },
@@ -22138,7 +22147,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22163,7 +22172,7 @@
     },
     "JGOLD-PLG20": {
         "coin": "JGOLD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Gold",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22186,13 +22195,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x192Ef3FFF1708456D3A1F21354FA8d6bFd86b45c"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x192Ef3FFF1708456D3A1F21354FA8d6bFd86b45c",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22218,7 +22227,7 @@
     },
     "JJPY-PLG20": {
         "coin": "JJPY-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Japanese Yen",
         "coinpaprika_id": "jjpy-jarvis-synthetic-japanese-yen",
         "coingecko_id": "jarvis-synthetic-japanese-yen",
@@ -22241,7 +22250,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x8343091F2499FD4b6174A46D067A920a3b851FF9"
             }
         },
@@ -22255,7 +22264,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x8343091F2499FD4b6174A46D067A920a3b851FF9",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22281,7 +22290,7 @@
     },
     "JKRW-PLG20": {
         "coin": "JKRW-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis South Korean Won",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22304,13 +22313,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xa22f6bc96f13bcC84dF36109c973d3c0505a067E"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xa22f6bc96f13bcC84dF36109c973d3c0505a067E",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22336,7 +22345,7 @@
     },
     "JMXN-PLG20": {
         "coin": "JMXN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Mexican Peso",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22359,7 +22368,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xBD1fe73e1f12bD2bc237De9b626F056f21f86427"
             }
         },
@@ -22373,7 +22382,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xBD1fe73e1f12bD2bc237De9b626F056f21f86427",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22399,7 +22408,7 @@
     },
     "JNZD-PLG20": {
         "coin": "JNZD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis New Zealand Dollar",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22422,7 +22431,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x6b526Daf03B4C47AF2bcc5860B12151823Ff70E0"
             }
         },
@@ -22436,7 +22445,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x6b526Daf03B4C47AF2bcc5860B12151823Ff70E0",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22462,7 +22471,7 @@
     },
     "JPHP-PLG20": {
         "coin": "JPHP-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Philippine Peso",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22485,13 +22494,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x486880FB16408b47f928F472f57beC55AC6089d1"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x486880FB16408b47f928F472f57beC55AC6089d1",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22517,7 +22526,7 @@
     },
     "JPLN-PLG20": {
         "coin": "JPLN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Polish Zloty",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22540,13 +22549,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x08E6d1F0c4877Ef2993Ad733Fc6F1D022d0E9DBf"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x08E6d1F0c4877Ef2993Ad733Fc6F1D022d0E9DBf",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22621,7 +22630,7 @@
     },
     "JPYC-PLG20": {
         "coin": "JPYC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "JPY Coin",
         "coinpaprika_id": "jpyc-jpy-coin-v2",
         "coingecko_id": "jpy-coin",
@@ -22644,7 +22653,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB"
             }
         },
@@ -22658,7 +22667,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22743,7 +22752,7 @@
     },
     "JRT-PLG20": {
         "coin": "JRT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Reward Token",
         "coinpaprika_id": "jrt-jarvis-reward-token",
         "coingecko_id": "jarvis-reward-token",
@@ -22766,13 +22775,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22797,7 +22806,7 @@
     },
     "JSEK-PLG20": {
         "coin": "JSEK-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Swedish Krona",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22820,13 +22829,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x197E5d6CcfF265AC3E303a34Db360ee1429f5d1A"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x197E5d6CcfF265AC3E303a34Db360ee1429f5d1A",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22852,7 +22861,7 @@
     },
     "JSGD-PLG20": {
         "coin": "JSGD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Singapore Dollar",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22875,7 +22884,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503"
             }
         },
@@ -22889,7 +22898,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22915,7 +22924,7 @@
     },
     "JTRY-PLG20": {
         "coin": "JTRY-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis Turkish Lira",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22938,13 +22947,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2A227fc77Bb2cf8f1881a04eCC8fA01EC57EC9fc"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2A227fc77Bb2cf8f1881a04eCC8fA01EC57EC9fc",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -22970,7 +22979,7 @@
     },
     "JUSD-PLG20": {
         "coin": "JUSD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Jarvis United States Dollar",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -22993,13 +23002,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xc948EE9a0687C292ac4d8C1e2557aD652D6baf44"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xc948EE9a0687C292ac4d8C1e2557aD652D6baf44",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -23961,7 +23970,7 @@
     },
     "KNC-PLG20": {
         "coin": "KNC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Kyber Network",
         "coinpaprika_id": "knc-kyber-network",
         "coingecko_id": "kyber-network-crystal",
@@ -23984,7 +23993,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C"
             }
         },
@@ -23998,7 +24007,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -25131,7 +25140,7 @@
     },
     "LDO-PLG20": {
         "coin": "LDO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Lido DAO",
         "coinpaprika_id": "ldo-lido-dao",
         "coingecko_id": "lido-dao",
@@ -25154,7 +25163,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756"
             }
         },
@@ -25168,7 +25177,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -25258,7 +25267,7 @@
     },
     "LEO-PLG20": {
         "coin": "LEO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "LEO Token",
         "coinpaprika_id": "leo-leo-token",
         "coingecko_id": "leo-token",
@@ -25281,13 +25290,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -25605,7 +25614,7 @@
     },
     "LINK-PLG20": {
         "coin": "LINK-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Chainlink",
         "coinpaprika_id": "link-chainlink",
         "coingecko_id": "chainlink",
@@ -25628,7 +25637,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
             }
         },
@@ -25642,7 +25651,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -25897,7 +25906,7 @@
     },
     "LRC-PLG20": {
         "coin": "LRC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Loopring",
         "coinpaprika_id": "lrc-loopring",
         "coingecko_id": "loopring",
@@ -25920,13 +25929,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -26727,7 +26736,7 @@
     },
     "MANA-PLG20": {
         "coin": "MANA-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Decentraland",
         "coinpaprika_id": "mana-decentraland",
         "coingecko_id": "decentraland",
@@ -26750,7 +26759,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
             }
         },
@@ -26764,7 +26773,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -26901,7 +26910,7 @@
     },
     "MASK-PLG20": {
         "coin": "MASK-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Mask Network",
         "coinpaprika_id": "",
         "coingecko_id": "mask-network",
@@ -26924,7 +26933,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7"
             }
         },
@@ -26938,7 +26947,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -26961,10 +26970,10 @@
         ],
         "explorer_block_url": "block/"
     },
-    "MATICTEST": {
-        "coin": "MATICTEST",
-        "type": "Matic",
-        "name": "Matic Testnet",
+    "POLTEST": {
+        "coin": "POLTEST",
+        "type": "Polygon",
+        "name": "Polygon Testnet",
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
@@ -26976,7 +26985,7 @@
         "is_testnet": true,
         "currently_enabled": false,
         "wallet_only": false,
-        "fname": "Matic Testnet",
+        "fname": "Polygon Testnet",
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 80001,
@@ -27003,13 +27012,13 @@
         ],
         "explorer_block_url": "block/"
     },
-    "MATIC": {
-        "coin": "MATIC",
-        "type": "Matic",
+    "POL": {
+        "coin": "POL",
+        "type": "Polygon",
         "name": "Polygon",
-        "coinpaprika_id": "matic-matic-network",
-        "coingecko_id": "matic-network",
-        "livecoinwatch_id": "MATIC",
+        "coinpaprika_id": "pol-polygon-ecosystem-token",
+        "coingecko_id": "polygon-ecosystem-token",
+        "livecoinwatch_id": "POL",
         "explorer_url": "https://polygonscan.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -27057,14 +27066,78 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "MATIC"
+        "explorer_block_url": "block/"
+    },
+    "POL-ERC20": {
+        "coin": "POL-ERC20",
+        "type": "ERC-20",
+        "name": "Polygon",
+        "coinpaprika_id": "pol-polygon-ecosystem-token",
+        "coingecko_id": "polygon-ecosystem-token",
+        "livecoinwatch_id": "POL",
+        "explorer_url": "https://etherscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Polygon",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 1,
+        "avg_blocktime": 15,
+        "required_confirmations": 3,
+        "decimals": 18,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH",
+                "contract_address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "trezor_coin": "Polygon Token",
+        "links": {
+            "homepage": "https://polygon.technology/"
+        },
+        "contract_address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+        "parent_coin": "ETH",
+        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
+        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "nodes": [
+            {
+                "url": "https://0xrpc.io/eth",
+                "ws_url": "wss://0xrpc.io/eth"
+            },
+            {
+                "url": "https://eth.drpc.org",
+                "ws_url": "wss://eth.drpc.org"
+            },
+            {
+                "url": "https://eth3.cipig.net:18555",
+                "ws_url": "wss://eth3.cipig.net:38555",
+                "contact": {
+                    "email": "cipi@komodoplatform.com"
+                }
+            },
+            {
+                "url": "https://ethereum-rpc.publicnode.com",
+                "ws_url": "wss://ethereum-rpc.publicnode.com"
+            },
+            {
+                "url": "https://mainnet.gateway.tenderly.co",
+                "ws_url": "wss://mainnet.gateway.tenderly.co"
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "MATIC-BEP20": {
         "coin": "MATIC-BEP20",
         "type": "BEP-20",
-        "name": "Polygon",
-        "coinpaprika_id": "matic-matic-network",
+        "name": "Polygon (OLD)",
+        "coinpaprika_id": "matic-polygon",
         "coingecko_id": "matic-network",
         "livecoinwatch_id": "MATIC",
         "explorer_url": "https://bscscan.com/",
@@ -27075,7 +27148,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
-        "fname": "Polygon",
+        "fname": "Polygon (OLD)",
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 56,
@@ -27122,8 +27195,8 @@
     "MATIC-ERC20": {
         "coin": "MATIC-ERC20",
         "type": "ERC-20",
-        "name": "Polygon",
-        "coinpaprika_id": "matic-matic-network",
+        "name": "Polygon (OLD)",
+        "coinpaprika_id": "matic-polygon",
         "coingecko_id": "matic-network",
         "livecoinwatch_id": "MATIC",
         "explorer_url": "https://etherscan.io/",
@@ -27134,7 +27207,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
-        "fname": "Polygon",
+        "fname": "Polygon (OLD)",
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1,
@@ -27180,96 +27253,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "MATIC"
-    },
-    "MATIC-HCO20": {
-        "coin": "MATIC-HCO20",
-        "type": "HecoChain",
-        "name": "Polygon",
-        "coinpaprika_id": "matic-matic-network",
-        "coingecko_id": "matic-network",
-        "livecoinwatch_id": "MATIC",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Polygon",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0xdB11743fe8B129b49b11236E8a715004BDabe7e5"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xdB11743fe8B129b49b11236E8a715004BDabe7e5",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "MATIC"
-    },
-    "MATIC-KRC20": {
-        "coin": "MATIC-KRC20",
-        "type": "KRC-20",
-        "name": "Polygon",
-        "coinpaprika_id": "matic-matic-network",
-        "coingecko_id": "matic-network",
-        "livecoinwatch_id": "MATIC",
-        "explorer_url": "https://explorer.kcc.io/en/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Polygon",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 321,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "KCS",
-                "contract_address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
-        "parent_coin": "KCS",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://kcc-rpc.com"
-            },
-            {
-                "url": "https://rpc-mainnet.kcc.network"
             }
         ],
         "explorer_block_url": "block/",
@@ -28174,7 +28157,7 @@
     },
     "MKR-PLG20": {
         "coin": "MKR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Maker",
         "coinpaprika_id": "",
         "coingecko_id": "maker",
@@ -28197,7 +28180,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d"
             }
         },
@@ -28211,7 +28194,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -28446,7 +28429,7 @@
     },
     "MM-PLG20": {
         "coin": "MM-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Million",
         "coinpaprika_id": "mm-million",
         "coingecko_id": "million",
@@ -28469,13 +28452,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -29280,7 +29263,7 @@
     },
     "NEXO-PLG20": {
         "coin": "NEXO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Nexo",
         "coinpaprika_id": "nexo-nexo",
         "coingecko_id": "nexo",
@@ -29303,7 +29286,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E"
             }
         },
@@ -29317,7 +29300,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -30009,7 +29992,7 @@
     },
     "NZDS-PLG20": {
         "coin": "NZDS-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "NZD Stablecoin",
         "coinpaprika_id": "",
         "coingecko_id": "nzd-stablecoin",
@@ -30032,13 +30015,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -30229,7 +30212,7 @@
     },
     "OCEAN-PLG20": {
         "coin": "OCEAN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Ocean Protocol",
         "coinpaprika_id": "ocean-ocean-protocol",
         "coingecko_id": "ocean-protocol",
@@ -30252,13 +30235,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -30403,7 +30386,7 @@
     },
     "OM-PLG20": {
         "coin": "OM-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "MANTRA",
         "coinpaprika_id": "om-mantra-dao",
         "coingecko_id": "mantra-dao",
@@ -30426,7 +30409,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea"
             }
         },
@@ -30440,7 +30423,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -30531,7 +30514,7 @@
     },
     "OMG-PLG20": {
         "coin": "OMG-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "OMG Network",
         "coinpaprika_id": "omg-omg-network",
         "coingecko_id": "omisego",
@@ -30554,13 +30537,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x62414D03084EeB269E18C970a21f45D2967F0170"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -30852,7 +30835,7 @@
     },
     "PAX-PLG20": {
         "coin": "PAX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Paxos Standard",
         "coinpaprika_id": "pax-paxos-standard-token",
         "coingecko_id": "paxos-standard",
@@ -30875,13 +30858,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -31022,7 +31005,7 @@
     },
     "PAXG-PLG20": {
         "coin": "PAXG-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "PAX Gold",
         "coinpaprika_id": "paxg-pax-gold",
         "coingecko_id": "pax-gold",
@@ -31045,7 +31028,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x553d3D295e0f695B9228246232eDF400ed3560B5"
             }
         },
@@ -31059,7 +31042,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -31909,7 +31892,7 @@
     },
     "POT-PLG20": {
         "coin": "POT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "PotCoin",
         "coinpaprika_id": "",
         "coingecko_id": "potcoin",
@@ -31932,7 +31915,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xd7c8469c7eC40f853dA5f651DE81b45aeD47e5aB"
             }
         },
@@ -31946,7 +31929,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xd7c8469c7eC40f853dA5f651DE81b45aeD47e5aB",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -32036,7 +32019,7 @@
     },
     "POWR-PLG20": {
         "coin": "POWR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Power Ledger",
         "coinpaprika_id": "powr-power-ledger",
         "coingecko_id": "power-ledger",
@@ -32059,13 +32042,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x0AaB8DC887D34f00D50E19aee48371a941390d14"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0AaB8DC887D34f00D50E19aee48371a941390d14",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -32213,7 +32196,7 @@
     },
     "PPC-PLG20": {
         "coin": "PPC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Peercoin",
         "coinpaprika_id": "ppc-peercoin",
         "coingecko_id": "peercoin",
@@ -32236,13 +32219,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -32378,7 +32361,7 @@
     },
     "PRCY-PLG20": {
         "coin": "PRCY-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
         "coingecko_id": "privacy-coin",
@@ -32401,13 +32384,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -32493,7 +32476,7 @@
     },
     "PYR-PLG20": {
         "coin": "PYR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Vulcan Forged",
         "coinpaprika_id": "",
         "coingecko_id": "vulcan-forged",
@@ -32516,7 +32499,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x430EF9263E76DAE63c84292C3409D61c598E9682"
             }
         },
@@ -32530,7 +32513,7 @@
             "erc20_sender_refund": 90000
         },
         "contract_address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -32713,7 +32696,7 @@
     },
     "SHIB-PLG20": {
         "coin": "SHIB-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Shiba Inu",
         "coinpaprika_id": "",
         "coingecko_id": "shiba-inu",
@@ -32736,7 +32719,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec"
             }
         },
@@ -32750,7 +32733,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -34338,7 +34321,7 @@
     },
     "REQ-PLG20": {
         "coin": "REQ-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Request",
         "coinpaprika_id": "",
         "coingecko_id": "request-network",
@@ -34361,7 +34344,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762"
             }
         },
@@ -34375,7 +34358,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -34976,7 +34959,7 @@
     },
     "RLC-PLG20": {
         "coin": "RLC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "iExec RLC",
         "coinpaprika_id": "rlc-iexec-rlc",
         "coingecko_id": "iexec-rlc",
@@ -34999,13 +34982,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xbe662058e00849C3Eef2AC9664f37fEfdF2cdbFE"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0xbe662058e00849C3Eef2AC9664f37fEfdF2cdbFE",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -35091,7 +35074,7 @@
     },
     "RNDR-PLG20": {
         "coin": "RNDR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Render",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -35114,7 +35097,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x61299774020dA444Af134c82fa83E3810b309991"
             }
         },
@@ -35128,7 +35111,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x61299774020dA444Af134c82fa83E3810b309991",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -35648,7 +35631,7 @@
     },
     "SAND-PLG20": {
         "coin": "SAND-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "The Sandbox",
         "coinpaprika_id": "sand-the-sandbox",
         "coingecko_id": "the-sandbox",
@@ -35671,7 +35654,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
             }
         },
@@ -35685,7 +35668,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -36083,7 +36066,7 @@
     },
     "SNX-PLG20": {
         "coin": "SNX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Synthetix",
         "coinpaprika_id": "snx-synthetix-network-token",
         "coingecko_id": "havven",
@@ -36106,7 +36089,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a"
             }
         },
@@ -36120,7 +36103,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -36196,7 +36179,7 @@
     },
     "SOL-PLG20": {
         "coin": "SOL-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Solana",
         "coinpaprika_id": "sol-solana",
         "coingecko_id": "solana",
@@ -36219,7 +36202,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4"
             }
         },
@@ -36233,7 +36216,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -36658,7 +36641,7 @@
     },
     "SPACE-PLG20_OLD": {
         "coin": "SPACE-PLG20_OLD",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Space Token (OLD)",
         "coinpaprika_id": "space-space-token",
         "coingecko_id": "space-token-bsc",
@@ -36681,7 +36664,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xB53Ec4aCe420a62Cfb75aFdEba600D284777cd65"
             }
         },
@@ -36695,7 +36678,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xB53Ec4aCe420a62Cfb75aFdEba600D284777cd65",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -36720,7 +36703,7 @@
     },
     "SPACE-PLG20": {
         "coin": "SPACE-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Space Token",
         "coinpaprika_id": "space-space-token",
         "coingecko_id": "space-token-bsc",
@@ -36743,7 +36726,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f"
             }
         },
@@ -36757,7 +36740,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -36843,7 +36826,7 @@
     },
     "SRM-PLG20": {
         "coin": "SRM-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Serum",
         "coinpaprika_id": "srm-serum",
         "coingecko_id": "serum",
@@ -36866,13 +36849,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x6Bf2eb299E51Fc5DF30Dec81D9445dDe70e3F185"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x6Bf2eb299E51Fc5DF30Dec81D9445dDe70e3F185",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -37198,7 +37181,7 @@
     },
     "SUSHI-PLG20": {
         "coin": "SUSHI-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Sushi",
         "coinpaprika_id": "sushi-sushi",
         "coingecko_id": "sushi",
@@ -37221,7 +37204,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
             }
         },
@@ -37235,7 +37218,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -37579,7 +37562,7 @@
     },
     "SYN-PLG20": {
         "coin": "SYN-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Synapse",
         "coinpaprika_id": "syn-synapse",
         "coingecko_id": "synapse-2",
@@ -37602,7 +37585,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695"
             }
         },
@@ -37616,7 +37599,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -38213,7 +38196,7 @@
     },
     "TBTC-PLG20": {
         "coin": "TBTC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "tBTC",
         "coinpaprika_id": "tbtc-tbtc",
         "coingecko_id": "tbtc",
@@ -38236,7 +38219,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b"
             }
         },
@@ -38250,7 +38233,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -38532,7 +38515,7 @@
     },
     "TEL-PLG20": {
         "coin": "TEL-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Telcoin",
         "coinpaprika_id": "tel-telcoin",
         "coingecko_id": "telcoin",
@@ -38555,7 +38538,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32"
             }
         },
@@ -38569,7 +38552,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -39198,7 +39181,7 @@
     },
     "TRYB-PLG20": {
         "coin": "TRYB-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "BiLira",
         "coinpaprika_id": "tryb-bilira",
         "coingecko_id": "bilira",
@@ -39221,7 +39204,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x4Fb71290Ac171E1d144F7221D882BECAc7196EB5"
             }
         },
@@ -39235,7 +39218,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x4Fb71290Ac171E1d144F7221D882BECAc7196EB5",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -39619,7 +39602,7 @@
     },
     "TUSD-PLG20": {
         "coin": "TUSD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "TrueUSD",
         "coinpaprika_id": "tusd-trueusd",
         "coingecko_id": "true-usd",
@@ -39642,13 +39625,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -39789,7 +39772,7 @@
     },
     "UBT-PLG20": {
         "coin": "UBT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Unibright",
         "coinpaprika_id": "ubt-unibright",
         "coingecko_id": "unibright",
@@ -39812,13 +39795,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x7FBc10850caE055B27039aF31bD258430e714c62"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -40055,7 +40038,7 @@
     },
     "UMA-PLG20": {
         "coin": "UMA-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "UMA",
         "coinpaprika_id": "uma-uma",
         "coingecko_id": "uma",
@@ -40078,13 +40061,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -40361,7 +40344,7 @@
     },
     "UNI-PLG20": {
         "coin": "UNI-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Uniswap",
         "coinpaprika_id": "uni-uniswap",
         "coingecko_id": "uniswap",
@@ -40384,7 +40367,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
             }
         },
@@ -40398,7 +40381,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -40942,7 +40925,7 @@
     },
     "USDC-PLG20": {
         "coin": "USDC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "USD Coin",
         "coinpaprika_id": "usdc-usd-coin",
         "coingecko_id": "usd-coin",
@@ -40965,7 +40948,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
             }
         },
@@ -40979,7 +40962,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -41004,7 +40987,7 @@
     },
     "USDC-PLG20_OLD": {
         "coin": "USDC-PLG20_OLD",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "USD Coin (OLD)",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -41027,13 +41010,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -41350,7 +41333,7 @@
     },
     "USDT-PLG20": {
         "coin": "USDT-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Tether",
         "coinpaprika_id": "usdt-tether",
         "coingecko_id": "tether",
@@ -41373,7 +41356,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
             }
         },
@@ -41387,7 +41370,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -42283,7 +42266,7 @@
     },
     "VGX-PLG20": {
         "coin": "VGX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Voyager",
         "coinpaprika_id": "ethos-ethos",
         "coingecko_id": "ethos",
@@ -42306,13 +42289,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x054c42b6414747F5263b4A86f21B1aFAD00326Bf"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x054c42b6414747F5263b4A86f21B1aFAD00326Bf",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -43024,7 +43007,7 @@
     },
     "WBTC-PLG20": {
         "coin": "WBTC-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "Wrapped Bitcoin",
         "coinpaprika_id": "",
         "coingecko_id": "wrapped-bitcoin",
@@ -43047,7 +43030,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
             }
         },
@@ -43061,7 +43044,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -43407,7 +43390,7 @@
     },
     "WOO-PLG20": {
         "coin": "WOO-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "WOO Network",
         "coinpaprika_id": "woo-wootrade",
         "coingecko_id": "woo-network",
@@ -43430,7 +43413,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603"
             }
         },
@@ -43444,7 +43427,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -43816,7 +43799,7 @@
     },
     "XIDR-PLG20": {
         "coin": "XIDR-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "StraitsX Indonesian Rupiah",
         "coinpaprika_id": "",
         "coingecko_id": "straitsx-indonesia-rupiah",
@@ -43839,7 +43822,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x2c826035c1C36986117A0e949bD6ad4baB54afE2"
             }
         },
@@ -43853,7 +43836,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0x2c826035c1C36986117A0e949bD6ad4baB54afE2",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -44543,7 +44526,7 @@
     },
     "XSGD-PLG20": {
         "coin": "XSGD-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "StraitsX Singapore Dollar",
         "coinpaprika_id": "xsgd-xsgd",
         "coingecko_id": "xsgd",
@@ -44566,7 +44549,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xDC3326e71D45186F113a2F448984CA0e8D201995"
             }
         },
@@ -44580,7 +44563,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -45343,7 +45326,7 @@
     },
     "YFI-PLG20": {
         "coin": "YFI-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "yearn.finance",
         "coinpaprika_id": "yfi-yearnfinance",
         "coingecko_id": "yearn-finance",
@@ -45366,7 +45349,7 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6"
             }
         },
@@ -45380,7 +45363,7 @@
             "erc20_sender_refund": 85000
         },
         "contract_address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -46105,7 +46088,7 @@
     },
     "ZRX-PLG20": {
         "coin": "ZRX-PLG20",
-        "type": "Matic",
+        "type": "Polygon",
         "name": "0x",
         "coinpaprika_id": "zrx-0x",
         "coingecko_id": "0x",
@@ -46128,13 +46111,13 @@
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
-                "platform": "MATIC",
+                "platform": "POL",
                 "contract_address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5"
             }
         },
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -50319,6 +50302,42 @@
         },
         "electrum": [
             {
+                "url": "coin.crionic.org:50001",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "coin.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
+            {
+                "url": "coin.crionic.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
+            {
                 "url": "explorer.crionic.org:50001",
                 "contact": [
                     {
@@ -51192,9 +51211,9 @@
         ],
         "explorer_block_url": "block/"
     },
-    "NFT_MATIC": {
-        "coin": "NFT_MATIC",
-        "type": "Matic",
+    "NFT_POL": {
+        "coin": "NFT_POL",
+        "type": "Polygon",
         "name": "Polygon",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -51216,7 +51235,7 @@
         "protocol": {
             "type": "NFT",
             "protocol_data": {
-                "platform": "MATIC"
+                "platform": "POL"
             }
         },
         "derivation_path": "m/44'/966'",
@@ -51224,7 +51243,7 @@
         "links": {
             "homepage": "https://polygon.technology/"
         },
-        "parent_coin": "MATIC",
+        "parent_coin": "POL",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
