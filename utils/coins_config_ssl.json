@@ -970,15 +970,6 @@
                 ]
             },
             {
-                "url": "aby-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -3171,6 +3162,39 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
+        "explorer_block_url": "block/"
+    },
+    "AYA": {
+        "coin": "AYA",
+        "type": "UTXO",
+        "name": "Aryacoin",
+        "coinpaprika_id": "aya-aryacoin",
+        "coingecko_id": "aryacoin",
+        "livecoinwatch_id": "AYA",
+        "explorer_url": "https://explorer.aryacoin.io/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Aryacoin Signed Message:\n",
+        "fname": "Aryacoin",
+        "rpcport": 9332,
+        "pubtype": 23,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 100000,
+        "dust": 54600,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 30,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/357'",
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "AYA-BEP20": {
@@ -5910,10 +5934,6 @@
         "derivation_path": "m/44'/664'",
         "electrum": [
             {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
-            {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
             }
@@ -7423,11 +7443,6 @@
                 "disable_cert_verification": true
             },
             {
-                "url": "holland.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "miami.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -7489,11 +7504,6 @@
         "electrum": [
             {
                 "url": "chicago.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "holland.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             },
@@ -10553,8 +10563,9 @@
                 ]
             },
             {
-                "url": "electrumx.dgc.ewmcx.org:50002",
-                "protocol": "SSL"
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -42933,18 +42944,6 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
