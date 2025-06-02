@@ -23734,7 +23734,8 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "POL"
     },
     "POL-ERC20": {
         "coin": "POL-ERC20",
@@ -23799,7 +23800,8 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "POL"
     },
     "MATIC-BEP20": {
         "coin": "MATIC-BEP20",
@@ -23857,8 +23859,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "MATIC"
+        "explorer_block_url": "block/"
     },
     "MATIC-ERC20": {
         "coin": "MATIC-ERC20",
@@ -23923,8 +23924,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "MATIC"
+        "explorer_block_url": "block/"
     },
     "MC-ERC20": {
         "coin": "MC-ERC20",
