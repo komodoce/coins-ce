@@ -789,15 +789,6 @@
                         "discord": "475820011634819072"
                     }
                 ]
-            },
-            {
-                "url": "elec-seeder-one.artbytecoin.org:50013",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "elec-seeder-two.artbytecoin.org:50013",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -5550,7 +5541,7 @@
         "derivation_path": "m/44'/664'",
         "electrum": [
             {
-                "url": "electrumserver01.globalboost.info:50013",
+                "url": "electrumserver02.globalboost.info:50013",
                 "protocol": "WSS"
             }
         ],
@@ -7063,11 +7054,6 @@
         "derivation_path": "m/44'/34'",
         "electrum": [
             {
-                "url": "holland.ecoincore.com:34335",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "miami.ecoincore.com:34335",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -7117,11 +7103,6 @@
         },
         "derivation_path": "m/84'/34'",
         "electrum": [
-            {
-                "url": "holland.ecoincore.com:34335",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
             {
                 "url": "miami.ecoincore.com:34335",
                 "protocol": "WSS",
@@ -10505,6 +10486,15 @@
                 "contact": [
                     {
                         "discord": "405102339612082177"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
                     }
                 ]
             },
@@ -19526,6 +19516,18 @@
         },
         "electrum": [
             {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
@@ -19538,7 +19540,31 @@
                 ]
             },
             {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -19595,6 +19621,18 @@
         },
         "electrum": [
             {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
@@ -19607,7 +19645,31 @@
                 ]
             },
             {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -20428,6 +20490,18 @@
         },
         "electrum": [
             {
+                "url": "electrum1.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
@@ -20440,7 +20514,31 @@
                 ]
             },
             {
+                "url": "electrum3.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum4.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -20497,6 +20595,18 @@
         },
         "electrum": [
             {
+                "url": "electrum1.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
@@ -20509,7 +20619,31 @@
                 ]
             },
             {
+                "url": "electrum3.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum4.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -36185,6 +36319,15 @@
                         "telegram": "licho92karol"
                     }
                 ]
+            },
+            {
+                "url": "la.ask.systems:52140",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "telegram": "@fsmv0"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -37411,55 +37554,6 @@
         ],
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
-    },
-    "ZET": {
-        "coin": "ZET",
-        "type": "UTXO",
-        "name": "Zetacoin",
-        "coinpaprika_id": "zet-zetacoin",
-        "coingecko_id": "zetacoin",
-        "livecoinwatch_id": "ZET",
-        "explorer_url": "https://chainz.cryptoid.info/zet/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Zetacoin Signed Message:\n",
-        "fname": "Zetacoin",
-        "isPoS": 1,
-        "rpcport": 22014,
-        "pubtype": 20,
-        "p2shtype": 85,
-        "wiftype": 153,
-        "txfee": 100000,
-        "dust": 100000,
-        "mm2": 1,
-        "mature_confirmations": 500,
-        "required_confirmations": 7,
-        "avg_blocktime": 45,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/719'",
-        "links": {
-            "github": "https://github.com/WikiMin3R/ZetacoinE",
-            "homepage": "https://zetacoin.io"
-        },
-        "electrum": [
-            {
-                "url": "zet-ex-three.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
         "coin": "ZIL-BEP20",
@@ -40234,18 +40328,6 @@
                         "discord": "Bago#7842"
                     }
                 ]
-            },
-            {
-                "url": "electrum4.runebase.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -40631,15 +40713,6 @@
                 ]
             },
             {
-                "url": "electrumx.mazanode.com:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "brian@mazacoin.org"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.mazacha.in:50005",
                 "protocol": "WSS",
                 "contact": [
@@ -40693,7 +40766,7 @@
         },
         "electrum": [
             {
-                "url": "explorer.crionic.org:50005",
+                "url": "coin.crionic.org:50005",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -40703,58 +40776,16 @@
                         "discord": "Diabaths#1919"
                     }
                 ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "NITO-segwit": {
-        "coin": "NITO-segwit",
-        "type": "UTXO",
-        "name": "NITO",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_NITO",
-        "explorer_url": "https://explorer.nito.network/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "NITO",
-        "rpcport": 8825,
-        "pubtype": 0,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "txfee": 10000,
-        "segwit": true,
-        "bech32_hrp": "nito",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "NITO",
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/0'",
-        "links": {
-            "github": "https://github.com/NitoNetwork/",
-            "homepage": "https://nito.network/"
-        },
-        "electrum": [
+            },
             {
-                "url": "electrum1.nito.network:50005",
+                "url": "explorer.crionic.org:50005",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "email": "biigbang0001@zemzar.net"
+                        "email": "diabatiis@gmail.com"
                     },
                     {
-                        "discord": "biigbang0001"
+                        "discord": "Diabaths#1919"
                     }
                 ]
             }
