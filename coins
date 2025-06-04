@@ -16959,6 +16959,7 @@
         "denom": "uatom",
         "account_prefix": "cosmos",
         "chain_id": "cosmoshub-4",
+        "chain_registry_name": "cosmoshub",
         "ibc_channels": {
           "iaa": 91,
           "osmo": 141
@@ -16981,6 +16982,7 @@
         "denom": "uiris",
         "account_prefix": "iaa",
         "chain_id": "irishub-1",
+        "chain_registry_name": "irishub",
         "gas_price": 0.5,
         "ibc_channels": {
           "cosmos": 0,
@@ -17023,6 +17025,7 @@
         "denom": "uosmo",
         "account_prefix": "osmo",
         "chain_id": "osmosis-1",
+        "chain_registry_name": "osmosis",
         "gas_price": 0.5,
         "ibc_channels": {
           "cosmos": 0,
