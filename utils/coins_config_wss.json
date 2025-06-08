@@ -770,6 +770,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -40560,6 +40569,7 @@
         "protocol": {
             "type": "UTXO"
         },
+        "derivation_path": "m/44'/6363'",
         "links": {
             "github": "https://github.com/casraw/cascoin",
             "homepage": "https://cascoin.net"
