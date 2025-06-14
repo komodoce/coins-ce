@@ -789,6 +789,15 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "elec-seeder-one.artbytecoin.org:50013",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "elec-seeder-two.artbytecoin.org:50013",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -4881,6 +4890,56 @@
         ],
         "explorer_block_url": "block/"
     },
+    "BLOCX": {
+        "coin": "BLOCX",
+        "type": "UTXO",
+        "name": "BLOCX.",
+        "coinpaprika_id": "blocx-blocx",
+        "coingecko_id": "blocx-2",
+        "livecoinwatch_id": "BLOCX",
+        "explorer_url": "https://explorer.blocx.space/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "DarkCoin Signed Message:\n",
+        "fname": "BLOCX.",
+        "rpcport": 12973,
+        "pubtype": 25,
+        "p2shtype": 26,
+        "wiftype": 153,
+        "segwit": false,
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/5'",
+        "links": {
+            "github": "https://github.com/BLOCXTECH/BLOCX",
+            "homepage": "https://blocx.tech"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.blocx.live:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum2.blocx.live:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum3.blocx.live:50004",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BNB": {
         "coin": "BNB",
         "type": "BEP-20",
@@ -5803,15 +5862,6 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
-            {
-                "url": "electrum2.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
             {
                 "url": "electrum3.btcz.rocks:50004",
                 "contact": [
@@ -24197,160 +24247,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "NMC": {
-        "coin": "NMC",
-        "type": "UTXO",
-        "name": "Namecoin",
-        "coinpaprika_id": "nmc-namecoin",
-        "coingecko_id": "namecoin",
-        "livecoinwatch_id": "NMC",
-        "explorer_url": "https://nmc.tokenview.com/en/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Namecoin",
-        "rpcport": 8336,
-        "pubtype": 52,
-        "p2shtype": 13,
-        "wiftype": 180,
-        "txfee": 0,
-        "segwit": true,
-        "bech32_hrp": "nc",
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/7'",
-        "trezor_coin": "Namecoin",
-        "links": {
-            "github": "https://github.com/namecoin/namecoin-core",
-            "homepage": "https://namecoin.org"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx3.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx4.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "NMC-segwit": {
-        "coin": "NMC-segwit",
-        "type": "UTXO",
-        "name": "Namecoin",
-        "coinpaprika_id": "nmc-namecoin",
-        "coingecko_id": "namecoin",
-        "livecoinwatch_id": "NMC",
-        "explorer_url": "https://nmc.tokenview.com/en/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Namecoin",
-        "rpcport": 8336,
-        "pubtype": 52,
-        "p2shtype": 13,
-        "wiftype": 180,
-        "txfee": 0,
-        "segwit": true,
-        "bech32_hrp": "nc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "NMC",
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/7'",
-        "trezor_coin": "Namecoin",
-        "links": {
-            "github": "https://github.com/namecoin/namecoin-core",
-            "homepage": "https://namecoin.org"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx3.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx4.nmc.dotbit.zone:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/namecoin/electrum-nmc/issues"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "NVC-BEP20": {
         "coin": "NVC-BEP20",
         "type": "BEP-20",
@@ -40318,7 +40214,7 @@
                 ]
             },
             {
-                "url": "electrum3.runebase.io:50004",
+                "url": "electrum4.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -40786,6 +40682,60 @@
                     },
                     {
                         "discord": "Diabaths#1919"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "NITO-segwit": {
+        "coin": "NITO-segwit",
+        "type": "UTXO",
+        "name": "NITO",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_NITO",
+        "explorer_url": "https://explorer.nito.network/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "NITO",
+        "rpcport": 8825,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "txfee": 10000,
+        "segwit": true,
+        "bech32_hrp": "nito",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "NITO",
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/0'",
+        "links": {
+            "github": "https://github.com/NitoNetwork/",
+            "homepage": "https://nito.network/"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.nito.network:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
                     }
                 ]
             }
