@@ -4924,6 +4924,56 @@
         ],
         "explorer_block_url": "block/"
     },
+    "BLOCX": {
+        "coin": "BLOCX",
+        "type": "UTXO",
+        "name": "BLOCX.",
+        "coinpaprika_id": "blocx-blocx",
+        "coingecko_id": "blocx-2",
+        "livecoinwatch_id": "BLOCX",
+        "explorer_url": "https://explorer.blocx.space/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "DarkCoin Signed Message:\n",
+        "fname": "BLOCX.",
+        "rpcport": 12973,
+        "pubtype": 25,
+        "p2shtype": 26,
+        "wiftype": 153,
+        "segwit": false,
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/5'",
+        "links": {
+            "github": "https://github.com/BLOCXTECH/BLOCX",
+            "homepage": "https://blocx.tech"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.blocx.live:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum2.blocx.live:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum3.blocx.live:50002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BNB": {
         "coin": "BNB",
         "type": "BEP-20",
@@ -38253,6 +38303,11 @@
                         "telegram": "@fsmv0"
                     }
                 ]
+            },
+            {
+                "url": "xrg_ful.googol.cash:52138",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block/"
@@ -42553,6 +42608,18 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
