@@ -6747,6 +6747,10 @@
                 "ws_url": "wss://moonriver.public.blastapi.io"
             },
             {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -9792,6 +9796,10 @@
             {
                 "url": "https://moonriver.public.blastapi.io",
                 "ws_url": "wss://moonriver.public.blastapi.io"
+            },
+            {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -14944,6 +14952,10 @@
             {
                 "url": "https://moonriver.public.blastapi.io",
                 "ws_url": "wss://moonriver.public.blastapi.io"
+            },
+            {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -24716,6 +24728,10 @@
                 "ws_url": "wss://moonriver.public.blastapi.io"
             },
             {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -25037,6 +25053,10 @@
             {
                 "url": "https://moonriver.public.blastapi.io",
                 "ws_url": "wss://moonriver.public.blastapi.io"
+            },
+            {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -32164,6 +32184,10 @@
                 "ws_url": "wss://moonriver.public.blastapi.io"
             },
             {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -35663,6 +35687,10 @@
                 "ws_url": "wss://moonriver.public.blastapi.io"
             },
             {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -35935,6 +35963,10 @@
             {
                 "url": "https://moonriver.public.blastapi.io",
                 "ws_url": "wss://moonriver.public.blastapi.io"
+            },
+            {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -38438,10 +38470,6 @@
             "homepage": "https://primecoin.io"
         },
         "electrum": [
-            {
-                "url": "electrumx.gemmer.primecoin.org:50011",
-                "protocol": "TCP"
-            },
             {
                 "url": "electrumx.mainnet.primecoin.org:50011",
                 "protocol": "TCP"
@@ -42818,18 +42846,6 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
