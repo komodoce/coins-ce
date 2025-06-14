@@ -6042,15 +6042,6 @@
                 ]
             },
             {
-                "url": "electrum2.btcz.rocks:50001",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
                 "url": "electrum3.btcz.rocks:50001",
                 "contact": [
                     {

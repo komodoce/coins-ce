@@ -6879,24 +6879,6 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
-                "url": "electrum2.btcz.rocks:50001",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
                 "url": "electrum3.btcz.rocks:50001",
                 "contact": [
                     {
