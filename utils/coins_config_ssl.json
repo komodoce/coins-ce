@@ -28451,6 +28451,7 @@
         "segwit": false,
         "txfee": 1000000,
         "dingo_fee": true,
+        "dust": 1000000,
         "mm2": 1,
         "required_confirmations": 5,
         "avg_blocktime": 60,
