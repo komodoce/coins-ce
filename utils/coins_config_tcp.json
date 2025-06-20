@@ -2481,50 +2481,6 @@
         "explorer_block_url": "block/",
         "binance_id": "ATOM"
     },
-    "AUR": {
-        "coin": "AUR",
-        "type": "UTXO",
-        "name": "Auroracoin",
-        "coinpaprika_id": "aur-auroracoin",
-        "coingecko_id": "auroracoin",
-        "livecoinwatch_id": "AUR",
-        "explorer_url": "https://chainz.cryptoid.info/aur/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "AuroraCoin Signed Message:\n",
-        "fname": "Auroracoin",
-        "rpcport": 12341,
-        "pubtype": 23,
-        "p2shtype": 5,
-        "wiftype": 176,
-        "txfee": 5000,
-        "segwit": false,
-        "bech32_hrp": "aur",
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/85'",
-        "electrum": [
-            {
-                "url": "electrum1.valhala.is:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "388437778624413706"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
     "AVA-BEP20": {
         "coin": "AVA-BEP20",
         "type": "BEP-20",
@@ -17597,28 +17553,6 @@
                         "github": "WikiMin3R"
                     }
                 ]
-            },
-            {
-                "url": "il9p.electrumx.transcenders.name:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -27435,15 +27369,6 @@
                         "discord": "312541186793406465"
                     }
                 ]
-            },
-            {
-                "url": "electrum02.chainster.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?",
@@ -29248,18 +29173,6 @@
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
         "electrum": [
-            {
-                "url": "electrum1.cipig.net:20004",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "electrum2.cipig.net:20004",
                 "protocol": "SSL",
@@ -32643,18 +32556,6 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20064",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "electrum2.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
@@ -32724,18 +32625,6 @@
             "homepage": "https://syscoin.org"
         },
         "electrum": [
-            {
-                "url": "electrum1.cipig.net:20064",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "electrum2.cipig.net:20064",
                 "protocol": "SSL",
@@ -44034,7 +43923,7 @@
         "coin": "CAS",
         "type": "UTXO",
         "name": "Cascoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "cas-cascoin",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://casplorer.com/",
