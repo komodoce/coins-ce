@@ -5336,6 +5336,15 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
+                "url": "electrum1.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrum3.btcz.rocks:50004",
                 "contact": [
                     {
@@ -39198,6 +39207,15 @@
         "electrum": [
             {
                 "url": "electrum.seed.mazanode.com:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.mazanode.com:50005",
                 "protocol": "WSS",
                 "contact": [
                     {
