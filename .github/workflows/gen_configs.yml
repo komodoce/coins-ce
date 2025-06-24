@@ -10,6 +10,10 @@ on:
       - 'utils/coins_config_wss.json'
       - 'utils/coins_config_unfiltered.json'
       - 'utils/electrum_scan_report.json'
+      - 'utils/spritemap.json'
+      - 'utils/spritemap.png'
+      - 'utils/icon_checksums.json'
+
   schedule:
     - cron:  '0 0 * * *'
 
@@ -18,6 +22,19 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install cargo
+        shell: bash
+        run: |
+          DEBIAN_FRONTEND=noninteractive
+          sudo apt update
+          sudo apt install cargo cmake autoconf automake libtool nasm make pkg-config rustc -y
+
+      - name: Install oxipng
+        shell: bash
+        run: |
+          cargo install oxipng
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
 
       - name: Create 128x128 images in icons dir
         shell: bash
@@ -50,6 +67,7 @@ jobs:
           body: |
             - Coins JSON config auto-generated on merge to master
             - Electrum scan report updated
+            - Icon spritemap updated
           labels: |
             config-update
           draft: false
