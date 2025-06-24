@@ -4627,7 +4627,44 @@
             "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
             "homepage": "https://junk-coin.com"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.junkiewally.xyz:50003",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.junkiewally.xyz:50004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.junkiewally.xyz:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BBK": {
@@ -7342,7 +7379,32 @@
             "github": "https://github.com/LIMXTEC/BitCore",
             "homepage": "https://bitcore.cc"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum3.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BTX-segwit": {
@@ -7384,7 +7446,32 @@
             "github": "https://github.com/LIMXTEC/BitCore",
             "homepage": "https://bitcore.cc"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum3.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BTX-BEP20": {
