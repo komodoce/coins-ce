@@ -4392,6 +4392,7 @@
         "is_testnet": true,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "BlackCoin Signed Message:\n",
         "fname": "BlackCoin Testnet",
         "isPoS": 1,
         "rpcport": 25715,
@@ -5107,6 +5108,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "GlobalBoost Signed Message:\n",
         "fname": "GlobalBoost-Y",
         "rpcport": 8225,
         "pubtype": 77,
@@ -5122,6 +5124,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/664'",
+        "links": {
+            "github": "https://github.com/GlobalBoost/GlobalBoost-Y",
+            "homepage": "https://globalboo.st"
+        },
         "electrum": [
             {
                 "url": "electrumserver02.globalboost.info:50013",
@@ -5875,6 +5881,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "BitCore Signed Message:\n",
         "fname": "BitCore",
         "rpcport": 9469,
         "pubtype": 3,
@@ -5936,6 +5943,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "BitCore Signed Message:\n",
         "fname": "BitCore",
         "rpcport": 9469,
         "pubtype": 3,
@@ -7178,6 +7186,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Cheetahcoin Signed Message:\n",
         "fname": "Cheetahcoin",
         "rpcport": 8536,
         "pubtype": 28,
@@ -7191,6 +7200,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/682'",
+        "links": {
+            "github": "https://github.com/ShorelineCrypto/cheetahcoin",
+            "homepage": "https://cheetahcoin.org"
+        },
         "electrum": [
             {
                 "url": "electrum.blastinvest.com:10009",
@@ -10656,6 +10669,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Egulden Signed Message:\n",
         "fname": "e-Gulden",
         "confpath": "USERHOME/.egulden/coin.conf",
         "rpcport": 21015,
@@ -10671,6 +10685,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/78'",
+        "links": {
+            "github": "https://github.com/Electronic-Gulden-Foundation/egulden",
+            "homepage": "https://electronic-gulden-foundation.gitlab.io"
+        },
         "electrum": [
             {
                 "url": "electrum1.egulden.org:50004",
@@ -23128,6 +23146,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Nengcoin Signed Message:\n",
         "fname": "Nengcoin",
         "rpcport": 6376,
         "pubtype": 53,
@@ -23141,6 +23160,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/681'",
+        "links": {
+            "github": "https://github.com/ShorelineCrypto/nengcoin",
+            "homepage": "https://nengcoin.io"
+        },
         "electrum": [
             {
                 "url": "electrum.blastinvest.com:10003",
@@ -25071,6 +25094,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Pandacoin Signed Message:\n",
         "fname": "Pandacoin",
         "isPoS": 1,
         "rpcport": 22444,
@@ -25089,6 +25113,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/37'",
+        "links": {
+            "github": "https://github.com/DigitalPandacoin/pandacoin",
+            "homepage": "https://pandacoin.tech"
+        },
         "electrum": [
             {
                 "url": "electrum.thepandacoin.net:443",
@@ -25396,6 +25424,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Peercoin Signed Message:\n",
         "fname": "Peercoin",
         "isPoS": 1,
         "rpcport": 9902,
@@ -26686,6 +26715,7 @@
         "is_testnet": true,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Qtum Signed Message:\n",
         "fname": "QTUM Testnet",
         "rpcport": 13889,
         "pubtype": 120,
@@ -27777,6 +27807,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "DarkCoin Signed Message:\n",
         "fname": "Raptoreum",
         "rpcport": 9998,
         "pubtype": 60,
@@ -27791,6 +27822,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/10226'",
+        "links": {
+            "github": "https://github.com/Raptor3um/Raptoreum",
+            "homepage": "https://raptoreum.com"
+        },
         "electrum": [
             {
                 "url": "x1.raptoreum.com:50004",
@@ -30291,6 +30326,7 @@
         "is_testnet": true,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
         "fname": "Bitcoin Testnet",
         "rpcport": 18332,
         "pubtype": 111,
@@ -30337,6 +30373,7 @@
         "is_testnet": true,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
         "fname": "Bitcoin Testnet",
         "rpcport": 18332,
         "pubtype": 111,
@@ -30774,6 +30811,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "DarkCoin Signed Message:\n",
         "fname": "Terracoin",
         "confpath": "USERHOME/.terracoincore/terracoin.conf",
         "rpcport": 13332,
@@ -30789,6 +30827,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/83'",
+        "links": {
+            "github": "https://github.com/terracoin/terracoin",
+            "homepage": "https://www.terracoin.io"
+        },
         "electrum": [
             {
                 "url": "failover.trc-uis.ewmcx.biz:50007",
@@ -35001,6 +35043,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
         "fname": "Ergon",
         "rpcport": 2137,
         "pubtype": 0,
@@ -35020,6 +35063,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/2137'",
+        "links": {
+            "github": "https://github.com/Ergon-moe/Bitcoin-Static",
+            "homepage": "https://ergon.moe"
+        },
         "electrum": [
             {
                 "url": "fulcrum.ergon.network:52140",
@@ -36123,6 +36170,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": false,
+        "sign_message_prefix": "Zero Signed Message:\n",
         "fname": "Zero",
         "rpcport": 23811,
         "taddr": 28,
@@ -36141,6 +36189,10 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/323'",
+        "links": {
+            "github": "https://github.com/zerocurrencycoin/Zero",
+            "homepage": "https://zero.directory"
+        },
         "electrum": [
             {
                 "url": "electrum1.cipig.net:30065",
@@ -39477,6 +39529,7 @@
         "is_testnet": false,
         "currently_enabled": false,
         "wallet_only": true,
+        "sign_message_prefix": "Nito Signed Message:\n",
         "fname": "NITO",
         "rpcport": 8825,
         "pubtype": 0,
@@ -39497,8 +39550,8 @@
         },
         "derivation_path": "m/84'/0'",
         "links": {
-            "github": "https://github.com/NitoNetwork/",
-            "homepage": "https://nito.network/"
+            "github": "https://github.com/NitoNetwork/Nito-core",
+            "homepage": "https://nito.network"
         },
         "electrum": [
             {
