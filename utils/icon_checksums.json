@@ -243,10 +243,6 @@
     "original": "34acf9df6bd927ead019d367e7954bd07fe0295e81adfc701e399a0c5b805650",
     "processed": "c3beab2d4a7ed21fa0f26b9e05f51d67edc4a24ae26713969e45e42b0298b8f3"
   },
-  "matictest.png": {
-    "original": "15eccb9953b4e74e6505707edd4e8670a987e1510b395a43eadb743aa2904cf8",
-    "processed": "db2437bffcfb0797be2b0711e8f4ffd3a172a92fd5c460bd12d494b9f41ac31a"
-  },
   "qi.png": {
     "original": "54d583bd1a681a56fbc6761792f8b710e24134da734de6cb4241391b88a5e617",
     "processed": "68ca21ef553d3dcc8b05c0c5879b4825b9f870e53f3135ac3db47e965d606dfc"
@@ -653,7 +649,7 @@
   },
   "kcn.png": {
     "original": "3c0fecb19bbf5e41d2ec827f6e900caad762fa749b47afb376cf1795a84fcf27",
-    "processed": "e453e9f3e7d96d5c1792274c2e560d833190ca0163efafde95ccddf598e47f60"
+    "processed": "bff004c101718d4bfae7026cccb09b7ec0190bdb9a5d697f49134bf3d7ce0234"
   },
   "qiair.png": {
     "original": "54d583bd1a681a56fbc6761792f8b710e24134da734de6cb4241391b88a5e617",
@@ -1001,7 +997,7 @@
   },
   "zdeex.png": {
     "original": "c66a3f0c00b33001e48f05396608f8071f22e264a3e0a67827249f3e7f6d0fd8",
-    "processed": "34e6be87dc0fb571f725eef4ad47c027f845445fc884e462fbc6cdc345d44d6b"
+    "processed": "b6b5edd1acc962b2b2d3dfc90cf4a00617b06b557305b7dd70a7a916c9b88766"
   },
   "xtz.png": {
     "original": "9ea4ae6948c821bf40f3ac6a36869b2bbd7546db51dcf371f4d1164892dbcf4d",
@@ -1701,7 +1697,7 @@
   },
   "shic.png": {
     "original": "69483e8fa28fda95091ce2e1ba7a09efe720bc30babda4efd767190584a0bc47",
-    "processed": "27d5d1a479b2c93b8041643e47d67ef34c0e2a5c111d26587e0baa0578af46ab"
+    "processed": "2b7cc3aa9a5efa82c7f800fe46fb4ebb11b2913813e58667f6b6bcbec1919903"
   },
   "tblk.png": {
     "original": "c8799935e1a29b5de9a2242a0086e4221931ff5d9f99b9ba464d4480676fc7d6",
@@ -1829,7 +1825,7 @@
   },
   "lcn.png": {
     "original": "7d35bb53fe2f5572856159cc68ac3805fc2c7c8633c5318e93545b464901f289",
-    "processed": "98bf56c934b878c8549551cc2e4a663a23121a0909926db0cf4812c41f37348c"
+    "processed": "db8f6b5593bd671185c614a95365ebca9c3969f3874a599d0dc2e150ee07ae4b"
   },
   "ilnf.png": {
     "original": "34c9daed0c53a20a621888cc5636d15ca1f3e8d53de42996e3f1418e3efec37d",
@@ -1854,5 +1850,13 @@
   "pivx.png": {
     "original": "d803cb203c4f0cbf1e91a3b4acba9068b9c9f553ada2392df00f6af5a833b1ab",
     "processed": "74978978be2776f630e322c0ef8aa62bd5879d3c4e3a42ce261ad5ef6e6b10be"
+  },
+  "poltest.png": {
+    "original": "15eccb9953b4e74e6505707edd4e8670a987e1510b395a43eadb743aa2904cf8",
+    "processed": "db2437bffcfb0797be2b0711e8f4ffd3a172a92fd5c460bd12d494b9f41ac31a"
+  },
+  "pol.png": {
+    "original": "15eccb9953b4e74e6505707edd4e8670a987e1510b395a43eadb743aa2904cf8",
+    "processed": "db2437bffcfb0797be2b0711e8f4ffd3a172a92fd5c460bd12d494b9f41ac31a"
   }
 }
