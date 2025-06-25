@@ -1061,16 +1061,6 @@
                 ]
             },
             {
-                "url": "elec-seeder-one.artbytecoin.org:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "elec-seeder-one.artbytecoin.org:50013",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             },
@@ -5796,35 +5786,6 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30001",
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30002",
-                "protocol": "SSL",
-                "disable_cert_verification": false,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30004",
-                "protocol": "WSS",
-                "disable_cert_verification": false,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -5973,35 +5934,6 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30011",
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30012",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.blackcoin.nl:30014",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -6041,18 +5973,6 @@
             "homepage": "https://blocx.tech"
         },
         "electrum": [
-            {
-                "url": "electrum1.blocx.live:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum1.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum1.blocx.live:50004",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrum2.blocx.live:50001",
                 "protocol": "TCP"
@@ -7315,6 +7235,42 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
+                "url": "electrum1.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum1.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum2.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrum3.btcz.rocks:50001",
                 "contact": [
                     {
@@ -7331,15 +7287,6 @@
                     }
                 ],
                 "protocol": "WSS"
-            },
-            {
-                "url": "electrum5.btcz.rocks:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "426842722436120577"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -13389,33 +13336,6 @@
             },
             {
                 "url": "elecx1.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx2.dingocoin.com:3339",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx2.dingocoin.com:3341",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx2.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30365,6 +30285,42 @@
                         "discord": "honglu69#5911"
                     }
                 ]
+            },
+            {
+                "url": "electrum2.mooo.com:10001",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.mooo.com:10002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.mooo.com:10003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -32866,33 +32822,6 @@
             },
             {
                 "url": "electrum01.chainster.org:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50001",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum02.chainster.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -43687,35 +43616,6 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
-            },
-            {
-                "url": "e3.validitytech.com:11001",
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "e3.validitytech.com:11002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
-            },
-            {
-                "url": "e3.validitytech.com:11004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -44406,33 +44306,6 @@
                         "discord": "alviemahmud"
                     }
                 ]
-            },
-            {
-                "url": "electrumx.javerity.com:5885",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.javerity.com:5886",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.javerity.com:5887",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -44503,33 +44376,6 @@
                 "contact": [
                     {
                         "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.javerity.com:5885",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.javerity.com:5886",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.javerity.com:5887",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "cruelnovo#4936"
                     }
                 ]
             }
@@ -47662,7 +47508,7 @@
                 "protocol": "TCP"
             },
             {
-                "url": "zet-ex-four.ewmci.online:50001",
+                "url": "zet-ex-three.ewmci.online:50011",
                 "protocol": "TCP",
                 "contact": [
                     {
@@ -47671,8 +47517,17 @@
                 ]
             },
             {
-                "url": "zet-ex-four.ewmci.online:50002",
+                "url": "zet-ex-three.ewmci.online:50012",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50013",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -51628,7 +51483,7 @@
                 ]
             },
             {
-                "url": "electrum4.runebase.io:50001",
+                "url": "electrum3.runebase.io:50001",
                 "protocol": "TCP",
                 "contact": [
                     {
@@ -51640,7 +51495,7 @@
                 ]
             },
             {
-                "url": "electrum4.runebase.io:50002",
+                "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -51652,7 +51507,7 @@
                 ]
             },
             {
-                "url": "electrum4.runebase.io:50004",
+                "url": "electrum3.runebase.io:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -52083,6 +51938,33 @@
                 ]
             },
             {
+                "url": "electrumx.mazanode.com:50001",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.mazanode.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.mazanode.com:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx2.mazacha.in:50001",
                 "contact": [
                     {
@@ -52159,42 +52041,6 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
-            {
-                "url": "coin.crionic.org:50001",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "coin.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
-            {
-                "url": "coin.crionic.org:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
             {
                 "url": "explorer.crionic.org:50001",
                 "contact": [
@@ -52596,24 +52442,6 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
