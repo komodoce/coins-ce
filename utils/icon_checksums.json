@@ -1531,10 +1531,6 @@
     "original": "dc9b04ba570a61ad0559cc1ddc2b7e1d102b83c894dd351dcc78f6b3b3e72046",
     "processed": "a55ec24365de666c31eb1fb9d5dce376f3b9eb61a01917b0e12638b8a2eba756"
   },
-  "waf.png": {
-    "original": "7dc1d101effd97524a5ae0901270a84beda4c4b9e47eb53d90485dc15afac89c",
-    "processed": "5751caba8168a3010ae3cba69a52bc638a748e1e239a73e2eadc3974b41a2a4f"
-  },
   "eos.png": {
     "original": "d81886def1f84eded87d0f056c2b03e82fc00303ec03bdcb4cac4cbf36f33c10",
     "processed": "7837a63dfce34bb1c0bc73f916ad28147dad503b862db98966eea41780ef8f71"
@@ -1858,5 +1854,9 @@
   "pol.png": {
     "original": "15eccb9953b4e74e6505707edd4e8670a987e1510b395a43eadb743aa2904cf8",
     "processed": "db2437bffcfb0797be2b0711e8f4ffd3a172a92fd5c460bd12d494b9f41ac31a"
+  },
+  "sc.png": {
+    "original": "cd5a675a2295047b174cae7effaac7a3bb8d7f61f84229936368b5d23ce5c8ae",
+    "processed": "a52af53fbaf3e23e839598006c2691cdbc6b1abb548f2e7f34a2eb4a199d72fa"
   }
 }
