@@ -5921,6 +5921,15 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
+                "url": "electrum5.btcz.rocks:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ]
+            },
+            {
                 "url": "electrum1.btcz.rocks:50001",
                 "contact": [
                     {
