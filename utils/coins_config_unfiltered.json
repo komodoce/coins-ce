@@ -1061,6 +1061,16 @@
                 ]
             },
             {
+                "url": "elec-seeder-one.artbytecoin.org:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "elec-seeder-one.artbytecoin.org:50013",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
                 "protocol": "SSL"
             },
@@ -44743,6 +44753,33 @@
                         "discord": "alviemahmud"
                     }
                 ]
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -44813,6 +44850,33 @@
                 "contact": [
                     {
                         "discord": "alviemahmud"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
                     }
                 ]
             }
