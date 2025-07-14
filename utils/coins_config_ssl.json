@@ -116,9 +116,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -452,9 +449,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -511,9 +505,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -878,9 +869,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -928,6 +916,24 @@
             "homepage": "https://artbyte.art"
         },
         "electrum": [
+            {
+                "url": "aby-ex-four.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "aby-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
@@ -1279,9 +1285,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -1391,9 +1394,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -1621,9 +1621,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -1846,9 +1843,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -2145,9 +2139,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -2416,9 +2407,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -2846,9 +2834,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -3462,9 +3447,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -3728,9 +3710,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -3998,9 +3977,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -4179,9 +4155,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -4389,9 +4362,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -5305,9 +5275,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -5541,9 +5508,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -6379,9 +6343,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -6825,9 +6786,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -6945,9 +6903,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -7285,9 +7240,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -7397,9 +7349,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -7954,9 +7903,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -8110,9 +8056,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -8537,9 +8480,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -8693,9 +8633,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -9090,9 +9027,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -9741,9 +9675,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -10062,9 +9993,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -12077,9 +12005,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -12654,9 +12579,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -12777,9 +12699,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -12897,9 +12816,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -13024,9 +12940,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -13470,9 +13383,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -14702,9 +14612,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -15085,9 +14992,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -15506,9 +15410,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -15666,9 +15567,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -15900,9 +15798,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -16016,9 +15911,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -16501,9 +16393,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -16855,9 +16744,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -16967,9 +16853,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -17273,9 +17156,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -17446,9 +17326,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -17458,6 +17335,90 @@
             }
         ],
         "explorer_block_url": "block/"
+    },
+    "IL8P": {
+        "coin": "IL8P",
+        "type": "UTXO",
+        "name": "InfiniLooP",
+        "coinpaprika_id": "il8p-infiniloop",
+        "coingecko_id": "",
+        "livecoinwatch_id": "IL8P",
+        "explorer_url": "https://chainz.cryptoid.info/il8p/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "InfiniLooP Signed Message:\n",
+        "fname": "InfiniLooP",
+        "isPoS": 1,
+        "rpcport": 9459,
+        "pubtype": 33,
+        "p2shtype": 85,
+        "wiftype": 153,
+        "txfee": 100000,
+        "dust": 100000,
+        "mm2": 1,
+        "mature_confirmations": 500,
+        "required_confirmations": 7,
+        "avg_blocktime": 45,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/722'",
+        "links": {
+            "github": "https://github.com/WikiMin3R/InfiniLooP",
+            "homepage": "https://infiniloop.io"
+        },
+        "electrum": [
+            {
+                "url": "il8p.electrumx.transcenders.name:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "InfiniLooP"
+                    },
+                    {
+                        "github": "WikiMin3R"
+                    }
+                ]
+            },
+            {
+                "url": "il9p.electrumx.transcenders.name:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "InfiniLooP"
+                    },
+                    {
+                        "github": "WikiMin3R"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block.dws?"
     },
     "ILN": {
         "coin": "ILN",
@@ -17586,9 +17547,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -17637,9 +17595,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -18107,9 +18062,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -18338,9 +18290,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -18452,9 +18401,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -18512,9 +18458,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -18737,9 +18680,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -18796,9 +18736,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19021,9 +18958,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19194,9 +19128,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19245,9 +19176,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19309,9 +19237,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19361,9 +19286,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19425,9 +19347,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19487,9 +19406,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19541,9 +19457,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19593,9 +19506,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19704,9 +19614,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19819,9 +19726,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19870,9 +19774,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -19934,9 +19835,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -19988,9 +19886,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -20040,9 +19935,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -20678,9 +20570,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -21447,9 +21336,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -21563,9 +21449,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -21916,9 +21799,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -22197,9 +22077,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -22872,9 +22749,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -23045,9 +22919,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -23140,9 +23011,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -24146,9 +24014,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -24411,9 +24276,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -25169,9 +25031,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -25603,9 +25462,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -25822,9 +25678,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -26003,9 +25856,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -26120,9 +25970,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -26442,9 +26289,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -26617,9 +26461,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -27385,9 +27226,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -27501,9 +27339,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -27670,9 +27505,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -27834,9 +27666,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -27954,9 +27783,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -28173,9 +27999,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -29362,9 +29185,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -29787,9 +29607,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -29907,9 +29724,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -30382,9 +30196,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -30816,9 +30627,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -30926,9 +30734,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -31321,9 +31126,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -31380,9 +31182,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -31494,9 +31293,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -31860,9 +31656,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -32240,9 +32033,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -32731,9 +32521,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -32993,9 +32780,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -33571,9 +33355,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -33980,9 +33761,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -34149,9 +33927,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -34199,6 +33974,11 @@
         "electrum": [
             {
                 "url": "failover.trc-uis.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": false
+            },
+            {
+                "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": false
             }
@@ -34397,9 +34177,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -34707,9 +34484,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -35280,9 +35054,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -35331,9 +35102,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -35685,9 +35453,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -36414,9 +36179,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -36965,9 +36727,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -37351,9 +37110,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -37703,9 +37459,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -38299,9 +38052,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -38413,6 +38163,15 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -38963,9 +38722,6 @@
                 "ws_url": "wss://electrum3.cipig.net:38755"
             },
             {
-                "url": "https://polygon-rpc.com"
-            },
-            {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
             },
@@ -39340,6 +39096,15 @@
         },
         "electrum": [
             {
+                "url": "zet-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "zet-ex-three.ewmci.online:50012",
                 "protocol": "SSL",
                 "contact": [
@@ -39562,9 +39327,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
@@ -42826,6 +42588,18 @@
         },
         "electrum": [
             {
+                "url": "coin.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
+            {
                 "url": "explorer.crionic.org:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -43561,9 +43335,6 @@
             {
                 "url": "https://electrum3.cipig.net:18755",
                 "ws_url": "wss://electrum3.cipig.net:38755"
-            },
-            {
-                "url": "https://polygon-rpc.com"
             },
             {
                 "url": "https://polygon.drpc.org",
