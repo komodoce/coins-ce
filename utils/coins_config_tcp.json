@@ -27,6 +27,34 @@
         ],
         "explorer_block_url": "block/"
     },
+    "SCZEN": {
+        "coin": "SCZEN",
+        "type": "SIA",
+        "name": "Siacoin Zen Testnet",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://zen.siascan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": true,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Siacoin Zen Testnet",
+        "mm2": 1,
+        "required_confirmations": 1,
+        "protocol": {
+            "type": "SIA"
+        },
+        "nodes": [
+            {
+                "url": "https://api.siascan.com/zen/wallet/api"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "1INCH-AVX20": {
         "coin": "1INCH-AVX20",
         "type": "AVX-20",
@@ -6444,16 +6472,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -6509,16 +6527,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "electrum3.cipig.net:20069",
                 "protocol": "SSL",
@@ -8157,6 +8165,15 @@
             "homepage": "http://clamclient.com"
         },
         "electrum": [
+            {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.cipig.net:20075",
                 "protocol": "SSL",
@@ -10565,18 +10582,6 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",
@@ -27138,50 +27143,6 @@
         ],
         "explorer_block_url": "block.dws?"
     },
-    "PIVX": {
-        "coin": "PIVX",
-        "type": "UTXO",
-        "name": "PIVX",
-        "coinpaprika_id": "pivx-pivx",
-        "coingecko_id": "pivx",
-        "livecoinwatch_id": "PIVX",
-        "explorer_url": "https://chainz.cryptoid.info/pivx/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "DarkNet Signed Message:\n",
-        "fname": "PIVX",
-        "rpcport": 51473,
-        "pubtype": 30,
-        "p2shtype": 13,
-        "wiftype": 212,
-        "txfee": 100000,
-        "dust": 5460,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/119'",
-        "electrum": [
-            {
-                "url": "electrum01.chainster.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?",
-        "binance_id": "PIVX"
-    },
     "PND": {
         "coin": "PND",
         "type": "UTXO",
@@ -28690,59 +28651,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "QRC20": {
-        "coin": "QRC20",
-        "type": "QRC-20",
-        "name": "QRC20",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://testnet.qtum.info/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "QRC20",
-        "pubtype": 120,
-        "p2shtype": 50,
-        "wiftype": 128,
-        "segwit": false,
-        "txfee": 400000,
-        "mm2": 1,
-        "mature_confirmations": 2000,
-        "required_confirmations": 1,
-        "avg_blocktime": 32,
-        "protocol": {
-            "type": "QRC20",
-            "protocol_data": {
-                "platform": "tQTUM",
-                "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44"
-            },
-            "derivation_path": "m/44'/1'"
-        },
-        "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44",
-        "parent_coin": "tQTUM",
-        "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "electrum": [
-            {
-                "url": "electrum3.cipig.net:20071",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "QTUM": {
         "coin": "QTUM",
         "type": "QRC-20",
@@ -28890,56 +28798,6 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "QTUM"
-    },
-    "tQTUM": {
-        "coin": "tQTUM",
-        "type": "QRC-20",
-        "name": "QTUM Testnet",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://testnet.qtum.info/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Qtum Signed Message:\n",
-        "fname": "QTUM Testnet",
-        "rpcport": 13889,
-        "pubtype": 120,
-        "p2shtype": 110,
-        "wiftype": 239,
-        "segwit": true,
-        "bech32_hrp": "tq",
-        "txfee": 400000,
-        "mm2": 1,
-        "required_confirmations": 1,
-        "mature_confirmations": 2000,
-        "avg_blocktime": 32,
-        "protocol": {
-            "type": "QTUM"
-        },
-        "derivation_path": "m/44'/1'",
-        "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "electrum": [
-            {
-                "url": "electrum3.cipig.net:20071",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
     },
     "RAPH": {
         "coin": "RAPH",
@@ -36682,15 +36540,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.javerity.com:5886",
                 "protocol": "SSL",
                 "contact": [
@@ -36748,15 +36597,6 @@
             "homepage": "https://vertcoin.org"
         },
         "electrum": [
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
             {
                 "url": "electrumx.javerity.com:5886",
                 "protocol": "SSL",
@@ -42347,30 +42187,6 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
-            {
-                "url": "electrum2.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
             {
                 "url": "electrum1.runebase.io:50001",
                 "protocol": "TCP",
