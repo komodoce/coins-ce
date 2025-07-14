@@ -4697,7 +4697,62 @@
             "github": "https://github.com/BitBlocksProject/BitBlocks",
             "homepage": "https://bitblocksproject.com"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "bbk-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-two.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BBK-BEP20": {
@@ -9361,6 +9416,33 @@
             "homepage": "http://clamclient.com"
         },
         "electrum": [
+            {
+                "url": "clam-ex-one.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "clam-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.cipig.net:20075",
                 "protocol": "SSL",
@@ -33045,7 +33127,44 @@
         "parent_coin": "tQTUM",
         "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
         "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum3.cipig.net:10071",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.cipig.net:20071",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.cipig.net:30071",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "QTUM": {
@@ -33302,7 +33421,44 @@
         "derivation_path": "m/44'/1'",
         "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
         "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum3.cipig.net:10071",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.cipig.net:20071",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.cipig.net:30071",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "RAPH": {
@@ -39873,6 +40029,16 @@
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
