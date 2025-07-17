@@ -27,6 +27,34 @@
         ],
         "explorer_block_url": "block/"
     },
+    "SCZEN": {
+        "coin": "SCZEN",
+        "type": "SIA",
+        "name": "Siacoin Zen Testnet",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://zen.siascan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": true,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Siacoin Zen Testnet",
+        "mm2": 1,
+        "required_confirmations": 1,
+        "protocol": {
+            "type": "SIA"
+        },
+        "nodes": [
+            {
+                "url": "https://api.siascan.com/zen/wallet/api"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "1INCH-AVX20": {
         "coin": "1INCH-AVX20",
         "type": "AVX-20",
@@ -4834,6 +4862,16 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
+            },
+            {
+                "url": "electrum3.blackcoin.nl:30012",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "michelvankessel#7656"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -6444,16 +6482,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -6509,16 +6537,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "electrum3.cipig.net:20069",
                 "protocol": "SSL",
@@ -8157,6 +8175,15 @@
             "homepage": "http://clamclient.com"
         },
         "electrum": [
+            {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.cipig.net:20075",
                 "protocol": "SSL",
@@ -10566,18 +10593,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.dimecoinnetwork.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -10802,6 +10817,15 @@
             "homepage": "https://dingocoin.com"
         },
         "electrum": [
+            {
+                "url": "delecx.twinkykms.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "405102339612082177"
+                    }
+                ]
+            },
             {
                 "url": "elecx1.dingocoin.com:3342",
                 "protocol": "SSL",
@@ -33124,6 +33148,52 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
+    "TKL": {
+        "coin": "TKL",
+        "type": "Smart Chain",
+        "name": "Tokel",
+        "coinpaprika_id": "tkl-tokel",
+        "coingecko_id": "tokel",
+        "livecoinwatch_id": "TKL",
+        "explorer_url": "https://explorer.tokel.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "TOKEL",
+        "fname": "Tokel",
+        "rpcport": 29405,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:11077",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
