@@ -140,8 +140,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -477,8 +477,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -539,8 +539,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -908,8 +908,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1328,8 +1328,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1443,8 +1443,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1672,8 +1672,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -1900,8 +1900,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -2198,8 +2198,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -2280,7 +2280,7 @@
         "checkpoint_blocktime": 1652512363,
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20008",
+                "url": "arrr.electrum1.cipig.net:20008",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -2292,7 +2292,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20008",
+                "url": "arrr.electrum2.cipig.net:20008",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -2304,7 +2304,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20008",
+                "url": "arrr.electrum3.cipig.net:20008",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -2472,8 +2472,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -2903,8 +2903,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -3019,7 +3019,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20057",
+                "url": "axe.electrum1.cipig.net:20057",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -3031,7 +3031,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20057",
+                "url": "axe.electrum2.cipig.net:20057",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -3043,7 +3043,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20057",
+                "url": "axe.electrum3.cipig.net:20057",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -3523,8 +3523,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -3792,8 +3792,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4061,8 +4061,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4121,6 +4121,18 @@
         },
         "electrum": [
             {
+                "url": "bch.electrum3.cipig.net:20055",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "bch.imaginary.cash:50002",
                 "protocol": "SSL"
             },
@@ -4131,18 +4143,6 @@
             {
                 "url": "cashnode.bch.ninja:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "electrum3.cipig.net:20055",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/",
@@ -4245,8 +4245,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4456,8 +4456,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -4718,7 +4718,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20003",
+                "url": "bczero.electrum1.cipig.net:20003",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4730,7 +4730,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20003",
+                "url": "bczero.electrum2.cipig.net:20003",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4742,7 +4742,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20003",
+                "url": "bczero.electrum3.cipig.net:20003",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5389,8 +5389,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -5628,8 +5628,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -5777,7 +5777,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20000",
+                "url": "btc.electrum1.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5789,7 +5789,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20000",
+                "url": "btc.electrum2.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5801,7 +5801,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20000",
+                "url": "btc.electrum3.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5907,7 +5907,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20000",
+                "url": "btc.electrum1.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5919,7 +5919,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20000",
+                "url": "btc.electrum2.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -5931,7 +5931,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20000",
+                "url": "btc.electrum3.cipig.net:20000",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -6038,6 +6038,15 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
+            {
+                "url": "electrum5.btcz.rocks:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ]
+            },
             {
                 "url": "electrum1.btcz.rocks:50001",
                 "contact": [
@@ -6502,8 +6511,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -6568,7 +6577,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20069",
+                "url": "btx.electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -6634,7 +6643,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20069",
+                "url": "btx.electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -6949,8 +6958,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -7072,8 +7081,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -7231,7 +7240,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20029",
+                "url": "ccl.electrum1.cipig.net:20029",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7243,7 +7252,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20029",
+                "url": "ccl.electrum2.cipig.net:20029",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7255,7 +7264,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20029",
+                "url": "ccl.electrum3.cipig.net:20029",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7431,8 +7440,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -7546,8 +7555,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -7839,7 +7848,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20012",
+                "url": "chips.electrum1.cipig.net:20012",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7851,7 +7860,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20012",
+                "url": "chips.electrum2.cipig.net:20012",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7863,7 +7872,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20012",
+                "url": "chips.electrum3.cipig.net:20012",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -8102,8 +8111,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8261,8 +8270,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8325,7 +8334,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20075",
+                "url": "clam.electrum3.cipig.net:20075",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -8696,8 +8705,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8855,8 +8864,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -8914,7 +8923,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -8926,7 +8935,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -8938,7 +8947,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -9253,8 +9262,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -9906,8 +9915,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -9962,7 +9971,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20061",
+                "url": "dash.electrum1.cipig.net:20061",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -9974,7 +9983,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20061",
+                "url": "dash.electrum2.cipig.net:20061",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -9986,7 +9995,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20061",
+                "url": "dash.electrum3.cipig.net:20061",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10230,8 +10239,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -10287,7 +10296,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20059",
+                "url": "dgb.electrum1.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10299,7 +10308,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20059",
+                "url": "dgb.electrum2.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10311,7 +10320,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20059",
+                "url": "dgb.electrum3.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10369,7 +10378,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20059",
+                "url": "dgb.electrum1.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10381,7 +10390,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20059",
+                "url": "dgb.electrum2.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10393,7 +10402,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20059",
+                "url": "dgb.electrum3.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10441,11 +10450,6 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -10691,7 +10695,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20072",
+                "url": "diac.electrum1.cipig.net:20072",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10703,7 +10707,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20072",
+                "url": "diac.electrum2.cipig.net:20072",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10903,7 +10907,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10915,7 +10919,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -10927,7 +10931,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -11314,7 +11318,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20060",
+                "url": "doge.electrum1.cipig.net:20060",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -11326,7 +11330,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20060",
+                "url": "doge.electrum2.cipig.net:20060",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -11338,7 +11342,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20060",
+                "url": "doge.electrum3.cipig.net:20060",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -12091,7 +12095,7 @@
         "derivation_path": "m/44'/41'",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20062",
+                "url": "emc2.electrum1.cipig.net:20062",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -12103,7 +12107,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20062",
+                "url": "emc2.electrum2.cipig.net:20062",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -12263,8 +12267,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -12844,8 +12848,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -12968,8 +12972,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13091,8 +13095,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13219,8 +13223,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -13666,8 +13670,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -14415,7 +14419,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20054",
+                "url": "ftc.electrum1.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14427,7 +14431,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20054",
+                "url": "ftc.electrum2.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14439,7 +14443,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20054",
+                "url": "ftc.electrum3.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14495,7 +14499,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20054",
+                "url": "ftc.electrum1.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14507,7 +14511,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20054",
+                "url": "ftc.electrum2.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14519,7 +14523,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20054",
+                "url": "ftc.electrum3.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14900,8 +14904,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -15286,8 +15290,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -15493,7 +15497,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20022",
+                "url": "gleecold.electrum1.cipig.net:20022",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15505,7 +15509,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20022",
+                "url": "gleecold.electrum2.cipig.net:20022",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15517,7 +15521,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20022",
+                "url": "gleecold.electrum3.cipig.net:20022",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15563,7 +15567,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20025",
+                "url": "gleec.electrum1.cipig.net:20025",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15575,7 +15579,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20025",
+                "url": "gleec.electrum2.cipig.net:20025",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15587,7 +15591,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20025",
+                "url": "gleec.electrum3.cipig.net:20025",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -15706,8 +15710,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -15869,8 +15873,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -16102,8 +16106,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -16221,8 +16225,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -16730,8 +16734,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17085,8 +17089,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17200,8 +17204,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17511,8 +17515,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17685,8 +17689,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17935,8 +17939,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -17989,8 +17993,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18458,8 +18462,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18690,8 +18694,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18805,8 +18809,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -18868,8 +18872,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19092,8 +19096,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19154,8 +19158,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19378,8 +19382,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19552,8 +19556,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19606,8 +19610,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19669,8 +19673,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19724,8 +19728,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19787,8 +19791,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19850,8 +19854,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19905,8 +19909,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -19960,8 +19964,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20072,8 +20076,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20186,8 +20190,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20240,8 +20244,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20303,8 +20307,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20358,8 +20362,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20413,8 +20417,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -20793,7 +20797,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20001",
+                "url": "kmd.electrum1.cipig.net:20001",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -20805,7 +20809,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20001",
+                "url": "kmd.electrum2.cipig.net:20001",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -20817,7 +20821,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20001",
+                "url": "kmd.electrum3.cipig.net:20001",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21052,8 +21056,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21151,7 +21155,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20024",
+                "url": "koin.electrum1.cipig.net:20024",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21163,7 +21167,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20024",
+                "url": "koin.electrum2.cipig.net:20024",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21175,7 +21179,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20024",
+                "url": "koin.electrum3.cipig.net:20024",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21281,17 +21285,17 @@
         "derivation_path": "m/44'/140'",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20067",
+                "url": "lbc.electrum1.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             },
             {
-                "url": "electrum2.cipig.net:20067",
+                "url": "lbc.electrum2.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             },
             {
-                "url": "electrum3.cipig.net:20067",
+                "url": "lbc.electrum3.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             }
@@ -21335,17 +21339,17 @@
         "derivation_path": "m/84'/140'",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20067",
+                "url": "lbc.electrum1.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             },
             {
-                "url": "electrum2.cipig.net:20067",
+                "url": "lbc.electrum2.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             },
             {
-                "url": "electrum3.cipig.net:20067",
+                "url": "lbc.electrum3.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             }
@@ -21820,8 +21824,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -21939,8 +21943,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22294,8 +22298,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22578,8 +22582,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -22871,7 +22875,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20063",
+                "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22883,7 +22887,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20063",
+                "url": "ltc.electrum2.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22895,7 +22899,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20063",
+                "url": "ltc.electrum3.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22953,7 +22957,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20063",
+                "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22965,7 +22969,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20063",
+                "url": "ltc.electrum2.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22977,7 +22981,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20063",
+                "url": "ltc.electrum3.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23252,8 +23256,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -23426,8 +23430,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -23524,8 +23528,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -23876,7 +23880,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20023",
+                "url": "mcl.electrum1.cipig.net:20023",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23888,7 +23892,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20023",
+                "url": "mcl.electrum2.cipig.net:20023",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23900,7 +23904,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20023",
+                "url": "mcl.electrum3.cipig.net:20023",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23949,7 +23953,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20005",
+                "url": "mdx.electrum1.cipig.net:20005",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23961,7 +23965,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20005",
+                "url": "mdx.electrum2.cipig.net:20005",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23973,7 +23977,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20005",
+                "url": "mdx.electrum3.cipig.net:20005",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -24529,8 +24533,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -24797,8 +24801,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -25572,8 +25576,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -25872,7 +25876,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -25884,7 +25888,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -25896,7 +25900,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -26007,8 +26011,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -26227,8 +26231,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -26409,8 +26413,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -26529,8 +26533,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -26850,8 +26854,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -27028,8 +27032,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -27813,8 +27817,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -27932,8 +27936,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28100,8 +28104,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28265,8 +28269,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28388,8 +28392,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28608,8 +28612,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -28716,7 +28720,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28728,7 +28732,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28740,7 +28744,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28795,7 +28799,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28807,7 +28811,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28819,7 +28823,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28874,7 +28878,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28886,7 +28890,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -28898,7 +28902,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29183,7 +29187,7 @@
         "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20071",
+                "url": "tqtum.electrum3.cipig.net:20071",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29240,7 +29244,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29252,7 +29256,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29264,7 +29268,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29381,7 +29385,7 @@
         "fallback_swap_contract": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20071",
+                "url": "tqtum.electrum3.cipig.net:20071",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29427,7 +29431,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20004",
+                "url": "raph.electrum1.cipig.net:20004",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29439,7 +29443,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20004",
+                "url": "raph.electrum2.cipig.net:20004",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29451,7 +29455,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20004",
+                "url": "raph.electrum3.cipig.net:20004",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29799,8 +29803,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -29850,7 +29854,16 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20074",
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum3.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29858,15 +29871,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -29910,7 +29914,16 @@
         "derivation_path": "m/84'/143'",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20074",
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum3.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -29918,15 +29931,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -30016,7 +30020,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20020",
+                "url": "doc.electrum1.cipig.net:20020",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30028,7 +30032,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20020",
+                "url": "doc.electrum2.cipig.net:20020",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30040,7 +30044,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20020",
+                "url": "doc.electrum3.cipig.net:20020",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30086,7 +30090,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20021",
+                "url": "marty.electrum1.cipig.net:20021",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30098,7 +30102,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20021",
+                "url": "marty.electrum2.cipig.net:20021",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30110,7 +30114,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20021",
+                "url": "marty.electrum3.cipig.net:20021",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30225,8 +30229,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -30348,8 +30352,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -30627,7 +30631,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20051",
+                "url": "rvn.electrum1.cipig.net:20051",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30639,7 +30643,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20051",
+                "url": "rvn.electrum2.cipig.net:20051",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30651,7 +30655,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20051",
+                "url": "rvn.electrum3.cipig.net:20051",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -30822,8 +30826,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31257,8 +31261,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31370,8 +31374,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31480,7 +31484,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20011",
+                "url": "spacecoin.electrum1.cipig.net:20011",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -31492,7 +31496,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20011",
+                "url": "spacecoin.electrum2.cipig.net:20011",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -31504,7 +31508,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20011",
+                "url": "spacecoin.electrum3.cipig.net:20011",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -31764,8 +31768,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31826,8 +31830,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -31941,8 +31945,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -32308,8 +32312,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -32689,8 +32693,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -32841,7 +32845,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20064",
+                "url": "sys.electrum1.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -32853,7 +32857,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20064",
+                "url": "sys.electrum2.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -32865,7 +32869,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20064",
+                "url": "sys.electrum3.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -32923,7 +32927,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20064",
+                "url": "sys.electrum1.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -32935,7 +32939,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20064",
+                "url": "sys.electrum2.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -32947,7 +32951,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20064",
+                "url": "sys.electrum3.cipig.net:20064",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -33179,8 +33183,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -33230,7 +33234,7 @@
         "derivation_path": "m/44'/1'",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20068",
+                "url": "testbtc.electrum3.cipig.net:20068",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -33285,7 +33289,7 @@
         "derivation_path": "m/84'/1'",
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20068",
+                "url": "testbtc.electrum3.cipig.net:20068",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -33452,8 +33456,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -34094,8 +34098,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -34507,8 +34511,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -34677,8 +34681,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -34933,8 +34937,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -35247,8 +35251,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -35822,8 +35826,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -35876,8 +35880,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -36234,8 +36238,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -36568,7 +36572,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20009",
+                "url": "varrr.electrum1.cipig.net:20009",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36580,7 +36584,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20009",
+                "url": "varrr.electrum2.cipig.net:20009",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36592,7 +36596,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20009",
+                "url": "varrr.electrum3.cipig.net:20009",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36637,7 +36641,7 @@
         "trezor_coin": "Komodo",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20010",
+                "url": "vdex.electrum1.cipig.net:20010",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36649,7 +36653,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20010",
+                "url": "vdex.electrum2.cipig.net:20010",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36661,7 +36665,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20010",
+                "url": "vdex.electrum3.cipig.net:20010",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -36962,8 +36966,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -37020,7 +37024,7 @@
         },
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20073",
+                "url": "via.electrum3.cipig.net:20073",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -37078,7 +37082,7 @@
         },
         "electrum": [
             {
-                "url": "electrum3.cipig.net:20073",
+                "url": "via.electrum3.cipig.net:20073",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -37522,8 +37526,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -37909,8 +37913,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -38264,8 +38268,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -38561,10 +38565,6 @@
         "electrum": [
             {
                 "url": "electrumx.mainnet.primecoin.org:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.primecoin.org:50001",
                 "protocol": "TCP"
             }
         ],
@@ -38868,8 +38868,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -39091,7 +39091,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39103,7 +39103,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39115,7 +39115,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39546,8 +39546,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -39722,7 +39722,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20058",
+                "url": "zec.electrum1.cipig.net:20058",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39734,7 +39734,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20058",
+                "url": "zec.electrum2.cipig.net:20058",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39746,7 +39746,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20058",
+                "url": "zec.electrum3.cipig.net:20058",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39801,7 +39801,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20065",
+                "url": "zer.electrum1.cipig.net:20065",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39813,7 +39813,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20065",
+                "url": "zer.electrum2.cipig.net:20065",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -39825,7 +39825,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20065",
+                "url": "zer.electrum3.cipig.net:20065",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40161,8 +40161,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -40221,7 +40221,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40233,7 +40233,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40245,7 +40245,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40474,7 +40474,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40486,7 +40486,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40498,7 +40498,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40554,7 +40554,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40566,7 +40566,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40578,7 +40578,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40634,7 +40634,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40646,7 +40646,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40658,7 +40658,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40714,7 +40714,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40726,7 +40726,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40738,7 +40738,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40794,7 +40794,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40806,7 +40806,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40818,7 +40818,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40874,7 +40874,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40886,7 +40886,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40898,7 +40898,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40954,7 +40954,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40966,7 +40966,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -40978,7 +40978,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -41034,7 +41034,7 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "electrum1.cipig.net:20050",
+                "url": "qtum.electrum1.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -41046,7 +41046,7 @@
                 ]
             },
             {
-                "url": "electrum2.cipig.net:20050",
+                "url": "qtum.electrum2.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -41058,7 +41058,7 @@
                 ]
             },
             {
-                "url": "electrum3.cipig.net:20050",
+                "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -42532,15 +42532,6 @@
                         "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
                     }
                 ]
-            },
-            {
-                "url": "tbch.loping.net:60002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -42736,19 +42727,6 @@
             {
                 "url": "ecash.stackwallet.com:59002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "fulcrum.pepipierre.fr:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "contact@e.cash"
-                    },
-                    {
-                        "twitter": "ecashofficial"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/",
@@ -44194,8 +44172,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://electrum3.cipig.net:18755",
-                "ws_url": "wss://electrum3.cipig.net:38755"
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
             },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
@@ -44208,53 +44186,6 @@
             {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BONC": {
-        "coin": "BONC",
-        "type": "UTXO",
-        "name": "Bonkcoin",
-        "coinpaprika_id": "bonc1-bonkcoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_BONC",
-        "explorer_url": "https://explorer.bonkscoin.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bonkcoin Signed Message:\n",
-        "fname": "Bonkcoin",
-        "rpcport": 15612,
-        "pubtype": 25,
-        "p2shtype": 28,
-        "wiftype": 151,
-        "segwit": false,
-        "txfee": 1000000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/6363'",
-        "links": {
-            "github": "https://github.com/Bonkcoin/Bonkcoin-core",
-            "homepage": "https://bonkscoin.io"
-        },
-        "electrum": [
-            {
-                "url": "electrum.bonkscoin.io:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "1157581316175437884"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
