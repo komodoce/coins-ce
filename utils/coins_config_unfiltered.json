@@ -12095,6 +12095,16 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -31146,6 +31156,30 @@
                         "discord": "emgi2"
                     }
                 ]
+            },
+            {
+                "url": "pep.electrum3.cipig.net:20076",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "pep.electrum3.cipig.net:30076",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -44309,6 +44343,10 @@
             {
                 "url": "electrumx.mainnet.primecoin.org:50011",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.primecoin.org:50001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -49262,6 +49300,15 @@
         "electrum": [
             {
                 "url": "electrs.electroncash.de:60002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
+                    }
+                ]
+            },
+            {
+                "url": "tbch.loping.net:60002",
                 "protocol": "SSL",
                 "contact": [
                     {
