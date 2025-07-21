@@ -23684,6 +23684,85 @@
         ],
         "explorer_block_url": "block/"
     },
+    "NVC": {
+        "coin": "NVC",
+        "type": "UTXO",
+        "name": "Novacoin",
+        "coinpaprika_id": "nvc-novacoin",
+        "coingecko_id": "novacoin",
+        "livecoinwatch_id": "NVC",
+        "explorer_url": "https://explorer.novaco.in/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "sign_message_prefix": "Novacoin Signed Message:\n",
+        "fname": "Novacoin",
+        "isPoS": 1,
+        "rpcport": 8344,
+        "pubtype": 8,
+        "p2shtype": 20,
+        "wiftype": 136,
+        "decimals": 6,
+        "txfee": 1000,
+        "dust": 10000,
+        "mm2": 1,
+        "mature_confirmations": 500,
+        "required_confirmations": 1,
+        "avg_blocktime": 450,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/50'",
+        "electrum": [
+            {
+                "url": "electrumx.nvc.ewmcx.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
+                "url": "failover.nvc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "NVC-BEP20": {
         "coin": "NVC-BEP20",
         "type": "BEP-20",

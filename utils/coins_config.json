@@ -29277,7 +29277,27 @@
             {
                 "url": "electrumx.nvc.ewmcx.org:50002",
                 "protocol": "SSL",
-                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.nvc.ewmcx.org:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "email": "coins@ewmci.com"
@@ -29299,7 +29319,27 @@
             {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
-                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
+                "url": "failover.nvc.ewmcx.biz:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "email": "coins@ewmci.com"
@@ -49157,6 +49197,19 @@
             {
                 "url": "ecash.stackwallet.com:59004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "fulcrum.pepipierre.fr:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "contact@e.cash"
+                    },
+                    {
+                        "twitter": "ecashofficial"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/",
