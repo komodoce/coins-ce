@@ -25747,7 +25747,6 @@
             {
                 "url": "electrumx.nvc.ewmcx.org:50002",
                 "protocol": "SSL",
-                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "coins@ewmci.com"
@@ -25769,7 +25768,6 @@
             {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
-                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "coins@ewmci.com"
@@ -42766,6 +42764,19 @@
             {
                 "url": "ecash.stackwallet.com:59002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "fulcrum.pepipierre.fr:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "contact@e.cash"
+                    },
+                    {
+                        "twitter": "ecashofficial"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/",
