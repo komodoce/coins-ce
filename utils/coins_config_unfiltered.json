@@ -28336,6 +28336,10 @@
             {
                 "url": "133.167.67.203:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "mona.electrum3.cipig.net:30077",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -28385,6 +28389,10 @@
             {
                 "url": "133.167.67.203:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "mona.electrum3.cipig.net:30077",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
