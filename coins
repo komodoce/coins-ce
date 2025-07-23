@@ -2005,6 +2005,7 @@
     "chain_id": 56,
     "use_access_list": true,
     "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Low",
     "required_confirmations": 3,
     "protocol": {
       "type": "ETH",
@@ -9193,6 +9194,7 @@
     "chain_id": 137,
     "use_access_list": true,
     "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
     "avg_blocktime": 1.8,
     "required_confirmations": 20,
     "protocol": {
