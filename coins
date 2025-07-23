@@ -1117,6 +1117,7 @@
     "chain_id": 43114,
     "use_access_list": true,
     "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
     "required_confirmations": 3,
     "avg_blocktime": 2.4,
     "protocol": {
@@ -4874,6 +4875,8 @@
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 1,
+    "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
     "sign_message_prefix": "Ethereum Signed Message:\n",
     "required_confirmations": 3,
     "avg_blocktime": 15,
