@@ -23090,6 +23090,42 @@
                 ]
             },
             {
+                "url": "electrum2.kcnxp.com:51001",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.kcnxp.com:51001",
                 "contact": [
                     {
@@ -23115,6 +23151,42 @@
             },
             {
                 "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51001",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -23243,6 +23315,42 @@
                 ]
             },
             {
+                "url": "electrum2.kcnxp.com:51001",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.kcnxp.com:51001",
                 "contact": [
                     {
@@ -23268,6 +23376,42 @@
             },
             {
                 "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51001",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
                 "protocol": "WSS",
                 "contact": [
                     {
