@@ -2009,7 +2009,7 @@
     "chain_id": 56,
     "use_access_list": true,
     "max_eth_tx_type": 2,
-    "swap_gas_fee_policy": "Low",
+    "swap_gas_fee_policy": "Medium",
     "required_confirmations": 3,
     "protocol": {
       "type": "ETH",
