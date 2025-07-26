@@ -776,50 +776,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "AAVE-HCO20": {
-        "coin": "AAVE-HCO20",
-        "type": "HecoChain",
-        "name": "AAVE",
-        "coinpaprika_id": "aave-new",
-        "coingecko_id": "aave",
-        "livecoinwatch_id": "AAVE",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "AAVE",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "AAVE-KRC20": {
         "coin": "AAVE-KRC20",
         "type": "KRC-20",
@@ -4589,51 +4545,6 @@
         "explorer_block_url": "block/",
         "binance_id": "BCH"
     },
-    "BCH-HCO20": {
-        "coin": "BCH-HCO20",
-        "type": "HecoChain",
-        "name": "Bitcoin Cash",
-        "coinpaprika_id": "bch-bitcoin-cash",
-        "coingecko_id": "bitcoin-cash",
-        "livecoinwatch_id": "BCH",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Bitcoin Cash",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "avg_blocktime": 3,
-        "decimals": 18,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "BCH"
-    },
     "BIDR-BEP20": {
         "coin": "BIDR-BEP20",
         "type": "BEP-20",
@@ -5012,7 +4923,7 @@
         "chain_id": 56,
         "use_access_list": true,
         "max_eth_tx_type": 2,
-        "swap_gas_fee_policy": "Low",
+        "swap_gas_fee_policy": "Medium",
         "required_confirmations": 3,
         "protocol": {
             "type": "ETH",
@@ -8928,30 +8839,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -9778,50 +9665,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "DAI-HCO20": {
-        "coin": "DAI-HCO20",
-        "type": "HecoChain",
-        "name": "Dai",
-        "coinpaprika_id": "dai-dai",
-        "coingecko_id": "dai",
-        "livecoinwatch_id": "DAI",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Dai",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -10926,30 +10769,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -11625,50 +11444,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "DOT-HCO20": {
-        "coin": "DOT-HCO20",
-        "type": "HecoChain",
-        "name": "Polkadot",
-        "coinpaprika_id": "dot-polkadot",
-        "coingecko_id": "polkadot",
-        "livecoinwatch_id": "DOT",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Polkadot",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "DP": {
@@ -12738,51 +12513,6 @@
         "explorer_block_url": "block/",
         "binance_id": "ETH"
     },
-    "ETH-HCO20": {
-        "coin": "ETH-HCO20",
-        "type": "HecoChain",
-        "name": "Ethereum",
-        "coinpaprika_id": "eth-ethereum",
-        "coingecko_id": "ethereum",
-        "livecoinwatch_id": "ETH",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Ethereum",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
-    },
     "ETH-KRC20": {
         "coin": "ETH-KRC20",
         "type": "KRC-20",
@@ -13827,50 +13557,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "FIL-HCO20": {
-        "coin": "FIL-HCO20",
-        "type": "HecoChain",
-        "name": "Filecoin",
-        "coinpaprika_id": "fil-filecoin",
-        "coingecko_id": "filecoin",
-        "livecoinwatch_id": "FIL",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Filecoin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -17252,114 +16938,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "HT": {
-        "coin": "HT",
-        "type": "HecoChain",
-        "name": "Huobi Token",
-        "coinpaprika_id": "ht-huobi-token",
-        "coingecko_id": "huobi-token",
-        "livecoinwatch_id": "HT",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Huobi Token",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "required_confirmations": 3,
-        "avg_blocktime": 3,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 128
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "trezor_coin": "Huobi ECO Chain",
-        "links": {
-            "homepage": "https://www.hecochain.com"
-        },
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "HT-ERC20": {
-        "coin": "HT-ERC20",
-        "type": "ERC-20",
-        "name": "Huobi Token",
-        "coinpaprika_id": "ht-huobi-token",
-        "coingecko_id": "huobi-token",
-        "livecoinwatch_id": "HT",
-        "explorer_url": "https://etherscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Huobi Token",
-        "required_confirmations": 3,
-        "avg_blocktime": 15,
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "ETH",
-                "contract_address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "trezor_coin": "Huobi Token",
-        "links": {
-            "homepage": "https://www.hbg.com"
-        },
-        "contract_address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
-        "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
-        "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
-                "url": "https://eth3.cipig.net:18555",
-                "ws_url": "wss://eth3.cipig.net:38555",
-                "contact": {
-                    "email": "cipi@komodoplatform.com"
-                }
-            },
-            {
-                "url": "https://ethereum-rpc.publicnode.com",
-                "ws_url": "wss://ethereum-rpc.publicnode.com"
-            },
-            {
-                "url": "https://mainnet.gateway.tenderly.co",
-                "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "HUSD-ERC20": {
         "coin": "HUSD-ERC20",
         "type": "ERC-20",
@@ -17417,50 +16995,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "HUSD-HCO20": {
-        "coin": "HUSD-HCO20",
-        "type": "HecoChain",
-        "name": "HUSD",
-        "coinpaprika_id": "husd-husd",
-        "coingecko_id": "husd",
-        "livecoinwatch_id": "HUSD",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "HUSD",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 8,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -21377,6 +20911,11 @@
                 "url": "lbc.electrum2.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:20067",
+                "disable_cert_verification": false,
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -21424,6 +20963,11 @@
             },
             {
                 "url": "lbc.electrum2.cipig.net:20067",
+                "disable_cert_verification": false,
+                "protocol": "SSL"
+            },
+            {
+                "url": "lbc.electrum3.cipig.net:20067",
                 "disable_cert_verification": false,
                 "protocol": "SSL"
             }
@@ -21579,31 +21123,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21684,31 +21204,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22236,50 +21732,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "LINK-HCO20": {
-        "coin": "LINK-HCO20",
-        "type": "HecoChain",
-        "name": "Chainlink",
-        "coinpaprika_id": "link-chainlink",
-        "coingecko_id": "chainlink",
-        "livecoinwatch_id": "LINK",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Chainlink",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x9e004545c59D359F6B7BFB06a26390b087717b42"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -23692,7 +23144,7 @@
         "coin": "MATIC-BEP20",
         "type": "BEP-20",
         "name": "Polygon (OLD)",
-        "coinpaprika_id": "matic-polygon",
+        "coinpaprika_id": "matic-matic-network",
         "coingecko_id": "matic-network",
         "livecoinwatch_id": "MATIC",
         "explorer_url": "https://bscscan.com/",
@@ -23750,7 +23202,7 @@
         "coin": "MATIC-ERC20",
         "type": "ERC-20",
         "name": "Polygon (OLD)",
-        "coinpaprika_id": "matic-polygon",
+        "coinpaprika_id": "matic-matic-network",
         "coingecko_id": "matic-network",
         "livecoinwatch_id": "MATIC",
         "explorer_url": "https://etherscan.io/",
@@ -23807,6 +23259,50 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "MATIC-KRC20": {
+        "coin": "MATIC-KRC20",
+        "type": "KRC-20",
+        "name": "Polygon",
+        "coinpaprika_id": "matic-matic-network",
+        "coingecko_id": "matic-network",
+        "livecoinwatch_id": "MATIC",
+        "explorer_url": "https://explorer.kcc.io/en/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Polygon",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 321,
+        "decimals": 18,
+        "avg_blocktime": 3,
+        "required_confirmations": 3,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "KCS",
+                "contract_address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da",
+        "parent_coin": "KCS",
+        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "nodes": [
+            {
+                "url": "https://kcc-rpc.com"
+            },
+            {
+                "url": "https://rpc-mainnet.kcc.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -25954,30 +25450,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
@@ -28802,30 +28274,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -28881,30 +28329,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -28959,30 +28383,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
@@ -29326,30 +28726,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -29671,50 +29047,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "REN-HCO20": {
-        "coin": "REN-HCO20",
-        "type": "HecoChain",
-        "name": "Ren",
-        "coinpaprika_id": "ren-republic-protocol",
-        "coingecko_id": "republic-protocol",
-        "livecoinwatch_id": "REN",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Ren",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x212208bcc81F3a2D0188afF76A2d39351eb53b96"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x212208bcc81F3a2D0188afF76A2d39351eb53b96",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -34487,50 +33819,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "TUSD-HCO20": {
-        "coin": "TUSD-HCO20",
-        "type": "HecoChain",
-        "name": "TrueUSD",
-        "coinpaprika_id": "tusd-trueusd",
-        "coingecko_id": "true-usd",
-        "livecoinwatch_id": "TUSD",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "TrueUSD",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "TUSD-KRC20": {
         "coin": "TUSD-KRC20",
         "type": "KRC-20",
@@ -35219,50 +34507,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "UNI-HCO20": {
-        "coin": "UNI-HCO20",
-        "type": "HecoChain",
-        "name": "Uniswap",
-        "coinpaprika_id": "uni-uniswap",
-        "coingecko_id": "uniswap",
-        "livecoinwatch_id": "UNI",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Uniswap",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "decimals": 18,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "UNI-KRC20": {
         "coin": "UNI-KRC20",
         "type": "KRC-20",
@@ -35744,50 +34988,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "USDC-HCO20": {
-        "coin": "USDC-HCO20",
-        "type": "HecoChain",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "avg_blocktime": 3,
-        "decimals": 6,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "USDC-KRC20": {
         "coin": "USDC-KRC20",
         "type": "KRC-20",
@@ -36202,50 +35402,6 @@
             {
                 "url": "https://fantom.drpc.org",
                 "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDT-HCO20": {
-        "coin": "USDT-HCO20",
-        "type": "HecoChain",
-        "name": "Tether",
-        "coinpaprika_id": "usdt-tether",
-        "coingecko_id": "tether",
-        "livecoinwatch_id": "USDT",
-        "explorer_url": "https://hecoinfo.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Tether",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 128,
-        "avg_blocktime": 3,
-        "decimals": 18,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "HT",
-                "contract_address": "0xa71EdC38d189767582C38A3145b5873052c3e47a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
-        "parent_coin": "HT",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "http://http-mainnet.hecochain.com"
-            },
-            {
-                "url": "https://http-mainnet-node.huobichain.com"
             }
         ],
         "explorer_block_url": "block/"
@@ -39204,30 +38360,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -40334,30 +39466,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -40587,30 +39695,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -40666,30 +39750,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
@@ -40747,30 +39807,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -40826,30 +39862,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
@@ -40907,30 +39919,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -40986,30 +39974,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
@@ -41067,30 +40031,6 @@
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
             {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
                 "contact": [
@@ -41146,30 +40086,6 @@
         "swap_contract_address": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "fallback_swap_contract": "0x2f754733acd6d753731c00fee32cb484551cc15d",
         "electrum": [
-            {
-                "url": "qtum.electrum1.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "qtum.electrum2.cipig.net:20050",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "qtum.electrum3.cipig.net:20050",
                 "protocol": "SSL",
