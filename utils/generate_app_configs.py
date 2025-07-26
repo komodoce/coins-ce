@@ -143,7 +143,6 @@ class CoinConfig:
             "EWT": "EWT",
             "FTM": "FTM-20",
             "GLMR": "Moonbeam",
-            "HT": "HecoChain",
             "KCS": "KRC-20",
             "POL": "Polygon",
             "MOVR": "Moonriver",
