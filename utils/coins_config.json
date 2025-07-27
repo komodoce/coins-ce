@@ -7565,9 +7565,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 18,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -10992,9 +10992,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 18,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -13439,6 +13439,26 @@
             {
                 "url": "pink-deer-69.doi.works:50001",
                 "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/doichain/electrum-doi/issues",
@@ -16948,8 +16968,8 @@
         "mm2": 1,
         "chain_id": 1285,
         "decimals": 18,
-        "avg_blocktime": 15,
-        "required_confirmations": 3,
+        "avg_blocktime": 6,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -27580,9 +27600,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 18,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -27904,8 +27924,8 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "required_confirmations": 3,
-        "avg_blocktime": 15,
+        "required_confirmations": 6,
+        "avg_blocktime": 6,
         "protocol": {
             "type": "ETH",
             "protocol_data": {
@@ -27919,6 +27939,7 @@
         },
         "use_access_list": true,
         "max_eth_tx_type": 2,
+        "swap_gas_fee_policy": "Medium",
         "gas_limit": {
             "eth_payment": 100000,
             "eth_receiver_spend": 500000,
@@ -36202,9 +36223,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 18,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -39835,9 +39856,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 6,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
@@ -40113,9 +40134,9 @@
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 1285,
-        "avg_blocktime": 15,
+        "avg_blocktime": 6,
         "decimals": 6,
-        "required_confirmations": 3,
+        "required_confirmations": 6,
         "protocol": {
             "type": "ERC20",
             "protocol_data": {
