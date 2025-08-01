@@ -150,10 +150,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -485,10 +481,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -547,10 +539,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -870,10 +858,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -1322,10 +1306,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -1437,10 +1417,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -1759,10 +1735,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -1985,10 +1957,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -2281,10 +2249,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -2625,10 +2589,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -3137,10 +3097,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -3827,10 +3783,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -4094,10 +4046,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -4361,10 +4309,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -4581,10 +4525,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -4698,33 +4638,6 @@
             "homepage": "https://bitblocksproject.com"
         },
         "electrum": [
-            {
-                "url": "bbk-ex-three.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "bbk-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "bbk-ex-three.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "bbk-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
@@ -4852,10 +4765,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -5537,32 +5446,7 @@
             "github": "https://github.com/BLOCXTECH/BLOCX",
             "homepage": "https://blocx.tech"
         },
-        "electrum": [
-            {
-                "url": "electrum2.blocx.live:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum2.blocx.live:50004",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum3.blocx.live:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum3.blocx.live:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum3.blocx.live:50004",
-                "protocol": "WSS"
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "BNB": {
@@ -5975,10 +5859,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -6214,10 +6094,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -7344,10 +7220,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -7835,10 +7707,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -7958,10 +7826,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -8410,10 +8274,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -8525,10 +8385,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -9224,10 +9080,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -9383,10 +9235,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -9901,10 +9749,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -10060,10 +9904,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -10530,10 +10370,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -11173,10 +11009,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -11569,10 +11401,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -13273,10 +13101,6 @@
         },
         "electrum": [
             {
-                "url": "dogec-one.ewm-cx.com:50006",
-                "protocol": "TCP"
-            },
-            {
                 "url": "dogec-one.ewm-cx.com:50007",
                 "protocol": "SSL"
             },
@@ -14175,10 +13999,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -14709,10 +14529,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -14833,10 +14649,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -14956,10 +14768,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -15084,10 +14892,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -15529,10 +15333,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -17033,10 +16833,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -17419,10 +17215,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -18041,10 +17833,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -18204,10 +17992,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -18437,10 +18221,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -18556,10 +18336,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -19125,10 +18901,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -19480,10 +19252,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -19595,10 +19363,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -19754,10 +19518,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -19928,10 +19688,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -20249,10 +20005,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -20303,10 +20055,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -20764,10 +20512,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -20994,10 +20738,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -21109,10 +20849,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -21172,10 +20908,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -21396,10 +21128,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -21458,10 +21186,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -21682,10 +21406,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -21856,10 +21576,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -21910,10 +21626,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -21973,10 +21685,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22028,10 +21736,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22091,10 +21795,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22154,10 +21854,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22209,10 +21905,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22264,10 +21956,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22376,10 +22064,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -22490,10 +22174,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -22544,10 +22224,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22607,10 +22283,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22662,10 +22334,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -22717,10 +22385,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -23588,10 +23252,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -24541,10 +24201,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -24694,10 +24350,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -25005,10 +24657,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -25287,10 +24935,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -26123,10 +25767,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -26297,10 +25937,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -26396,10 +26032,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/",
@@ -27593,10 +27225,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -27861,10 +27489,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -28715,10 +28339,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -29304,10 +28924,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -29561,10 +29177,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -29741,10 +29353,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -29861,10 +29469,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -30180,10 +29784,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -30358,10 +29958,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -31282,10 +30878,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -31401,10 +30993,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -31579,10 +31167,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -31774,10 +31358,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -31897,10 +31477,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -32117,10 +31693,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -33703,10 +33275,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -34339,10 +33907,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -34462,10 +34026,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -35056,10 +34616,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -35487,10 +35043,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -35600,10 +35152,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -36069,10 +35617,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -36131,10 +35675,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -36246,10 +35786,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -36613,10 +36149,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -36994,10 +36526,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -37628,10 +37156,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -37949,10 +37473,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -38622,10 +38142,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -38991,10 +38507,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -39161,10 +38673,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -39427,10 +38935,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -39697,10 +39201,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -40240,10 +39740,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -40294,10 +39790,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -40608,10 +40100,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -41539,10 +41027,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -41790,22 +41274,6 @@
             {
                 "url": "el0.verus.io:17486",
                 "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
-            },
-            {
-                "url": "el0.verus.io:17488",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "email": "0x03-ctrlc@protonmail.com"
@@ -42324,10 +41792,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -42711,10 +42175,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -43120,10 +42580,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -43849,10 +43305,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -44643,10 +44095,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -45427,10 +44875,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
@@ -49085,78 +48529,6 @@
                         "discord": "Bago#7842"
                     }
                 ]
-            },
-            {
-                "url": "electrum2.runebase.io:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.runebase.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.runebase.io:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.runebase.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -49972,15 +49344,6 @@
                 ]
             },
             {
-                "url": "electrum2.kiirocoin.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -50089,24 +49452,6 @@
             },
             {
                 "url": "electrum.mewccrypto.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -50704,10 +50049,6 @@
             {
                 "url": "https://polygon.drpc.org",
                 "ws_url": "wss://polygon.drpc.org"
-            },
-            {
-                "url": "https://polygon.gateway.tenderly.co",
-                "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
         "explorer_block_url": "block/"
