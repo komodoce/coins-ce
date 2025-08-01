@@ -29,6 +29,7 @@ BINANCE_DELISTED_COINS = [
     "GFT",
     "GRS",
     "IRIS",
+    "KMD",
     "LOOM",
     "MATIC",
     "MC",

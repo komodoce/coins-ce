@@ -19238,8 +19238,7 @@
         ],
         "explorer_block_url": "block/",
         "is_claimable": true,
-        "minimal_claim_amount": "10",
-        "binance_id": "KMD"
+        "minimal_claim_amount": "10"
     },
     "KMD-BEP20": {
         "coin": "KMD-BEP20",
@@ -19295,8 +19294,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "KMD"
+        "explorer_block_url": "block/"
     },
     "KNC-BEP20": {
         "coin": "KNC-BEP20",
