@@ -5605,7 +5605,20 @@
             "github": "https://github.com/briskcoin-project/briskcoin",
             "homepage": "https://briskcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx1.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx3.briskcoin.org:50002",
+                "protocol": "SSL"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BTC-segwit": {
@@ -37609,10 +37622,6 @@
         "electrum": [
             {
                 "url": "electrumx1.vanillacash.info:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
             },
             {

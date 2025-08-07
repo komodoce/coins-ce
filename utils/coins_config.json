@@ -6245,8 +6245,36 @@
                 "protocol": "TCP"
             },
             {
+                "url": "electrumx1.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.briskcoin.org:50003",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumx2.briskcoin.org:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50003",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumx3.briskcoin.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx3.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx3.briskcoin.org:50003",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -42964,18 +42992,6 @@
             },
             {
                 "url": "electrumx1.vanillacash.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50013",
                 "protocol": "WSS"
             },
             {
