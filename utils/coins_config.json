@@ -43212,6 +43212,10 @@
         "derivation_path": "m/44'/77'",
         "electrum": [
             {
+                "url": "159.69.73.223:5036",
+                "protocol": "TCP"
+            },
+            {
                 "url": "electrum-verge.cloud:50001",
                 "protocol": "TCP"
             },
