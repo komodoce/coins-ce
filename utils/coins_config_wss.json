@@ -24580,15 +24580,6 @@
         },
         "electrum": [
             {
-                "url": "electrum.pepe.tips:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "squidicuz"
-                    }
-                ]
-            },
-            {
                 "url": "electrum.pepeblocks.com:50004",
                 "protocol": "WSS",
                 "contact": [

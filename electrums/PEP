@@ -45,24 +45,5 @@
                 "discord": "emgi2"
             }
         ]
-    },
-    {
-        "url": "electrum.pepe.tips:50001",
-        "protocol": "TCP",
-        "contact": [
-            {
-                "discord": "squidicuz"
-            }
-        ]
-    },
-    {
-        "url": "electrum.pepe.tips:50002",
-        "protocol": "SSL",
-        "ws_url": "electrum.pepe.tips:50004",
-        "contact": [
-            {
-                "discord": "squidicuz"
-            }
-        ]
     }
 ]
