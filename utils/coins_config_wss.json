@@ -750,6 +750,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -10682,6 +10691,11 @@
                 "url": "electrum1.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -10958,18 +10972,6 @@
         "electrum": [
             {
                 "url": "emc2.electrum1.cipig.net:30062",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "emc2.electrum2.cipig.net:30062",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -26026,7 +26028,7 @@
         "type": "UTXO",
         "name": "Shibacoin",
         "coinpaprika_id": "shic-shibacoin",
-        "coingecko_id": "",
+        "coingecko_id": "shibacoin",
         "livecoinwatch_id": "SHIC",
         "explorer_url": "https://shibaexplorer.com/",
         "explorer_tx_url": "tx/",
