@@ -10981,6 +10981,18 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "emc2.electrum2.cipig.net:30062",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
