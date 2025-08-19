@@ -4135,7 +4135,7 @@
     "name": "diminutivecoin",
     "fname": "Diminutive Coin",
     "sign_message_prefix": "DiminutiveCoin Signed Message:\n",
-    "rpcport": 49122,
+    "rpcport": 49588,
     "pubtype": 32,
     "p2shtype": 30,
     "wiftype": 181,
@@ -4143,11 +4143,16 @@
     "txfee": 10000,
     "segwit": false,
     "mm2": 1,
-    "mature_confirmations": 75,
-    "required_confirmations": 4,
+    "mature_confirmations": 100,
+    "required_confirmations": 6,
     "avg_blocktime": 75,
     "protocol": {
       "type": "UTXO"
+    },
+    "derivation_path": "m/44'/745'",
+    "links": {
+      "github": "https://github.com/MadCatMining/DiminutiveCoin",
+      "homepage": "https://diminutivecoin.com"
     }
   },
   {
@@ -6519,6 +6524,28 @@
       }
     },
     "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "HBAR-BEP20",
+    "name": "hbar_bep20",
+    "fname": "Hedera",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x0422f966Bf8E978075a97D47eF4c7EFd3563Fa51"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://hedera.com"
+    }
   },
   {
     "coin": "HEX-ERC20",
@@ -12238,6 +12265,28 @@
       }
     },
     "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "SUI-BEP20",
+    "name": "sui_bep20",
+    "fname": "Sui",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0xd57f2e190C11cffc667AA5aD026Cd4C8DE0772a7"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://sui.io"
+    }
   },
   {
     "coin": "SUSHI-AVX20",
