@@ -9796,7 +9796,7 @@
         "coinpaprika_id": "dimi-diminutive-coin",
         "coingecko_id": "diminutive-coin",
         "livecoinwatch_id": "DIMI",
-        "explorer_url": "https://explorer.diminutivecoin.com/",
+        "explorer_url": "https://explorer_new.diminutivecoin.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -9806,7 +9806,7 @@
         "wallet_only": false,
         "sign_message_prefix": "DiminutiveCoin Signed Message:\n",
         "fname": "Diminutive Coin",
-        "rpcport": 49122,
+        "rpcport": 49588,
         "pubtype": 32,
         "p2shtype": 30,
         "wiftype": 181,
@@ -9814,11 +9814,16 @@
         "txfee": 10000,
         "segwit": false,
         "mm2": 1,
-        "mature_confirmations": 75,
-        "required_confirmations": 4,
+        "mature_confirmations": 100,
+        "required_confirmations": 6,
         "avg_blocktime": 75,
         "protocol": {
             "type": "UTXO"
+        },
+        "derivation_path": "m/44'/745'",
+        "links": {
+            "github": "https://github.com/MadCatMining/DiminutiveCoin",
+            "homepage": "https://diminutivecoin.com"
         },
         "electrum": [
             {
@@ -15419,6 +15424,60 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
+        "explorer_block_url": "block/"
+    },
+    "HBAR-BEP20": {
+        "coin": "HBAR-BEP20",
+        "type": "BEP-20",
+        "name": "Hedera",
+        "coinpaprika_id": "hbar-hedera-hashgraph",
+        "coingecko_id": "hedera-hashgraph",
+        "livecoinwatch_id": "HBAR",
+        "explorer_url": "https://bscscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Hedera",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 56,
+        "decimals": 18,
+        "avg_blocktime": 0.75,
+        "required_confirmations": 5,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "BNB",
+                "contract_address": "0x0422f966Bf8E978075a97D47eF4c7EFd3563Fa51"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "links": {
+            "homepage": "https://hedera.com"
+        },
+        "contract_address": "0x0422f966Bf8E978075a97D47eF4c7EFd3563Fa51",
+        "parent_coin": "BNB",
+        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "nodes": [
+            {
+                "url": "https://bsc1.cipig.net:18655",
+                "ws_url": "wss://bsc1.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc2.cipig.net:18655",
+                "ws_url": "wss://bsc2.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc3.cipig.net:18655",
+                "ws_url": "wss://bsc3.cipig.net:38655"
+            }
+        ],
+        "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
     "HEX-ERC20": {
@@ -29197,6 +29256,60 @@
         ],
         "explorer_block_url": "block/"
     },
+    "SUI-BEP20": {
+        "coin": "SUI-BEP20",
+        "type": "BEP-20",
+        "name": "Sui",
+        "coinpaprika_id": "sui-sui",
+        "coingecko_id": "sui",
+        "livecoinwatch_id": "_SUI",
+        "explorer_url": "https://bscscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Sui",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 56,
+        "decimals": 18,
+        "avg_blocktime": 0.75,
+        "required_confirmations": 5,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "BNB",
+                "contract_address": "0xd57f2e190C11cffc667AA5aD026Cd4C8DE0772a7"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "links": {
+            "homepage": "https://sui.io"
+        },
+        "contract_address": "0xd57f2e190C11cffc667AA5aD026Cd4C8DE0772a7",
+        "parent_coin": "BNB",
+        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "nodes": [
+            {
+                "url": "https://bsc1.cipig.net:18655",
+                "ws_url": "wss://bsc1.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc2.cipig.net:18655",
+                "ws_url": "wss://bsc2.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc3.cipig.net:18655",
+                "ws_url": "wss://bsc3.cipig.net:38655"
+            }
+        ],
+        "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
     "SUSHI-AVX20": {
         "coin": "SUSHI-AVX20",
         "type": "AVX-20",
@@ -31645,11 +31758,6 @@
             "homepage": "https://unituscurrency.com"
         },
         "electrum": [
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
             {
                 "url": "uis-uno.ewmcx.net:50003",
                 "protocol": "WSS",
@@ -35422,10 +35530,6 @@
                 "protocol": "WSS"
             },
             {
-                "url": "electrumx2.vanillacash.info:50013",
-                "protocol": "WSS"
-            },
-            {
                 "url": "xvc-ex-seven.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -35602,10 +35706,6 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
-            {
-                "url": "electrum-verge.cloud:50004",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrumx-verge.cloud:50004",
                 "protocol": "WSS"
@@ -36267,55 +36367,6 @@
         ],
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
-    },
-    "ZET": {
-        "coin": "ZET",
-        "type": "UTXO",
-        "name": "Zetacoin",
-        "coinpaprika_id": "zet-zetacoin",
-        "coingecko_id": "zetacoin",
-        "livecoinwatch_id": "ZET",
-        "explorer_url": "https://chainz.cryptoid.info/zet/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Zetacoin Signed Message:\n",
-        "fname": "Zetacoin",
-        "isPoS": 1,
-        "rpcport": 22014,
-        "pubtype": 20,
-        "p2shtype": 85,
-        "wiftype": 153,
-        "txfee": 100000,
-        "dust": 100000,
-        "mm2": 1,
-        "mature_confirmations": 500,
-        "required_confirmations": 7,
-        "avg_blocktime": 45,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/719'",
-        "links": {
-            "github": "https://github.com/WikiMin3R/ZetacoinE",
-            "homepage": "https://zetacoin.io"
-        },
-        "electrum": [
-            {
-                "url": "zet-ex-three.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
         "coin": "ZIL-BEP20",
@@ -38964,59 +39015,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "RUNES": {
-        "coin": "RUNES",
-        "type": "UTXO",
-        "name": "Runebase",
-        "coinpaprika_id": "runes-runebase",
-        "coingecko_id": "runebase",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://explorer.runebase.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Runebase Signed Message:\n",
-        "fname": "Runebase",
-        "rpcport": 9432,
-        "pubtype": 61,
-        "p2shtype": 123,
-        "wiftype": 216,
-        "txfee": 40000000,
-        "dust": 40000000,
-        "mature_confirmations": 120,
-        "segwit": true,
-        "bech32_hrp": "rc",
-        "mm2": 1,
-        "required_confirmations": 6,
-        "avg_blocktime": 120,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/88'",
-        "links": {
-            "github": "https://github.com/runebase/runebase",
-            "homepage": "https://www.runebase.io"
-        },
-        "electrum": [
-            {
-                "url": "electrum2.runebase.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "ACTN": {
         "coin": "ACTN",
         "type": "Smart Chain",
@@ -39156,10 +39154,6 @@
             },
             {
                 "url": "https://cosmoshub.rpc.stakin-nodes.com/"
-            },
-            {
-                "url": "https://node.komodo.earth:8080/cosmos",
-                "komodo_proxy": true
             }
         ],
         "explorer_block_url": "block/",
@@ -39201,12 +39195,6 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
-            {
-                "url": "https://iris-rpc.alpha.komodo.earth/",
-                "api_url": "https://iris-api.alpha.komodo.earth/",
-                "grpc_url": "https://iris-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://iris-rpc.alpha.komodo.earth/websocket"
-            },
             {
                 "url": "https://rpc.irishub-1.irisnet.org"
             }
@@ -39307,9 +39295,6 @@
             },
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
-            },
-            {
-                "url": "https://rpc-osmosis-ia.cosmosia.notional.ventures/"
             },
             {
                 "url": "https://rpc.osmosis.zone/"
@@ -39654,42 +39639,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "IRISTEST": {
-        "coin": "IRISTEST",
-        "type": "TENDERMINT",
-        "name": "Iris Test",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://nyancat.iobscan.io/",
-        "explorer_tx_url": "#/txs/",
-        "explorer_address_url": "#/address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "avg_blocktime": 7,
-        "fname": "Iris Test",
-        "mm2": 1,
-        "protocol": {
-            "type": "TENDERMINT",
-            "protocol_data": {
-                "decimals": 6,
-                "denom": "unyan",
-                "account_prefix": "iaa",
-                "chain_id": "nyancat-9",
-                "gas_price": 0.5
-            }
-        },
-        "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "https://evmrpc.nyancat.irisnet.org"
-            }
-        ],
-        "explorer_block_url": "#/blocks/"
-    },
     "NUCLEUSTEST": {
         "coin": "NUCLEUSTEST",
         "type": "TENDERMINT",
@@ -39736,12 +39685,6 @@
                 "api_url": "https://nucleus-api.charlie.komodo.earth/",
                 "grpc_url": "https://nucleus-grpc.charlie.komodo.earth/",
                 "ws_url": "wss://nucleus-rpc.charlie.komodo.earth/websocket"
-            },
-            {
-                "url": "https://nucleus-rpc.delta.komodo.earth/",
-                "api_url": "https://nucleus-api.delta.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.delta.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.delta.komodo.earth/websocket"
             }
         ],
         "explorer_block_url": "nucleus/blocks/"
