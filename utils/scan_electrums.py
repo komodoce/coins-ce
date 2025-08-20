@@ -138,73 +138,6 @@ class ElectrumServer:
             return e
 
 
-def get_from_electrum(url, port, method, params=None):
-    if 'cipig.net' in url:
-        return '{"result": "cipig.net is always welcome."}'
-    if params:
-        params = [params] if type(params) is not list else params
-    try:
-        with socket.create_connection((url, port)) as sock:
-            payload = {"id": 0, "method": method}
-            if params:
-                payload.update({"params": params})
-            sock.send(json.dumps(payload).encode() + b'\n')
-            time.sleep(3)
-            resp = sock.recv(999999)[:-1].decode()
-            return resp
-    except Exception as e:
-        return e
-
-
-def get_from_electrum_ssl(url, port, method, params=None):
-    if 'cipig.net' in url:
-        return '{"result": "cipig.net is always welcome."}'
-    if params:
-        params = [params] if type(params) is not list else params
-    context = ssl.SSLContext(verify_mode=ssl.CERT_NONE)
-    try:
-        with socket.create_connection((url, port)) as sock:
-            with context.wrap_socket(sock, server_hostname=url) as ssock:
-                payload = {"id": 0, "method": method}
-                if params:
-                    payload.update({"params": params})
-                ssock.send(json.dumps(payload).encode() + b'\n')
-                time.sleep(3)
-                resp = ssock.recv(999999)[:-1].decode()
-                return resp
-    except Exception as e:
-        return e
-
-
-def get_from_electrum_wss(url, port, method, params=None):
-    if 'cipig.net' in url:
-        return '{"result": "cipig.net is always welcome."}'
-    
-    if params:
-        params = [params] if type(params) is not list else params
-    
-    ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
-    ssl_context.check_hostname = False
-    ssl_context.verify_mode = ssl.CERT_NONE
-
-    try:
-        async def connect_and_query():
-            async with connect(f"wss://{url}:{port}", ssl=ssl_context, open_timeout=10, close_timeout=10, ping_timeout=10) as websocket:
-                payload = {"id": 0, "method": method}
-                if params:
-                    payload.update({"params": params})
-                await websocket.send(json.dumps(payload))
-                await asyncio.sleep(3)
-                resp = await asyncio.wait_for(websocket.recv(), timeout=7)
-                return resp
-        
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-        response = loop.run_until_complete(connect_and_query())
-        return response
-    except Exception as e:
-        return e
-
 
 def create_komodo_auth_payload(target_uri: str) -> str:
     """
@@ -444,16 +377,17 @@ def thread_electrum_wss(coin, url, port, method, params):
     # Check SSL certificate expiry for WSS connections
     cert_info = check_ssl_certificate_expiry(url, port)
     cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+    cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
 
     if el.blockheight > 0:
         if coin not in passed_electrums_wss:
             passed_electrums_wss.update({coin: {}})
-        passed_electrums_wss[coin][f"{url}:{port}"] = {"cert_days": cert_days}
+        passed_electrums_wss[coin][f"{url}:{port}"] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.calc(f"[WSS] {coin} {url}:{port} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[WSS] {coin} {url}:{port} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_electrums_wss:
             failed_electrums_wss.update({coin: {}})
-        failed_electrums_wss[coin].update({f"{url}:{port}": {"result": el.result, "cert_days": cert_days}})
+        failed_electrums_wss[coin].update({f"{url}:{port}": {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[WSS] {coin} {url}:{port} Failed! {el.result}")
 
 
@@ -482,16 +416,17 @@ def thread_electrum_ssl(coin, url, port, method, params):
     # Check SSL certificate expiry
     cert_info = check_ssl_certificate_expiry(url, port)
     cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+    cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
     
     if el.blockheight > 0:
         if coin not in passed_electrums_ssl:
             passed_electrums_ssl.update({coin: {}})
-        passed_electrums_ssl[coin][f"{url}:{port}"] = {"cert_days": cert_days}
+        passed_electrums_ssl[coin][f"{url}:{port}"] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.info(f"[SSL] {coin} {url}:{port} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[SSL] {coin} {url}:{port} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_electrums_ssl:
             failed_electrums_ssl.update({coin: {}})
-        failed_electrums_ssl[coin].update({f"{url}:{port}": {"result": el.result, "cert_days": cert_days}})
+        failed_electrums_ssl[coin].update({f"{url}:{port}": {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[SSL] {coin} {url}:{port} Failed! | {el.result}")
 
 
@@ -503,19 +438,21 @@ def thread_tendermint(coin, url, api_url):
 
     # Check SSL certificate if HTTPS
     cert_days = None
+    cert_error = None
     if url.startswith('https://'):
         cert_info = check_ssl_certificate_expiry(url)
         cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+        cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
 
     if el.blockheight > 0:
         if coin not in passed_tendermint:
             passed_tendermint.update({coin: {}})
-        passed_tendermint[coin][url] = {"cert_days": cert_days}
+        passed_tendermint[coin][url] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.calc(f"[TENDERMINT] {coin} {url} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[TENDERMINT] {coin} {url} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_tendermint:
             failed_tendermint.update({coin: {}})
-        failed_tendermint[coin].update({url: {"result": el.result, "cert_days": cert_days}})
+        failed_tendermint[coin].update({url: {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[TENDERMINT] {coin} {url} Failed! {el.result}")
 
 
@@ -527,20 +464,22 @@ def thread_tendermint_wss(coin, url, ws_url):
 
     # Check SSL certificate for WSS
     cert_days = None
+    cert_error = None
     if ws_url and ws_url.startswith('wss://'):
         cert_info = check_ssl_certificate_expiry(ws_url)
         cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+        cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
 
     endpoint = ws_url or url
     if el.blockheight > 0:
         if coin not in passed_tendermint_wss:
             passed_tendermint_wss.update({coin: {}})
-        passed_tendermint_wss[coin][endpoint] = {"cert_days": cert_days}
+        passed_tendermint_wss[coin][endpoint] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.calc(f"[TENDERMINT WSS] {coin} {endpoint} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[TENDERMINT WSS] {coin} {endpoint} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_tendermint_wss:
             failed_tendermint_wss.update({coin: {}})
-        failed_tendermint_wss[coin].update({endpoint: {"result": el.result, "cert_days": cert_days}})
+        failed_tendermint_wss[coin].update({endpoint: {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[TENDERMINT WSS] {coin} {endpoint} Failed! {el.result}")
 
 
@@ -552,19 +491,21 @@ def thread_ethereum(coin, url):
 
     # Check SSL certificate if HTTPS
     cert_days = None
+    cert_error = None
     if url.startswith('https://'):
         cert_info = check_ssl_certificate_expiry(url)
         cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+        cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
 
     if el.blockheight > 0:
         if coin not in passed_ethereum:
             passed_ethereum.update({coin: {}})
-        passed_ethereum[coin][url] = {"cert_days": cert_days}
+        passed_ethereum[coin][url] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.calc(f"[ETHEREUM] {coin} {url} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[ETHEREUM] {coin} {url} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_ethereum:
             failed_ethereum.update({coin: {}})
-        failed_ethereum[coin].update({url: {"result": el.result, "cert_days": cert_days}})
+        failed_ethereum[coin].update({url: {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[ETHEREUM] {coin} {url} Failed! {el.result}")
 
 
@@ -576,20 +517,22 @@ def thread_ethereum_wss(coin, url, ws_url):
 
     # Check SSL certificate for WSS
     cert_days = None
+    cert_error = None
     if ws_url and ws_url.startswith('wss://'):
         cert_info = check_ssl_certificate_expiry(ws_url)
         cert_days = cert_info.get("days_until_expiry") if isinstance(cert_info, dict) else None
+        cert_error = cert_info.get("error") if isinstance(cert_info, dict) and "error" in cert_info else None
 
     endpoint = ws_url or url
     if el.blockheight > 0:
         if coin not in passed_ethereum_wss:
             passed_ethereum_wss.update({coin: {}})
-        passed_ethereum_wss[coin][endpoint] = {"cert_days": cert_days}
+        passed_ethereum_wss[coin][endpoint] = {"cert_days": cert_days, "cert_error": cert_error}
         logger.calc(f"[ETHEREUM WSS] {coin} {endpoint} OK! Height: {el.blockheight}, SSL expires in {cert_days} days" if cert_days else f"[ETHEREUM WSS] {coin} {endpoint} OK! Height: {el.blockheight}")
     else:
         if coin not in failed_ethereum_wss:
             failed_ethereum_wss.update({coin: {}})
-        failed_ethereum_wss[coin].update({endpoint: {"result": el.result, "cert_days": cert_days}})
+        failed_ethereum_wss[coin].update({endpoint: {"result": el.result, "cert_days": cert_days, "cert_error": cert_error}})
         logger.warning(f"[ETHEREUM WSS] {coin} {endpoint} Failed! {el.result}")
 
 
@@ -1085,7 +1028,7 @@ def get_electrums_report():
                     i: {
                         "last_connection": current_time,
                         "result": "Passed",
-                        "ssl_days_left": -1
+                        "ssl_days_left": 1
                     }
                 })
 
@@ -1105,12 +1048,16 @@ def get_electrums_report():
             x = list(passed_electrums_ssl[coin])
             x.sort()
             for i in x:
+                cert_days = passed_electrums_ssl[coin][i].get("cert_days")
+                cert_error = passed_electrums_ssl[coin][i].get("cert_error")
+                
                 ssl_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_electrums_ssl[coin][i].get("cert_days")
                 ssl_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    ssl_info["ssl_error"] = cert_error
                 results["utxo"][coin]["ssl"].update({i: ssl_info})
 
         if coin in failed_electrums_ssl:
@@ -1122,19 +1069,26 @@ def get_electrums_report():
                     "result": failed_electrums_ssl[coin][i].get("result", failed_electrums_ssl[coin][i])
                 }
                 cert_days = failed_electrums_ssl[coin][i].get("cert_days")
+                cert_error = failed_electrums_ssl[coin][i].get("cert_error")
                 ssl_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    ssl_info["ssl_error"] = cert_error
                 results["utxo"][coin]["ssl"].update({i: ssl_info})
 
         if coin in passed_electrums_wss:
             x = list(passed_electrums_wss[coin])
             x.sort()
             for i in x:
+                cert_days = passed_electrums_wss[coin][i].get("cert_days")
+                cert_error = passed_electrums_wss[coin][i].get("cert_error")
+                
                 wss_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_electrums_wss[coin][i].get("cert_days")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["utxo"][coin]["wss"].update({i: wss_info})
 
         if coin in failed_electrums_wss:
@@ -1146,7 +1100,10 @@ def get_electrums_report():
                     "result": failed_electrums_wss[coin][i].get("result", failed_electrums_wss[coin][i])
                 }
                 cert_days = failed_electrums_wss[coin][i].get("cert_days")
+                cert_error = failed_electrums_wss[coin][i].get("cert_error")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["utxo"][coin]["wss"].update({i: wss_info})
 
     # Process Tendermint coins
@@ -1181,12 +1138,16 @@ def get_electrums_report():
             x = list(passed_tendermint[coin])
             x.sort()
             for i in x:
+                cert_days = passed_tendermint[coin][i].get("cert_days")
+                cert_error = passed_tendermint[coin][i].get("cert_error")
+                
                 tm_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_tendermint[coin][i].get("cert_days")
                 tm_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    tm_info["ssl_error"] = cert_error
                 results["tendermint"][coin]["http"].update({i: tm_info})
 
         if coin in failed_tendermint:
@@ -1198,19 +1159,26 @@ def get_electrums_report():
                     "result": failed_tendermint[coin][i].get("result", failed_tendermint[coin][i])
                 }
                 cert_days = failed_tendermint[coin][i].get("cert_days")
+                cert_error = failed_tendermint[coin][i].get("cert_error")
                 tm_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    tm_info["ssl_error"] = cert_error
                 results["tendermint"][coin]["http"].update({i: tm_info})
 
         if coin in passed_tendermint_wss:
             x = list(passed_tendermint_wss[coin])
             x.sort()
             for i in x:
+                cert_days = passed_tendermint_wss[coin][i].get("cert_days")
+                cert_error = passed_tendermint_wss[coin][i].get("cert_error")
+                
                 wss_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_tendermint_wss[coin][i].get("cert_days")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["tendermint"][coin]["wss"].update({i: wss_info})
 
         if coin in failed_tendermint_wss:
@@ -1222,7 +1190,10 @@ def get_electrums_report():
                     "result": failed_tendermint_wss[coin][i].get("result", failed_tendermint_wss[coin][i])
                 }
                 cert_days = failed_tendermint_wss[coin][i].get("cert_days")
+                cert_error = failed_tendermint_wss[coin][i].get("cert_error")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["tendermint"][coin]["wss"].update({i: wss_info})
 
     # Process EVM coins (Ethereum-based)
@@ -1257,12 +1228,16 @@ def get_electrums_report():
             x = list(passed_ethereum[coin])
             x.sort()
             for i in x:
+                cert_days = passed_ethereum[coin][i].get("cert_days")
+                cert_error = passed_ethereum[coin][i].get("cert_error")
+                
                 eth_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_ethereum[coin][i].get("cert_days")
                 eth_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    eth_info["ssl_error"] = cert_error
                 results["evm"][coin]["http"].update({i: eth_info})
 
         if coin in failed_ethereum:
@@ -1274,19 +1249,26 @@ def get_electrums_report():
                     "result": failed_ethereum[coin][i].get("result", failed_ethereum[coin][i])
                 }
                 cert_days = failed_ethereum[coin][i].get("cert_days")
+                cert_error = failed_ethereum[coin][i].get("cert_error")
                 eth_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    eth_info["ssl_error"] = cert_error
                 results["evm"][coin]["http"].update({i: eth_info})
 
         if coin in passed_ethereum_wss:
             x = list(passed_ethereum_wss[coin])
             x.sort()
             for i in x:
+                cert_days = passed_ethereum_wss[coin][i].get("cert_days")
+                cert_error = passed_ethereum_wss[coin][i].get("cert_error")
+                
                 wss_info = {
                     "last_connection": current_time,
-                    "result": "Passed"
+                    "result": "CERTIFICATE_VERIFY_FAILED" if cert_error else "Passed"
                 }
-                cert_days = passed_ethereum_wss[coin][i].get("cert_days")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["evm"][coin]["wss"].update({i: wss_info})
 
         if coin in failed_ethereum_wss:
@@ -1298,7 +1280,10 @@ def get_electrums_report():
                     "result": failed_ethereum_wss[coin][i].get("result", failed_ethereum_wss[coin][i])
                 }
                 cert_days = failed_ethereum_wss[coin][i].get("cert_days")
+                cert_error = failed_ethereum_wss[coin][i].get("cert_error")
                 wss_info["ssl_days_left"] = cert_days if cert_days is not None else -1
+                if cert_error:
+                    wss_info["ssl_error"] = cert_error
                 results["evm"][coin]["wss"].update({i: wss_info})
 
 
