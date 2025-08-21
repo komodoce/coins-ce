@@ -25756,9 +25756,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/one"
-            },
-            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -33712,6 +33709,11 @@
         },
         "electrum": [
             {
+                "url": "failover.trc-uis.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": false
+            },
+            {
                 "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": false
@@ -37767,6 +37769,10 @@
                 "protocol": "SSL"
             },
             {
+                "url": "electrumx2.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
                 "url": "xvc-ex-seven.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -37943,6 +37949,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
@@ -41678,7 +41688,32 @@
             "github": "https://github.com/runebase/runebase",
             "homepage": "https://www.runebase.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "ACTN": {
