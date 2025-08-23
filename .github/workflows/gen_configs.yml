@@ -4,15 +4,8 @@ on:
   push:
     branches: [ "nogeo" ]
     paths-ignore:
-      - 'utils/coins_config.json'
-      - 'utils/coins_config_ssl.json'
-      - 'utils/coins_config_tcp.json'
-      - 'utils/coins_config_wss.json'
-      - 'utils/coins_config_unfiltered.json'
-      - 'utils/electrum_scan_report.json'
-      - 'utils/spritemap.json'
+      - 'utils/*.json'
       - 'utils/spritemap.png'
-      - 'utils/icon_checksums.json'
 
   schedule:
     - cron:  '0 0 * * *'
