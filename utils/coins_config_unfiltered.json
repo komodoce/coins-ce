@@ -29604,6 +29604,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -30174,6 +30177,15 @@
             "homepage": "https://pepecoin.org"
         },
         "electrum": [
+            {
+                "url": "electrum.pepe.tips:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "squidicuz"
+                    }
+                ]
+            },
             {
                 "url": "electrum.pepe.tips:50004",
                 "protocol": "WSS",
