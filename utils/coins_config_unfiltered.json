@@ -49612,6 +49612,15 @@
                 ]
             },
             {
+                "url": "electrum2.kiirocoin.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
                 "contact": [
