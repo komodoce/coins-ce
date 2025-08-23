@@ -2502,14 +2502,16 @@
     "by_server": {
       "https://moonbeam.public.blastapi.io": {
         "1755920366": "online",
-        "1755971003": "offline"
+        "1755971003": "offline",
+        "1755971762": "online"
       },
       "https://rpc.api.moonbeam.network": {
         "1755920366": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755920366": "online",
-        "1755971003": "offline"
+        "1755971003": "offline",
+        "1755971762": "online"
       },
       "wss://wss.api.moonbeam.network": {
         "1755920366": "online"
