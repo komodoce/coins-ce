@@ -24238,10 +24238,6 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
-                "url": "https://moonbeam.public.blastapi.io",
-                "ws_url": "wss://moonbeam.public.blastapi.io"
-            },
-            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -42131,6 +42127,9 @@
                 "protocol": "SSL",
                 "contact": [
                     {
+                        "discord": "1061740404439007403"
+                    },
+                    {
                         "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
                     }
                 ]
@@ -42140,6 +42139,9 @@
                 "protocol": "SSL",
                 "contact": [
                     {
+                        "discord": "1061740404439007403"
+                    },
+                    {
                         "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
                     }
                 ]
@@ -42148,6 +42150,9 @@
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
                 "contact": [
+                    {
+                        "discord": "1061740404439007403"
+                    },
                     {
                         "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
                     }

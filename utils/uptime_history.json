@@ -2501,13 +2501,15 @@
     "all": {},
     "by_server": {
       "https://moonbeam.public.blastapi.io": {
-        "1755920366": "online"
+        "1755920366": "online",
+        "1755971003": "offline"
       },
       "https://rpc.api.moonbeam.network": {
         "1755920366": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
-        "1755920366": "online"
+        "1755920366": "online",
+        "1755971003": "offline"
       },
       "wss://wss.api.moonbeam.network": {
         "1755920366": "online"
@@ -4577,7 +4579,8 @@
         }
       },
       "electrum.pepe.tips:50001": {
-        "1755920366": "offline"
+        "1755920366": "offline",
+        "1755971003": "online"
       },
       "electrum.pepe.tips:50002": {
         "1755920366": "offline",
