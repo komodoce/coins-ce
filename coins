@@ -1790,6 +1790,66 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "BEAMX-BEP20",
+    "name": "beamx_bep20",
+    "fname": "Beam",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://onbeam.com"
+    }
+  },
+  {
+    "coin": "BEAMX-AVX20",
+    "name": "beamx_avx20",
+    "fname": "Beam",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 18,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "BEAMX-ERC20",
+    "name": "beamx_erc20",
+    "fname": "Beam",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "BIDR-BEP20",
     "name": "bidr_bep20",
     "fname": "BIDR",
