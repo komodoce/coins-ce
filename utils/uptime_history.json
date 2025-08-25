@@ -315,7 +315,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/avax": {
-        "1755988935": "online"
+        "1755988935": "online",
+        "1756084419": "offline"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1755988935": "online"
@@ -324,7 +325,8 @@
         "1755988935": "online"
       },
       "wss://0xrpc.io/avax": {
-        "1755988935": "online"
+        "1755988935": "online",
+        "1756084419": "offline"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1755988935": "online"
@@ -1936,10 +1938,12 @@
         "1755988935": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756084419": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756084419": "online"
       },
       "electrum5.egulden.org:11017": {
         "1755988935": "offline"
