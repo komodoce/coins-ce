@@ -316,7 +316,8 @@
     "by_server": {
       "https://0xrpc.io/avax": {
         "1755988935": "online",
-        "1756084419": "offline"
+        "1756084419": "offline",
+        "1756171034": "online"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1755988935": "online"
@@ -326,7 +327,8 @@
       },
       "wss://0xrpc.io/avax": {
         "1755988935": "online",
-        "1756084419": "offline"
+        "1756084419": "offline",
+        "1756171034": "online"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1755988935": "online"
@@ -981,7 +983,8 @@
         "1755988935": "online"
       },
       "electrum5.btcz.rocks:50002": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756171034": "online"
       },
       "electrum5.btcz.rocks:50004": {
         "1755988935": "offline"
@@ -2987,10 +2990,12 @@
         "1755988935": "offline"
       },
       "il8p.electrumx.transcenders.name:50002": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756171034": "online"
       },
       "il8p.electrumx.transcenders.name:50003": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756171034": "online"
       },
       "il9p.electrumx.transcenders.name:50002": {
         "1755988935": "online"
@@ -4481,10 +4486,12 @@
         }
       },
       "electrumx.nvc.ewmcx.org:50002": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756171034": "online"
       },
       "electrumx.nvc.ewmcx.org:50003": {
-        "1755988935": "offline"
+        "1755988935": "offline",
+        "1756171034": "online"
       },
       "failover.nvc.ewmcx.biz:50002": {
         "1755988935": "online"
