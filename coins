@@ -805,15 +805,7 @@
         "contract_address": "0x912CE59144191C1204E64559FE8253a0e49E6548"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "ARPA-BEP20",
@@ -3045,15 +3037,7 @@
         "contract_address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "CFX-BEP20",
@@ -3553,15 +3537,7 @@
         "contract_address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "CRV-AVX20",
@@ -4317,15 +4293,7 @@
         "contract_address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "DODO-BEP20",
@@ -4873,16 +4841,9 @@
       }
     },
     "derivation_path": "m/44'/60'",
-    "use_access_list": true,
     "max_eth_tx_type": 2,
     "swap_gas_fee_policy": "Medium",
-    "estimate_gas_mult": 1.3,
-    "gas_limit": {
-      "eth_send_coins": 300000,
-      "eth_payment": 700000,
-      "eth_receiver_spend": 600000,
-      "eth_sender_refund": 600000
-    }
+    "estimate_gas_mult": 1.3
   },
   {
     "coin": "ETH-BEP20",
@@ -6175,15 +6136,7 @@
         "contract_address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GMX-AVX20",
@@ -6271,15 +6224,7 @@
         "contract_address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GNS-PLG20",
@@ -6410,15 +6355,7 @@
         "contract_address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GRT-AVX20",
@@ -9613,15 +9550,7 @@
         "contract_address": "0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "MOVR",
@@ -10510,15 +10439,7 @@
         "contract_address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "PENDLE-ERC20",
@@ -10622,12 +10543,6 @@
     "derivation_path": "m/44'/60'",
     "links": {
       "homepage": "https://www.pepe.vip"
-    },
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
     }
   },
   {
@@ -12172,15 +12087,7 @@
         "contract_address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "SPACE-AVX20",
@@ -13641,15 +13548,7 @@
         "contract_address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "USDC-AVX20",
@@ -13982,15 +13881,7 @@
         "contract_address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "USDT-AVX20",
@@ -14537,15 +14428,7 @@
         "contract_address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "WOO-AVX20",
