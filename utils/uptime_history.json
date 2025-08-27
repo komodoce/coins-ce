@@ -3506,6 +3506,26 @@
               "github": "LUPAZA-coin"
             }
           ]
+        },
+        "electrum1.lupacoin.biz:50005": {
+          "contact": [
+            {
+              "email": "contact@lupacoin.biz"
+            },
+            {
+              "github": "LUPAZA-coin"
+            }
+          ]
+        },
+        "electrum1.lupacoin.biz:50006": {
+          "contact": [
+            {
+              "email": "contact@lupacoin.biz"
+            },
+            {
+              "github": "LUPAZA-coin"
+            }
+          ]
         }
       },
       "electrum.lupacoin.biz:17487": {
@@ -3519,6 +3539,12 @@
       },
       "electrum1.lupacoin.biz:17487": {
         "1756253463": "offline"
+      },
+      "electrum1.lupacoin.biz:50005": {
+        "1756257279": "offline"
+      },
+      "electrum1.lupacoin.biz:50006": {
+        "1756257279": "offline"
       }
     }
   },
