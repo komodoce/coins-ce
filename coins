@@ -8684,6 +8684,47 @@
     }
   },
   {
+    "coin": "LPT-ERC20",
+    "name": "lpt_erc20",
+    "fname": "Livepeer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.livepeer.org"
+    }
+  },
+  {
+    "coin": "LPT-ARB20",
+    "name": "lpt_arb20",
+    "fname": "Livepeer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "LSWAP-BEP20",
     "name": "lswap_bep20",
     "fname": "LoopSwap",
