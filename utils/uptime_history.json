@@ -819,7 +819,8 @@
   "BONC": {
     "all": {
       "1756253463": "online",
-      "1756267673": "offline"
+      "1756267673": "offline",
+      "1756271429": "online"
     },
     "by_server": {
       "_metadata": {
@@ -847,15 +848,18 @@
       },
       "electrum.bonkscoin.io:50001": {
         "1756253463": "online",
-        "1756267673": "offline"
+        "1756267673": "offline",
+        "1756271429": "online"
       },
       "electrum.bonkscoin.io:50002": {
         "1756253463": "online",
-        "1756267673": "offline"
+        "1756267673": "offline",
+        "1756271429": "online"
       },
       "electrum.bonkscoin.io:50003": {
         "1756253463": "online",
-        "1756267673": "offline"
+        "1756267673": "offline",
+        "1756271429": "online"
       }
     }
   },
