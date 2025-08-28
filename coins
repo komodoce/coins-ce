@@ -4936,6 +4936,25 @@
     }
   },
   {
+    "coin": "EURE-ARB20",
+    "name": "eure_arb20",
+    "fname": "Monerium EUR",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "EURE-ERC20",
     "name": "eure_erc20",
     "fname": "Monerium EUR",
