@@ -14675,13 +14675,62 @@
         "explorer_block_url": "block/",
         "binance_id": "ETH"
     },
+    "EURE-ARB20": {
+        "coin": "EURE-ARB20",
+        "type": "Arbitrum",
+        "name": "Monerium EUR",
+        "coinpaprika_id": "eure-monerium-eur-emoney",
+        "coingecko_id": "monerium-eur-money",
+        "livecoinwatch_id": "EURE",
+        "explorer_url": "https://arbiscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Monerium EUR",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 42161,
+        "decimals": 18,
+        "avg_blocktime": 0.25,
+        "required_confirmations": 10,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH-ARB20",
+                "contract_address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+        "parent_coin": "ETH-ARB20",
+        "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "nodes": [
+            {
+                "url": "https://arb1.arbitrum.io/rpc"
+            },
+            {
+                "url": "https://arbitrum-one-rpc.publicnode.com",
+                "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.meowrpc.com",
+                "ws_url": "wss://arbitrum.callstaticrpc.com"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "EURE-ERC20": {
         "coin": "EURE-ERC20",
         "type": "ERC-20",
         "name": "Monerium EUR",
         "coinpaprika_id": "eure-monerium-eur-emoney",
         "coingecko_id": "monerium-eur-money",
-        "livecoinwatch_id": "EUR",
+        "livecoinwatch_id": "EURE",
         "explorer_url": "https://etherscan.io/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -14740,9 +14789,9 @@
         "coin": "EURE-PLG20",
         "type": "Polygon",
         "name": "Monerium EUR",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "eure-monerium-eur-emoney",
         "coingecko_id": "monerium-eur-money",
-        "livecoinwatch_id": "EUR",
+        "livecoinwatch_id": "EURE",
         "explorer_url": "https://polygonscan.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -29933,9 +29982,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
