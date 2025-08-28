@@ -5651,6 +5651,10 @@
         },
         "electrum": [
             {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
             }
@@ -38259,6 +38263,10 @@
         "electrum": [
             {
                 "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
             },
             {
