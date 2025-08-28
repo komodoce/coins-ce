@@ -6344,6 +6344,18 @@
         },
         "electrum": [
             {
+                "url": "electrumserver01.globalboost.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50013",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumserver02.globalboost.info:50011",
                 "protocol": "TCP"
             },
@@ -44108,6 +44120,18 @@
             },
             {
                 "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumx-verge.cloud:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx-verge.cloud:50004",
                 "protocol": "WSS"
             }
         ],

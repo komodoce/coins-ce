@@ -869,13 +869,16 @@
     },
     "by_server": {
       "electrumserver01.globalboost.info:50011": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       },
       "electrumserver01.globalboost.info:50013": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       },
       "electrumserver01.globalboost.info:50014": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       },
       "electrumserver02.globalboost.info:50011": {
         "1756253463": "online"
@@ -5890,13 +5893,16 @@
         "1756253463": "online"
       },
       "electrumx-verge.cloud:50001": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       },
       "electrumx-verge.cloud:50002": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       },
       "electrumx-verge.cloud:50004": {
-        "1756253463": "offline"
+        "1756253463": "offline",
+        "1756343639": "online"
       }
     }
   },
