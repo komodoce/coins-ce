@@ -12720,6 +12720,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "TBTC-ARB20",
+    "name": "tbtc_arb20",
+    "fname": "tBTC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "TBTC-ERC20",
     "name": "tbtc_erc20",
     "fname": "tBTC",
