@@ -2097,7 +2097,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/eth": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757687073": "online"
       },
       "https://eth.drpc.org": {
         "1757686617": "online"
@@ -2112,7 +2113,8 @@
         "1757686617": "online"
       },
       "wss://0xrpc.io/eth": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757687073": "online"
       },
       "wss://eth.drpc.org": {
         "1757686617": "online"
@@ -4487,7 +4489,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757687073": "online"
       },
       "https://api.harmony.one": {
         "1757686617": "online"
