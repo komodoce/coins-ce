@@ -750,6 +750,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -23916,6 +23925,53 @@
         ],
         "explorer_block_url": "block/"
     },
+    "NYC": {
+        "coin": "NYC",
+        "type": "UTXO",
+        "name": "NewYorkCoin",
+        "coinpaprika_id": "nyc-newyorkcoin",
+        "coingecko_id": "newyorkcoin",
+        "livecoinwatch_id": "NYC",
+        "explorer_url": "https://chainz.cryptoid.info/nyc/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "NewYorkCoin Signed Message:\n",
+        "fname": "NewYorkCoin",
+        "rpcport": 22555,
+        "pubtype": 60,
+        "p2shtype": 22,
+        "wiftype": 188,
+        "segwit": false,
+        "txfee": 100000000,
+        "mm2": 1,
+        "required_confirmations": 7,
+        "avg_blocktime": 30,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/179'",
+        "links": {
+            "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
+            "homepage": "https://newyorkcoin.online"
+        },
+        "electrum": [
+            {
+                "url": "nyc.newyorkcoin.online:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "424152733218635787"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block.dws?"
+    },
     "NYC-BEP20": {
         "coin": "NYC-BEP20",
         "type": "BEP-20",
@@ -36636,6 +36692,55 @@
         ],
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
+    },
+    "ZET": {
+        "coin": "ZET",
+        "type": "UTXO",
+        "name": "Zetacoin",
+        "coinpaprika_id": "zet-zetacoin",
+        "coingecko_id": "zetacoin",
+        "livecoinwatch_id": "ZET",
+        "explorer_url": "https://chainz.cryptoid.info/zet/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Zetacoin Signed Message:\n",
+        "fname": "Zetacoin",
+        "isPoS": 1,
+        "rpcport": 22014,
+        "pubtype": 20,
+        "p2shtype": 85,
+        "wiftype": 153,
+        "txfee": 100000,
+        "dust": 100000,
+        "mm2": 1,
+        "mature_confirmations": 500,
+        "required_confirmations": 7,
+        "avg_blocktime": 45,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/719'",
+        "links": {
+            "github": "https://github.com/WikiMin3R/ZetacoinE",
+            "homepage": "https://zetacoin.io"
+        },
+        "electrum": [
+            {
+                "url": "zet-ex-three.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
         "coin": "ZIL-BEP20",

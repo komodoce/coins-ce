@@ -49,13 +49,16 @@
         }
       },
       "aby-ex-four.ewmci.online:50011": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "aby-ex-four.ewmci.online:50012": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "aby-ex-four.ewmci.online:50013": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
         "1757686617": "offline"
@@ -4458,7 +4461,8 @@
   },
   "NYC": {
     "all": {
-      "1757686617": "offline"
+      "1757686617": "offline",
+      "1757725683": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4478,10 +4482,12 @@
         }
       },
       "nyc.newyorkcoin.online:50002": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "nyc.newyorkcoin.online:50004": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       }
     }
   },
@@ -6044,13 +6050,16 @@
         "1757686617": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757725683": "online"
       }
     }
   },
