@@ -976,10 +976,12 @@
         }
       },
       "electrum1.btcz.rocks:50001": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757899172": "online"
       },
       "electrum1.btcz.rocks:50004": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757899172": "online"
       },
       "electrum2.btcz.rocks:50001": {
         "1757686617": "online"
@@ -1991,10 +1993,12 @@
         "1757686617": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757899172": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1757899172": "online"
       },
       "electrum5.egulden.org:11017": {
         "1757686617": "offline"
@@ -3570,6 +3574,16 @@
               "github": "LUPAZA-coin"
             }
           ]
+        },
+        "electrum1.lupacoin.biz:50006": {
+          "contact": [
+            {
+              "email": "contact@lupacoin.biz"
+            },
+            {
+              "github": "LUPAZA-coin"
+            }
+          ]
         }
       },
       "electrum.lupacoin.biz:17487": {
@@ -3583,6 +3597,9 @@
       },
       "electrum1.lupacoin.biz:17487": {
         "1757686617": "offline"
+      },
+      "electrum1.lupacoin.biz:50006": {
+        "1757899172": "offline"
       }
     }
   },
