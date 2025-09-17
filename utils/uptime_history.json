@@ -61,10 +61,12 @@
         "1757725683": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1757686617": "offline"
@@ -4593,14 +4595,17 @@
   },
   "PINK": {
     "all": {
-      "1757686617": "offline"
+      "1757686617": "offline",
+      "1758071475": "online"
     },
     "by_server": {
       "pink-one.ewm-cx.net:50001": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "pink-two.ewm-cx.net:50001": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       }
     }
   },
@@ -5381,11 +5386,13 @@
   },
   "UIS": {
     "all": {
-      "1757686617": "offline"
+      "1757686617": "offline",
+      "1758071475": "online"
     },
     "by_server": {
       "uis-ex-one.ewmci.online:50002": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "uis-ex-one.ewmci.online:50003": {
         "1757686617": "offline"
@@ -5544,7 +5551,8 @@
         "1757686617": "online"
       },
       "el2.verus.io:17488": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       }
     }
   },
@@ -6060,10 +6068,12 @@
         }
       },
       "zet-ex-four.ewmci.online:50001": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
-        "1757686617": "offline"
+        "1757686617": "offline",
+        "1758071475": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1757686617": "offline"
