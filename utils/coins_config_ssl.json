@@ -11092,6 +11092,53 @@
         "explorer_block_url": "block/",
         "binance_id": "DOGE"
     },
+    "MYDOGE": {
+        "coin": "MYDOGE",
+        "type": "UTXO",
+        "name": "Mydogecoin",
+        "coinpaprika_id": "mydoge-mydogecoin",
+        "coingecko_id": "mydogecoin",
+        "livecoinwatch_id": "MYDOGE",
+        "explorer_url": "https://explorer.mydogecoin.fun/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Mydogecoin Signed Message:\n",
+        "fname": "Mydogecoin",
+        "rpcport": 22776,
+        "pubtype": 51,
+        "p2shtype": 30,
+        "wiftype": 158,
+        "txfee": 1000000,
+        "dust": 1000000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/1995'",
+        "trezor_coin": "Mydogecoin",
+        "links": {
+            "github": "https://github.com/mydogecoin-project/mydogecoin",
+            "homepage": "https://mydogecoin.fun"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "DOGE-BEP20": {
         "coin": "DOGE-BEP20",
         "type": "BEP-20",
@@ -11482,11 +11529,6 @@
         "electrum": [
             {
                 "url": "electrum1.egulden.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             }
@@ -17151,28 +17193,6 @@
         "electrum": [
             {
                 "url": "il8p.electrumx.transcenders.name:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
-            },
-            {
-                "url": "il9p.electrumx.transcenders.name:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
                 "contact": [
@@ -25366,53 +25386,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "NYC": {
-        "coin": "NYC",
-        "type": "UTXO",
-        "name": "NewYorkCoin",
-        "coinpaprika_id": "nyc-newyorkcoin",
-        "coingecko_id": "newyorkcoin",
-        "livecoinwatch_id": "NYC",
-        "explorer_url": "https://chainz.cryptoid.info/nyc/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "NewYorkCoin Signed Message:\n",
-        "fname": "NewYorkCoin",
-        "rpcport": 22555,
-        "pubtype": 60,
-        "p2shtype": 22,
-        "wiftype": 188,
-        "segwit": false,
-        "txfee": 100000000,
-        "mm2": 1,
-        "required_confirmations": 7,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/179'",
-        "links": {
-            "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
-            "homepage": "https://newyorkcoin.online"
-        },
-        "electrum": [
-            {
-                "url": "nyc.newyorkcoin.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "424152733218635787"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
     "NYC-BEP20": {
         "coin": "NYC-BEP20",
         "type": "BEP-20",
@@ -25954,6 +25927,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -26499,15 +26475,6 @@
             "homepage": "https://pepecoin.org"
         },
         "electrum": [
-            {
-                "url": "electrum.pepe.tips:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "squidicuz"
-                    }
-                ]
-            },
             {
                 "url": "electrum.pepeblocks.com:50002",
                 "protocol": "SSL",
@@ -38020,15 +37987,6 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
-            },
-            {
-                "url": "xvc-ex-seven.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
