@@ -448,36 +448,47 @@ class CoinConfig:
                         
                         if is_server_online:
                             for electrum in electrums:
+                                # Get disabled protocols for this electrum
+                                disabled_protocols = [p.upper() for p in electrum.get("disabled", [])]
+                                
                                 # Check URL match for current protocol
                                 e = deepcopy(electrum)
                                 if "url" in e:
                                     if e["url"] == k:
-                                        e["protocol"] = x.upper()
-                                        if "ws_url" in e:
-                                            del e["ws_url"]
-                                        valid_electrums.append(e)
-                                        
-                                        # Track server uptime
-                                        if self.uptime_tracker:
-                                            contact_info = electrum.get("contact")
-                                            self.uptime_tracker.update_server_status(
-                                                self.ticker, k, True, contact_info
-                                            )
+                                        # Skip if this protocol is disabled
+                                        if x.upper() not in disabled_protocols:
+                                            e["protocol"] = x.upper()
+                                            if "ws_url" in e:
+                                                del e["ws_url"]
+                                            if "disabled" in e:
+                                                del e["disabled"]
+                                            valid_electrums.append(e)
+                                            
+                                            # Track server uptime
+                                            if self.uptime_tracker:
+                                                contact_info = electrum.get("contact")
+                                                self.uptime_tracker.update_server_status(
+                                                    self.ticker, k, True, contact_info
+                                                )
                                 # Check WSS URL match
                                 if "ws_url" in electrum:
                                     e = deepcopy(electrum)
                                     if e["ws_url"] == k:
-                                        e["protocol"] = "WSS"
-                                        e["url"] = k
-                                        del e["ws_url"]
-                                        valid_electrums.append(e)
-                                        
-                                        # Track server uptime for WSS
-                                        if self.uptime_tracker:
-                                            contact_info = electrum.get("contact")
-                                            self.uptime_tracker.update_server_status(
-                                                self.ticker, k, True, contact_info
-                                            )
+                                        # Skip if WSS is disabled
+                                        if "WSS" not in disabled_protocols:
+                                            e["protocol"] = "WSS"
+                                            e["url"] = k
+                                            del e["ws_url"]
+                                            if "disabled" in e:
+                                                del e["disabled"]
+                                            valid_electrums.append(e)
+                                            
+                                            # Track server uptime for WSS
+                                            if self.uptime_tracker:
+                                                contact_info = electrum.get("contact")
+                                                self.uptime_tracker.update_server_status(
+                                                    self.ticker, k, True, contact_info
+                                                )
                         else:
                             # Track offline servers
                             if self.uptime_tracker:

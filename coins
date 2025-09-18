@@ -4387,6 +4387,30 @@
       "homepage": "https://dogecoin.com"
     }
   },
+   {
+    "coin": "MYDOGE",
+    "name": "mydogecoin",
+    "fname": "Mydogecoin",
+    "sign_message_prefix": "Mydogecoin Signed Message:\n",
+    "rpcport": 22776,
+    "pubtype": 51,
+    "p2shtype": 30,
+    "wiftype": 158,
+    "txfee": 1000000,
+    "dust": 1000000,
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1995'",
+    "trezor_coin": "Mydogecoin",
+    "links": {
+      "github": "https://github.com/mydogecoin-project/mydogecoin",
+      "homepage": "https://mydogecoin.fun"
+    }
+  },
   {
     "coin": "DOGE-BEP20",
     "name": "doge_bep20",

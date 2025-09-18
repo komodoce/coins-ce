@@ -5366,10 +5366,6 @@
             {
                 "url": "electrumx2.briskcoin.org:50003",
                 "protocol": "WSS"
-            },
-            {
-                "url": "electrumx3.briskcoin.org:50003",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
