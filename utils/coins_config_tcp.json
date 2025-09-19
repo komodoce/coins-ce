@@ -25502,6 +25502,53 @@
         ],
         "explorer_block_url": "block/"
     },
+    "NYC": {
+        "coin": "NYC",
+        "type": "UTXO",
+        "name": "NewYorkCoin",
+        "coinpaprika_id": "nyc-newyorkcoin",
+        "coingecko_id": "newyorkcoin",
+        "livecoinwatch_id": "NYC",
+        "explorer_url": "https://chainz.cryptoid.info/nyc/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "NewYorkCoin Signed Message:\n",
+        "fname": "NewYorkCoin",
+        "rpcport": 22555,
+        "pubtype": 60,
+        "p2shtype": 22,
+        "wiftype": 188,
+        "segwit": false,
+        "txfee": 100000000,
+        "mm2": 1,
+        "required_confirmations": 7,
+        "avg_blocktime": 30,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/179'",
+        "links": {
+            "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
+            "homepage": "https://newyorkcoin.online"
+        },
+        "electrum": [
+            {
+                "url": "electrum.newyorkcoin.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "admin@newyorkcoin.online"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block.dws?"
+    },
     "NYC-BEP20": {
         "coin": "NYC-BEP20",
         "type": "BEP-20",
@@ -26325,56 +26372,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "PAXG-BEP20": {
-        "coin": "PAXG-BEP20",
-        "type": "BEP-20",
-        "name": "PAX Gold",
-        "coinpaprika_id": "paxg-pax-gold",
-        "coingecko_id": "pax-gold",
-        "livecoinwatch_id": "PAXG",
-        "explorer_url": "https://bscscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "PAX Gold",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 56,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "BNB",
-                "contract_address": "0x7950865a9140cB519342433146Ed5b40c6F210f7"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x7950865a9140cB519342433146Ed5b40c6F210f7",
-        "parent_coin": "BNB",
-        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
-        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
-        "nodes": [
-            {
-                "url": "https://bsc1.cipig.net:18655",
-                "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc3.cipig.net:18655",
-                "ws_url": "wss://bsc3.cipig.net:38655"
-            }
-        ],
-        "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
     "PAXG-ERC20": {
         "coin": "PAXG-ERC20",
         "type": "ERC-20",
@@ -26591,6 +26588,15 @@
             "homepage": "https://pepecoin.org"
         },
         "electrum": [
+            {
+                "url": "electrum.pepe.tips:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "squidicuz"
+                    }
+                ]
+            },
             {
                 "url": "electrum.pepeblocks.com:50002",
                 "protocol": "SSL",
