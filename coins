@@ -10405,24 +10405,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "PAXG-BEP20",
-    "name": "paxg_bep20",
-    "fname": "PAX Gold",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 56,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "BNB",
-        "contract_address": "0x7950865a9140cB519342433146Ed5b40c6F210f7"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "PAXG-ERC20",
     "name": "paxg_erc20",
     "fname": "PAX Gold",
