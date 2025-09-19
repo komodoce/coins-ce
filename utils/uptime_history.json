@@ -4471,10 +4471,18 @@
   },
   "NYC": {
     "all": {
-      "1758202693": "offline"
+      "1758202693": "offline",
+      "1758277129": "online"
     },
     "by_server": {
       "_metadata": {
+        "electrum.newyorkcoin.online:50004": {
+          "contact": [
+            {
+              "email": "admin@newyorkcoin.online"
+            }
+          ]
+        },
         "nyc.newyorkcoin.online:50002": {
           "contact": [
             {
@@ -4489,6 +4497,12 @@
             }
           ]
         }
+      },
+      "electrum.newyorkcoin.online:50002": {
+        "1758277129": "online"
+      },
+      "electrum.newyorkcoin.online:50004": {
+        "1758277129": "offline"
       },
       "nyc.newyorkcoin.online:50002": {
         "1758202693": "offline"
@@ -4567,13 +4581,16 @@
         }
       },
       "electrum.pepe.tips:50001": {
-        "1758202693": "offline"
+        "1758202693": "offline",
+        "1758277129": "online"
       },
       "electrum.pepe.tips:50002": {
-        "1758202693": "offline"
+        "1758202693": "offline",
+        "1758277129": "online"
       },
       "electrum.pepe.tips:50004": {
-        "1758202693": "offline"
+        "1758202693": "offline",
+        "1758277129": "online"
       },
       "electrum.pepeblocks.com:50001": {
         "1758202693": "online"
