@@ -6216,7 +6216,8 @@
   },
   "tBCH": {
     "all": {
-      "1758315243": "offline"
+      "1758315243": "offline",
+      "1758330636": "online"
     },
     "by_server": {
       "_metadata": {
@@ -6256,7 +6257,8 @@
         "1758315243": "offline"
       },
       "tbch.loping.net:60002": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758330636": "online"
       },
       "testnet.bitcoincash.network:60002": {
         "1758315243": "offline"

@@ -48271,8 +48271,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/1'",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "tbch.loping.net:60002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "UFO": {
