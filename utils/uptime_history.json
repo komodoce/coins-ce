@@ -806,13 +806,16 @@
     },
     "by_server": {
       "electrumserver01.globalboost.info:50011": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrumserver01.globalboost.info:50013": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrumserver01.globalboost.info:50014": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrumserver02.globalboost.info:50011": {
         "1758315243": "online"
@@ -1420,6 +1423,31 @@
       },
       "dash.electrum3.cipig.net:30061": {
         "1758315243": "online"
+      }
+    }
+  },
+  "DEV": {
+    "all": {
+      "1758492814": "online"
+    },
+    "by_server": {
+      "api.dogecoinev.com:50001": {
+        "1758492814": "online"
+      },
+      "api.dogecoinev.com:50002": {
+        "1758492814": "online"
+      },
+      "api.dogecoinev.com:50003": {
+        "1758492814": "online"
+      },
+      "api2.dogecoinev.com:50001": {
+        "1758492814": "online"
+      },
+      "api2.dogecoinev.com:50002": {
+        "1758492814": "online"
+      },
+      "api2.dogecoinev.com:50003": {
+        "1758492814": "online"
       }
     }
   },
@@ -4532,10 +4560,18 @@
   },
   "NYC": {
     "all": {
-      "1758315243": "online"
+      "1758315243": "online",
+      "1758492814": "offline"
     },
     "by_server": {
       "_metadata": {
+        "electrum.newyorkcoin.online:50002": {
+          "contact": [
+            {
+              "email": "admin@newyorkcoin.online"
+            }
+          ]
+        },
         "electrum.newyorkcoin.online:50004": {
           "contact": [
             {
@@ -4545,7 +4581,8 @@
         }
       },
       "electrum.newyorkcoin.online:50002": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrum.newyorkcoin.online:50004": {
         "1758315243": "offline"
@@ -4556,7 +4593,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "https://api.harmony.one": {
         "1758315243": "online"
@@ -4998,6 +5036,36 @@
             }
           ]
         },
+        "electrum3.runebase.io:50001": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        },
+        "electrum3.runebase.io:50002": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        },
+        "electrum3.runebase.io:50004": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        },
         "electrum4.runebase.io:50001": {
           "contact": [
             {
@@ -5042,13 +5110,16 @@
         "1758315243": "offline"
       },
       "electrum3.runebase.io:50001": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrum3.runebase.io:50002": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrum3.runebase.io:50004": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "electrum4.runebase.io:50001": {
         "1758315243": "offline"
@@ -5334,7 +5405,8 @@
   },
   "TRC": {
     "all": {
-      "1758315243": "online"
+      "1758315243": "online",
+      "1758492814": "offline"
     },
     "by_server": {
       "electrum.southofheaven.ca:50001": {
@@ -5350,10 +5422,12 @@
         "1758315243": "offline"
       },
       "failover.trc-uis.ewmcx.biz:50006": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       },
       "failover.trc-uis.ewmcx.biz:50007": {
-        "1758315243": "online"
+        "1758315243": "online",
+        "1758492814": "offline"
       }
     }
   },
