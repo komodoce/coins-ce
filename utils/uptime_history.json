@@ -1659,7 +1659,8 @@
   },
   "DIMI": {
     "all": {
-      "1758315243": "offline"
+      "1758315243": "offline",
+      "1758589906": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1723,10 +1724,12 @@
         "1758315243": "offline"
       },
       "electrumx2.diminutivecoin.com:50012": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "electrumx2.diminutivecoin.com:50013": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       }
     }
   },
@@ -2624,13 +2627,16 @@
         "1758315243": "online"
       },
       "electrum.niftybakes.com:50001": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "electrum.niftybakes.com:50002": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "electrum.niftybakes.com:50004": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "fr.garlium.crapules.org:50002": {
         "1758315243": "offline"
@@ -3032,10 +3038,12 @@
         "1758315243": "online"
       },
       "il9p.electrumx.transcenders.name:50002": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "il9p.electrumx.transcenders.name:50003": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       }
     }
   },
@@ -4551,17 +4559,20 @@
         "1758315243": "online"
       },
       "failover.nvc.ewmcx.biz:50002": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       },
       "failover.nvc.ewmcx.biz:50003": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       }
     }
   },
   "NYC": {
     "all": {
       "1758315243": "online",
-      "1758492814": "offline"
+      "1758492814": "offline",
+      "1758589906": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4582,10 +4593,12 @@
       },
       "electrum.newyorkcoin.online:50002": {
         "1758315243": "online",
-        "1758492814": "offline"
+        "1758492814": "offline",
+        "1758589906": "online"
       },
       "electrum.newyorkcoin.online:50004": {
-        "1758315243": "offline"
+        "1758315243": "offline",
+        "1758589906": "online"
       }
     }
   },
@@ -5406,7 +5419,8 @@
   "TRC": {
     "all": {
       "1758315243": "online",
-      "1758492814": "offline"
+      "1758492814": "offline",
+      "1758589906": "online"
     },
     "by_server": {
       "electrum.southofheaven.ca:50001": {
@@ -5423,11 +5437,13 @@
       },
       "failover.trc-uis.ewmcx.biz:50006": {
         "1758315243": "online",
-        "1758492814": "offline"
+        "1758492814": "offline",
+        "1758589906": "online"
       },
       "failover.trc-uis.ewmcx.biz:50007": {
         "1758315243": "online",
-        "1758492814": "offline"
+        "1758492814": "offline",
+        "1758589906": "online"
       }
     }
   },
