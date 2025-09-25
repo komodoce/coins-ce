@@ -1302,6 +1302,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "BAL-ARB20",
+    "name": "bal_arb20",
+    "fname": "Balancer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "BAL-BEP20",
     "name": "bal_bep20",
     "fname": "Balancer",
