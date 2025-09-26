@@ -3564,6 +3564,55 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "BAL-ARB20": {
+        "coin": "BAL-ARB20",
+        "type": "Arbitrum",
+        "name": "Balancer",
+        "coinpaprika_id": "bal-balancer",
+        "coingecko_id": "balancer",
+        "livecoinwatch_id": "BAL",
+        "explorer_url": "https://arbiscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Balancer",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 42161,
+        "decimals": 18,
+        "avg_blocktime": 0.25,
+        "required_confirmations": 10,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH-ARB20",
+                "contract_address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+        "parent_coin": "ETH-ARB20",
+        "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "nodes": [
+            {
+                "url": "https://arb1.arbitrum.io/rpc"
+            },
+            {
+                "url": "https://arbitrum-one-rpc.publicnode.com",
+                "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.meowrpc.com",
+                "ws_url": "wss://arbitrum.callstaticrpc.com"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BAL-BEP20": {
         "coin": "BAL-BEP20",
         "type": "BEP-20",
@@ -6371,20 +6420,8 @@
             "github": "https://github.com/GlobalBoost/GlobalBoost-Y",
             "homepage": "https://globalboo.st"
         },
-        "electrum": [
-            {
-                "url": "electrumserver02.globalboost.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50014",
-                "protocol": "SSL"
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BTC": {
@@ -6985,98 +7022,8 @@
             "github": "https://github.com/bitweb-project/bitweb",
             "homepage": "https://bitwebcore.net"
         },
-        "electrum": [
-            {
-                "url": "electrumx.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BTE-segwit": {
@@ -7118,98 +7065,8 @@
             "github": "https://github.com/bitweb-project/bitweb",
             "homepage": "https://bitwebcore.net"
         },
-        "electrum": [
-            {
-                "url": "electrumx.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.bitwebcore.net:20002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.bitwebcore.net:20003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/bitweb-project/electrumx/issues"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BTT-BEP20": {
@@ -13426,8 +13283,16 @@
             "github": "https://github.com/dogecash/dogecash",
             "homepage": "https://dogecash.net"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "dogec-one.ewm-cx.com:50007",
+                "protocol": "SSL"
+            },
+            {
+                "url": "dogec-one.ewm-cx.com:50008",
+                "protocol": "WSS"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "DOGEDASH-BEP20": {
@@ -17740,18 +17605,6 @@
         },
         "electrum": [
             {
-                "url": "electrum1.netseed.net:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum1.netseed.net:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum1.netseed.net:50003",
-                "protocol": "WSS"
-            },
-            {
                 "url": "electrum2.netseed.net:50001",
                 "protocol": "TCP"
             },
@@ -20097,50 +19950,6 @@
             "homepage": "https://infiniloop.io"
         },
         "electrum": [
-            {
-                "url": "il8p.electrumx.transcenders.name:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
-            },
-            {
-                "url": "il8p.electrumx.transcenders.name:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "InfiniLooP"
-                    },
-                    {
-                        "github": "WikiMin3R"
-                    }
-                ]
-            },
             {
                 "url": "il9p.electrumx.transcenders.name:50002",
                 "protocol": "SSL",
@@ -38340,44 +38149,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:10077",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -39379,16 +39152,6 @@
             "homepage": "https://unituscurrency.com"
         },
         "electrum": [
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
             {
                 "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL",
@@ -44068,10 +43831,6 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50013",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -44327,18 +44086,6 @@
             },
             {
                 "url": "electrum-verge.cloud:50004",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumx-verge.cloud:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-verge.cloud:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx-verge.cloud:50004",
                 "protocol": "WSS"
             }
         ],
@@ -45229,10 +44976,6 @@
             "homepage": "https://zetacoin.io"
         },
         "electrum": [
-            {
-                "url": "207.180.252.200:50011",
-                "protocol": "TCP"
-            },
             {
                 "url": "zet-ex-four.ewmci.online:50001",
                 "protocol": "TCP",
@@ -49111,6 +48854,42 @@
             {
                 "url": "electrum1.runebase.io:50001",
                 "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.runebase.io:50004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "email": "support@runebase.io"
