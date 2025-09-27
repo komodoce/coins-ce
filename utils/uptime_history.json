@@ -802,26 +802,33 @@
   },
   "BSTY": {
     "all": {
-      "1758845108": "offline"
+      "1758845108": "offline",
+      "1758935415": "online"
     },
     "by_server": {
       "electrumserver01.globalboost.info:50011": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumserver01.globalboost.info:50013": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumserver01.globalboost.info:50014": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumserver02.globalboost.info:50011": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumserver02.globalboost.info:50013": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumserver02.globalboost.info:50014": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       }
     }
   },
@@ -942,7 +949,8 @@
   },
   "BTE": {
     "all": {
-      "1758845108": "offline"
+      "1758845108": "offline",
+      "1758935415": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1026,28 +1034,35 @@
         }
       },
       "electrumx.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx1.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx1.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx2.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx2.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       }
     }
   },
   "BTE-segwit": {
     "all": {
-      "1758845108": "offline"
+      "1758845108": "offline",
+      "1758935415": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1131,22 +1146,28 @@
         }
       },
       "electrumx.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx1.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx1.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx2.bitwebcore.net:20002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx2.bitwebcore.net:20003": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       }
     }
   },
@@ -5719,7 +5740,8 @@
         "1758845108": "online"
       },
       "el2.verus.io:17488": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       }
     }
   },
@@ -6059,13 +6081,16 @@
         "1758845108": "online"
       },
       "electrumx-verge.cloud:50001": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx-verge.cloud:50002": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       },
       "electrumx-verge.cloud:50004": {
-        "1758845108": "offline"
+        "1758845108": "offline",
+        "1758935415": "online"
       }
     }
   },
