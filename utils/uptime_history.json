@@ -2215,8 +2215,14 @@
       "https://arb1.arbitrum.io/rpc": {
         "1759195085": "online"
       },
+      "https://arb1.lava.build": {
+        "1759204004": "online"
+      },
       "https://arbitrum-one-rpc.publicnode.com": {
         "1759195085": "online"
+      },
+      "https://arbitrum.drpc.org": {
+        "1759204004": "online"
       },
       "https://arbitrum.meowrpc.com": {
         "1759195085": "online"
@@ -4010,7 +4016,8 @@
         "1759195085": "online"
       },
       "https://moonriver.unitedbloc.com": {
-        "1759195085": "offline"
+        "1759195085": "offline",
+        "1759204004": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1759195085": "online"
@@ -4019,7 +4026,8 @@
         "1759195085": "online"
       },
       "wss://moonriver.unitedbloc.com": {
-        "1759195085": "offline"
+        "1759195085": "offline",
+        "1759204004": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1759195085": "online"
@@ -5346,17 +5354,21 @@
   },
   "TKL": {
     "all": {
-      "1759195085": "offline"
+      "1759195085": "offline",
+      "1759204004": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
-        "1759195085": "offline"
+        "1759195085": "offline",
+        "1759204004": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
-        "1759195085": "offline"
+        "1759195085": "offline",
+        "1759204004": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
-        "1759195085": "offline"
+        "1759195085": "offline",
+        "1759204004": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1759195085": "offline"
