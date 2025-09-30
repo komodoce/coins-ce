@@ -4831,6 +4831,9 @@
       "https://polygon.drpc.org": {
         "1759271532": "online"
       },
+      "https://polygon.gateway.tenderly.co": {
+        "1759275988": "online"
+      },
       "wss://pol3.cipig.net:38755": {
         "1759271532": "offline"
       },
@@ -4839,6 +4842,9 @@
       },
       "wss://polygon.drpc.org": {
         "1759271532": "online"
+      },
+      "wss://polygon.gateway.tenderly.co": {
+        "1759275988": "online"
       }
     }
   },
