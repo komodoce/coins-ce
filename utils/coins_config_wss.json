@@ -1971,6 +1971,12 @@
             "https://electrum2.cipig.net:9447",
             "https://electrum3.cipig.net:9447"
         ],
+        "light_wallet_d_servers_wss": [
+            "https://pirate.spyglass.quest:19447",
+            "https://electrum1.cipig.net:19447",
+            "https://electrum2.cipig.net:19447",
+            "https://electrum3.cipig.net:19447"
+        ],
         "asset": "PIRATE",
         "fname": "Pirate",
         "is_privacy_coin": true,
@@ -39380,6 +39386,7 @@
         "light_wallet_d_servers": [
             "https://zombie.dragonhound.info:1443"
         ],
+        "light_wallet_d_servers_wss": [],
         "asset": "ZOMBIE",
         "fname": "Zombie",
         "is_privacy_coin": true,

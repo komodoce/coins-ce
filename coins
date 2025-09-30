@@ -1631,6 +1631,58 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "BC2",
+    "name": "bitcoinII",
+    "fname": "Bitcoin II",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "homepage": "https://bitcoin-ii.org"
+    }
+  },
+  {
+    "coin": "BC2-segwit",
+    "name": "bitcoinII",
+    "fname": "Bitcoin II",
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "address_format": {
+      "format": "segwit"
+    },  
+    "orderbook_ticker": "BC2",
+    "txfee": 1000,
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/0'",
+    "links": {
+      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "homepage": "https://bitcoin-ii.org"
+    }
+  },
+  {
     "coin": "BCH",
     "name": "bch",
     "fname": "Bitcoin Cash",

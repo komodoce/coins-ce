@@ -1,0 +1,47 @@
+[
+  {
+    "url": "electrum.bitcoinii.network:40002",
+    "ws_url": "electrum.bitcoinii.network:40102",
+    "protocol": "SSL",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  },
+  {
+    "url": "electrum.bitcoinii.network:40001",
+    "protocol": "TCP",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  },
+  {
+    "url": "electrum-02.bitcoinii.network:40004",
+    "ws_url": "electrum-02.bitcoinii.network:40104",
+    "protocol": "SSL",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  },
+  {
+    "url": "electrum-02.bitcoinii.network:40003",
+    "protocol": "TCP",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  },
+  {
+    "url": "electrum-03.bitcoinii.network:40006",
+    "ws_url": "electrum-03.bitcoinii.network:40106",
+    "protocol": "SSL",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  },
+  {
+    "url": "electrum-03.bitcoinii.network:40005",
+    "protocol": "TCP",
+    "contact": [
+      { "discord": "777703913125314580" }
+    ]
+  }
+]

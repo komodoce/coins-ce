@@ -66,6 +66,13 @@ lightwallet_coins = [
     f
     for f in os.listdir(f"{repo_path}/light_wallet_d")
     if os.path.isfile(f"{repo_path}/light_wallet_d/{f}")
+    and not f.endswith("_WSS")
+]
+lightwallet_wss_coins = [
+    f
+    for f in os.listdir(f"{repo_path}/light_wallet_d")
+    if os.path.isfile(f"{repo_path}/light_wallet_d/{f}")
+    and f.endswith("_WSS")
 ]
 electrum_coins = [
     f
@@ -206,8 +213,21 @@ class CoinConfig:
                 self.data[self.ticker].update(
                     {"light_wallet_d_servers": lightwallet_servers}
                 )
+                if f"{self.ticker}_WSS" in lightwallet_wss_coins:
+                    with open(f"{repo_path}/light_wallet_d/{self.ticker}_WSS", "r") as f:
+                        lightwallet_servers_wss = json.load(f)
+                    self.data[self.ticker].update(
+                        {"light_wallet_d_servers_wss": lightwallet_servers_wss}
+                    )
+                else:
+                    self.data[self.ticker].update({
+                        "light_wallet_d_servers_wss": []
+                    })
             else:
-                self.data[self.ticker].update({"light_wallet_d_servers": []})
+                self.data[self.ticker].update({
+                    "light_wallet_d_servers": [],
+                    "light_wallet_d_servers_wss": []
+                })
         elif self.coin_type in ["SIA"]:
             self.data[self.ticker].update({"nodes": ["SIA"]})
 
@@ -708,7 +728,7 @@ def parse_coins_repo(electrum_scan_report, uptime_tracker=None):
         else:
             # Check if coin has any connection methods
             has_connection = False
-            for field in ["nodes", "electrum", "light_wallet_d_servers", "rpc_urls"]:
+            for field in ["nodes", "electrum", "light_wallet_d_servers", "light_wallet_d_servers_wss", "rpc_urls"]:
                 if field in coins_config[coin]:
                     if coins_config[coin][field]:  # Non-empty list
                         has_connection = True
@@ -874,23 +894,29 @@ def filter_wss(coins_config):
             
         if "electrum" in coins_config[coin]:
             electrums = []
-            for i in coins_config[coin]["electrum"]:
-                if "protocol" in i:
-                    if i["protocol"] == "WSS":
-                        electrums.append(i)
+            for electrum_server in coins_config[coin]["electrum"]:
+                if "protocol" in electrum_server:
+                    if electrum_server["protocol"] == "WSS":
+                        electrums.append(electrum_server)
                 else:
-                    logger.warning(f"No protocol data in {i}")
+                    logger.warning(f"No protocol data in {electrum_server}")
             if len(electrums) > 0:
                 coins_config_wss.update({coin: coins_config[coin]})
                 coins_config_wss[coin]["electrum"] = electrums
         elif "nodes" in coins_config[coin]:
             nodes = []
-            for i in coins_config[coin]["nodes"]:
-                if "ws_url" in i:
-                    nodes.append(i)
+            for node in coins_config[coin]["nodes"]:
+                if "ws_url" in node:
+                    nodes.append(node)
             if len(nodes) > 0:
                 coins_config_wss.update({coin: coins_config[coin]})
                 coins_config_wss[coin]["nodes"] = nodes
+        elif "light_wallet_d_servers_wss" in coins_config[coin]:
+            coins_config_wss[coin]["light_wallet_d_servers_wss"] = [
+                server_url
+                for server_url in coins_config[coin]["light_wallet_d_servers_wss"]
+                if server_url.startswith("https")
+            ]
         else:
             logger.warning(f"{coin} not checked for WSS filter yet, including anyway.")
             coins_config_wss.update({coin: coins_config[coin]})
