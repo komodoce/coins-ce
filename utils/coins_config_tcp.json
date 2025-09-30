@@ -4087,7 +4087,7 @@
         },
         "electrum": [
             {
-                "url": "electrum-02.bitcoinii.network:40004",
+                "url": "komodoelectrum01.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4096,7 +4096,7 @@
                 ]
             },
             {
-                "url": "electrum-03.bitcoinii.network:40006",
+                "url": "komodoelectrum02.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4105,7 +4105,16 @@
                 ]
             },
             {
-                "url": "electrum.bitcoinii.network:40002",
+                "url": "komodoelectrum03.bitcoinii.app:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "komodoelectrum04.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4157,7 +4166,7 @@
         },
         "electrum": [
             {
-                "url": "electrum-02.bitcoinii.network:40004",
+                "url": "komodoelectrum01.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4166,7 +4175,7 @@
                 ]
             },
             {
-                "url": "electrum-03.bitcoinii.network:40006",
+                "url": "komodoelectrum02.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4175,55 +4184,7 @@
                 ]
             },
             {
-                "url": "electrum.bitcoinii.network:40002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BC2": {
-        "coin": "BC2",
-        "type": "UTXO",
-        "name": "Bitcoin II",
-        "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
-        "livecoinwatch_id": "BC2",
-        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bitcoin Signed Message:\n",
-        "fname": "Bitcoin II",
-        "rpcport": 8332,
-        "pubtype": 0,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/0'",
-        "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
-            "homepage": "https://bitcoin-ii.org"
-        },
-        "electrum": [
-            {
-                "url": "electrum-02.bitcoinii.network:40004",
+                "url": "komodoelectrum03.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4232,86 +4193,7 @@
                 ]
             },
             {
-                "url": "electrum-03.bitcoinii.network:40006",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BC2-segwit": {
-        "coin": "BC2-segwit",
-        "type": "UTXO",
-        "name": "Bitcoin II",
-        "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
-        "livecoinwatch_id": "BC2",
-        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bitcoin Signed Message:\n",
-        "fname": "Bitcoin II",
-        "rpcport": 8332,
-        "pubtype": 0,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "BC2",
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/0'",
-        "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
-            "homepage": "https://bitcoin-ii.org"
-        },
-        "electrum": [
-            {
-                "url": "electrum-02.bitcoinii.network:40004",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40006",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40002",
+                "url": "komodoelectrum04.bitcoinii.app:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -7610,11 +7492,6 @@
                 "disable_cert_verification": true
             },
             {
-                "url": "seattle.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "woolloomooloo.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -7671,11 +7548,6 @@
             },
             {
                 "url": "oakland.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "seattle.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             },
@@ -10650,11 +10522,6 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
