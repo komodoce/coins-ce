@@ -42130,9 +42130,11 @@
         "currently_enabled": false,
         "wallet_only": false,
         "light_wallet_d_servers": [
-            "https://zombie.dragonhound.info:1443"
+            "https://zombie.dragonhound.info:9447"
         ],
-        "light_wallet_d_servers_wss": [],
+        "light_wallet_d_servers_wss": [
+            "https://zombie.dragonhound.info:19447"
+        ],
         "asset": "ZOMBIE",
         "fname": "Zombie",
         "is_privacy_coin": true,
