@@ -4045,160 +4045,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "BC2": {
-        "coin": "BC2",
-        "type": "UTXO",
-        "name": "Bitcoin II",
-        "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
-        "livecoinwatch_id": "BC2",
-        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bitcoin Signed Message:\n",
-        "fname": "Bitcoin II",
-        "rpcport": 8332,
-        "pubtype": 0,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/0'",
-        "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
-            "homepage": "https://bitcoin-ii.org"
-        },
-        "electrum": [
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BC2-segwit": {
-        "coin": "BC2-segwit",
-        "type": "UTXO",
-        "name": "Bitcoin II",
-        "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
-        "livecoinwatch_id": "BC2",
-        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bitcoin Signed Message:\n",
-        "fname": "Bitcoin II",
-        "rpcport": 8332,
-        "pubtype": 0,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "BC2",
-        "txfee": 1000,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/0'",
-        "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
-            "homepage": "https://bitcoin-ii.org"
-        },
-        "electrum": [
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "BCH": {
         "coin": "BCH",
         "type": "UTXO",
@@ -10484,6 +10330,11 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -26364,6 +26215,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -27816,7 +27670,7 @@
         "type": "BEP-20",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://bscscan.com/",
         "explorer_tx_url": "tx/",
@@ -27866,7 +27720,7 @@
         "type": "ERC-20",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://etherscan.io/",
         "explorer_tx_url": "tx/",
@@ -27927,7 +27781,7 @@
         "type": "Polygon",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://polygonscan.com/",
         "explorer_tx_url": "tx/",
@@ -33299,56 +33153,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "TKL": {
-        "coin": "TKL",
-        "type": "Smart Chain",
-        "name": "Tokel",
-        "coinpaprika_id": "tkl-tokel",
-        "coingecko_id": "tokel",
-        "livecoinwatch_id": "TKL",
-        "explorer_url": "https://explorer.tokel.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "TOKEL",
-        "fname": "Tokel",
-        "is_privacy_coin": true,
-        "rpcport": 29405,
-        "pubtype": 60,
-        "p2shtype": 85,
-        "wiftype": 188,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "requires_notarization": true,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -43487,53 +43291,6 @@
             {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BONC": {
-        "coin": "BONC",
-        "type": "UTXO",
-        "name": "Bonkcoin",
-        "coinpaprika_id": "bonc1-bonkcoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_BONC",
-        "explorer_url": "https://explorer.bonkscoin.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Bonkcoin Signed Message:\n",
-        "fname": "Bonkcoin",
-        "rpcport": 15612,
-        "pubtype": 25,
-        "p2shtype": 28,
-        "wiftype": 151,
-        "segwit": false,
-        "txfee": 1000000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/6363'",
-        "links": {
-            "github": "https://github.com/Bonkcoin/Bonkcoin-core",
-            "homepage": "https://bonkscoin.io"
-        },
-        "electrum": [
-            {
-                "url": "electrum.bonkscoin.io:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "1224996462501429319"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"

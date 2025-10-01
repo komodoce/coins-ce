@@ -4433,80 +4433,8 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BC2-segwit": {
@@ -4548,80 +4476,8 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum02.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum03.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "komodoelectrum04.bitcoinii.app:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BCH": {
@@ -12285,6 +12141,16 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -30465,6 +30331,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -32104,7 +31973,7 @@
         "type": "BEP-20",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://bscscan.com/",
         "explorer_tx_url": "tx/",
@@ -32154,7 +32023,7 @@
         "type": "ERC-20",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://etherscan.io/",
         "explorer_tx_url": "tx/",
@@ -32215,7 +32084,7 @@
         "type": "Polygon",
         "name": "PRivaCY Coin",
         "coinpaprika_id": "prcy-privacy-coin",
-        "coingecko_id": "privacy-coin",
+        "coingecko_id": "prcy-coin",
         "livecoinwatch_id": "PRCY",
         "explorer_url": "https://polygonscan.com/",
         "explorer_tx_url": "tx/",
@@ -38677,44 +38546,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:10077",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -51095,35 +50928,8 @@
             "github": "https://github.com/Bonkcoin/Bonkcoin-core",
             "homepage": "https://bonkscoin.io"
         },
-        "electrum": [
-            {
-                "url": "electrum.bonkscoin.io:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "1224996462501429319"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bonkscoin.io:50002",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "1224996462501429319"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bonkscoin.io:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "1224996462501429319"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "CAS": {

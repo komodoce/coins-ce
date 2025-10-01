@@ -509,11 +509,40 @@
   },
   "BC2": {
     "all": {
-      "1759271532": "online"
+      "1759271532": "online",
+      "1759303475": "offline"
     },
     "by_server": {
       "_metadata": {
+        "komodoelectrum01.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum01.bitcoinii.app:50002": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
         "komodoelectrum01.bitcoinii.app:50003": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum02.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum02.bitcoinii.app:50002": {
           "contact": [
             {
               "discord": "777703913125314580"
@@ -527,7 +556,35 @@
             }
           ]
         },
+        "komodoelectrum03.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum03.bitcoinii.app:50002": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
         "komodoelectrum03.bitcoinii.app:50003": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum04.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum04.bitcoinii.app:50002": {
           "contact": [
             {
               "discord": "777703913125314580"
@@ -543,37 +600,45 @@
         }
       },
       "komodoelectrum01.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum01.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum01.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50003": {
         "1759271532": "offline"
@@ -582,11 +647,40 @@
   },
   "BC2-segwit": {
     "all": {
-      "1759271532": "online"
+      "1759271532": "online",
+      "1759303475": "offline"
     },
     "by_server": {
       "_metadata": {
+        "komodoelectrum01.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum01.bitcoinii.app:50002": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
         "komodoelectrum01.bitcoinii.app:50003": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum02.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum02.bitcoinii.app:50002": {
           "contact": [
             {
               "discord": "777703913125314580"
@@ -600,7 +694,35 @@
             }
           ]
         },
+        "komodoelectrum03.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum03.bitcoinii.app:50002": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
         "komodoelectrum03.bitcoinii.app:50003": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum04.bitcoinii.app:50001": {
+          "contact": [
+            {
+              "discord": "777703913125314580"
+            }
+          ]
+        },
+        "komodoelectrum04.bitcoinii.app:50002": {
           "contact": [
             {
               "discord": "777703913125314580"
@@ -616,37 +738,45 @@
         }
       },
       "komodoelectrum01.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum01.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum01.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum02.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum03.bitcoinii.app:50003": {
         "1759271532": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "komodoelectrum04.bitcoinii.app:50003": {
         "1759271532": "offline"
@@ -946,17 +1076,44 @@
   },
   "BONC": {
     "all": {
-      "1759271532": "online"
+      "1759271532": "online",
+      "1759303475": "offline"
     },
     "by_server": {
+      "_metadata": {
+        "electrum.bonkscoin.io:50001": {
+          "contact": [
+            {
+              "discord": "1224996462501429319"
+            }
+          ]
+        },
+        "electrum.bonkscoin.io:50002": {
+          "contact": [
+            {
+              "discord": "1224996462501429319"
+            }
+          ]
+        },
+        "electrum.bonkscoin.io:50003": {
+          "contact": [
+            {
+              "discord": "1224996462501429319"
+            }
+          ]
+        }
+      },
       "electrum.bonkscoin.io:50001": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "electrum.bonkscoin.io:50002": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "electrum.bonkscoin.io:50003": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       }
     }
   },
@@ -1719,10 +1876,12 @@
         "1759271532": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759303475": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759303475": "online"
       }
     }
   },
@@ -4671,7 +4830,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1759271532": "online",
-        "1759299062": "offline"
+        "1759299062": "offline",
+        "1759303475": "online"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
@@ -5401,17 +5561,21 @@
   },
   "TKL": {
     "all": {
-      "1759271532": "online"
+      "1759271532": "online",
+      "1759303475": "offline"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759303475": "offline"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1759271532": "offline"
@@ -5423,6 +5587,36 @@
         "1759271532": "offline"
       },
       "_metadata": {
+        "1.eu.tokel.electrum.dexstats.info:10077": {
+          "contact": [
+            {
+              "email": "chmex@dexstats.info"
+            },
+            {
+              "discord": "chmex#0686"
+            }
+          ]
+        },
+        "1.eu.tokel.electrum.dexstats.info:11077": {
+          "contact": [
+            {
+              "email": "chmex@dexstats.info"
+            },
+            {
+              "discord": "chmex#0686"
+            }
+          ]
+        },
+        "1.eu.tokel.electrum.dexstats.info:9077": {
+          "contact": [
+            {
+              "email": "chmex@dexstats.info"
+            },
+            {
+              "discord": "chmex#0686"
+            }
+          ]
+        },
         "2.eu.tokel.electrum.dexstats.info:10077": {
           "contact": [
             {
