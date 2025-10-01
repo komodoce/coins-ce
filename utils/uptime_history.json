@@ -1805,13 +1805,16 @@
         }
       },
       "electrumx1.dimecoinnetwork.com:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrumx1.dimecoinnetwork.com:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrumx1.dimecoinnetwork.com:50004": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrumx2.dimecoinnetwork.com:50001": {
         "1759271532": "online"
@@ -4667,7 +4670,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759299062": "offline"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
@@ -5159,13 +5163,16 @@
         "1759271532": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "electrum4.runebase.io:50001": {
         "1759271532": "offline"
@@ -6280,13 +6287,16 @@
         "1759271532": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759299062": "online"
       }
     }
   },
