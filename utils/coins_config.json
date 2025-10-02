@@ -8532,6 +8532,11 @@
                 "disable_cert_verification": true
             },
             {
+                "url": "seattle.ecoincore.com:34333",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "woolloomooloo.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -8598,6 +8603,11 @@
             },
             {
                 "url": "oakland.ecoincore.com:34333",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "seattle.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             },
@@ -45390,6 +45400,24 @@
                 "protocol": "TCP"
             },
             {
+                "url": "zet-ex-four.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "zet-ex-three.ewmci.online:50011",
                 "protocol": "TCP",
                 "contact": [
@@ -50928,8 +50956,35 @@
             "github": "https://github.com/Bonkcoin/Bonkcoin-core",
             "homepage": "https://bonkscoin.io"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.bonkscoin.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1224996462501429319"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bonkscoin.io:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1224996462501429319"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bonkscoin.io:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1224996462501429319"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "CAS": {

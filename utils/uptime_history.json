@@ -1077,7 +1077,8 @@
   "BONC": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1759367480": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1105,15 +1106,18 @@
       },
       "electrum.bonkscoin.io:50001": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       },
       "electrum.bonkscoin.io:50002": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       },
       "electrum.bonkscoin.io:50003": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       }
     }
   },
@@ -1449,7 +1453,8 @@
         "1759271532": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1759271532": "online"
@@ -1495,7 +1500,8 @@
         "1759271532": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1759271532": "online"
@@ -6472,10 +6478,12 @@
         }
       },
       "zet-ex-four.ewmci.online:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1759271532": "offline"
