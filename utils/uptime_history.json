@@ -37,10 +37,12 @@
         "1759271532": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759540151": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759540151": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1759271532": "offline"
@@ -2722,13 +2724,15 @@
     "all": {},
     "by_server": {
       "https://fantom-rpc.publicnode.com": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       },
       "https://fantom.drpc.org": {
         "1759271532": "online"
       },
       "wss://fantom-rpc.publicnode.com": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       },
       "wss://fantom.drpc.org": {
         "1759271532": "online"
@@ -4840,7 +4844,8 @@
       "https://1rpc.io/one": {
         "1759271532": "online",
         "1759299062": "offline",
-        "1759303475": "online"
+        "1759303475": "online",
+        "1759540151": "offline"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
@@ -4860,7 +4865,8 @@
     "all": {},
     "by_server": {
       "https://osmosis-rpc.alpha.komodo.earth/": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       },
       "https://osmosis.rpc.stakin-nodes.com": {
         "1759271532": "online"
@@ -4872,7 +4878,8 @@
         "1759271532": "online"
       },
       "wss://osmosis-rpc.alpha.komodo.earth/websocket": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       }
     }
   },
