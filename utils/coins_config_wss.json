@@ -32168,6 +32168,11 @@
                 "url": "failover.trc-uis.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": false
+            },
+            {
+                "url": "uis-uno.ewmcx.net:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -32583,6 +32588,11 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
@@ -39791,6 +39801,12 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
+            {
+                "url": "https://osmosis-rpc.alpha.komodo.earth/",
+                "api_url": "https://osmosis-api.alpha.komodo.earth/",
+                "grpc_url": "https://osmosis-grpc.alpha.komodo.earth/",
+                "ws_url": "wss://osmosis-rpc.alpha.komodo.earth/websocket"
+            },
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
             },
