@@ -4866,7 +4866,8 @@
     "by_server": {
       "https://osmosis-rpc.alpha.komodo.earth/": {
         "1759271532": "online",
-        "1759540151": "offline"
+        "1759540151": "offline",
+        "1759627143": "online"
       },
       "https://osmosis.rpc.stakin-nodes.com": {
         "1759271532": "online"
@@ -4879,7 +4880,8 @@
       },
       "wss://osmosis-rpc.alpha.komodo.earth/websocket": {
         "1759271532": "online",
-        "1759540151": "offline"
+        "1759540151": "offline",
+        "1759627143": "online"
       }
     }
   },
@@ -5809,10 +5811,12 @@
         "1759271532": "online"
       },
       "uis-uno.ewmcx.net:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uis-uno.ewmcx.net:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       }
     }
   },
@@ -5822,10 +5826,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1759271532": "online"
