@@ -41810,6 +41810,7 @@
             {
                 "url": "electrumx1.cointest.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "protocol@whive.io"
@@ -41825,6 +41826,7 @@
             {
                 "url": "electrumx2.cointest.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "protocol@whive.io"
@@ -41885,6 +41887,7 @@
             {
                 "url": "electrumx1.cointest.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "protocol@whive.io"
@@ -41900,6 +41903,7 @@
             {
                 "url": "electrumx2.cointest.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "protocol@whive.io"
