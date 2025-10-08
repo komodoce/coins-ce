@@ -4259,6 +4259,15 @@
       "electrumx1.mydogecoin.fun:60003": {
         "1759271532": "online"
       },
+      "electrumx1.mydogecoin.info:60001": {
+        "1759959314": "online"
+      },
+      "electrumx1.mydogecoin.info:60002": {
+        "1759959314": "online"
+      },
+      "electrumx1.mydogecoin.info:60003": {
+        "1759959314": "online"
+      },
       "electrumx2.mydogecoin.fun:60001": {
         "1759271532": "online"
       },
@@ -4267,6 +4276,15 @@
       },
       "electrumx2.mydogecoin.fun:60003": {
         "1759271532": "online"
+      },
+      "electrumx2.mydogecoin.info:60001": {
+        "1759959314": "online"
+      },
+      "electrumx2.mydogecoin.info:60002": {
+        "1759959314": "online"
+      },
+      "electrumx2.mydogecoin.info:60003": {
+        "1759959314": "online"
       }
     }
   },
@@ -4848,7 +4866,8 @@
         "1759299062": "offline",
         "1759303475": "online",
         "1759540151": "offline",
-        "1759885953": "online"
+        "1759885953": "online",
+        "1759959314": "offline"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
