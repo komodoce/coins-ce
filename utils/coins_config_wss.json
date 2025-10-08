@@ -10655,11 +10655,11 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.mydogecoin.fun:60003",
+                "url": "electrumx1.mydogecoin.info:60003",
                 "protocol": "WSS"
             },
             {
-                "url": "electrumx2.mydogecoin.fun:60003",
+                "url": "electrumx2.mydogecoin.info:60003",
                 "protocol": "WSS"
             }
         ],

@@ -11365,11 +11365,11 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.mydogecoin.fun:60002",
+                "url": "electrumx1.mydogecoin.info:60002",
                 "protocol": "SSL"
             },
             {
-                "url": "electrumx2.mydogecoin.fun:60002",
+                "url": "electrumx2.mydogecoin.info:60002",
                 "protocol": "SSL"
             }
         ],
@@ -26186,9 +26186,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
