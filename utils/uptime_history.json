@@ -4845,7 +4845,8 @@
         "1759271532": "online",
         "1759299062": "offline",
         "1759303475": "online",
-        "1759540151": "offline"
+        "1759540151": "offline",
+        "1759885953": "online"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
@@ -5580,20 +5581,24 @@
   "TKL": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1759885953": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1759271532": "offline"

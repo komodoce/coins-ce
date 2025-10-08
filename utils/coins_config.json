@@ -30355,6 +30355,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -38567,8 +38570,44 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:10077",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:11077",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:9077",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
