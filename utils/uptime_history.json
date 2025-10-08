@@ -37,10 +37,12 @@
         "1759271532": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759540151": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759540151": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1759271532": "offline"
@@ -1077,7 +1079,8 @@
   "BONC": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1759367480": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1105,15 +1108,18 @@
       },
       "electrum.bonkscoin.io:50001": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       },
       "electrum.bonkscoin.io:50002": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       },
       "electrum.bonkscoin.io:50003": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759367480": "online"
       }
     }
   },
@@ -1449,7 +1455,8 @@
         "1759271532": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1759271532": "online"
@@ -1495,7 +1502,8 @@
         "1759271532": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1759271532": "online"
@@ -1649,13 +1657,16 @@
         }
       },
       "coin.crionic.org:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759453888": "online"
       },
       "coin.crionic.org:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759453888": "online"
       },
       "coin.crionic.org:50005": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759453888": "online"
       },
       "explorer.crionic.org:50001": {
         "1759271532": "online"
@@ -2713,13 +2724,15 @@
     "all": {},
     "by_server": {
       "https://fantom-rpc.publicnode.com": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       },
       "https://fantom.drpc.org": {
         "1759271532": "online"
       },
       "wss://fantom-rpc.publicnode.com": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline"
       },
       "wss://fantom.drpc.org": {
         "1759271532": "online"
@@ -4831,7 +4844,9 @@
       "https://1rpc.io/one": {
         "1759271532": "online",
         "1759299062": "offline",
-        "1759303475": "online"
+        "1759303475": "online",
+        "1759540151": "offline",
+        "1759885953": "online"
       },
       "https://api.harmony.one": {
         "1759271532": "online"
@@ -4851,7 +4866,9 @@
     "all": {},
     "by_server": {
       "https://osmosis-rpc.alpha.komodo.earth/": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline",
+        "1759627143": "online"
       },
       "https://osmosis.rpc.stakin-nodes.com": {
         "1759271532": "online"
@@ -4863,7 +4880,9 @@
         "1759271532": "online"
       },
       "wss://osmosis-rpc.alpha.komodo.earth/websocket": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1759540151": "offline",
+        "1759627143": "online"
       }
     }
   },
@@ -5562,20 +5581,24 @@
   "TKL": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1759885953": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1759885953": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1759271532": "offline"
@@ -5793,10 +5816,12 @@
         "1759271532": "online"
       },
       "uis-uno.ewmcx.net:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uis-uno.ewmcx.net:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       }
     }
   },
@@ -5806,10 +5831,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759627143": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1759271532": "online"
@@ -6472,10 +6499,12 @@
         }
       },
       "zet-ex-four.ewmci.online:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1759367480": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1759271532": "offline"
