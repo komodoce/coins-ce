@@ -81,6 +81,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -368,6 +372,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -425,6 +433,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -697,6 +709,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -1098,6 +1114,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -1208,6 +1228,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -1436,6 +1460,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -1657,6 +1685,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -1935,6 +1967,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -2209,6 +2245,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -2595,6 +2635,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -3216,6 +3260,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -3479,6 +3527,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -3695,6 +3747,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -3874,6 +3930,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -4081,6 +4141,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -4998,6 +5062,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -5232,6 +5300,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -6097,6 +6169,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -6537,6 +6613,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -6655,6 +6735,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -6983,6 +7067,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -7093,6 +7181,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -7631,6 +7723,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -7741,6 +7837,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -8127,6 +8227,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -8237,6 +8341,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -8569,6 +8677,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -9170,6 +9282,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -9490,6 +9606,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -11428,6 +11548,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -11848,6 +11972,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -12010,6 +12138,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -12128,6 +12260,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -12252,6 +12388,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -12694,6 +12834,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -13835,6 +13979,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -14213,6 +14361,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -14634,6 +14786,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -14792,6 +14948,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -15004,6 +15164,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -15103,6 +15267,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -15547,6 +15715,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -15952,6 +16124,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -16063,6 +16239,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -16173,6 +16353,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -16343,6 +16527,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -16572,6 +16760,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -16621,6 +16813,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -17079,6 +17275,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -17305,6 +17505,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -17416,6 +17620,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -17474,6 +17682,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -17692,6 +17904,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -17749,6 +17965,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -17967,6 +18187,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18137,6 +18361,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18186,6 +18414,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -18246,6 +18478,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18296,6 +18532,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -18356,6 +18596,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18415,6 +18659,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18466,6 +18714,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18516,6 +18768,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -18621,6 +18877,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -18732,6 +18992,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18781,6 +19045,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -18841,6 +19109,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18892,6 +19164,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -18942,6 +19218,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -19571,6 +19851,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -20351,6 +20635,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -20465,6 +20753,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -20725,6 +21017,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -21003,6 +21299,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -21736,6 +22036,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -21905,6 +22209,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -22919,6 +23227,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -23179,6 +23491,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -23793,6 +24109,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -24118,6 +24438,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -24383,6 +24707,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -24559,6 +24887,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -24674,6 +25006,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -24937,6 +25273,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -25060,6 +25400,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -25772,6 +26116,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -25886,6 +26234,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -26051,6 +26403,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -26212,6 +26568,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -26330,6 +26690,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -26502,6 +26866,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -27604,6 +27972,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -28034,6 +28406,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -28152,6 +28528,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -28623,6 +29003,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -29003,6 +29387,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -29111,6 +29499,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -29488,6 +29880,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -29545,6 +29941,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -29656,6 +30056,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -30027,6 +30431,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -30357,6 +30765,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -30883,6 +31295,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -31099,6 +31515,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -31683,6 +32103,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -32001,6 +32425,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -32166,6 +32594,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -32371,6 +32803,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -32590,6 +33026,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -33047,6 +33487,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -33096,6 +33540,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -33362,6 +33810,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -34070,6 +34522,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -34604,6 +35060,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -34969,6 +35429,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -35319,6 +35783,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -35864,6 +36332,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -36473,6 +36945,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
+            {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
@@ -37067,6 +37543,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
@@ -40727,6 +41207,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://pol3.cipig.net:18755",
+                "ws_url": "wss://pol3.cipig.net:38755"
+            },
             {
                 "url": "https://polygon-bor-rpc.publicnode.com",
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
