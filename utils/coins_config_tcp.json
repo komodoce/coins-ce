@@ -4154,7 +4154,25 @@
         },
         "electrum": [
             {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
+                "url": "electrum-02.bitcoinii.network:40004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "electrum-03.bitcoinii.network:40006",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bitcoinii.network:40002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -4206,7 +4224,25 @@
         },
         "electrum": [
             {
-                "url": "komodoelectrum01.bitcoinii.app:50002",
+                "url": "electrum-02.bitcoinii.network:40004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "electrum-03.bitcoinii.network:40006",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.bitcoinii.network:40002",
                 "protocol": "SSL",
                 "contact": [
                     {
