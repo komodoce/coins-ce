@@ -4481,7 +4481,7 @@
         "type": "UTXO",
         "name": "Bitcoin II",
         "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
+        "coingecko_id": "bitcoinii",
         "livecoinwatch_id": "BC2",
         "explorer_url": "https://bitcoinii.ddns.net/explorer/",
         "explorer_tx_url": "tx/",
@@ -4601,7 +4601,7 @@
         "type": "UTXO",
         "name": "Bitcoin II",
         "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
+        "coingecko_id": "bitcoinii",
         "livecoinwatch_id": "BC2",
         "explorer_url": "https://bitcoinii.ddns.net/explorer/",
         "explorer_tx_url": "tx/",
@@ -7282,24 +7282,6 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
-            {
-                "url": "electrum1.btcz.rocks:50001",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum1.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
             {
                 "url": "electrum3.btcz.rocks:50001",
                 "contact": [
@@ -31805,12 +31787,8 @@
             "github": "https://github.com/Pink2Dev/Pink2",
             "homepage": "https://getstarted.with.pink"
         },
-        "electrum": [
-            {
-                "url": "pink-one.ewm-cx.net:50001",
-                "protocol": "TCP"
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block.dws?"
     },
     "PIVX": {
@@ -35478,18 +35456,6 @@
             },
             {
                 "url": "x1.raptoreum.com:50004",
-                "protocol": "WSS"
-            },
-            {
-                "url": "x2.raptoreum.com:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "x2.raptoreum.com:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "x2.raptoreum.com:50004",
                 "protocol": "WSS"
             }
         ],
@@ -44121,33 +44087,6 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
-                "url": "xmy-ex-one.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "xmy-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "xmy-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -44213,33 +44152,6 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
-            {
-                "url": "xmy-ex-one.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "xmy-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "xmy-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
@@ -51022,42 +50934,6 @@
             },
             {
                 "url": "electrum.mewccrypto.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {

@@ -3770,7 +3770,7 @@
         "type": "UTXO",
         "name": "Bitcoin II",
         "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
+        "coingecko_id": "bitcoinii",
         "livecoinwatch_id": "BC2",
         "explorer_url": "https://bitcoinii.ddns.net/explorer/",
         "explorer_tx_url": "tx/",
@@ -3836,7 +3836,7 @@
         "type": "UTXO",
         "name": "Bitcoin II",
         "coinpaprika_id": "bc2-bitcoin-ii",
-        "coingecko_id": "",
+        "coingecko_id": "bitcoinii",
         "livecoinwatch_id": "BC2",
         "explorer_url": "https://bitcoinii.ddns.net/explorer/",
         "explorer_tx_url": "tx/",
@@ -5843,15 +5843,6 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
-            {
-                "url": "electrum1.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
             {
                 "url": "electrum3.btcz.rocks:50004",
                 "contact": [
@@ -28826,10 +28817,6 @@
             {
                 "url": "x1.raptoreum.com:50004",
                 "protocol": "WSS"
-            },
-            {
-                "url": "x2.raptoreum.com:50004",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -36005,15 +35992,6 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -36061,15 +36039,6 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
-            {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
@@ -40862,24 +40831,6 @@
         "electrum": [
             {
                 "url": "electrum.mewccrypto.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
