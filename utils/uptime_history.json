@@ -512,7 +512,8 @@
   "BC2": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1760145159": "online"
     },
     "by_server": {
       "_metadata": {
@@ -603,14 +604,17 @@
       },
       "komodoelectrum01.bitcoinii.app:50001": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum01.bitcoinii.app:50002": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum01.bitcoinii.app:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum02.bitcoinii.app:50001": {
         "1759271532": "online",
@@ -650,7 +654,8 @@
   "BC2-segwit": {
     "all": {
       "1759271532": "online",
-      "1759303475": "offline"
+      "1759303475": "offline",
+      "1760145159": "online"
     },
     "by_server": {
       "_metadata": {
@@ -741,14 +746,17 @@
       },
       "komodoelectrum01.bitcoinii.app:50001": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum01.bitcoinii.app:50002": {
         "1759271532": "online",
-        "1759303475": "offline"
+        "1759303475": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum01.bitcoinii.app:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760145159": "online"
       },
       "komodoelectrum02.bitcoinii.app:50001": {
         "1759271532": "online",
@@ -1976,15 +1984,18 @@
       },
       "electrumx1.dimecoinnetwork.com:50001": {
         "1759271532": "offline",
-        "1759299062": "online"
+        "1759299062": "online",
+        "1760145159": "offline"
       },
       "electrumx1.dimecoinnetwork.com:50002": {
         "1759271532": "offline",
-        "1759299062": "online"
+        "1759299062": "online",
+        "1760145159": "offline"
       },
       "electrumx1.dimecoinnetwork.com:50004": {
         "1759271532": "offline",
-        "1759299062": "online"
+        "1759299062": "online",
+        "1760145159": "offline"
       },
       "electrumx2.dimecoinnetwork.com:50001": {
         "1759271532": "online"
@@ -2858,7 +2869,8 @@
     "all": {},
     "by_server": {
       "https://moonbeam.drpc.org": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1760145159": "offline"
       },
       "https://moonbeam.public.blastapi.io": {
         "1759271532": "online"
@@ -2867,7 +2879,8 @@
         "1759271532": "online"
       },
       "wss://moonbeam.drpc.org": {
-        "1759271532": "online"
+        "1759271532": "online",
+        "1760145159": "offline"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1759271532": "online"
