@@ -2870,7 +2870,8 @@
     "by_server": {
       "https://moonbeam.drpc.org": {
         "1759271532": "online",
-        "1760145159": "offline"
+        "1760145159": "offline",
+        "1760163397": "online"
       },
       "https://moonbeam.public.blastapi.io": {
         "1759271532": "online"
@@ -2880,7 +2881,8 @@
       },
       "wss://moonbeam.drpc.org": {
         "1759271532": "online",
-        "1760145159": "offline"
+        "1760145159": "offline",
+        "1760163397": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1759271532": "online"
@@ -5838,7 +5840,8 @@
         "1759271532": "online"
       },
       "uis-ex-one.ewmci.online:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760163397": "online"
       }
     }
   },
@@ -6309,13 +6312,16 @@
         "1759271532": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760163397": "online"
       },
       "xvc-ex-seven.ewmci.online:50002": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760163397": "online"
       },
       "xvc-ex-seven.ewmci.online:50003": {
-        "1759271532": "offline"
+        "1759271532": "offline",
+        "1760163397": "online"
       }
     }
   },
