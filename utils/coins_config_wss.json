@@ -3765,6 +3765,106 @@
         ],
         "explorer_block_url": "block/"
     },
+    "BC2": {
+        "coin": "BC2",
+        "type": "UTXO",
+        "name": "Bitcoin II",
+        "coinpaprika_id": "bc2-bitcoin-ii",
+        "coingecko_id": "",
+        "livecoinwatch_id": "BC2",
+        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
+        "fname": "Bitcoin II",
+        "rpcport": 8332,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "bc",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/0'",
+        "links": {
+            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "homepage": "https://bitcoin-ii.org"
+        },
+        "electrum": [
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "BC2-segwit": {
+        "coin": "BC2-segwit",
+        "type": "UTXO",
+        "name": "Bitcoin II",
+        "coinpaprika_id": "bc2-bitcoin-ii",
+        "coingecko_id": "",
+        "livecoinwatch_id": "BC2",
+        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
+        "fname": "Bitcoin II",
+        "rpcport": 8332,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "bc",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "BC2",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/0'",
+        "links": {
+            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "homepage": "https://bitcoin-ii.org"
+        },
+        "electrum": [
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BCH": {
         "coin": "BCH",
         "type": "UTXO",
@@ -10123,18 +10223,6 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50004",
                 "protocol": "WSS",
@@ -23713,10 +23801,6 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
-            },
             {
                 "url": "https://moonbeam.public.blastapi.io",
                 "ws_url": "wss://moonbeam.public.blastapi.io"

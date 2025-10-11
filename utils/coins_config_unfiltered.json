@@ -4511,8 +4511,35 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BC2-segwit": {
@@ -4554,8 +4581,35 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            },
+            {
+                "url": "komodoelectrum01.bitcoinii.app:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "777703913125314580"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BCH": {
@@ -12676,42 +12730,6 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50001",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50001",
                 "contact": [
@@ -28954,10 +28972,6 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
-            },
             {
                 "url": "https://moonbeam.public.blastapi.io",
                 "ws_url": "wss://moonbeam.public.blastapi.io"
