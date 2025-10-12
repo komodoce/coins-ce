@@ -2005,10 +2005,12 @@
         "1760169423": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760231895": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760231895": "online"
       },
       "electrum5.egulden.org:11017": {
         "1760169423": "offline"
@@ -4993,13 +4995,16 @@
         "1760169423": "online"
       },
       "x2.raptoreum.com:50001": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760231895": "online"
       },
       "x2.raptoreum.com:50002": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760231895": "online"
       },
       "x2.raptoreum.com:50004": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760231895": "online"
       }
     }
   },
