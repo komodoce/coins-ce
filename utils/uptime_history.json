@@ -1231,7 +1231,8 @@
         "1760169423": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1760169423": "online"
+        "1760169423": "online",
+        "1760288935": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
         "1760169423": "online"
@@ -1277,7 +1278,8 @@
         "1760169423": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1760169423": "online"
+        "1760169423": "online",
+        "1760288935": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
         "1760169423": "online"
@@ -5370,6 +5372,31 @@
       },
       "failover.trc-uis.ewmcx.biz:50007": {
         "1760169423": "offline"
+      }
+    }
+  },
+  "TRMP": {
+    "all": {
+      "1760288935": "online"
+    },
+    "by_server": {
+      "electrum-server1.trumpow.meme:50001": {
+        "1760288935": "online"
+      },
+      "electrum-server1.trumpow.meme:50002": {
+        "1760288935": "online"
+      },
+      "electrum-server1.trumpow.meme:50004": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50001": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50002": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50004": {
+        "1760288935": "online"
       }
     }
   },
