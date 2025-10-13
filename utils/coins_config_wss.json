@@ -36067,6 +36067,15 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
+                "url": "xmy-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -36114,6 +36123,15 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
+            {
+                "url": "xmy-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
