@@ -31787,8 +31787,16 @@
             "github": "https://github.com/Pink2Dev/Pink2",
             "homepage": "https://getstarted.with.pink"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "pink-one.ewm-cx.net:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "pink-two.ewm-cx.net:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "PIVX": {
@@ -44217,6 +44225,33 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
+                "url": "xmy-ex-one.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xmy-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xmy-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "xmy-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -44282,6 +44317,33 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
+            {
+                "url": "xmy-ex-one.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xmy-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xmy-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "xmy-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
