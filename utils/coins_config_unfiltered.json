@@ -39383,8 +39383,18 @@
             "github": "https://github.com/terracoin/terracoin",
             "homepage": "https://www.terracoin.io"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "failover.trc-uis.ewmcx.biz:50006",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.trc-uis.ewmcx.biz:50007",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "TRX-BEP20_OLD": {
