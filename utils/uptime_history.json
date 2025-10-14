@@ -5355,7 +5355,8 @@
   },
   "TRC": {
     "all": {
-      "1760169423": "offline"
+      "1760169423": "offline",
+      "1760404392": "online"
     },
     "by_server": {
       "electrum.southofheaven.ca:50001": {
@@ -5371,10 +5372,12 @@
         "1760169423": "offline"
       },
       "failover.trc-uis.ewmcx.biz:50006": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760404392": "online"
       },
       "failover.trc-uis.ewmcx.biz:50007": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760404392": "online"
       }
     }
   },
