@@ -1231,7 +1231,8 @@
         "1760169423": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1760169423": "online"
+        "1760169423": "online",
+        "1760288935": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
         "1760169423": "online"
@@ -1277,7 +1278,8 @@
         "1760169423": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1760169423": "online"
+        "1760169423": "online",
+        "1760288935": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
         "1760169423": "online"
@@ -4671,14 +4673,17 @@
   },
   "PINK": {
     "all": {
-      "1760169423": "offline"
+      "1760169423": "offline",
+      "1760318282": "online"
     },
     "by_server": {
       "pink-one.ewm-cx.net:50001": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "pink-two.ewm-cx.net:50001": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       }
     }
   },
@@ -5350,7 +5355,8 @@
   },
   "TRC": {
     "all": {
-      "1760169423": "offline"
+      "1760169423": "offline",
+      "1760404392": "online"
     },
     "by_server": {
       "electrum.southofheaven.ca:50001": {
@@ -5366,10 +5372,37 @@
         "1760169423": "offline"
       },
       "failover.trc-uis.ewmcx.biz:50006": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760404392": "online"
       },
       "failover.trc-uis.ewmcx.biz:50007": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760404392": "online"
+      }
+    }
+  },
+  "TRMP": {
+    "all": {
+      "1760288935": "online"
+    },
+    "by_server": {
+      "electrum-server1.trumpow.meme:50001": {
+        "1760288935": "online"
+      },
+      "electrum-server1.trumpow.meme:50002": {
+        "1760288935": "online"
+      },
+      "electrum-server1.trumpow.meme:50004": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50001": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50002": {
+        "1760288935": "online"
+      },
+      "electrum-server2.trumpow.meme:50004": {
+        "1760288935": "online"
       }
     }
   },
@@ -5808,13 +5841,16 @@
         }
       },
       "xmy-ex-one.ewmci.online:50001": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-one.ewmci.online:50002": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-one.ewmci.online:50003": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-two.ewmci.online:50001": {
         "1760169423": "online"
@@ -5856,13 +5892,16 @@
         }
       },
       "xmy-ex-one.ewmci.online:50001": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-one.ewmci.online:50002": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-one.ewmci.online:50003": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760318282": "online"
       },
       "xmy-ex-two.ewmci.online:50001": {
         "1760169423": "online"
