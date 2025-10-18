@@ -1768,10 +1768,12 @@
         }
       },
       "electrumx1.diminutivecoin.com:50012": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760749863": "online"
       },
       "electrumx1.diminutivecoin.com:50013": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760749863": "online"
       },
       "electrumx2.diminutivecoin.com:50012": {
         "1760169423": "online"
@@ -2455,14 +2457,16 @@
       },
       "https://fantom.drpc.org": {
         "1760169423": "online",
-        "1760706425": "offline"
+        "1760706425": "offline",
+        "1760749863": "online"
       },
       "wss://fantom-rpc.publicnode.com": {
         "1760169423": "offline"
       },
       "wss://fantom.drpc.org": {
         "1760169423": "online",
-        "1760706425": "offline"
+        "1760706425": "offline",
+        "1760749863": "online"
       }
     }
   },
@@ -3060,10 +3064,12 @@
         "1760169423": "offline"
       },
       "il8p.electrumx.transcenders.name:50002": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760749863": "online"
       },
       "il8p.electrumx.transcenders.name:50003": {
-        "1760169423": "offline"
+        "1760169423": "offline",
+        "1760749863": "online"
       },
       "il9p.electrumx.transcenders.name:50002": {
         "1760169423": "online"
