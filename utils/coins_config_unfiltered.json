@@ -15800,12 +15800,8 @@
         },
         "swap_contract_address": "0x304896fc2F242f13dd852b412E7B60C5F495B79c",
         "fallback_swap_contract": "0x304896fc2F242f13dd852b412E7B60C5F495B79c",
-        "nodes": [
-            {
-                "url": "https://rpc.energyweb.org",
-                "ws_url": "wss://rpc.energyweb.org/ws"
-            }
-        ],
+        "nodes": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "EXN-BEP20": {
@@ -43032,6 +43028,22 @@
                     }
                 ],
                 "disable_cert_verification": false
+            },
+            {
+                "url": "el2.verus.io:17488",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "0x03-ctrlc@protonmail.com"
+                    },
+                    {
+                        "discord": "0x03#8822"
+                    },
+                    {
+                        "keybase": "bloodynora"
+                    }
+                ],
+                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -51273,8 +51285,11 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [],
-        "delisted": true,
+        "rpc_urls": [
+            {
+                "url": "https://iristest-rpc.bravo.komodo.earth"
+            }
+        ],
         "explorer_block_url": "#/blocks/"
     },
     "NUCLEUSTEST": {
@@ -51357,7 +51372,7 @@
         "parent_coin": "IRISTEST",
         "rpc_urls": [
             {
-                "url": "https://evmrpc.nyancat.irisnet.org"
+                "url": "https://iristest-rpc.bravo.komodo.earth"
             }
         ],
         "explorer_block_url": "#/blocks/"
