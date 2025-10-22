@@ -1487,7 +1487,8 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761095882": "online"
       },
       "api.dogecoinev.com:50002": {
         "1761084635": "online"
@@ -2071,7 +2072,8 @@
         "1761084635": "online"
       },
       "https://eth.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "https://eth3.cipig.net:18555": {
         "1761084635": "online"
@@ -2086,7 +2088,8 @@
         "1761084635": "online"
       },
       "wss://eth.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://eth3.cipig.net:38555": {
         "1761084635": "online"
@@ -2112,7 +2115,8 @@
         "1761084635": "online"
       },
       "https://arbitrum.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://arbitrum-one-rpc.publicnode.com": {
         "1761084635": "online"
@@ -2402,13 +2406,15 @@
         "1761084635": "offline"
       },
       "https://fantom.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://fantom-rpc.publicnode.com": {
         "1761084635": "offline"
       },
       "wss://fantom.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       }
     }
   },
@@ -2527,7 +2533,8 @@
     "all": {},
     "by_server": {
       "https://moonbeam.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "https://moonbeam.public.blastapi.io": {
         "1761084635": "online"
@@ -2536,7 +2543,8 @@
         "1761084635": "online"
       },
       "wss://moonbeam.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1761084635": "online"
@@ -4544,7 +4552,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761095882": "online"
       },
       "https://api.harmony.one": {
         "1761084635": "online"
@@ -4553,10 +4562,12 @@
         "1761084635": "online"
       },
       "https://harmony-0.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://harmony-0.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       }
     }
   },
@@ -4730,7 +4741,8 @@
         "1761084635": "online"
       },
       "https://polygon.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "https://polygon.gateway.tenderly.co": {
         "1761084635": "online"
@@ -4742,7 +4754,8 @@
         "1761084635": "online"
       },
       "wss://polygon.drpc.org": {
-        "1761084635": "online"
+        "1761084635": "online",
+        "1761095882": "offline"
       },
       "wss://polygon.gateway.tenderly.co": {
         "1761084635": "online"
@@ -5080,13 +5093,16 @@
         "1761084635": "online"
       },
       "electrum2.runebase.io:50001": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761095882": "online"
       },
       "electrum2.runebase.io:50002": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761095882": "online"
       },
       "electrum2.runebase.io:50004": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761095882": "online"
       },
       "electrum3.runebase.io:50001": {
         "1761084635": "offline"
