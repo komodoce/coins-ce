@@ -4992,6 +4992,26 @@
     "estimate_gas_mult": 1.3
   },
   {
+    "coin": "ETH-BASE",
+    "name": "eth_base",
+    "fname": "Ethereum",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "required_confirmations": 10,
+    "avg_blocktime": 0.2,
+    "protocol": {
+      "type": "ETH",
+      "protocol_data": {
+        "chain_id": 8453
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
+    "estimate_gas_mult": 1.3
+  },
+  {
     "coin": "ETH-BEP20",
     "name": "eth_bep20",
     "fname": "Ethereum",
@@ -12927,6 +12947,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "TBTC-BASE",
+    "name": "tbtc_base",
+    "fname": "tBTC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "TBTC-ERC20",
     "name": "tbtc_erc20",
     "fname": "tBTC",
@@ -13796,6 +13835,25 @@
       "protocol_data": {
         "platform": "ETH-ARB20",
         "contract_address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "USDC-BASE",
+    "name": "usdc_base",
+    "fname": "USD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
       }
     },
     "derivation_path": "m/44'/60'"
