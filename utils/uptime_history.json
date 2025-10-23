@@ -1215,11 +1215,23 @@
       "holland.ecoincore.com:34335": {
         "1761084635": "offline"
       },
+      "lenoir.ecoincore.com:34333": {
+        "1761182171": "offline"
+      },
+      "lenoir.ecoincore.com:34335": {
+        "1761182171": "offline"
+      },
       "miami.ecoincore.com:34333": {
         "1761084635": "online"
       },
       "miami.ecoincore.com:34335": {
         "1761084635": "online"
+      },
+      "mumbai.ecoincore.com:34333": {
+        "1761182171": "offline"
+      },
+      "mumbai.ecoincore.com:34335": {
+        "1761182171": "offline"
       },
       "oakland.ecoincore.com:34333": {
         "1761084635": "online"
@@ -1249,11 +1261,23 @@
       "holland.ecoincore.com:34335": {
         "1761084635": "offline"
       },
+      "lenoir.ecoincore.com:34333": {
+        "1761182171": "offline"
+      },
+      "lenoir.ecoincore.com:34335": {
+        "1761182171": "offline"
+      },
       "miami.ecoincore.com:34333": {
         "1761084635": "online"
       },
       "miami.ecoincore.com:34335": {
         "1761084635": "online"
+      },
+      "mumbai.ecoincore.com:34333": {
+        "1761182171": "offline"
+      },
+      "mumbai.ecoincore.com:34335": {
+        "1761182171": "offline"
       },
       "oakland.ecoincore.com:34333": {
         "1761084635": "online"
@@ -5105,13 +5129,16 @@
         "1761095882": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761182171": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761182171": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1761084635": "offline"
+        "1761084635": "offline",
+        "1761182171": "online"
       },
       "electrum4.runebase.io:50001": {
         "1761084635": "offline"
