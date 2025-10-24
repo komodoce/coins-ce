@@ -4957,8 +4957,44 @@
             "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
             "homepage": "https://junk-coin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.junkiewally.xyz:50003",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.junkiewally.xyz:50004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.junkiewally.xyz:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BBK": {
@@ -6756,6 +6792,18 @@
             {
                 "url": "bsty-main.coinmunity.gold:50013",
                 "protocol": "WSS"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50013",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
             },
             {
                 "url": "electrumserver02.globalboost.info:50011",
@@ -30252,8 +30300,26 @@
             "github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
             "homepage": "https://newyorkcoin.online"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.newyorkcoin.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "admin@newyorkcoin.online"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.newyorkcoin.online:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "admin@newyorkcoin.online"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "NYC-BEP20": {
@@ -30809,6 +30875,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -51157,8 +51226,26 @@
             "github": "https://github.com/Meowcoin-Foundation/Meowcoin",
             "homepage": "https://www.mewccrypto.com/"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "IRISTEST": {
