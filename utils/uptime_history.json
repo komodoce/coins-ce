@@ -4206,7 +4206,8 @@
   },
   "NITO-segwit": {
     "all": {
-      "1761225682": "offline"
+      "1761225682": "offline",
+      "1761441631": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4272,7 +4273,8 @@
         }
       },
       "electrum1.nito.network:50001": {
-        "1761225682": "offline"
+        "1761225682": "offline",
+        "1761441631": "online"
       },
       "electrum1.nito.network:50003": {
         "1761225682": "offline"
@@ -4281,7 +4283,8 @@
         "1761225682": "offline"
       },
       "electrum1.nitopool.fr:50001": {
-        "1761225682": "offline"
+        "1761225682": "offline",
+        "1761441631": "online"
       },
       "electrum1.nitopool.fr:50003": {
         "1761225682": "offline"
@@ -4692,7 +4695,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1761225682": "offline",
-        "1761268336": "online"
+        "1761268336": "online",
+        "1761441631": "offline"
       },
       "https://api.harmony.one": {
         "1761225682": "online"
@@ -6054,13 +6058,16 @@
         "1761225682": "online"
       },
       "electrumx2.vanillacash.info:50011": {
-        "1761225682": "offline"
+        "1761225682": "offline",
+        "1761441631": "online"
       },
       "electrumx2.vanillacash.info:50012": {
-        "1761225682": "offline"
+        "1761225682": "offline",
+        "1761441631": "online"
       },
       "electrumx2.vanillacash.info:50013": {
-        "1761225682": "offline"
+        "1761225682": "offline",
+        "1761441631": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
         "1761225682": "online"
