@@ -2314,6 +2314,40 @@
       }
     }
   },
+  "FIX": {
+    "all": {
+      "1761573851": "online"
+    },
+    "by_server": {
+      "_metadata": {
+        "electrumx.nitopool.fr:50004": {
+          "contact": [
+            {
+              "email": "support@nitopool.fr"
+            }
+          ]
+        }
+      },
+      "electrumx.fixedcoin.org:50001": {
+        "1761573851": "online"
+      },
+      "electrumx.fixedcoin.org:50002": {
+        "1761573851": "online"
+      },
+      "electrumx.fixedcoin.org:50004": {
+        "1761573851": "online"
+      },
+      "electrumx.nitopool.fr:50001": {
+        "1761573851": "online"
+      },
+      "electrumx.nitopool.fr:50002": {
+        "1761573851": "online"
+      },
+      "electrumx.nitopool.fr:50004": {
+        "1761573851": "offline"
+      }
+    }
+  },
   "FJC": {
     "all": {
       "1761573473": "online"
@@ -5802,13 +5836,16 @@
         }
       },
       "el0.verus.io:17485": {
-        "1761573473": "offline"
+        "1761573473": "offline",
+        "1761573851": "online"
       },
       "el0.verus.io:17486": {
-        "1761573473": "offline"
+        "1761573473": "offline",
+        "1761573851": "online"
       },
       "el0.verus.io:17488": {
-        "1761573473": "offline"
+        "1761573473": "offline",
+        "1761573851": "online"
       },
       "el1.verus.io:17485": {
         "1761573473": "online"
