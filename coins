@@ -2851,6 +2851,44 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "CADC-ARB20",
+    "name": "cadc_arb20",
+    "fname": "CAD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x2b28E826b55e399F4d4699b85f68666AC51e6f70"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "CADC-BASE",
+    "name": "cadc_base",
+    "fname": "CAD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x043eB4B75d0805c43D7C834902E335621983Cf03"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "CADC-ERC20",
     "name": "cadc_erc20",
     "fname": "CAD Coin",
