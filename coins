@@ -13405,6 +13405,25 @@
     }
   },
   {
+    "coin": "TRYB-BASE",
+    "name": "tryb_base",
+    "fname": "BiLira",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xFb8718a69aed7726AFb3f04D2Bd4bfDE1BdCb294"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "TRYB-BEP20",
     "name": "tryb_bep20",
     "fname": "BiLira",
