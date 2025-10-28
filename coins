@@ -5163,6 +5163,66 @@
     }
   },
   {
+    "coin": "EURC-AVX20",
+    "name": "eurc_avx20",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 6,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "EURC-BASE",
+    "name": "eurc_base",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "EURC-ERC20",
+    "name": "eurc_erc20",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 6,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.circle.com/eurc"
+    }
+  },
+  {
     "coin": "EURE-ARB20",
     "name": "eure_arb20",
     "fname": "Monerium EUR",
