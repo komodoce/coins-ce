@@ -705,6 +705,29 @@
     "mm2": 1,
     "chain_id": 56,
     "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://apecoin.com"
+    }
+  },
+  {
+    "coin": "APE-BEP20_OLD",
+    "name": "ape_bep20_old",
+    "fname": "ApeCoin (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
+    "chain_id": 56,
+    "decimals": 18,
     "avg_blocktime": 3,
     "required_confirmations": 3,
     "protocol": {
