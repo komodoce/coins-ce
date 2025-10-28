@@ -1712,6 +1712,60 @@
         "mm2": 1,
         "chain_id": 56,
         "decimals": 18,
+        "avg_blocktime": 0.75,
+        "required_confirmations": 5,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "BNB",
+                "contract_address": "0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "links": {
+            "homepage": "https://apecoin.com"
+        },
+        "contract_address": "0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79",
+        "parent_coin": "BNB",
+        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "nodes": [
+            {
+                "url": "https://bsc1.cipig.net:18655",
+                "ws_url": "wss://bsc1.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc2.cipig.net:18655",
+                "ws_url": "wss://bsc2.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc3.cipig.net:18655",
+                "ws_url": "wss://bsc3.cipig.net:38655"
+            }
+        ],
+        "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
+    "APE-BEP20_OLD": {
+        "coin": "APE-BEP20_OLD",
+        "type": "BEP-20",
+        "name": "ApeCoin (OLD)",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "APE",
+        "explorer_url": "https://bscscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "ApeCoin (OLD)",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 56,
+        "decimals": 18,
         "avg_blocktime": 3,
         "required_confirmations": 3,
         "protocol": {
@@ -43935,6 +43989,54 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
+    "MEWC": {
+        "coin": "MEWC",
+        "type": "UTXO",
+        "name": "Meowcoin",
+        "coinpaprika_id": "mewc-meowcoin",
+        "coingecko_id": "meowcoin",
+        "livecoinwatch_id": "MEWC",
+        "explorer_url": "https://mewc.cryptoscope.io/",
+        "explorer_tx_url": "tx/?txid=",
+        "explorer_address_url": "address/?address=",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Meowcoin Signed Message:\n",
+        "fname": "Meowcoin",
+        "rpcport": 9766,
+        "pubtype": 50,
+        "p2shtype": 122,
+        "wiftype": 112,
+        "segwit": false,
+        "txfee": 1000000,
+        "dust": 1000000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/1669'",
+        "links": {
+            "github": "https://github.com/Meowcoin-Foundation/Meowcoin",
+            "homepage": "https://www.mewccrypto.com/"
+        },
+        "electrum": [
+            {
+                "url": "electrum.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "IRISTEST": {
