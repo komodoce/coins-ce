@@ -2247,7 +2247,8 @@
         "1761669224": "online"
       },
       "https://arbitrum.drpc.org": {
-        "1761669224": "online"
+        "1761669224": "online",
+        "1761700804": "offline"
       },
       "wss://arbitrum-one-rpc.publicnode.com": {
         "1761669224": "online"
@@ -2616,7 +2617,8 @@
         "1761669224": "offline"
       },
       "wss://fantom.drpc.org": {
-        "1761669224": "online"
+        "1761669224": "online",
+        "1761700804": "offline"
       }
     }
   },
@@ -4039,10 +4041,12 @@
         "1761669224": "online"
       },
       "meowcoinelectrum.xyz:50002": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761700804": "online"
       },
       "meowcoinelectrum.xyz:50004": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761700804": "online"
       },
       "meowelectrum.xyz:50002": {
         "1761669224": "offline"
