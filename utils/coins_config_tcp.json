@@ -12923,9 +12923,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -44358,6 +44355,15 @@
         "electrum": [
             {
                 "url": "electrum.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
                 "contact": [
                     {

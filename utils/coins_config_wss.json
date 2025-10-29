@@ -41378,6 +41378,15 @@
                         "discord": "Meowmancer#2099"
                     }
                 ]
+            },
+            {
+                "url": "meowcoinelectrum.xyz:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
