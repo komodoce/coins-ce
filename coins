@@ -572,7 +572,7 @@
   {
     "coin": "AIPG",
     "name": "aipowergrid",
-    "fname": "AIPowerGrid",
+    "fname": "AI Power Grid",
     "sign_message_prefix": "Aipg Signed Message:\n",
     "rpcport": 9788,
     "pubtype": 23,
@@ -592,6 +592,25 @@
       "github": "https://github.com/AIPowerGrid/AI-Power-Grid-Core",
       "homepage": "aipowergrid.io"
     }
+  },
+  {
+    "coin": "AIPG-BASE",
+    "name": "aipg_base",
+    "fname": "AI Power Grid",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xa1c0deCaFE3E9Bf06A5F29B7015CD373a9854608"
+      }
+    },
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "ANEY",
