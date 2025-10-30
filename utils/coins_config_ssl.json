@@ -10690,6 +10690,11 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -12893,6 +12898,9 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            },
+            {
+                "url": "https://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -43425,7 +43433,20 @@
             "github": "https://github.com/runebase/runebase",
             "homepage": "https://www.runebase.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "ACTN": {
