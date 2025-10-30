@@ -1742,10 +1742,12 @@
         "1761669224": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761787232": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761787232": "online"
       }
     }
   },
@@ -2248,7 +2250,8 @@
       },
       "https://arbitrum.drpc.org": {
         "1761669224": "online",
-        "1761700804": "offline"
+        "1761700804": "offline",
+        "1761787232": "online"
       },
       "wss://arbitrum-one-rpc.publicnode.com": {
         "1761669224": "online"
@@ -5232,13 +5235,16 @@
         "1761669224": "online"
       },
       "electrum2.runebase.io:50001": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761787232": "online"
       },
       "electrum2.runebase.io:50002": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761787232": "online"
       },
       "electrum2.runebase.io:50004": {
-        "1761669224": "offline"
+        "1761669224": "offline",
+        "1761787232": "online"
       },
       "electrum3.runebase.io:50001": {
         "1761669224": "offline"
