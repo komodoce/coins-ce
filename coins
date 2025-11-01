@@ -278,26 +278,6 @@
     }
   },
   {
-    "coin": "AAVE-FTM20",
-    "name": "aave_ftm20",
-    "fname": "AAVE",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "AAVE-KRC20",
     "name": "aave_krc20",
     "fname": "AAVE",
@@ -763,26 +743,6 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
-  },
-  {
-    "coin": "APE-FTM20",
-    "name": "ape_ftm20",
-    "fname": "ApeCoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "APE-PLG20",
@@ -1526,26 +1486,6 @@
       "protocol_data": {
         "platform": "ETH",
         "contract_address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "BAND-FTM20",
-    "name": "band_ftm20",
-    "fname": "Band Protocol",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -3734,26 +3674,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "CRV-FTM20",
-    "name": "crv_ftm20",
-    "fname": "Curve DAO",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "CRV-KRC20",
     "name": "crv_krc20",
     "fname": "Curve DAO",
@@ -3972,26 +3892,6 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
-  },
-  {
-    "coin": "DAI-FTM20",
-    "name": "dai_ftm20",
-    "fname": "Dai",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "DAI-MVR20",
@@ -5116,26 +5016,6 @@
     }
   },
   {
-    "coin": "ETH-FTM20",
-    "name": "eth_ftm20",
-    "fname": "Ethereum",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "ETH-KRC20",
     "name": "eth_krc20",
     "fname": "Ethereum",
@@ -5957,47 +5837,6 @@
     }
   },
   {
-    "coin": "FTMT",
-    "name": "ftmt",
-    "fname": "Fantom Testnet",
-    "is_testnet": true,
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 4002,
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 4002
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "FTM",
-    "name": "ftm",
-    "fname": "Fantom",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "required_confirmations": 3,
-    "avg_blocktime": 1.8,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 250
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Fantom Opera",
-    "links": {
-      "homepage": "https://fantom.foundation"
-    }
-  },
-  {
     "coin": "FTM-BEP20",
     "name": "ftm_bep20",
     "fname": "Fantom",
@@ -6152,25 +5991,6 @@
       "erc20_receiver_spend": 1000000,
       "erc20_sender_refund": 1000000
     }
-  },
-  {
-    "coin": "FXS-FTM20",
-    "name": "fxs_ftm20",
-    "fname": "Frax Share",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GALA-ERC20",
@@ -8821,26 +8641,6 @@
       "protocol_data": {
         "platform": "BNB",
         "contract_address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "LINK-FTM20",
-    "name": "link_ftm20",
-    "fname": "Chainlink",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -12364,26 +12164,6 @@
     }
   },
   {
-    "coin": "SNX-FTM20",
-    "name": "snx_ftm20",
-    "fname": "Synthetix",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "SNX-KRC20",
     "name": "snx_krc20",
     "fname": "Synthetix",
@@ -12572,25 +12352,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "SPACE-FTM20",
-    "name": "space_ftm20",
-    "fname": "Space Token",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "SPACE-PLG20_OLD",
     "name": "space_plg20_old",
     "fname": "Space Token (OLD)",
@@ -12764,26 +12525,6 @@
       "github": "https://github.com/sushiswap",
       "homepage": "https://sushiswapclassic.org/"
     }
-  },
-  {
-    "coin": "SUSHI-FTM20",
-    "name": "sushi_ftm20",
-    "fname": "Sushi",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "SUSHI-KRC20",
@@ -13005,25 +12746,6 @@
       "protocol_data": {
         "platform": "AVAX",
         "contract_address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "SYN-FTM20",
-    "name": "syn_ftm20",
-    "fname": "Synapse",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -13683,26 +13405,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "TUSD-FTM20",
-    "name": "tusd_ftm20",
-    "fname": "TrueUSD",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "TUSD-KRC20",
     "name": "tusd_krc20",
     "fname": "TrueUSD",
@@ -14160,25 +13862,6 @@
     }
   },
   {
-    "coin": "USDC-FTM20",
-    "name": "usdc_ftm20",
-    "fname": "USD Coin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "USDC-KRC20",
     "name": "usdc_krc20",
     "fname": "USD Coin",
@@ -14317,26 +14000,6 @@
       "protocol_data": {
         "platform": "MOVR",
         "contract_address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "USDT-FTM20",
-    "name": "usdt_ftm20",
-    "fname": "Tether",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 6,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -14996,26 +14659,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "WOO-FTM20",
-    "name": "woo_ftm20",
-    "fname": "WOO Network",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "WOO-PLG20",
     "name": "woo_plg20",
     "fname": "WOO Network",
@@ -15614,26 +15257,6 @@
       "github": "https://github.com/iearn-finance",
       "homepage": "https://yearn.finance/"
     }
-  },
-  {
-    "coin": "YFI-FTM20",
-    "name": "yfi_ftm20",
-    "fname": "yearn.finance",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "YFI-KRC20",
@@ -17504,29 +17127,8 @@
     }
   },
   {
-    "coin": "NFT_FTM",
-    "name": "nft_ftm",
-    "fname": "Fantom",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "required_confirmations": 3,
-    "avg_blocktime": 1.8,
-    "protocol": {
-      "type": "NFT",
-      "protocol_data": {
-        "platform": "FTM"
-      }
-    },
-    "derivation_path": "m/44'/1007'",
-    "trezor_coin": "Fantom Opera",
-    "links": {
-      "homepage": "https://fantom.foundation"
-    }
-  },
-  {
-    "coin": "NFT_POL",
-    "name": "nft_pol",
+    "coin": "NFT_MATIC",
+    "name": "nft_matic",
     "fname": "Polygon",
     "rpcport": 80,
     "mm2": 1,
