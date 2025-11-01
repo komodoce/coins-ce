@@ -9275,25 +9275,6 @@
     }
   },
   {
-    "coin": "MATIC-KRC20",
-    "name": "matic_krc20",
-    "fname": "Polygon",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 321,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "KCS",
-        "contract_address": "0x1B8e27ABA297466fc6765Ce55BD12A8E216759da"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "MC-ERC20",
     "name": "mc_erc20",
     "fname": "Merit Circle",
@@ -17127,8 +17108,8 @@
     }
   },
   {
-    "coin": "NFT_MATIC",
-    "name": "nft_matic",
+    "coin": "NFT_POL",
+    "name": "nft_pol",
     "fname": "Polygon",
     "rpcport": 80,
     "mm2": 1,
