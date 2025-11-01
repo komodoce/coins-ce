@@ -289,7 +289,8 @@
     "by_server": {
       "https://cosmos-rpc.alpha.komodo.earth/": {
         "1761850954": "online",
-        "1761960060": "offline"
+        "1761960060": "offline",
+        "1762007311": "online"
       },
       "https://cosmoshub.rpc.stakin-nodes.com/": {
         "1761850954": "online"
@@ -299,7 +300,8 @@
       },
       "wss://cosmos-rpc.alpha.komodo.earth/websocket": {
         "1761850954": "online",
-        "1761960060": "offline"
+        "1761960060": "offline",
+        "1762007311": "online"
       }
     }
   },
@@ -1838,13 +1840,16 @@
         }
       },
       "electrumx1.dimecoinnetwork.com:50001": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762007311": "online"
       },
       "electrumx1.dimecoinnetwork.com:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762007311": "online"
       },
       "electrumx1.dimecoinnetwork.com:50004": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762007311": "online"
       },
       "electrumx2.dimecoinnetwork.com:50001": {
         "1761850954": "online"
@@ -4095,7 +4100,8 @@
         "1761850954": "offline"
       },
       "https://moonriver.unitedbloc.com": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762007311": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4104,7 +4110,8 @@
         "1761850954": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762007311": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1761850954": "online"

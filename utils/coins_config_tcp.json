@@ -726,52 +726,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "AAVE-FTM20": {
-        "coin": "AAVE-FTM20",
-        "type": "FTM-20",
-        "name": "AAVE",
-        "coinpaprika_id": "aave-new",
-        "coingecko_id": "aave",
-        "livecoinwatch_id": "AAVE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "AAVE",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "AAVE-KRC20": {
         "coin": "AAVE-KRC20",
         "type": "KRC-20",
@@ -1794,52 +1748,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "APE-FTM20": {
-        "coin": "APE-FTM20",
-        "type": "FTM-20",
-        "name": "ApeCoin",
-        "coinpaprika_id": "ape-apecoin",
-        "coingecko_id": "apecoin",
-        "livecoinwatch_id": "APE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "ApeCoin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "APE-PLG20": {
@@ -3783,52 +3691,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BAND-FTM20": {
-        "coin": "BAND-FTM20",
-        "type": "FTM-20",
-        "name": "Band Protocol",
-        "coinpaprika_id": "band-band-protocol",
-        "coingecko_id": "band-protocol",
-        "livecoinwatch_id": "BAND",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Band Protocol",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -9494,52 +9356,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "CRV-FTM20": {
-        "coin": "CRV-FTM20",
-        "type": "FTM-20",
-        "name": "Curve DAO",
-        "coinpaprika_id": "crv-curve-dao-token",
-        "coingecko_id": "curve-dao-token",
-        "livecoinwatch_id": "CRV",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Curve DAO",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "CRV-KRC20": {
         "coin": "CRV-KRC20",
         "type": "KRC-20",
@@ -10093,52 +9909,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "DAI-FTM20": {
-        "coin": "DAI-FTM20",
-        "type": "FTM-20",
-        "name": "Dai",
-        "coinpaprika_id": "dai-dai",
-        "coingecko_id": "dai",
-        "livecoinwatch_id": "DAI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Dai",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "DAI-MVR20": {
@@ -11084,6 +10854,18 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",
@@ -13107,53 +12889,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
-    },
-    "ETH-FTM20": {
-        "coin": "ETH-FTM20",
-        "type": "FTM-20",
-        "name": "Ethereum",
-        "coinpaprika_id": "eth-ethereum",
-        "coingecko_id": "ethereum",
-        "livecoinwatch_id": "ETH",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Ethereum",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/",
         "binance_id": "ETH"
     },
@@ -15229,50 +14964,13 @@
         ],
         "explorer_block_url": "block/"
     },
-    "FTMT": {
-        "coin": "FTMT",
-        "type": "FTM-20",
-        "name": "Fantom Testnet",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://testnet.ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Fantom Testnet",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 4002,
-        "required_confirmations": 3,
-        "avg_blocktime": 15,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 4002
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
-        "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
-        "nodes": [
-            {
-                "url": "https://rpc.testnet.fantom.network/"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "FTM-BEP20": {
         "coin": "FTM-BEP20",
         "type": "BEP-20",
         "name": "Fantom",
         "coinpaprika_id": "ftm-fantom",
         "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
+        "livecoinwatch_id": "",
         "explorer_url": "https://bscscan.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -15314,8 +15012,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
+        "explorer_block_url": "block/"
     },
     "FTM-ERC20": {
         "coin": "FTM-ERC20",
@@ -15323,7 +15020,7 @@
         "name": "Fantom",
         "coinpaprika_id": "ftm-fantom",
         "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
+        "livecoinwatch_id": "",
         "explorer_url": "https://etherscan.io/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -15380,8 +15077,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
+        "explorer_block_url": "block/"
     },
     "FXS-BEP20": {
         "coin": "FXS-BEP20",
@@ -15664,52 +15360,6 @@
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "FXS-FTM20": {
-        "coin": "FXS-FTM20",
-        "type": "FTM-20",
-        "name": "Frax Share",
-        "coinpaprika_id": "",
-        "coingecko_id": "frax-share",
-        "livecoinwatch_id": "FXS",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Frax Share",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -22701,52 +22351,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "LINK-FTM20": {
-        "coin": "LINK-FTM20",
-        "type": "FTM-20",
-        "name": "Chainlink",
-        "coinpaprika_id": "link-chainlink",
-        "coingecko_id": "chainlink",
-        "livecoinwatch_id": "LINK",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Chainlink",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "LINK-KRC20": {
         "coin": "LINK-KRC20",
         "type": "KRC-20",
@@ -25735,10 +25339,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
-            },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
@@ -31728,52 +31328,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "SNX-FTM20": {
-        "coin": "SNX-FTM20",
-        "type": "FTM-20",
-        "name": "Synthetix",
-        "coinpaprika_id": "snx-synthetix-network-token",
-        "coingecko_id": "havven",
-        "livecoinwatch_id": "SNX",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Synthetix",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "SNX-KRC20": {
         "coin": "SNX-KRC20",
         "type": "KRC-20",
@@ -32277,52 +31831,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "SPACE-FTM20": {
-        "coin": "SPACE-FTM20",
-        "type": "FTM-20",
-        "name": "Space Token",
-        "coinpaprika_id": "space-space-token",
-        "coingecko_id": "space-token-bsc",
-        "livecoinwatch_id": "__SPACE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Space Token",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "SPACE-PLG20_OLD": {
         "coin": "SPACE-PLG20_OLD",
         "type": "Polygon",
@@ -32777,52 +32285,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "SUSHI-FTM20": {
-        "coin": "SUSHI-FTM20",
-        "type": "FTM-20",
-        "name": "Sushi",
-        "coinpaprika_id": "sushi-sushi",
-        "coingecko_id": "sushi",
-        "livecoinwatch_id": "SUSHI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Sushi",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33409,52 +32871,6 @@
             {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "SYN-FTM20": {
-        "coin": "SYN-FTM20",
-        "type": "FTM-20",
-        "name": "Synapse",
-        "coinpaprika_id": "syn-synapse",
-        "coingecko_id": "synapse-2",
-        "livecoinwatch_id": "_SYN",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Synapse",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -35153,52 +34569,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "TUSD-FTM20": {
-        "coin": "TUSD-FTM20",
-        "type": "FTM-20",
-        "name": "TrueUSD",
-        "coinpaprika_id": "",
-        "coingecko_id": "true-usd",
-        "livecoinwatch_id": "TUSD",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "TrueUSD",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "TUSD-KRC20": {
         "coin": "TUSD-KRC20",
         "type": "KRC-20",
@@ -36362,51 +35732,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "USDC-FTM20": {
-        "coin": "USDC-FTM20",
-        "type": "FTM-20",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "USDC-KRC20": {
         "coin": "USDC-KRC20",
         "type": "KRC-20",
@@ -36775,52 +36100,6 @@
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDT-FTM20": {
-        "coin": "USDT-FTM20",
-        "type": "FTM-20",
-        "name": "Tether",
-        "coinpaprika_id": "usdt-tether",
-        "coingecko_id": "tether",
-        "livecoinwatch_id": "USDT",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Tether",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 6,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -38492,52 +37771,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "WOO-FTM20": {
-        "coin": "WOO-FTM20",
-        "type": "FTM-20",
-        "name": "WOO Network",
-        "coinpaprika_id": "woo-wootrade",
-        "coingecko_id": "woo-network",
-        "livecoinwatch_id": "WOO",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "WOO Network",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "WOO-PLG20": {
         "coin": "WOO-PLG20",
         "type": "Polygon",
@@ -40071,52 +39304,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "YFI-FTM20": {
-        "coin": "YFI-FTM20",
-        "type": "FTM-20",
-        "name": "yearn.finance",
-        "coinpaprika_id": "yfi-yearnfinance",
-        "coingecko_id": "yearn-finance",
-        "livecoinwatch_id": "YFI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "yearn.finance",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -43765,6 +42952,12 @@
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
             {
+                "url": "https://cosmos-rpc.alpha.komodo.earth/",
+                "api_url": "https://cosmos-api.alpha.komodo.earth/",
+                "grpc_url": "https://cosmos-grpc.alpha.komodo.earth/",
+                "ws_url": "wss://cosmos-rpc.alpha.komodo.earth/websocket"
+            },
+            {
                 "url": "https://cosmoshub.rpc.stakin-nodes.com/"
             }
         ],
@@ -44787,55 +43980,8 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "NFT_FTM": {
-        "coin": "NFT_FTM",
-        "type": "FTM-20",
-        "name": "Fantom",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Fantom",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "required_confirmations": 3,
-        "avg_blocktime": 1.8,
-        "protocol": {
-            "type": "NFT",
-            "protocol_data": {
-                "platform": "FTM"
-            }
-        },
-        "derivation_path": "m/44'/1007'",
-        "trezor_coin": "Fantom Opera",
-        "links": {
-            "homepage": "https://fantom.foundation"
-        },
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "NFT_POL": {
-        "coin": "NFT_POL",
+    "NFT_MATIC": {
+        "coin": "NFT_MATIC",
         "type": "Polygon",
         "name": "Polygon",
         "coinpaprika_id": "",
