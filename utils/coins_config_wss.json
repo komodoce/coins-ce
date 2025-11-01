@@ -9153,6 +9153,15 @@
         },
         "electrum": [
             {
+                "url": "electrum02.cyberyen.work:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrum03.cyberyen.work:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -9204,6 +9213,15 @@
             "homepage": "https://cyberyen.org"
         },
         "electrum": [
+            {
+                "url": "electrum02.cyberyen.work:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+                    }
+                ]
+            },
             {
                 "url": "electrum03.cyberyen.work:50004",
                 "protocol": "WSS",
@@ -14195,51 +14213,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "FTM": {
-        "coin": "FTM",
-        "type": "FTM-20",
-        "name": "Fantom",
-        "coinpaprika_id": "ftm-fantom",
-        "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Fantom",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "use_access_list": true,
-        "max_eth_tx_type": 2,
-        "required_confirmations": 3,
-        "avg_blocktime": 1.8,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 250
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "trezor_coin": "Fantom Opera",
-        "links": {
-            "homepage": "https://fantom.foundation"
-        },
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
     },
     "FTM-BEP20": {
         "coin": "FTM-BEP20",
@@ -40878,12 +40851,6 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
-            {
-                "url": "https://cosmos-rpc.alpha.komodo.earth/",
-                "api_url": "https://cosmos-api.alpha.komodo.earth/",
-                "grpc_url": "https://cosmos-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://cosmos-rpc.alpha.komodo.earth/websocket"
-            },
             {
                 "url": "https://cosmoshub.rpc.stakin-nodes.com/"
             }

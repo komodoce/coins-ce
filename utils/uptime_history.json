@@ -288,7 +288,8 @@
     "all": {},
     "by_server": {
       "https://cosmos-rpc.alpha.komodo.earth/": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1761960060": "offline"
       },
       "https://cosmoshub.rpc.stakin-nodes.com/": {
         "1761850954": "online"
@@ -297,7 +298,8 @@
         "1761850954": "offline"
       },
       "wss://cosmos-rpc.alpha.komodo.earth/websocket": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1761960060": "offline"
       }
     }
   },
@@ -1538,10 +1540,12 @@
         }
       },
       "electrum02.cyberyen.work:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1761960060": "online"
       },
       "electrum02.cyberyen.work:50004": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1761960060": "online"
       },
       "electrum03.cyberyen.work:50002": {
         "1761850954": "online"
@@ -1573,10 +1577,12 @@
         }
       },
       "electrum02.cyberyen.work:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1761960060": "online"
       },
       "electrum02.cyberyen.work:50004": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1761960060": "online"
       },
       "electrum03.cyberyen.work:50002": {
         "1761850954": "online"
@@ -2614,13 +2620,15 @@
         "1761850954": "offline"
       },
       "https://fantom.drpc.org": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1761960060": "offline"
       },
       "wss://fantom-rpc.publicnode.com": {
         "1761850954": "offline"
       },
       "wss://fantom.drpc.org": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1761960060": "offline"
       }
     }
   },
@@ -4683,7 +4691,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1761850954": "online",
-        "1761873451": "offline"
+        "1761873451": "offline",
+        "1761960060": "online"
       },
       "https://api.harmony.one": {
         "1761850954": "online"
