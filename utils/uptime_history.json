@@ -290,7 +290,8 @@
       "https://cosmos-rpc.alpha.komodo.earth/": {
         "1761850954": "online",
         "1761960060": "offline",
-        "1762007311": "online"
+        "1762007311": "online",
+        "1762132836": "offline"
       },
       "https://cosmoshub.rpc.stakin-nodes.com/": {
         "1761850954": "online"
@@ -301,7 +302,8 @@
       "wss://cosmos-rpc.alpha.komodo.earth/websocket": {
         "1761850954": "online",
         "1761960060": "offline",
-        "1762007311": "online"
+        "1762007311": "online",
+        "1762132836": "offline"
       }
     }
   },
@@ -4101,7 +4103,8 @@
       },
       "https://moonriver.unitedbloc.com": {
         "1761850954": "online",
-        "1762007311": "offline"
+        "1762007311": "offline",
+        "1762132836": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4111,7 +4114,8 @@
       },
       "wss://moonriver.unitedbloc.com": {
         "1761850954": "online",
-        "1762007311": "offline"
+        "1762007311": "offline",
+        "1762132836": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4699,7 +4703,8 @@
       "https://1rpc.io/one": {
         "1761850954": "online",
         "1761873451": "offline",
-        "1761960060": "online"
+        "1761960060": "online",
+        "1762132836": "offline"
       },
       "https://api.harmony.one": {
         "1761850954": "online"
