@@ -291,7 +291,8 @@
         "1761850954": "online",
         "1761960060": "offline",
         "1762007311": "online",
-        "1762132836": "offline"
+        "1762132836": "offline",
+        "1762263815": "online"
       },
       "https://cosmoshub.rpc.stakin-nodes.com/": {
         "1761850954": "online"
@@ -303,7 +304,8 @@
         "1761850954": "online",
         "1761960060": "offline",
         "1762007311": "online",
-        "1762132836": "offline"
+        "1762132836": "offline",
+        "1762263815": "online"
       }
     }
   },
@@ -1756,10 +1758,12 @@
         "1761850954": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762263815": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762263815": "online"
       }
     }
   },
@@ -4107,7 +4111,8 @@
         "1761850954": "online",
         "1762007311": "offline",
         "1762132836": "online",
-        "1762229949": "offline"
+        "1762229949": "offline",
+        "1762263815": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4119,7 +4124,8 @@
         "1761850954": "online",
         "1762007311": "offline",
         "1762132836": "online",
-        "1762229949": "offline"
+        "1762229949": "offline",
+        "1762263815": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1761850954": "online"
