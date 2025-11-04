@@ -11135,6 +11135,7 @@
             {
                 "url": "itchy-jellyfish-89.doi.works:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "github": "https://github.com/doichain/electrum-doi/issues",
