@@ -50862,6 +50862,7 @@
             {
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "1061740404439007403"
