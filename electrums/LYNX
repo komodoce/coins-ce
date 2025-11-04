@@ -12,6 +12,7 @@
     {
         "url": "electrum7.getlynx.io:50002",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "ws_url": "electrum7.getlynx.io:50004"
     },
     {

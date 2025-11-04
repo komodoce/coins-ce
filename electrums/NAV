@@ -2,6 +2,7 @@
   {
     "url": "electrum2.nav.community:40002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "electrum2.nav.community:40004"
   },
   {
