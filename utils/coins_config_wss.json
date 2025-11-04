@@ -10381,6 +10381,7 @@
             {
                 "url": "delecx.twinkykms.com:3341",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "405102339612082177"
@@ -10390,6 +10391,7 @@
             {
                 "url": "elecx1.dingocoin.com:3341",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "115619332448321541"
@@ -10399,6 +10401,7 @@
             {
                 "url": "elecx2.dingocoin.com:3341",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "115619332448321541"
@@ -23838,10 +23841,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -23889,10 +23888,6 @@
             {
                 "url": "https://moonbeam.drpc.org",
                 "ws_url": "wss://moonbeam.drpc.org"
-            },
-            {
-                "url": "https://moonbeam.public.blastapi.io",
-                "ws_url": "wss://moonbeam.public.blastapi.io"
             },
             {
                 "url": "https://rpc.api.moonbeam.network",
@@ -40222,12 +40217,6 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
-            {
-                "url": "https://osmosis-rpc.alpha.komodo.earth/",
-                "api_url": "https://osmosis-api.alpha.komodo.earth/",
-                "grpc_url": "https://osmosis-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://osmosis-rpc.alpha.komodo.earth/websocket"
-            },
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
             },

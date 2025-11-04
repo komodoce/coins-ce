@@ -2757,7 +2757,8 @@
         "1761850954": "online"
       },
       "https://moonbeam.public.blastapi.io": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762229949": "offline"
       },
       "https://rpc.api.moonbeam.network": {
         "1761850954": "online"
@@ -2766,7 +2767,8 @@
         "1761850954": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762229949": "offline"
       },
       "wss://wss.api.moonbeam.network": {
         "1761850954": "online"
@@ -4104,7 +4106,8 @@
       "https://moonriver.unitedbloc.com": {
         "1761850954": "online",
         "1762007311": "offline",
-        "1762132836": "online"
+        "1762132836": "online",
+        "1762229949": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4115,7 +4118,8 @@
       "wss://moonriver.unitedbloc.com": {
         "1761850954": "online",
         "1762007311": "offline",
-        "1762132836": "online"
+        "1762132836": "online",
+        "1762229949": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1761850954": "online"
@@ -4704,7 +4708,8 @@
         "1761850954": "online",
         "1761873451": "offline",
         "1761960060": "online",
-        "1762132836": "offline"
+        "1762132836": "offline",
+        "1762229949": "online"
       },
       "https://api.harmony.one": {
         "1761850954": "online"
@@ -4724,7 +4729,8 @@
     "all": {},
     "by_server": {
       "https://osmosis-rpc.alpha.komodo.earth/": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762229949": "offline"
       },
       "https://osmosis.rpc.stakin-nodes.com": {
         "1761850954": "online"
@@ -4736,7 +4742,8 @@
         "1761850954": "online"
       },
       "wss://osmosis-rpc.alpha.komodo.earth/websocket": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762229949": "offline"
       }
     }
   },
