@@ -10051,6 +10051,7 @@
             {
                 "url": "v2.cryptocollider.com:5001",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrumx@cryptocollider.com"
@@ -10063,6 +10064,7 @@
             {
                 "url": "v2.cryptocollider.com:8443",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrumx@cryptocollider.com"
@@ -12361,6 +12363,16 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -19512,6 +19524,7 @@
             {
                 "url": "electrum.niftybakes.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "405566674448810005"
@@ -19521,6 +19534,7 @@
             {
                 "url": "electrum.niftybakes.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "405566674448810005"
@@ -27013,11 +27027,13 @@
             },
             {
                 "url": "electrum7.getlynx.io:50002",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum7.getlynx.io:50004",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum8.getlynx.io:50002",
@@ -29206,6 +29222,10 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -29297,11 +29317,13 @@
         "electrum": [
             {
                 "url": "electrum2.nav.community:40002",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum2.nav.community:40004",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum3.nav.community:40002",
@@ -50165,6 +50187,12 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
+            {
+                "url": "https://cosmos-rpc.alpha.komodo.earth/",
+                "api_url": "https://cosmos-api.alpha.komodo.earth/",
+                "grpc_url": "https://cosmos-grpc.alpha.komodo.earth/",
+                "ws_url": "wss://cosmos-rpc.alpha.komodo.earth/websocket"
+            },
             {
                 "url": "https://cosmoshub.rpc.stakin-nodes.com/"
             }
