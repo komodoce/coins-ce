@@ -4057,10 +4057,12 @@
         "1761850954": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762478260": "online"
       },
       "meowelectrum.xyz:50004": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1762478260": "online"
       }
     }
   },
@@ -6365,7 +6367,42 @@
         "1761850954": "online"
       },
       "_metadata": {
+        "zet-ex-four.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "zet-ex-four.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
         "zet-ex-four.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "zet-ex-three.ewmci.online:50011": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "zet-ex-three.ewmci.online:50012": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "zet-ex-three.ewmci.online:50013": {
           "contact": [
             {
               "discord": "475820011634819072"
@@ -6374,22 +6411,27 @@
         }
       },
       "zet-ex-four.ewmci.online:50001": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762478260": "offline"
       },
       "zet-ex-four.ewmci.online:50002": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762478260": "offline"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1761850954": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762478260": "offline"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762478260": "offline"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1762478260": "offline"
       }
     }
   },
