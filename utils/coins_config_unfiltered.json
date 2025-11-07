@@ -46106,51 +46106,6 @@
             {
                 "url": "207.180.252.200:50011",
                 "protocol": "TCP"
-            },
-            {
-                "url": "zet-ex-four.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-four.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50011",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -51062,6 +51017,24 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
