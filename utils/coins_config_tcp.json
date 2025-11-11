@@ -10862,18 +10862,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.dimecoinnetwork.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -11132,16 +11120,6 @@
                 "contact": [
                     {
                         "discord": "405102339612082177"
-                    }
-                ]
-            },
-            {
-                "url": "elecx1.dingocoin.com:3342",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
                     }
                 ]
             },
@@ -29728,6 +29706,61 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "RDD": {
+        "coin": "RDD",
+        "type": "UTXO",
+        "name": "ReddCoin",
+        "coinpaprika_id": "rdd-reddcoin",
+        "coingecko_id": "reddcoin",
+        "livecoinwatch_id": "RDD",
+        "explorer_url": "https://live.reddcoin.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "sign_message_prefix": "Reddcoin Signed Message:\n",
+        "fname": "ReddCoin",
+        "isPoSV": 1,
+        "rpcport": 45443,
+        "pubtype": 61,
+        "p2shtype": 5,
+        "wiftype": 189,
+        "txversion": 2,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": false,
+        "mm2": 1,
+        "mature_confirmations": 30,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/4'",
+        "trezor_coin": "Reddcoin",
+        "links": {
+            "github": "https://github.com/reddcoin-project/reddcoin",
+            "homepage": "https://reddcoin.com"
+        },
+        "electrum": [
+            {
+                "url": "electrum01.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum02.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum03.reddcoin.com:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"

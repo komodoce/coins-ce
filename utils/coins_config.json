@@ -12747,42 +12747,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.dimecoinnetwork.com:50001",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.dimecoinnetwork.com:50001",
                 "contact": [
                     {
@@ -13188,35 +13152,6 @@
                 "contact": [
                     {
                         "discord": "405102339612082177"
-                    }
-                ]
-            },
-            {
-                "url": "elecx1.dingocoin.com:3339",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx1.dingocoin.com:3341",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx1.dingocoin.com:3342",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
                     }
                 ]
             },
@@ -34574,8 +34509,32 @@
             "github": "https://github.com/reddcoin-project/reddcoin",
             "homepage": "https://reddcoin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum01.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum01.reddcoin.com:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum02.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum02.reddcoin.com:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum03.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum03.reddcoin.com:50004",
+                "protocol": "WSS"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "REN-ERC20": {
