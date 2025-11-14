@@ -37,10 +37,12 @@
         "1761850954": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1763083112": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1763083112": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1761850954": "offline"
@@ -544,13 +546,16 @@
         }
       },
       "bbk-ex-three.ewmci.online:50001": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1763083112": "online"
       },
       "bbk-ex-three.ewmci.online:50002": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1763083112": "online"
       },
       "bbk-ex-three.ewmci.online:50003": {
-        "1761850954": "offline"
+        "1761850954": "offline",
+        "1763083112": "online"
       },
       "bbk-ex-two.ewmci.online:50001": {
         "1761850954": "online"
@@ -1072,6 +1077,20 @@
     },
     "by_server": {
       "_metadata": {
+        "electrum2.btcz.rocks:50001": {
+          "contact": [
+            {
+              "discord": "VandarGR#6065"
+            }
+          ]
+        },
+        "electrum2.btcz.rocks:50004": {
+          "contact": [
+            {
+              "discord": "VandarGR#6065"
+            }
+          ]
+        },
         "electrum5.btcz.rocks:50002": {
           "contact": [
             {
@@ -1094,10 +1113,12 @@
         "1761850954": "online"
       },
       "electrum2.btcz.rocks:50001": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "electrum2.btcz.rocks:50004": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "electrum3.btcz.rocks:50001": {
         "1761850954": "online"
@@ -1929,15 +1950,18 @@
       },
       "elecx1.dingocoin.com:3339": {
         "1761850954": "online",
-        "1762823967": "offline"
+        "1762823967": "offline",
+        "1763083112": "online"
       },
       "elecx1.dingocoin.com:3341": {
         "1761850954": "online",
-        "1762823967": "offline"
+        "1762823967": "offline",
+        "1763083112": "online"
       },
       "elecx1.dingocoin.com:3342": {
         "1761850954": "online",
-        "1762823967": "offline"
+        "1762823967": "offline",
+        "1763083112": "online"
       },
       "elecx2.dingocoin.com:3339": {
         "1761850954": "online"
@@ -2246,7 +2270,8 @@
       },
       "https://rpc.etcinscribe.com": {
         "1761850954": "online",
-        "1762288098": "offline"
+        "1762288098": "offline",
+        "1763083112": "online"
       }
     }
   },
@@ -4087,11 +4112,13 @@
       },
       "meowelectrum.xyz:50002": {
         "1761850954": "offline",
-        "1762478260": "online"
+        "1762478260": "online",
+        "1763083112": "offline"
       },
       "meowelectrum.xyz:50004": {
         "1761850954": "offline",
-        "1762478260": "online"
+        "1762478260": "online",
+        "1763083112": "offline"
       }
     }
   },
@@ -5387,8 +5414,16 @@
   "SBCH": {
     "all": {},
     "by_server": {
+      "_metadata": {
+        "https://rpc.smartbch.org": {
+          "contact": {
+            "email": "contact@smartbch.org"
+          }
+        }
+      },
       "https://rpc.smartbch.org": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "https://smartbch.greyh.at": {
         "1761850954": "online"
@@ -5791,10 +5826,12 @@
         "1762046506": "online"
       },
       "uis-uno.ewmcx.net:50002": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "uis-uno.ewmcx.net:50003": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       }
     }
   },
@@ -5819,10 +5856,12 @@
         "1761850954": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       }
     }
   },
@@ -6201,13 +6240,16 @@
     },
     "by_server": {
       "electrumx1.vanillacash.info:50011": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1761850954": "online"
+        "1761850954": "online",
+        "1763083112": "offline"
       },
       "electrumx2.vanillacash.info:50011": {
         "1761850954": "online"
@@ -6448,26 +6490,31 @@
       },
       "zet-ex-four.ewmci.online:50001": {
         "1761850954": "online",
-        "1762478260": "offline"
+        "1762478260": "offline",
+        "1763083112": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
         "1761850954": "online",
-        "1762478260": "offline"
+        "1762478260": "offline",
+        "1763083112": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1761850954": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
         "1761850954": "online",
-        "1762478260": "offline"
+        "1762478260": "offline",
+        "1763083112": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
         "1761850954": "online",
-        "1762478260": "offline"
+        "1762478260": "offline",
+        "1763083112": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
         "1761850954": "online",
-        "1762478260": "offline"
+        "1762478260": "offline",
+        "1763083112": "online"
       }
     }
   },
