@@ -27806,6 +27806,15 @@
                         "discord": "312541186793406465"
                     }
                 ]
+            },
+            {
+                "url": "electrum02.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?",
@@ -32660,6 +32669,12 @@
         "fallback_swap_contract": "0x25bF2AAB8749AD2e4360b3e0B738f3Cd700C4D68",
         "nodes": [
             {
+                "url": "https://rpc.smartbch.org",
+                "contact": {
+                    "email": "contact@smartbch.org"
+                }
+            },
+            {
                 "url": "https://smartbch.greyh.at",
                 "contact": {
                     "email": "quest@mac.com"
@@ -35417,6 +35432,11 @@
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -38891,6 +38911,10 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"

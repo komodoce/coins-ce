@@ -32057,6 +32057,33 @@
                         "discord": "312541186793406465"
                     }
                 ]
+            },
+            {
+                "url": "electrum02.chainster.org:50001",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum02.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum02.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?",
@@ -37866,6 +37893,12 @@
         "fallback_swap_contract": "0x25bF2AAB8749AD2e4360b3e0B738f3Cd700C4D68",
         "nodes": [
             {
+                "url": "https://rpc.smartbch.org",
+                "contact": {
+                    "email": "contact@smartbch.org"
+                }
+            },
+            {
                 "url": "https://smartbch.greyh.at",
                 "contact": {
                     "email": "quest@mac.com"
@@ -40862,6 +40895,16 @@
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -42943,6 +42986,22 @@
                     }
                 ],
                 "disable_cert_verification": false
+            },
+            {
+                "url": "el2.verus.io:17488",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "0x03-ctrlc@protonmail.com"
+                    },
+                    {
+                        "discord": "0x03#8822"
+                    },
+                    {
+                        "keybase": "bloodynora"
+                    }
+                ],
+                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -44930,6 +44989,18 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
+            {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumx2.vanillacash.info:50011",
                 "protocol": "TCP"
