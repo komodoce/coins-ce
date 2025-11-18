@@ -1569,7 +1569,8 @@
   },
   "DEV": {
     "all": {
-      "1763368351": "offline"
+      "1763368351": "offline",
+      "1763428712": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1620,19 +1621,24 @@
         "1763368351": "offline"
       },
       "api.dogecoinev.com:50002": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "api.dogecoinev.com:50003": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "api2.dogecoinev.com:50001": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "api2.dogecoinev.com:50002": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "api2.dogecoinev.com:50003": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       }
     }
   },
@@ -5973,13 +5979,16 @@
     },
     "by_server": {
       "electrumx1.vanillacash.info:50011": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763428712": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1763368351": "online"
