@@ -1618,7 +1618,8 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1763368351": "offline"
+        "1763368351": "offline",
+        "1763515083": "online"
       },
       "api.dogecoinev.com:50002": {
         "1763368351": "offline",
@@ -3126,10 +3127,30 @@
               "discord": "475820011634819072"
             }
           ]
+        },
+        "il8p-ex-five.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "il8p-ex-five.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
         }
       },
       "il8p-ex-five.ewmci.online:50001": {
         "1763368351": "offline"
+      },
+      "il8p-ex-five.ewmci.online:50002": {
+        "1763515083": "offline"
+      },
+      "il8p-ex-five.ewmci.online:50003": {
+        "1763515083": "offline"
       },
       "il8p.electrumx.transcenders.name:50002": {
         "1763368351": "online"
@@ -4039,7 +4060,8 @@
         "1763368351": "offline"
       },
       "https://moonriver.unitedbloc.com": {
-        "1763368351": "online"
+        "1763368351": "online",
+        "1763515083": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1763368351": "online"
@@ -4048,7 +4070,8 @@
         "1763368351": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
-        "1763368351": "online"
+        "1763368351": "online",
+        "1763515083": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1763368351": "online"
@@ -4634,7 +4657,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1763368351": "online"
+        "1763368351": "online",
+        "1763515083": "offline"
       },
       "https://api.harmony.one": {
         "1763368351": "online"
