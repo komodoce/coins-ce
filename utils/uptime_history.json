@@ -4099,7 +4099,8 @@
         "1763523756": "offline"
       },
       "https://moonriver.unitedbloc.com": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763535631": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1763523756": "online"
@@ -4108,7 +4109,8 @@
         "1763523756": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763535631": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1763523756": "online"
@@ -4694,7 +4696,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763535631": "offline"
       },
       "https://api.harmony.one": {
         "1763523756": "online"
