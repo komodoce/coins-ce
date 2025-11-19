@@ -1,5 +1,8 @@
 {
-  "rpc_nodes": [
+  "rpc_nodes": [    
+    {
+      "url": "https://rpc.cosmos.directory/irisnet"
+    },
     {
       "url": "https://rpc.irishub-1.irisnet.org"
     },
