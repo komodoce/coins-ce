@@ -14145,6 +14145,29 @@
     }
   },
   {
+    "coin": "UTOPIA-BEP20",
+    "name": "utopia_bep20",
+    "fname": "Utopia",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0xd83C128e7498bE555845A6dc331A99E1524C1777"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.utopiabnb.com"
+    }
+  },
+  {
     "coin": "vARRR",
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "vARRR",
