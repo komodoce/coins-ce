@@ -2246,6 +2246,15 @@
         "derivation_path": "m/44'/85'",
         "electrum": [
             {
+                "url": "electrum1.valhala.is:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "388437778624413706"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx.aur.ewmcx.info:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -23754,10 +23763,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -25985,6 +25990,15 @@
         "electrum": [
             {
                 "url": "electrum01.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -36646,6 +36660,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumx-verge.cloud:50004",
                 "protocol": "WSS"

@@ -25124,10 +25124,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -27609,6 +27605,15 @@
         "electrum": [
             {
                 "url": "electrum01.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum02.chainster.org:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -38897,6 +38902,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
