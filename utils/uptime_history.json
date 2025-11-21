@@ -1067,10 +1067,12 @@
         "1763523756": "online"
       },
       "electrum2.btcz.rocks:50001": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "electrum2.btcz.rocks:50004": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "electrum3.btcz.rocks:50001": {
         "1763523756": "online"
@@ -1727,10 +1729,12 @@
         "1763523756": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       }
     }
   },
@@ -3690,27 +3694,33 @@
       },
       "ltc.electrum1.cipig.net:10063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum1.cipig.net:20063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum1.cipig.net:30063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:10063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:20063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:30063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum3.cipig.net:10063": {
         "1763523756": "offline",
@@ -3825,27 +3835,33 @@
       },
       "ltc.electrum1.cipig.net:10063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum1.cipig.net:20063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum1.cipig.net:30063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:10063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:20063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum2.cipig.net:30063": {
         "1763523756": "online",
-        "1763557460": "offline"
+        "1763557460": "offline",
+        "1763687844": "online"
       },
       "ltc.electrum3.cipig.net:10063": {
         "1763523756": "offline",
@@ -4250,7 +4266,8 @@
       "https://moonriver.unitedbloc.com": {
         "1763523756": "offline",
         "1763535631": "online",
-        "1763601422": "offline"
+        "1763601422": "offline",
+        "1763687844": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1763523756": "online"
@@ -4261,7 +4278,8 @@
       "wss://moonriver.unitedbloc.com": {
         "1763523756": "offline",
         "1763535631": "online",
-        "1763601422": "offline"
+        "1763601422": "offline",
+        "1763687844": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1763523756": "online"
@@ -4786,25 +4804,31 @@
     "all": {},
     "by_server": {
       "https://nucleus-rpc.alpha.komodo.earth/": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "https://nucleus-rpc.bravo.komodo.earth/": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "https://nucleus-rpc.charlie.komodo.earth/": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "https://nucleus-rpc.delta.komodo.earth/": {
         "1763523756": "offline"
       },
       "wss://nucleus-rpc.alpha.komodo.earth/websocket": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "wss://nucleus-rpc.bravo.komodo.earth/websocket": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "wss://nucleus-rpc.charlie.komodo.earth/websocket": {
-        "1763523756": "online"
+        "1763523756": "online",
+        "1763687844": "offline"
       },
       "wss://nucleus-rpc.delta.komodo.earth/websocket": {
         "1763523756": "offline"
@@ -5795,10 +5819,12 @@
         "1763523756": "online"
       },
       "uis-uno.ewmcx.net:50002": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "uis-uno.ewmcx.net:50003": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       }
     }
   },
@@ -6199,13 +6225,16 @@
         "1763523756": "offline"
       },
       "electrumx2.vanillacash.info:50011": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "electrumx2.vanillacash.info:50012": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "electrumx2.vanillacash.info:50013": {
-        "1763523756": "offline"
+        "1763523756": "offline",
+        "1763687844": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
         "1763523756": "online"

@@ -5759,6 +5759,15 @@
                 "protocol": "WSS"
             },
             {
+                "url": "electrum2.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrum3.btcz.rocks:50004",
                 "contact": [
                     {
@@ -9793,6 +9802,44 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "DGB"
+    },
+    "DGC": {
+        "coin": "DGC",
+        "type": "UTXO",
+        "name": "Digitalcoin",
+        "coinpaprika_id": "dgc-digitalcoin",
+        "coingecko_id": "digitalcoin",
+        "livecoinwatch_id": "DGC",
+        "explorer_url": "https://chainz.cryptoid.info/dgc/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Digitalcoin Signed Message:\n",
+        "fname": "Digitalcoin",
+        "rpcport": 7998,
+        "pubtype": 30,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "txfee": 10000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 36,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/18'",
+        "electrum": [
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            }
+        ],
+        "explorer_block_url": "block.dws?"
     },
     "DIA-ERC20": {
         "coin": "DIA-ERC20",
@@ -21847,6 +21894,30 @@
         },
         "electrum": [
             {
+                "url": "ltc.electrum1.cipig.net:30063",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ltc.electrum2.cipig.net:30063",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "ltc.electrum3.cipig.net:30063",
                 "protocol": "WSS",
                 "contact": [
@@ -21905,6 +21976,30 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
+            {
+                "url": "ltc.electrum1.cipig.net:30063",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ltc.electrum2.cipig.net:30063",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
             {
                 "url": "ltc.electrum3.cipig.net:30063",
                 "protocol": "WSS",
@@ -23762,6 +23857,10 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://moonriver.unitedbloc.com",
+                "ws_url": "wss://moonriver.unitedbloc.com"
+            },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
@@ -32674,6 +32773,11 @@
                 "url": "failover.trc-uis.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": false
+            },
+            {
+                "url": "uis-uno.ewmcx.net:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -36483,6 +36587,10 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
+            {
+                "url": "electrumx2.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
             {
                 "url": "xvc-ex-seven.ewmci.online:50003",
                 "protocol": "WSS",
@@ -40702,56 +40810,6 @@
             }
         ],
         "explorer_block_url": "#/blocks/"
-    },
-    "NUCLEUSTEST": {
-        "coin": "NUCLEUSTEST",
-        "type": "TENDERMINT",
-        "name": "Nucleus Test",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://nucleus.explorer.komodo.earth/",
-        "explorer_tx_url": "nucleus/transactions/",
-        "explorer_address_url": "nucleus/accounts/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "avg_blocktime": 5,
-        "fname": "Nucleus Test",
-        "mm2": 1,
-        "protocol": {
-            "type": "TENDERMINT",
-            "protocol_data": {
-                "decimals": 6,
-                "denom": "unucl",
-                "account_prefix": "nuc",
-                "chain_id": "nucleus-3"
-            }
-        },
-        "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "https://nucleus-rpc.alpha.komodo.earth/",
-                "api_url": "https://nucleus-api.alpha.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.alpha.komodo.earth/websocket"
-            },
-            {
-                "url": "https://nucleus-rpc.bravo.komodo.earth/",
-                "api_url": "https://nucleus-api.bravo.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.bravo.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.bravo.komodo.earth/websocket"
-            },
-            {
-                "url": "https://nucleus-rpc.charlie.komodo.earth/",
-                "api_url": "https://nucleus-api.charlie.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.charlie.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.charlie.komodo.earth/websocket"
-            }
-        ],
-        "explorer_block_url": "nucleus/blocks/"
     },
     "IRISTEST-IBC_NUCLEUSTEST": {
         "coin": "IRISTEST-IBC_NUCLEUSTEST",
