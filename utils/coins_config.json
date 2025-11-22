@@ -4440,89 +4440,8 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [
-            {
-                "url": "electrum-02.bitcoinii.network:40003",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-02.bitcoinii.network:40004",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-02.bitcoinii.network:40104",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40005",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40006",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40106",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40102",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BC2-segwit": {
@@ -4564,89 +4483,8 @@
             "github": "https://github.com/BitcoinII-Dev/BitcoinII",
             "homepage": "https://bitcoin-ii.org"
         },
-        "electrum": [
-            {
-                "url": "electrum-02.bitcoinii.network:40003",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-02.bitcoinii.network:40004",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-02.bitcoinii.network:40104",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40005",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40006",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-03.bitcoinii.network:40106",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40102",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "BCH": {
@@ -4732,14 +4570,6 @@
             },
             {
                 "url": "bch.imaginary.cash:50004",
-                "protocol": "WSS"
-            },
-            {
-                "url": "bch.soul-dev.com:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "bch.soul-dev.com:50004",
                 "protocol": "WSS"
             },
             {
@@ -8089,12 +7919,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -9541,42 +9371,6 @@
             },
             {
                 "url": "electrum.shorelinecrypto.com:10009",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.mooo.com:10007",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.mooo.com:10008",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.mooo.com:10009",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -11538,12 +11332,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -13680,15 +13474,6 @@
             {
                 "url": "api.dogecoinev.com:50002",
                 "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "1157581316175437884"
-                    }
-                ]
-            },
-            {
-                "url": "api.dogecoinev.com:50003",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "1157581316175437884"
@@ -18048,12 +17833,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -28867,12 +28652,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -29193,8 +28978,8 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -29510,42 +29295,6 @@
             },
             {
                 "url": "electrum.shorelinecrypto.com:10003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.mooo.com:10001",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.mooo.com:10002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@shorelinecrypto.com"
-                    },
-                    {
-                        "discord": "honglu69#5911"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.mooo.com:10003",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -29963,48 +29712,6 @@
         },
         "derivation_path": "m/44'/50'",
         "electrum": [
-            {
-                "url": "electrumx.nvc.ewmcx.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "NovacoinCommunity"
-                    },
-                    {
-                        "github": "novacoin-project"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.nvc.ewmcx.org:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "NovacoinCommunity"
-                    },
-                    {
-                        "github": "novacoin-project"
-                    }
-                ]
-            },
             {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
@@ -32029,33 +31736,6 @@
             },
             {
                 "url": "electrum01.chainster.org:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50001",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum02.chainster.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "312541186793406465"
-                    }
-                ]
-            },
-            {
-                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -37601,12 +37281,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -39268,44 +38948,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:10077",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -41298,12 +40942,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -41576,12 +41220,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -43127,33 +42771,6 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.javerity.com:5885",
                 "contact": [
                     {
@@ -43228,33 +42845,6 @@
             {
                 "url": "159.69.73.223:5028",
                 "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
             },
             {
                 "url": "electrumx.javerity.com:5885",
@@ -45030,18 +44620,6 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
-            {
-                "url": "electrumx2.vanillacash.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50013",
-                "protocol": "WSS"
-            },
             {
                 "url": "xvc-ex-seven.ewmci.online:50001",
                 "protocol": "TCP",
@@ -49571,37 +49149,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.cointest.com:50001",
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.cointest.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
                     {
@@ -49677,37 +49224,6 @@
             "homepage": "https://www.whive.io"
         },
         "electrum": [
-            {
-                "url": "electrumx1.cointest.com:50001",
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.cointest.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
