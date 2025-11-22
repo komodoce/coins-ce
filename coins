@@ -4,6 +4,7 @@
     "fname": "Siacoin",
     "mm2": 1,
     "required_confirmations": 1,
+    "avg_blocktime": 600,
     "protocol": {
       "type": "SIA"
     }
@@ -13,6 +14,7 @@
     "fname": "Siacoin Zen Testnet",
     "mm2": 1,
     "required_confirmations": 1,
+    "avg_blocktime": 600,
     "is_testnet": true,
     "protocol": {
       "type": "SIA"
