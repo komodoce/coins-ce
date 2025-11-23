@@ -38770,6 +38770,10 @@
             {
                 "url": "electrum-verge.cloud:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/",
