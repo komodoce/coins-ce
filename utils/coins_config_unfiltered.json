@@ -1469,7 +1469,8 @@
         "required_confirmations": 6,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/2686'",
         "links": {
@@ -2985,7 +2986,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 30,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/921'",
         "electrum": [
@@ -4519,7 +4521,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/145'",
         "trezor_coin": "Bitcoin Cash",
@@ -5486,6 +5489,66 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "BKC": {
+        "coin": "BKC",
+        "type": "UTXO",
+        "name": "Briskcoin",
+        "coinpaprika_id": "bkc-briskcoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "__BKC",
+        "explorer_url": "https://explorer.briskcoin.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Briskcoin Signed Message:\n",
+        "fname": "Briskcoin",
+        "rpcport": 8552,
+        "pubtype": 25,
+        "p2shtype": 33,
+        "wiftype": 153,
+        "txfee": 0,
+        "segwit": true,
+        "bech32_hrp": "bc",
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 30,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/1918'",
+        "trezor_coin": "Briskcoin",
+        "links": {
+            "github": "https://github.com/briskcoin-project/briskcoin",
+            "homepage": "https://briskcoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.briskcoin.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.briskcoin.org:50003",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -6636,7 +6699,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/0'",
         "trezor_coin": "Bitcoin",
@@ -6757,66 +6821,6 @@
         "explorer_block_url": "block/",
         "binance_id": "BTC"
     },
-    "BKC": {
-        "coin": "BKC",
-        "type": "UTXO",
-        "name": "Briskcoin",
-        "coinpaprika_id": "bkc-briskcoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "__BKC",
-        "explorer_url": "https://explorer.briskcoin.org/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Briskcoin Signed Message:\n",
-        "fname": "Briskcoin",
-        "rpcport": 8552,
-        "pubtype": 25,
-        "p2shtype": 33,
-        "wiftype": 153,
-        "txfee": 0,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/1918'",
-        "trezor_coin": "Briskcoin",
-        "links": {
-            "github": "https://github.com/briskcoin-project/briskcoin",
-            "homepage": "https://briskcoin.org"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.briskcoin.org:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.briskcoin.org:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.briskcoin.org:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx2.briskcoin.org:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.briskcoin.org:50003",
-                "protocol": "WSS"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "BTC-segwit": {
         "coin": "BTC-segwit",
         "type": "UTXO",
@@ -6850,7 +6854,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/84'/0'",
         "trezor_coin": "Bitcoin",
@@ -7697,6 +7702,26 @@
         },
         "electrum": [
             {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -7764,6 +7789,26 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum3.cipig.net:20069",
                 "protocol": "SSL",
@@ -10466,6 +10511,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x0f80aa32ba51e0acf171e106a1cfcd1eb9a9c3a5"
@@ -12811,6 +12857,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x2c660b0d4d53382aeef855d3010d697970fa0bd5"
@@ -13714,7 +13761,8 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PIVX"
         },
         "derivation_path": "m/44'/385'",
         "links": {
@@ -24624,7 +24672,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "LBC"
         },
         "derivation_path": "m/44'/140'",
         "electrum": [
@@ -24705,7 +24754,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "LBC"
         },
         "derivation_path": "m/84'/140'",
         "electrum": [
@@ -29124,7 +29174,8 @@
         "required_confirmations": 10,
         "avg_blocktime": 30,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/130'",
         "electrum": [
@@ -29806,6 +29857,48 @@
         "derivation_path": "m/44'/50'",
         "electrum": [
             {
+                "url": "electrumx.nvc.ewmcx.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.nvc.ewmcx.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -29935,6 +30028,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xffb67c56c42b71144ae394dbfe298d863fbb3b9e"
@@ -31316,33 +31410,6 @@
         },
         "electrum": [
             {
-                "url": "electrum.pepe.tips:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "squidicuz"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.pepe.tips:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "squidicuz"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.pepe.tips:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "squidicuz"
-                    }
-                ]
-            },
-            {
                 "url": "electrum.pepeblocks.com:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -31805,7 +31872,8 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PIVX"
         },
         "derivation_path": "m/44'/119'",
         "electrum": [
@@ -32262,7 +32330,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 510,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PPC"
         },
         "derivation_path": "m/44'/6'",
         "trezor_coin": "Peercoin",
@@ -33163,6 +33232,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf2033ede578e17fa6231047265010445bca8cf1c"
@@ -33314,6 +33384,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x60f33e17d8d2dba280cf85b6c35880dedd8ed728"
@@ -33465,6 +33536,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x54fefdb5b31164f66ddb68becd7bdd864cacd65b"
@@ -33844,6 +33916,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "tQTUM",
                 "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44"
@@ -33924,7 +33997,8 @@
         "mature_confirmations": 2000,
         "avg_blocktime": 32,
         "protocol": {
-            "type": "QTUM"
+            "type": "QTUM",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/2301'",
         "trezor_coin": "Qtum",
@@ -34142,7 +34216,8 @@
         "mature_confirmations": 2000,
         "avg_blocktime": 32,
         "protocol": {
-            "type": "QTUM"
+            "type": "QTUM",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/1'",
         "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
@@ -34681,7 +34756,8 @@
         "required_confirmations": 4,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/143'",
         "electrum": [
@@ -34771,7 +34847,8 @@
         "required_confirmations": 4,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
@@ -35714,7 +35791,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/175'",
         "trezor_coin": "Ravencoin",
@@ -42891,33 +42969,6 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.javerity.com:5885",
                 "contact": [
                     {
@@ -42992,33 +43043,6 @@
             {
                 "url": "159.69.73.223:5028",
                 "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55001",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
             },
             {
                 "url": "electrumx.javerity.com:5885",
@@ -44238,7 +44262,8 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/1900'",
         "links": {
@@ -44795,6 +44820,18 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumx2.vanillacash.info:50011",
                 "protocol": "TCP"
             },
@@ -44915,6 +44952,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x4cdaa46741af44c68179c54c4fcb02c2bf646d30"
@@ -46249,6 +46287,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xfe59cbc1704e89a698571413a81f0de9d8f00c69"
@@ -46573,6 +46612,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf2703e93f87b846a7aacec1247beaec1c583daa4"
@@ -46725,6 +46765,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xb27d7bf95b03e02b55d5eb63d3f1692762101bf9"
@@ -46877,6 +46918,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x2f65a0af11d50d2d15962db39d7f7b0619ed55ae"
@@ -47029,6 +47071,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x72e531e37c31ecbe336208fd66e93b48df3af420"
@@ -47181,6 +47224,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x09800417b097c61b9fd26b3ddde4238304a110d5"
@@ -47333,6 +47377,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xd8dec2b605005749abbf4b060edad3070e23cf5c"
@@ -47485,6 +47530,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf397f39ce992b0f5bdc7ec1109d676d07f7af2f9"
@@ -47637,6 +47683,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
@@ -49241,7 +49288,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/1'",
         "electrum": [
@@ -49335,6 +49383,37 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.cointest.com:50001",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.cointest.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
                     {
@@ -49410,6 +49489,37 @@
             "homepage": "https://www.whive.io"
         },
         "electrum": [
+            {
+                "url": "electrumx1.cointest.com:50001",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.cointest.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
@@ -49759,7 +49869,8 @@
         "required_confirmations": 6,
         "avg_blocktime": 120,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/88'",
         "links": {
@@ -50503,7 +50614,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/175'",
         "links": {
