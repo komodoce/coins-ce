@@ -40596,7 +40596,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/1669'",
         "links": {
