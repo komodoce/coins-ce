@@ -48,18 +48,6 @@
         ]
     },
     {
-        "name": "falkor-dragon-seed",
-        "host": "falkor.dragon-seed.com",
-        "type": "domain",
-        "wss": true,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
         "name": "icefyre-dragon-seed",
         "host": "icefyre.dragon-seed.com",
         "type": "domain",
