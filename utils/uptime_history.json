@@ -1689,7 +1689,8 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "api.dogecoinev.com:50002": {
         "1764067184": "online"
@@ -2149,10 +2150,12 @@
     },
     "by_server": {
       "electrum1.egulden.org:50002": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "electrum1.egulden.org:50004": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "electrum2.egulden.org:50002": {
         "1764067184": "offline"
@@ -5213,13 +5216,16 @@
         "1764067184": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "electrum4.runebase.io:50001": {
         "1764067184": "offline"
@@ -5907,22 +5913,28 @@
         "1764067184": "online"
       },
       "el1.verus.io:17485": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "el1.verus.io:17486": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "el1.verus.io:17488": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "el2.verus.io:17485": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "el2.verus.io:17486": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       },
       "el2.verus.io:17488": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764130081": "online"
       }
     }
   },
