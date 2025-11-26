@@ -11825,6 +11825,11 @@
         },
         "electrum": [
             {
+                "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -36878,6 +36883,38 @@
                     }
                 ],
                 "disable_cert_verification": false
+            },
+            {
+                "url": "el1.verus.io:17486",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "0x03-ctrlc@protonmail.com"
+                    },
+                    {
+                        "discord": "0x03#8822"
+                    },
+                    {
+                        "keybase": "bloodynora"
+                    }
+                ],
+                "disable_cert_verification": false
+            },
+            {
+                "url": "el2.verus.io:17486",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "0x03-ctrlc@protonmail.com"
+                    },
+                    {
+                        "discord": "0x03#8822"
+                    },
+                    {
+                        "keybase": "bloodynora"
+                    }
+                ],
+                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -39209,7 +39246,7 @@
         "txversion": 4,
         "overwintered": 1,
         "version_group_id": "0x892f2085",
-        "consensus_branch_id": "0xc8e71055",
+        "consensus_branch_id": "0x4dec4df0",
         "txfee": 100000,
         "mm2": 1,
         "required_confirmations": 3,
@@ -42385,6 +42422,18 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
