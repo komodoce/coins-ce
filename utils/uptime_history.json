@@ -1810,10 +1810,12 @@
         "1764067184": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       }
     }
   },
@@ -4059,10 +4061,12 @@
         "1764067184": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "meowelectrum.xyz:50004": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       }
     }
   },
@@ -5736,10 +5740,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1764067184": "online"
@@ -6250,13 +6256,16 @@
     },
     "by_server": {
       "electrumx1.vanillacash.info:50011": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1764067184": "offline"
+        "1764067184": "offline",
+        "1764206258": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1764067184": "online"
