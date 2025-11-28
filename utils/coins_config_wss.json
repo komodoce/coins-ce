@@ -3668,6 +3668,106 @@
         ],
         "explorer_block_url": "block/"
     },
+    "BC2": {
+        "coin": "BC2",
+        "type": "UTXO",
+        "name": "Bitcoin II",
+        "coinpaprika_id": "bc2-bitcoin-ii",
+        "coingecko_id": "bitcoinii",
+        "livecoinwatch_id": "BC2",
+        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
+        "fname": "Bitcoin II",
+        "rpcport": 8332,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "bc",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/0'",
+        "links": {
+            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "homepage": "https://bitcoin-ii.org"
+        },
+        "electrum": [
+            {
+                "url": "explorer.bitcoin-ii.org:50010",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "BC2-segwit": {
+        "coin": "BC2-segwit",
+        "type": "UTXO",
+        "name": "Bitcoin II",
+        "coinpaprika_id": "bc2-bitcoin-ii",
+        "coingecko_id": "bitcoinii",
+        "livecoinwatch_id": "BC2",
+        "explorer_url": "https://bitcoinii.ddns.net/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
+        "fname": "Bitcoin II",
+        "rpcport": 8332,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "bc",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "BC2",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/0'",
+        "links": {
+            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "homepage": "https://bitcoin-ii.org"
+        },
+        "electrum": [
+            {
+                "url": "explorer.bitcoin-ii.org:50010",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BCH": {
         "coin": "BCH",
         "type": "UTXO",
@@ -5355,10 +5455,6 @@
             },
             {
                 "url": "electrumserver01.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver02.globalboost.info:50013",
                 "protocol": "WSS"
             }
         ],
@@ -27069,19 +27165,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "url": "electrum-server2.trumpow.meme:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": [
-                            "1157581316175437884",
-                            "1100673536743460894",
-                            "1209163889489616998"
-                        ]
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -34844,22 +34927,6 @@
                     }
                 ],
                 "disable_cert_verification": false
-            },
-            {
-                "url": "el2.verus.io:17488",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
             }
         ],
         "explorer_block_url": "block/"
@@ -40364,15 +40431,6 @@
                 ]
             },
             {
-                "url": "electrumx.mazanode.com:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "brian@mazacoin.org"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.mazacha.in:50005",
                 "protocol": "WSS",
                 "contact": [
@@ -40653,24 +40711,6 @@
         "electrum": [
             {
                 "url": "electrum.mewccrypto.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
