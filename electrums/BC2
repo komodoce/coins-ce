@@ -1,47 +1,32 @@
 [
   {
-    "url": "electrum.bitcoinii.network:40002",
-    "ws_url": "electrum.bitcoinii.network:40102",
+    "url": "explorer.bitcoin-ii.org:50009",
+    "ws_url": "explorer.bitcoin-ii.org:50010",
     "protocol": "SSL",
     "contact": [
-      { "discord": "777703913125314580" }
+      { "discord": "1391871602127540236" }
     ]
   },
   {
-    "url": "electrum.bitcoinii.network:40001",
+    "url": "explorer.bitcoin-ii.org:50008",
     "protocol": "TCP",
     "contact": [
-      { "discord": "777703913125314580" }
+      { "discord": "1391871602127540236" }
     ]
   },
   {
-    "url": "electrum-02.bitcoinii.network:40004",
-    "ws_url": "electrum-02.bitcoinii.network:40104",
+    "url": "infra1.bitcoin-ii.org:50009",
+    "ws_url": "infra1.bitcoin-ii.org:50010",
     "protocol": "SSL",
     "contact": [
-      { "discord": "777703913125314580" }
+      { "discord": "1391871602127540236" }
     ]
   },
   {
-    "url": "electrum-02.bitcoinii.network:40003",
+    "url": "infra1.bitcoin-ii.org:50008",
     "protocol": "TCP",
     "contact": [
-      { "discord": "777703913125314580" }
-    ]
-  },
-  {
-    "url": "electrum-03.bitcoinii.network:40006",
-    "ws_url": "electrum-03.bitcoinii.network:40106",
-    "protocol": "SSL",
-    "contact": [
-      { "discord": "777703913125314580" }
-    ]
-  },
-  {
-    "url": "electrum-03.bitcoinii.network:40005",
-    "protocol": "TCP",
-    "contact": [
-      { "discord": "777703913125314580" }
+      { "discord": "1391871602127540236" }
     ]
   }
 ]

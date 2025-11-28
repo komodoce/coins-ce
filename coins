@@ -12318,6 +12318,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "SPACE-AVX20_OLD",
+    "name": "space_avx20_old",
+    "fname": "Space Token (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "required_confirmations": 3,
+    "avg_blocktime": 2.4,
+    "decimals": 18,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "SPACE-AVX20",
     "name": "space_avx20",
     "fname": "Space Token",
@@ -12331,7 +12350,7 @@
       "type": "ERC20",
       "protocol_data": {
         "platform": "AVAX",
-        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+        "contract_address": "0x841Aef70237a88027ccb2d15C1bBAf88a669674a"
       }
     },
     "derivation_path": "m/44'/60'"
