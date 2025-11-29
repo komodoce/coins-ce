@@ -4487,6 +4487,15 @@
                         "discord": "1391871602127540236"
                     }
                 ]
+            },
+            {
+                "url": "infra1.bitcoin-ii.org:50010",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -4570,6 +4579,15 @@
             {
                 "url": "infra1.bitcoin-ii.org:50009",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
+                "url": "infra1.bitcoin-ii.org:50010",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "1391871602127540236"
@@ -50920,6 +50938,33 @@
             },
             {
                 "url": "electrum.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowcoinelectrum.xyz:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
