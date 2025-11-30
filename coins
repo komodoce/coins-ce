@@ -681,6 +681,25 @@
     }
   },
   {
+    "coin": "APE-ARB20",
+    "name": "ape_arb20",
+    "fname": "ApeCoin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x7f9FBf9bDd3F4105C478b996B648FE6e828a1e98"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "APE-ERC20",
     "name": "ape_erc20",
     "fname": "ApeCoin",
