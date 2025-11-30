@@ -33243,6 +33243,45 @@
                         ]
                     }
                 ]
+            },
+            {
+                "url": "electrum-server2.trumpow.meme:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": [
+                            "1157581316175437884",
+                            "1100673536743460894",
+                            "1209163889489616998"
+                        ]
+                    }
+                ]
+            },
+            {
+                "url": "electrum-server2.trumpow.meme:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": [
+                            "1157581316175437884",
+                            "1100673536743460894",
+                            "1209163889489616998"
+                        ]
+                    }
+                ]
+            },
+            {
+                "url": "electrum-server2.trumpow.meme:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": [
+                            "1157581316175437884",
+                            "1100673536743460894",
+                            "1209163889489616998"
+                        ]
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -50437,6 +50476,33 @@
                 ]
             },
             {
+                "url": "electrumx.mazanode.com:50001",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.mazanode.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.mazanode.com:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "brian@mazacoin.org"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx2.mazacha.in:50001",
                 "contact": [
                     {
@@ -50948,6 +51014,15 @@
             {
                 "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowcoinelectrum.xyz:50004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
