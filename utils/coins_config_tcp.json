@@ -4240,6 +4240,30 @@
         },
         "electrum": [
             {
+                "url": "bch.electrum1.cipig.net:20055",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "bch.electrum2.cipig.net:20055",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "bch.electrum3.cipig.net:20055",
                 "protocol": "SSL",
                 "contact": [
@@ -10600,11 +10624,6 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -10991,16 +11010,6 @@
                     },
                     {
                         "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.diminutivecoin.com:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "support@diminutivecoin.com"
                     }
                 ]
             }
@@ -25364,10 +25373,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -26906,9 +26911,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -28930,72 +28932,6 @@
                 "contact": [
                     {
                         "discord": "1157581316175437884"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "TRMP": {
-        "coin": "TRMP",
-        "type": "UTXO",
-        "name": "TrumPow",
-        "coinpaprika_id": "trmp-trumpow",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_TRMP",
-        "explorer_url": "https://explorer.trumpow.meme/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "TrumPow Signed Message:\n",
-        "fname": "TrumPow",
-        "rpcport": 33883,
-        "pubtype": 65,
-        "p2shtype": 28,
-        "wiftype": 151,
-        "segwit": false,
-        "txfee": 1000000,
-        "dingo_fee": true,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/1707'",
-        "links": {
-            "github": "https://github.com/trumpowppc/trumpow",
-            "homepage": "https://trumpow.meme"
-        },
-        "electrum": [
-            {
-                "url": "electrum-server1.trumpow.meme:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": [
-                            "1157581316175437884",
-                            "1100673536743460894",
-                            "1209163889489616998"
-                        ]
-                    }
-                ]
-            },
-            {
-                "url": "electrum-server2.trumpow.meme:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": [
-                            "1157581316175437884",
-                            "1100673536743460894",
-                            "1209163889489616998"
-                        ]
                     }
                 ]
             }
@@ -42822,18 +42758,6 @@
             "homepage": "https://www.runebase.io"
         },
         "electrum": [
-            {
-                "url": "electrum2.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
             {
                 "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
