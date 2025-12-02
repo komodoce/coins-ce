@@ -4413,7 +4413,21 @@
             "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
             "homepage": "https://junk-coin.com"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum.junkiewally.xyz:50004",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "nekohime@nodecattel.xyz"
+                    },
+                    {
+                        "discord": "@moonether"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BBK": {
@@ -10865,6 +10879,18 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",

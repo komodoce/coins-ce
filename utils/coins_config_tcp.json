@@ -4420,8 +4420,9 @@
         },
         "electrum": [
             {
-                "url": "electrum.junkiewally.xyz:50003",
-                "protocol": "TCP",
+                "url": "electrum.junkiewally.xyz:50004",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "nekohime@nodecattel.xyz"
@@ -10907,6 +10908,18 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
+            {
+                "url": "electrumx1.dimecoinnetwork.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "developer@dimecoinnetwork.com"
+                    },
+                    {
+                        "discord": "dhop14#9359"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50002",
                 "protocol": "SSL",
