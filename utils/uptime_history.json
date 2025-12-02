@@ -768,6 +768,24 @@
       "1755770395": "online"
     },
     "by_server": {
+      "bch.electrum1.cipig.net:10055": {
+        "1764676026": "online"
+      },
+      "bch.electrum1.cipig.net:20055": {
+        "1764676026": "online"
+      },
+      "bch.electrum1.cipig.net:30055": {
+        "1764676026": "online"
+      },
+      "bch.electrum2.cipig.net:10055": {
+        "1764676026": "online"
+      },
+      "bch.electrum2.cipig.net:20055": {
+        "1764676026": "online"
+      },
+      "bch.electrum2.cipig.net:30055": {
+        "1764676026": "online"
+      },
       "bch.electrum3.cipig.net:10055": {
         "1755770395": "online"
       },
@@ -5458,7 +5476,8 @@
         "1755770395": "offline"
       },
       "https://rpc.cosmos.directory/osmosis": {
-        "1763521637": "online"
+        "1763521637": "online",
+        "1764676026": "offline"
       },
       "https://rpc.osmosis.zone/": {
         "1755770395": "online"
@@ -6224,14 +6243,33 @@
   },
   "THC": {
     "all": {
-      "1755770395": "online"
+      "1755770395": "online",
+      "1764676026": "offline"
     },
     "by_server": {
       "1.eu.thc.electrum.dexstats.info:10020": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1764676026": "offline"
       },
       "2.eu.thc.electrum.dexstats.info:10020": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1764676026": "offline"
+      },
+      "_metadata": {
+        "1.eu.thc.electrum.dexstats.info:10020": {
+          "contact": [
+            {
+              "discord": "CHMEX#0686"
+            }
+          ]
+        },
+        "2.eu.thc.electrum.dexstats.info:10020": {
+          "contact": [
+            {
+              "discord": "CHMEX#0686"
+            }
+          ]
+        }
       }
     }
   },
