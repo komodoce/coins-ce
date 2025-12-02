@@ -5477,7 +5477,8 @@
       },
       "https://rpc.cosmos.directory/osmosis": {
         "1763521637": "online",
-        "1764676026": "offline"
+        "1764676026": "offline",
+        "1764680900": "online"
       },
       "https://rpc.osmosis.zone/": {
         "1755770395": "online"
@@ -5829,6 +5830,48 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "ric.electrum1.cipig.net:20074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum1.cipig.net:30074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum2.cipig.net:20074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum2.cipig.net:30074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        }
+      },
       "ric-ex-two.ewmci.online:50001": {
         "1755770395": "online"
       },
@@ -5837,6 +5880,18 @@
       },
       "ric-ex-two.ewmci.online:50003": {
         "1755770395": "online"
+      },
+      "ric.electrum1.cipig.net:20074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum1.cipig.net:30074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum2.cipig.net:20074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum2.cipig.net:30074": {
+        "1764680900": "offline"
       },
       "ric.electrum3.cipig.net:20074": {
         "1755770395": "online"
@@ -5851,6 +5906,48 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "ric.electrum1.cipig.net:20074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum1.cipig.net:30074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum2.cipig.net:20074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        },
+        "ric.electrum2.cipig.net:30074": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            },
+            {
+              "discord": "cipi#4502"
+            }
+          ]
+        }
+      },
       "ric-ex-two.ewmci.online:50001": {
         "1755770395": "online"
       },
@@ -5859,6 +5956,18 @@
       },
       "ric-ex-two.ewmci.online:50003": {
         "1755770395": "online"
+      },
+      "ric.electrum1.cipig.net:20074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum1.cipig.net:30074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum2.cipig.net:20074": {
+        "1764680900": "offline"
+      },
+      "ric.electrum2.cipig.net:30074": {
+        "1764680900": "offline"
       },
       "ric.electrum3.cipig.net:20074": {
         "1755770395": "online"
