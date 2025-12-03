@@ -5882,16 +5882,20 @@
         "1755770395": "online"
       },
       "ric.electrum1.cipig.net:20074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum1.cipig.net:30074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum2.cipig.net:20074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum2.cipig.net:30074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum3.cipig.net:20074": {
         "1755770395": "online"
@@ -5958,16 +5962,20 @@
         "1755770395": "online"
       },
       "ric.electrum1.cipig.net:20074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum1.cipig.net:30074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum2.cipig.net:20074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum2.cipig.net:30074": {
-        "1764680900": "offline"
+        "1764680900": "offline",
+        "1764724136": "online"
       },
       "ric.electrum3.cipig.net:20074": {
         "1755770395": "online"
@@ -6571,7 +6579,8 @@
     "all": {},
     "by_server": {
       "https://pyrus2.ubiqscan.io": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1764724136": "offline"
       },
       "https://rpc.octano.dev": {
         "1755770395": "offline"
