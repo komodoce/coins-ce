@@ -1785,10 +1785,12 @@
         "1764680389": "online"
       },
       "electrumx2.diminutivecoin.com:50012": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrumx2.diminutivecoin.com:50013": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       }
     }
   },
@@ -4547,7 +4549,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1764680389": "offline",
-        "1764724820": "online"
+        "1764724820": "online",
+        "1764811353": "offline"
       },
       "https://api.harmony.one": {
         "1764680389": "online"
@@ -5164,13 +5167,16 @@
         "1764680389": "online"
       },
       "electrum2.runebase.io:50001": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum2.runebase.io:50002": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum2.runebase.io:50004": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum3.runebase.io:50001": {
         "1764680389": "online"
@@ -5536,7 +5542,8 @@
   },
   "TRMP": {
     "all": {
-      "1764680389": "offline"
+      "1764680389": "offline",
+      "1764811353": "online"
     },
     "by_server": {
       "_metadata": {
@@ -5608,22 +5615,28 @@
         }
       },
       "electrum-server1.trumpow.meme:50001": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum-server1.trumpow.meme:50002": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum-server1.trumpow.meme:50004": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum-server2.trumpow.meme:50001": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum-server2.trumpow.meme:50002": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       },
       "electrum-server2.trumpow.meme:50004": {
-        "1764680389": "offline"
+        "1764680389": "offline",
+        "1764811353": "online"
       }
     }
   },
