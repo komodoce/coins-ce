@@ -7099,6 +7099,30 @@
                 ]
             },
             {
+                "url": "btx.electrum1.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum3.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -7161,6 +7185,30 @@
                 "contact": [
                     {
                         "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum1.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:20069",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
                     }
                 ]
             },

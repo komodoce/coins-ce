@@ -6462,6 +6462,30 @@
                 ]
             },
             {
+                "url": "btx.electrum1.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum3.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6524,6 +6548,30 @@
                 "contact": [
                     {
                         "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum1.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
                     }
                 ]
             },
@@ -35616,22 +35664,6 @@
             },
             {
                 "url": "el1.verus.io:17488",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
-            },
-            {
-                "url": "el2.verus.io:17488",
                 "protocol": "WSS",
                 "contact": [
                     {
