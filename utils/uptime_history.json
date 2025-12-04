@@ -1136,6 +1136,18 @@
       "btx-electrumx.coinsmunity.com:50003": {
         "1764844524": "online"
       },
+      "btx.electrum1.cipig.net:20069": {
+        "1764852820": "online"
+      },
+      "btx.electrum1.cipig.net:30069": {
+        "1764852820": "online"
+      },
+      "btx.electrum2.cipig.net:20069": {
+        "1764852820": "online"
+      },
+      "btx.electrum2.cipig.net:30069": {
+        "1764852820": "online"
+      },
       "btx.electrum3.cipig.net:20069": {
         "1764844524": "online"
       },
@@ -1154,6 +1166,18 @@
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1764844524": "online"
+      },
+      "btx.electrum1.cipig.net:20069": {
+        "1764852820": "online"
+      },
+      "btx.electrum1.cipig.net:30069": {
+        "1764852820": "online"
+      },
+      "btx.electrum2.cipig.net:20069": {
+        "1764852820": "online"
+      },
+      "btx.electrum2.cipig.net:30069": {
+        "1764852820": "online"
       },
       "btx.electrum3.cipig.net:20069": {
         "1764844524": "online"
@@ -1573,7 +1597,8 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "api.dogecoinev.com:50002": {
         "1764844524": "online"
@@ -3230,7 +3255,8 @@
     "all": {},
     "by_server": {
       "https://kcc-rpc.com": {
-        "1764844524": "online"
+        "1764844524": "online",
+        "1764852820": "offline"
       },
       "https://rpc-mainnet.kcc.network": {
         "1764844524": "online"
@@ -3996,7 +4022,8 @@
         "1764844524": "online"
       },
       "https://moonriver.drpc.org": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1764844524": "online"
@@ -4005,7 +4032,8 @@
         "1764844524": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1764844524": "online"
@@ -4576,7 +4604,8 @@
   },
   "NYC": {
     "all": {
-      "1764844524": "offline"
+      "1764844524": "offline",
+      "1764852820": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4596,10 +4625,12 @@
         }
       },
       "electrum.newyorkcoin.online:50002": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "electrum.newyorkcoin.online:50004": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       }
     }
   },
@@ -4775,13 +4806,16 @@
         "1764844524": "online"
       },
       "electrum02.chainster.org:50001": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "electrum02.chainster.org:50002": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       },
       "electrum02.chainster.org:50003": {
-        "1764844524": "offline"
+        "1764844524": "offline",
+        "1764852820": "online"
       }
     }
   },
