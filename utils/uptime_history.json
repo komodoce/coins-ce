@@ -1594,7 +1594,8 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1764927050": "offline"
+        "1764927050": "offline",
+        "1764984008": "online"
       },
       "api.dogecoinev.com:50002": {
         "1764927050": "online"
@@ -4816,13 +4817,16 @@
         "1764927050": "online"
       },
       "electrum02.chainster.org:50001": {
-        "1764927050": "offline"
+        "1764927050": "offline",
+        "1764984008": "online"
       },
       "electrum02.chainster.org:50002": {
-        "1764927050": "offline"
+        "1764927050": "offline",
+        "1764984008": "online"
       },
       "electrum02.chainster.org:50003": {
-        "1764927050": "offline"
+        "1764927050": "offline",
+        "1764984008": "online"
       }
     }
   },
