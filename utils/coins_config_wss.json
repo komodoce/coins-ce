@@ -708,15 +708,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -10668,15 +10659,6 @@
             "homepage": "https://dogecoinev.com"
         },
         "electrum": [
-            {
-                "url": "api.dogecoinev.com:50002",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "1157581316175437884"
-                    }
-                ]
-            },
             {
                 "url": "api2.dogecoinev.com:50002",
                 "protocol": "WSS",
