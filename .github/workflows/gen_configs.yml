@@ -64,4 +64,5 @@ jobs:
             - Icon spritemap updated
           labels: |
             config-update
+          reviewers: cipig
           draft: false
