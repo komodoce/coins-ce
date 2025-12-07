@@ -4649,7 +4649,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1764927050": "online"
+        "1764927050": "online",
+        "1765070952": "offline"
       },
       "https://api.harmony.one": {
         "1764927050": "online"
@@ -4850,7 +4851,8 @@
     "all": {},
     "by_server": {
       "https://pol3.cipig.net:18755": {
-        "1764927050": "offline"
+        "1764927050": "offline",
+        "1765070952": "online"
       },
       "https://polygon-bor-rpc.publicnode.com": {
         "1764927050": "online"
