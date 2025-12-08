@@ -13779,6 +13779,15 @@
                 ]
             },
             {
+                "url": "api.dogecoinev.com:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
                 "url": "api.dogecoinev.com:50003",
                 "protocol": "SSL",
                 "contact": [
@@ -45317,6 +45326,10 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
+            {
+                "url": "159.69.73.223:5036",
+                "protocol": "TCP"
+            },
             {
                 "url": "electrum-verge.cloud:50001",
                 "protocol": "TCP"
