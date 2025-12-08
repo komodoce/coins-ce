@@ -10660,6 +10660,15 @@
         },
         "electrum": [
             {
+                "url": "api.dogecoinev.com:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
                 "url": "api2.dogecoinev.com:50002",
                 "protocol": "WSS",
                 "contact": [

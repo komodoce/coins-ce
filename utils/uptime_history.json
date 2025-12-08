@@ -1632,7 +1632,8 @@
         "1765111930": "online"
       },
       "api.dogecoinev.com:50002": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1765156849": "online"
       },
       "api.dogecoinev.com:50003": {
         "1765111930": "online"
@@ -3132,10 +3133,30 @@
               "discord": "475820011634819072"
             }
           ]
+        },
+        "il8p-ex-five.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "il8p-ex-five.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
         }
       },
       "il8p-ex-five.ewmci.online:50001": {
         "1765111930": "offline"
+      },
+      "il8p-ex-five.ewmci.online:50002": {
+        "1765156849": "offline"
+      },
+      "il8p-ex-five.ewmci.online:50003": {
+        "1765156849": "offline"
       },
       "il8p.electrumx.transcenders.name:50002": {
         "1765111930": "online"
@@ -6191,7 +6212,8 @@
     },
     "by_server": {
       "159.69.73.223:5036": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1765156849": "online"
       },
       "electrum-verge.cloud:50001": {
         "1765111930": "online"
