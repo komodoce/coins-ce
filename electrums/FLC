@@ -4,7 +4,8 @@
     "protocol": "SSL",
     "contact": [
       {"email": "electrum@myfloki.com"}
-    ]
+    ],
+    "ws_url": "electrum.myfloki.com:50004"
   },
   {
     "url": "electrum.myfloki.com:50001",
@@ -18,7 +19,8 @@
     "protocol": "SSL",
     "contact": [
       {"email": "listing@hashboard.space"}
-    ]
+    ],
+    "ws_url": "electrum-flc.hashboard.space:50004"
   },
   {
     "url": "electrum-flc.hashboard.space:50001",
