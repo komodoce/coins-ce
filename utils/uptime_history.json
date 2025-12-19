@@ -2626,7 +2626,8 @@
   "FLOP": {
     "all": {
       "1765111930": "online",
-      "1766186238": "offline"
+      "1766186238": "offline",
+      "1766187023": "online"
     },
     "by_server": {
       "_metadata": {
@@ -2661,27 +2662,33 @@
       },
       "electrumx1.flopcoin.net:10001": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       },
       "electrumx1.flopcoin.net:10003": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       },
       "electrumx1.flopcoin.net:10004": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       },
       "electrumx2.flopcoin.net:10001": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       },
       "electrumx2.flopcoin.net:10003": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       },
       "electrumx2.flopcoin.net:10004": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766187023": "online"
       }
     }
   },
