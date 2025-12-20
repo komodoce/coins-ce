@@ -1485,15 +1485,18 @@
       },
       "electrum2.mooo.com:10007": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       },
       "electrum2.mooo.com:10008": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       },
       "electrum2.mooo.com:10009": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       }
     }
   },
@@ -1538,7 +1541,8 @@
   "CRNC": {
     "all": {
       "1765111930": "online",
-      "1766186238": "offline"
+      "1766186238": "offline",
+      "1766193523": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1614,15 +1618,18 @@
       },
       "explorer.crionic.org:50001": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       },
       "explorer.crionic.org:50002": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       },
       "explorer.crionic.org:50005": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766193523": "online"
       }
     }
   },
@@ -5555,13 +5562,16 @@
         }
       },
       "electrum.pepe.tips:50001": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766193523": "online"
       },
       "electrum.pepe.tips:50002": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766193523": "online"
       },
       "electrum.pepe.tips:50004": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766193523": "online"
       },
       "electrum.pepeblocks.com:50001": {
         "1765111930": "online"
