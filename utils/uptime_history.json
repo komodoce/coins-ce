@@ -1608,13 +1608,16 @@
         }
       },
       "coin.crionic.org:50001": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766280472": "online"
       },
       "coin.crionic.org:50002": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766280472": "online"
       },
       "coin.crionic.org:50005": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766280472": "online"
       },
       "explorer.crionic.org:50001": {
         "1765111930": "online",
@@ -3819,21 +3822,26 @@
       },
       "electrum1.kiirocoin.org:50001": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       },
       "electrum1.kiirocoin.org:50002": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       },
       "electrum1.kiirocoin.org:50004": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766280472": "online"
       },
       "electrum2.kiirocoin.org:50002": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       },
       "electrum2.kiirocoin.org:50004": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766280472": "online"
       },
       "electrum3.kiirocoin.org:50002": {
         "1765111930": "online"
@@ -4930,15 +4938,18 @@
       },
       "electrum2.mooo.com:10001": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       },
       "electrum2.mooo.com:10002": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       },
       "electrum2.mooo.com:10003": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766280472": "online"
       }
     }
   },
@@ -6075,8 +6086,16 @@
   "SBCH": {
     "all": {},
     "by_server": {
+      "_metadata": {
+        "https://rpc.smartbch.org": {
+          "contact": {
+            "email": "contact@smartbch.org"
+          }
+        }
+      },
       "https://rpc.smartbch.org": {
-        "1765111930": "online"
+        "1765111930": "online",
+        "1766280472": "offline"
       },
       "https://smartbch.greyh.at": {
         "1765111930": "online"
