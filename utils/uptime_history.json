@@ -2027,11 +2027,13 @@
       },
       "electrumx.dgc.ewmcx.org:50001": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       },
       "electrumx.dgc.ewmcx.org:50003": {
         "1755770395": "offline"
@@ -2040,13 +2042,15 @@
         "1755770395": "online",
         "1757307678": "offline",
         "1757463228": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
         "1757307678": "offline",
         "1757463228": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       }
     }
   },
@@ -6010,12 +6014,14 @@
       "electrumx.nvc.ewmcx.org:50002": {
         "1755770395": "offline",
         "1756167205": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       },
       "electrumx.nvc.ewmcx.org:50003": {
         "1755770395": "offline",
         "1756167205": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766452233": "online"
       },
       "failover.nvc.ewmcx.biz:50002": {
         "1755770395": "online"
