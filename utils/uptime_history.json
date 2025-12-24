@@ -2485,12 +2485,14 @@
   "DP": {
     "all": {
       "1755770395": "online",
-      "1766366022": "offline"
+      "1766366022": "offline",
+      "1766538588": "online"
     },
     "by_server": {
       "1.eu.dp.electrum.dexstats.info:10021": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "_metadata": {
         "1.eu.dp.electrum.dexstats.info:10021": {
@@ -3282,7 +3284,8 @@
       "wss://moonbeam.drpc.org": {
         "1755987838": "online",
         "1761668428": "offline",
-        "1762013934": "online"
+        "1762013934": "online",
+        "1766538588": "offline"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -6541,15 +6544,18 @@
       },
       "ric-ex-two.ewmci.online:50001": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric-ex-two.ewmci.online:50002": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric-ex-two.ewmci.online:50003": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric.electrum1.cipig.net:20074": {
         "1764680900": "offline",
@@ -6645,15 +6651,18 @@
       },
       "ric-ex-two.ewmci.online:50001": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric-ex-two.ewmci.online:50002": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric-ex-two.ewmci.online:50003": {
         "1755770395": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1766538588": "online"
       },
       "ric.electrum1.cipig.net:20074": {
         "1764680900": "offline",
@@ -7063,16 +7072,19 @@
   "THC": {
     "all": {
       "1755770395": "online",
-      "1764676026": "offline"
+      "1764676026": "offline",
+      "1766538588": "online"
     },
     "by_server": {
       "1.eu.thc.electrum.dexstats.info:10020": {
         "1755770395": "online",
-        "1764676026": "offline"
+        "1764676026": "offline",
+        "1766538588": "online"
       },
       "2.eu.thc.electrum.dexstats.info:10020": {
         "1755770395": "online",
-        "1764676026": "offline"
+        "1764676026": "offline",
+        "1766538588": "online"
       },
       "_metadata": {
         "1.eu.thc.electrum.dexstats.info:10020": {
@@ -7095,20 +7107,24 @@
   "TKL": {
     "all": {
       "1755770395": "online",
-      "1764312754": "offline"
+      "1764312754": "offline",
+      "1766538588": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "online",
-        "1764312754": "offline"
+        "1764312754": "offline",
+        "1766538588": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
         "1755770395": "online",
-        "1764312754": "offline"
+        "1764312754": "offline",
+        "1766538588": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
         "1755770395": "online",
-        "1764312754": "offline"
+        "1764312754": "offline",
+        "1766538588": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "offline"
