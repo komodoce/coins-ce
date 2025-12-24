@@ -14658,8 +14658,17 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "1.eu.dp.electrum.dexstats.info:10021",
+                "contact": [
+                    {
+                        "discord": "Zanzarismo#6500"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "DOI": {
@@ -35879,6 +35888,33 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
+                "url": "ric-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
@@ -35990,6 +36026,33 @@
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
+            {
+                "url": "ric-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric-ex-two.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
@@ -40418,8 +40481,26 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "1.eu.thc.electrum.dexstats.info:10020",
+                "contact": [
+                    {
+                        "discord": "CHMEX#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "2.eu.thc.electrum.dexstats.info:10020",
+                "contact": [
+                    {
+                        "discord": "CHMEX#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "THC-BEP20": {
@@ -40510,8 +40591,44 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:10077",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:11077",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:9077",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {

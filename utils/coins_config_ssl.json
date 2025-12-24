@@ -12316,6 +12316,43 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "DP": {
+        "coin": "DP",
+        "type": "Smart Chain",
+        "name": "DigitalPrice",
+        "coinpaprika_id": "dp-digitalprice",
+        "coingecko_id": "digitalprice",
+        "livecoinwatch_id": "DP",
+        "explorer_url": "https://dp.explorer.dexstats.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "DP",
+        "fname": "DigitalPrice",
+        "is_privacy_coin": true,
+        "rpcport": 28388,
+        "pubtype": 60,
+        "p2shtype": 85,
+        "wiftype": 188,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "requires_notarization": false,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [],
+        "explorer_block_url": "block/"
+    },
     "DOI": {
         "coin": "DOI",
         "type": "UTXO",
@@ -30893,6 +30930,15 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
@@ -30968,6 +31014,15 @@
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
+            {
+                "url": "ric-ex-two.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
@@ -34789,6 +34844,43 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "THC": {
+        "coin": "THC",
+        "type": "Smart Chain",
+        "name": "HempCoin",
+        "coinpaprika_id": "thc-hempcoin",
+        "coingecko_id": "hempcoin-thc",
+        "livecoinwatch_id": "THC",
+        "explorer_url": "https://thc.explorer.dexstats.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "THC",
+        "fname": "HempCoin",
+        "is_privacy_coin": true,
+        "rpcport": 36790,
+        "pubtype": 60,
+        "p2shtype": 85,
+        "wiftype": 188,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [],
+        "explorer_block_url": "block/"
+    },
     "THC-BEP20": {
         "coin": "THC-BEP20",
         "type": "BEP-20",
@@ -34841,6 +34933,56 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
+    "TKL": {
+        "coin": "TKL",
+        "type": "Smart Chain",
+        "name": "Tokel",
+        "coinpaprika_id": "tkl-tokel",
+        "coingecko_id": "tokel",
+        "livecoinwatch_id": "TKL",
+        "explorer_url": "https://explorer.tokel.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "asset": "TOKEL",
+        "fname": "Tokel",
+        "is_privacy_coin": true,
+        "rpcport": 29405,
+        "pubtype": 60,
+        "p2shtype": 85,
+        "wiftype": 188,
+        "txversion": 4,
+        "overwintered": 1,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "electrum": [
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:11077",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
