@@ -2189,12 +2189,14 @@
   "DP": {
     "all": {
       "1765111930": "online",
-      "1766186238": "offline"
+      "1766186238": "offline",
+      "1766539321": "online"
     },
     "by_server": {
       "1.eu.dp.electrum.dexstats.info:10021": {
         "1765111930": "online",
-        "1766186238": "offline"
+        "1766186238": "offline",
+        "1766539321": "online"
       },
       "_metadata": {
         "1.eu.dp.electrum.dexstats.info:10021": {
@@ -5496,7 +5498,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1765111930": "online"
+        "1765111930": "online",
+        "1766539321": "offline"
       },
       "https://api.harmony.one": {
         "1765111930": "online"
@@ -5695,7 +5698,8 @@
         "1765111930": "online"
       },
       "wss://polygon.gateway.tenderly.co": {
-        "1765111930": "online"
+        "1765111930": "online",
+        "1766539321": "offline"
       }
     }
   },
@@ -6266,14 +6270,17 @@
   },
   "THC": {
     "all": {
-      "1765111930": "offline"
+      "1765111930": "offline",
+      "1766539321": "online"
     },
     "by_server": {
       "1.eu.thc.electrum.dexstats.info:10020": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766539321": "online"
       },
       "2.eu.thc.electrum.dexstats.info:10020": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766539321": "online"
       },
       "_metadata": {
         "1.eu.thc.electrum.dexstats.info:10020": {
@@ -6295,17 +6302,21 @@
   },
   "TKL": {
     "all": {
-      "1765111930": "offline"
+      "1765111930": "offline",
+      "1766539321": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766539321": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766539321": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
-        "1765111930": "offline"
+        "1765111930": "offline",
+        "1766539321": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1765111930": "offline"
