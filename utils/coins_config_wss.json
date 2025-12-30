@@ -143,10 +143,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -201,10 +197,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -555,10 +547,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -628,52 +616,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "AAVE-FTM20": {
-        "coin": "AAVE-FTM20",
-        "type": "FTM-20",
-        "name": "AAVE",
-        "coinpaprika_id": "aave-new",
-        "coingecko_id": "aave",
-        "livecoinwatch_id": "AAVE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "AAVE",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -778,15 +720,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -847,10 +780,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -905,10 +834,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -1267,63 +1192,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "AIPG": {
-        "coin": "AIPG",
-        "type": "UTXO",
-        "name": "AI Power Grid",
-        "coinpaprika_id": "aipg-ai-power-grid",
-        "coingecko_id": "ai-power-grid",
-        "livecoinwatch_id": "AIPG",
-        "explorer_url": "https://explorer.aipowergrid.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Aipg Signed Message:\n",
-        "fname": "AI Power Grid",
-        "rpcport": 9788,
-        "pubtype": 23,
-        "p2shtype": 23,
-        "wiftype": 128,
-        "segwit": true,
-        "txfee": 1000000,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 6,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/2686'",
-        "links": {
-            "github": "https://github.com/AIPowerGrid/AI-Power-Grid-Core",
-            "homepage": "aipowergrid.io"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.aipowergrid.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "482101557383528448"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.aipowergrid.io:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "482101557383528448"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "AIPG-BASE": {
         "coin": "AIPG-BASE",
         "type": "Base",
@@ -1411,10 +1279,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -1546,6 +1410,48 @@
         ],
         "explorer_block_url": "block/"
     },
+    "APE-ARB20": {
+        "coin": "APE-ARB20",
+        "type": "Arbitrum",
+        "name": "ApeCoin",
+        "coinpaprika_id": "ape-apecoin",
+        "coingecko_id": "apecoin",
+        "livecoinwatch_id": "APE",
+        "explorer_url": "https://arbiscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "ApeCoin",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 42161,
+        "decimals": 18,
+        "avg_blocktime": 0.25,
+        "required_confirmations": 10,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH-ARB20",
+                "contract_address": "0x7f9FBf9bDd3F4105C478b996B648FE6e828a1e98"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x7f9FBf9bDd3F4105C478b996B648FE6e828a1e98",
+        "parent_coin": "ETH-ARB20",
+        "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "nodes": [
+            {
+                "url": "https://arbitrum-one-rpc.publicnode.com",
+                "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "APE-ERC20": {
         "coin": "APE-ERC20",
         "type": "ERC-20",
@@ -1654,10 +1560,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -1715,61 +1617,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "APE-FTM20": {
-        "coin": "APE-FTM20",
-        "type": "FTM-20",
-        "name": "ApeCoin",
-        "coinpaprika_id": "ape-apecoin",
-        "coingecko_id": "apecoin",
-        "livecoinwatch_id": "APE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "ApeCoin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "APE-PLG20": {
@@ -1984,10 +1836,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -2276,10 +2124,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -2334,10 +2178,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -2508,10 +2348,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -2679,10 +2515,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -2720,7 +2552,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 30,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/921'",
         "electrum": [
@@ -2993,10 +2826,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -3113,10 +2942,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -3165,10 +2990,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -3307,10 +3128,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -3491,10 +3308,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -3549,10 +3362,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -3619,52 +3428,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BAND-FTM20": {
-        "coin": "BAND-FTM20",
-        "type": "FTM-20",
-        "name": "Band Protocol",
-        "coinpaprika_id": "band-band-protocol",
-        "coingecko_id": "band-protocol",
-        "livecoinwatch_id": "BAND",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Band Protocol",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -3882,10 +3645,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -3984,29 +3743,20 @@
         },
         "electrum": [
             {
-                "url": "electrum-02.bitcoinii.network:40104",
+                "url": "explorer.bitcoin-ii.org:50010",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "777703913125314580"
+                        "discord": "1391871602127540236"
                     }
                 ]
             },
             {
-                "url": "electrum-03.bitcoinii.network:40106",
+                "url": "infra1.bitcoin-ii.org:50010",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40102",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
+                        "discord": "1391871602127540236"
                     }
                 ]
             }
@@ -4054,29 +3804,20 @@
         },
         "electrum": [
             {
-                "url": "electrum-02.bitcoinii.network:40104",
+                "url": "explorer.bitcoin-ii.org:50010",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "777703913125314580"
+                        "discord": "1391871602127540236"
                     }
                 ]
             },
             {
-                "url": "electrum-03.bitcoinii.network:40106",
+                "url": "infra1.bitcoin-ii.org:50010",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "777703913125314580"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.bitcoinii.network:40102",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "777703913125314580"
+                        "discord": "1391871602127540236"
                     }
                 ]
             }
@@ -4115,7 +3856,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/145'",
         "trezor_coin": "Bitcoin Cash",
@@ -4124,6 +3866,30 @@
             "homepage": "https://www.bitcoincash.org"
         },
         "electrum": [
+            {
+                "url": "bch.electrum1.cipig.net:30055",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "bch.electrum2.cipig.net:30055",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
             {
                 "url": "bch.electrum3.cipig.net:30055",
                 "protocol": "WSS",
@@ -4417,10 +4183,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -4588,10 +4350,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -4645,10 +4403,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -4806,10 +4560,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -5007,10 +4757,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -5127,10 +4873,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -5293,10 +5035,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -5533,10 +5271,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -5795,7 +5529,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/0'",
         "trezor_coin": "Bitcoin",
@@ -5844,50 +5579,6 @@
         "explorer_block_url": "block/",
         "binance_id": "BTC"
     },
-    "BKC": {
-        "coin": "BKC",
-        "type": "UTXO",
-        "name": "Briskcoin",
-        "coinpaprika_id": "bkc-briskcoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "__BKC",
-        "explorer_url": "https://explorer.briskcoin.org/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Briskcoin Signed Message:\n",
-        "fname": "Briskcoin",
-        "rpcport": 8552,
-        "pubtype": 25,
-        "p2shtype": 33,
-        "wiftype": 153,
-        "txfee": 0,
-        "segwit": true,
-        "bech32_hrp": "bc",
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/1918'",
-        "trezor_coin": "Briskcoin",
-        "links": {
-            "github": "https://github.com/briskcoin-project/briskcoin",
-            "homepage": "https://briskcoin.org"
-        },
-        "electrum": [
-            {
-                "url": "electrumx2.briskcoin.org:50003",
-                "protocol": "WSS"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "BTC-segwit": {
         "coin": "BTC-segwit",
         "type": "UTXO",
@@ -5921,7 +5612,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 600,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/84'/0'",
         "trezor_coin": "Bitcoin",
@@ -6019,10 +5711,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -6065,15 +5753,6 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
-            {
-                "url": "electrum1.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
             {
                 "url": "electrum2.btcz.rocks:50004",
                 "contact": [
@@ -6137,10 +5816,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -6365,10 +6040,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -6424,10 +6095,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -6605,6 +6272,30 @@
                 ]
             },
             {
+                "url": "btx.electrum1.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum3.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6671,6 +6362,30 @@
                 ]
             },
             {
+                "url": "btx.electrum1.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "btx.electrum2.cipig.net:30069",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum3.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6727,10 +6442,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -6822,12 +6533,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -6942,10 +6653,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -7269,10 +6976,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -7322,10 +7025,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -7790,10 +7489,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -7891,10 +7586,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -8095,10 +7786,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -8494,10 +8181,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -8598,10 +8281,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -8883,6 +8562,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x0f80aa32ba51e0acf171e106a1cfcd1eb9a9c3a5"
@@ -9082,52 +8762,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "CRV-FTM20": {
-        "coin": "CRV-FTM20",
-        "type": "FTM-20",
-        "name": "Curve DAO",
-        "coinpaprika_id": "crv-curve-dao-token",
-        "coingecko_id": "curve-dao-token",
-        "livecoinwatch_id": "CRV",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Curve DAO",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "CRV-PLG20": {
         "coin": "CRV-PLG20",
         "type": "Matic",
@@ -9233,10 +8867,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -9285,10 +8915,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -9637,61 +9263,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "DAI-FTM20": {
-        "coin": "DAI-FTM20",
-        "type": "FTM-20",
-        "name": "Dai",
-        "coinpaprika_id": "dai-dai",
-        "coingecko_id": "dai",
-        "livecoinwatch_id": "DAI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Dai",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "DAI-MVR20": {
@@ -9730,12 +9306,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -9830,7 +9406,6 @@
         "p2shtype": 16,
         "wiftype": 204,
         "txfee": 1000,
-        "force_min_relay_fee": true,
         "mm2": 1,
         "required_confirmations": 2,
         "avg_blocktime": 150,
@@ -10440,10 +10015,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -10558,7 +10129,6 @@
         "p2shtype": 16,
         "wiftype": 204,
         "txfee": 1000,
-        "force_min_relay_fee": true,
         "mm2": 1,
         "required_confirmations": 2,
         "avg_blocktime": 90,
@@ -10633,18 +10203,6 @@
             "github": "https://github.com/dime-coin/dimecoin/"
         },
         "electrum": [
-            {
-                "url": "electrumx1.dimecoinnetwork.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "developer@dimecoinnetwork.com"
-                    },
-                    {
-                        "discord": "dhop14#9359"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.dimecoinnetwork.com:50004",
                 "protocol": "WSS",
@@ -10775,10 +10333,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -10815,6 +10369,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x2c660b0d4d53382aeef855d3010d697970fa0bd5"
@@ -10974,10 +10529,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -11074,10 +10625,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -11262,15 +10809,6 @@
         },
         "electrum": [
             {
-                "url": "api.dogecoinev.com:50002",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "1157581316175437884"
-                    }
-                ]
-            },
-            {
                 "url": "api2.dogecoinev.com:50002",
                 "protocol": "WSS",
                 "contact": [
@@ -11278,53 +10816,6 @@
                         "discord": "1157581316175437884"
                     }
                 ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "MYDOGE": {
-        "coin": "MYDOGE",
-        "type": "UTXO",
-        "name": "Mydogecoin",
-        "coinpaprika_id": "mydoge-mydogecoin",
-        "coingecko_id": "mydogecoin",
-        "livecoinwatch_id": "MYDOGE",
-        "explorer_url": "https://explorer.mydogecoin.fun/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Mydogecoin Signed Message:\n",
-        "fname": "Mydogecoin",
-        "rpcport": 22776,
-        "pubtype": 51,
-        "p2shtype": 30,
-        "wiftype": 158,
-        "txfee": 1000000,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/1995'",
-        "trezor_coin": "Mydogecoin",
-        "links": {
-            "github": "https://github.com/mydogecoin-project/mydogecoin",
-            "homepage": "https://mydogecoin.fun"
-        },
-        "electrum": [
-            {
-                "url": "electrumx1.mydogecoin.fun:60003",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumx2.mydogecoin.fun:60003",
-                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -11372,10 +10863,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -11411,7 +10898,8 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PIVX"
         },
         "derivation_path": "m/44'/385'",
         "links": {
@@ -11469,10 +10957,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -11521,10 +11005,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -11583,10 +11063,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -11627,16 +11103,6 @@
         },
         "derivation_path": "m/44'/7070'",
         "electrum": [
-            {
-                "url": "big-parrot-60.doi.works:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/doichain/electrum-doi/issues",
-                        "twitter": "doichain"
-                    }
-                ]
-            },
             {
                 "url": "itchy-jellyfish-89.doi.works:50004",
                 "protocol": "WSS",
@@ -11758,10 +11224,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -11877,10 +11339,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -12183,10 +11641,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -12235,10 +11689,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -12495,62 +11945,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
-    },
-    "ETH-FTM20": {
-        "coin": "ETH-FTM20",
-        "type": "FTM-20",
-        "name": "Ethereum",
-        "coinpaprika_id": "eth-ethereum",
-        "coingecko_id": "ethereum",
-        "livecoinwatch_id": "ETH",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Ethereum",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/",
         "binance_id": "ETH"
     },
@@ -13277,10 +12676,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -13403,10 +12798,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -13582,10 +12973,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -13694,10 +13081,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -13892,10 +13275,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -14194,10 +13573,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -14248,15 +13623,69 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
+        "explorer_block_url": "block/"
+    },
+    "FLC": {
+        "coin": "FLC",
+        "type": "UTXO",
+        "name": "Flokicoin",
+        "coinpaprika_id": "flc-flokicoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://flokichain.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Flokicoin Signed Message:\n",
+        "fname": "Flokicoin",
+        "rpcport": 15213,
+        "pubtype": 35,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "fc",
+        "txfee": 0,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "dust": 1000,
+        "derivation_path": "m/44'/0'",
+        "links": {
+            "github": "https://github.com/flokiorg/go-flokicoin",
+            "homepage": "https://flokicoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum-flc.hashboard.space:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "listing@hashboard.space"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLOKI-BEP20": {
@@ -14306,10 +13735,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -14430,10 +13855,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -14599,58 +14020,13 @@
         ],
         "explorer_block_url": "block/"
     },
-    "FTM": {
-        "coin": "FTM",
-        "type": "FTM-20",
-        "name": "Fantom",
-        "coinpaprika_id": "ftm-fantom",
-        "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Fantom",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "use_access_list": true,
-        "max_eth_tx_type": 2,
-        "required_confirmations": 3,
-        "avg_blocktime": 1.8,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 250
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "trezor_coin": "Fantom Opera",
-        "links": {
-            "homepage": "https://fantom.foundation"
-        },
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
-    },
     "FTM-BEP20": {
         "coin": "FTM-BEP20",
         "type": "BEP-20",
         "name": "Fantom",
         "coinpaprika_id": "ftm-fantom",
         "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
+        "livecoinwatch_id": "",
         "explorer_url": "https://bscscan.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -14687,17 +14063,12 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
+        "explorer_block_url": "block/"
     },
     "FTM-ERC20": {
         "coin": "FTM-ERC20",
@@ -14705,7 +14076,7 @@
         "name": "Fantom",
         "coinpaprika_id": "ftm-fantom",
         "coingecko_id": "fantom",
-        "livecoinwatch_id": "FTM",
+        "livecoinwatch_id": "",
         "explorer_url": "https://etherscan.io/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -14762,8 +14133,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "FTM"
+        "explorer_block_url": "block/"
     },
     "FXS-BEP20": {
         "coin": "FXS-BEP20",
@@ -14813,10 +14183,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -15037,62 +14403,16 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "FXS-FTM20": {
-        "coin": "FXS-FTM20",
-        "type": "FTM-20",
-        "name": "Frax Share",
-        "coinpaprika_id": "",
-        "coingecko_id": "frax-share",
-        "livecoinwatch_id": "FXS",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Frax Share",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15200,10 +14520,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -15380,10 +14696,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -15439,10 +14751,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -15811,10 +15119,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -15864,10 +15168,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -16417,10 +15717,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -16753,10 +16049,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -16872,10 +16164,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -16989,10 +16277,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -17465,10 +16749,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -17731,10 +17011,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -17961,10 +17237,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -18080,10 +17352,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -18202,10 +17470,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -18260,10 +17524,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -18438,10 +17698,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -18490,10 +17746,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -18608,10 +17860,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -18836,10 +18084,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -19125,10 +18369,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -19301,10 +18541,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -20346,221 +19582,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "KCN": {
-        "coin": "KCN",
-        "type": "UTXO",
-        "name": "Kylacoin",
-        "coinpaprika_id": "kcn-kylacoin",
-        "coingecko_id": "kylacoin",
-        "livecoinwatch_id": "KCN",
-        "explorer_url": "https://kcnxp.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "sign_message_prefix": "Kylacoin Signed Message:\n",
-        "fname": "Kylacoin",
-        "rpcport": 5110,
-        "pubtype": 28,
-        "p2shtype": 26,
-        "wiftype": 65,
-        "segwit": true,
-        "bech32_hrp": "kc",
-        "txfee": 1000,
-        "decimals": 12,
-        "mm2": 1,
-        "required_confirmations": 10,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/0'",
-        "trezor_coin": "Kylacoin",
-        "links": {
-            "github": "https://github.com/kylacoin/kylacoin",
-            "homepage": "https://kylacoin.com"
-        },
-        "electrum": [
-            {
-                "url": "electrum1.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum5.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "KCN-segwit": {
-        "coin": "KCN-segwit",
-        "type": "UTXO",
-        "name": "Kylacoin",
-        "coinpaprika_id": "kcn-kylacoin",
-        "coingecko_id": "kylacoin",
-        "livecoinwatch_id": "KCN",
-        "explorer_url": "https://kcnxp.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "sign_message_prefix": "Kylacoin Signed Message:\n",
-        "fname": "Kylacoin",
-        "rpcport": 5110,
-        "pubtype": 28,
-        "p2shtype": 26,
-        "wiftype": 65,
-        "segwit": true,
-        "bech32_hrp": "kc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "KCN",
-        "txfee": 1000,
-        "decimals": 12,
-        "mm2": 1,
-        "required_confirmations": 10,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/0'",
-        "trezor_coin": "Kylacoin",
-        "links": {
-            "github": "https://github.com/kylacoin/kylacoin",
-            "homepage": "https://kylacoin.com"
-        },
-        "electrum": [
-            {
-                "url": "electrum1.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum5.kcnxp.com:51004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "KCN-BEP20": {
@@ -20611,10 +19637,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -20752,10 +19774,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -20804,10 +19822,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -21114,10 +20128,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -21153,7 +20163,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "LBC"
         },
         "derivation_path": "m/44'/140'",
         "electrum": [
@@ -21207,7 +20218,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "LBC"
         },
         "derivation_path": "m/84'/140'",
         "electrum": [
@@ -21345,212 +20357,6 @@
         ],
         "explorer_block_url": "block.dws?"
     },
-    "LCN": {
-        "coin": "LCN",
-        "type": "UTXO",
-        "name": "Lyncoin",
-        "coinpaprika_id": "lcn-lyncoin",
-        "coingecko_id": "lyncoin",
-        "livecoinwatch_id": "LCN",
-        "explorer_url": "https://lcnxp.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "sign_message_prefix": "Lyncoin Signed Message:\n",
-        "fname": "Lyncoin",
-        "rpcport": 5053,
-        "pubtype": 234,
-        "p2shtype": 55,
-        "wiftype": 126,
-        "segwit": true,
-        "bech32_hrp": "lc",
-        "txfee": 1000,
-        "decimals": 8,
-        "mm2": 1,
-        "required_confirmations": 10,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/0'",
-        "trezor_coin": "Lyncoin",
-        "links": {
-            "github": "https://github.com/lyncoin/lyncoin",
-            "homepage": "https://lyncoin.com"
-        },
-        "electrum": [
-            {
-                "url": "electrum1.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum5.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "LCN-segwit": {
-        "coin": "LCN-segwit",
-        "type": "UTXO",
-        "name": "Lyncoin",
-        "coinpaprika_id": "lcn-lyncoin",
-        "coingecko_id": "lyncoin",
-        "livecoinwatch_id": "LCN",
-        "explorer_url": "https://lcnxp.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "sign_message_prefix": "Lyncoin Signed Message:\n",
-        "fname": "Lyncoin",
-        "rpcport": 5053,
-        "pubtype": 234,
-        "p2shtype": 55,
-        "wiftype": 126,
-        "segwit": true,
-        "bech32_hrp": "lc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "LCN",
-        "txfee": 1000,
-        "decimals": 8,
-        "mm2": 1,
-        "required_confirmations": 10,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/0'",
-        "trezor_coin": "Lyncoin",
-        "links": {
-            "github": "https://github.com/lyncoin/lyncoin",
-            "homepage": "https://lyncoin.com"
-        },
-        "electrum": [
-            {
-                "url": "electrum1.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum5.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "LCN-BEP20": {
         "coin": "LCN-BEP20",
         "type": "BEP-20",
@@ -21599,10 +20405,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -22003,61 +20805,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "LINK-FTM20": {
-        "coin": "LINK-FTM20",
-        "type": "FTM-20",
-        "name": "Chainlink",
-        "coinpaprika_id": "link-chainlink",
-        "coingecko_id": "chainlink",
-        "livecoinwatch_id": "LINK",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Chainlink",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "LINK-PLG20": {
@@ -22169,10 +20921,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -22222,10 +20970,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -22349,10 +21093,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -22592,10 +21332,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -22753,10 +21489,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -22786,7 +21518,7 @@
         "pubtype": 48,
         "p2shtype": 50,
         "wiftype": 176,
-        "txfee": 0,
+        "txfee": 1000,
         "dust": 5460,
         "segwit": true,
         "bech32_hrp": "ltc",
@@ -22865,7 +21597,7 @@
         "pubtype": 48,
         "p2shtype": 50,
         "wiftype": 176,
-        "txfee": 0,
+        "txfee": 1000,
         "dust": 5460,
         "segwit": true,
         "bech32_hrp": "ltc",
@@ -23091,10 +21823,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -23206,10 +21934,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -23449,10 +22173,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -23630,10 +22350,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -23964,10 +22680,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -24080,10 +22792,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -24178,10 +22886,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -24473,10 +23177,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -24520,12 +23220,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -24735,6 +23435,14 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
+            },
+            {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -24784,10 +23492,6 @@
                 "ws_url": "wss://moonbeam.drpc.org"
             },
             {
-                "url": "https://moonbeam.public.blastapi.io",
-                "ws_url": "wss://moonbeam.public.blastapi.io"
-            },
-            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -24824,7 +23528,8 @@
         "required_confirmations": 10,
         "avg_blocktime": 30,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/130'",
         "electrum": [
@@ -24883,10 +23588,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -24941,10 +23642,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -25069,10 +23766,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -25337,10 +24030,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -25377,6 +24066,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xffb67c56c42b71144ae394dbfe298d863fbb3b9e"
@@ -25635,10 +24325,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -25687,10 +24373,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -25928,10 +24610,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -26213,10 +24891,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -26330,10 +25004,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -26797,10 +25467,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -26919,10 +25585,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -27003,12 +25665,22 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PIVX"
         },
         "derivation_path": "m/44'/119'",
         "electrum": [
             {
                 "url": "electrum01.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -27389,7 +26061,8 @@
         "required_confirmations": 1,
         "avg_blocktime": 510,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "PPC"
         },
         "derivation_path": "m/44'/6'",
         "trezor_coin": "Peercoin",
@@ -27567,10 +26240,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -27861,10 +26530,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -28142,6 +26807,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf2033ede578e17fa6231047265010445bca8cf1c"
@@ -28221,6 +26887,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x60f33e17d8d2dba280cf85b6c35880dedd8ed728"
@@ -28300,6 +26967,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x54fefdb5b31164f66ddb68becd7bdd864cacd65b"
@@ -28397,10 +27065,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -28567,6 +27231,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "tQTUM",
                 "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44"
@@ -28619,12 +27284,12 @@
         "txfee": 400000,
         "dust": 72800,
         "mm2": 1,
-        "force_min_relay_fee": true,
         "required_confirmations": 3,
         "mature_confirmations": 2000,
         "avg_blocktime": 32,
         "protocol": {
-            "type": "QTUM"
+            "type": "QTUM",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/2301'",
         "trezor_coin": "Qtum",
@@ -28770,7 +27435,8 @@
         "mature_confirmations": 2000,
         "avg_blocktime": 32,
         "protocol": {
-            "type": "QTUM"
+            "type": "QTUM",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/1'",
         "swap_contract_address": "0xba8b71f3544b93e2f681f996da519a98ace0107a",
@@ -28861,6 +27527,61 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "RDD": {
+        "coin": "RDD",
+        "type": "UTXO",
+        "name": "ReddCoin",
+        "coinpaprika_id": "rdd-reddcoin",
+        "coingecko_id": "reddcoin",
+        "livecoinwatch_id": "RDD",
+        "explorer_url": "https://live.reddcoin.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "sign_message_prefix": "Reddcoin Signed Message:\n",
+        "fname": "ReddCoin",
+        "isPoSV": 1,
+        "rpcport": 45443,
+        "pubtype": 61,
+        "p2shtype": 5,
+        "wiftype": 189,
+        "txversion": 2,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": false,
+        "mm2": 1,
+        "mature_confirmations": 30,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/4'",
+        "trezor_coin": "Reddcoin",
+        "links": {
+            "github": "https://github.com/reddcoin-project/reddcoin",
+            "homepage": "https://reddcoin.com"
+        },
+        "electrum": [
+            {
+                "url": "electrum01.reddcoin.com:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum02.reddcoin.com:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum03.reddcoin.com:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -29146,7 +27867,8 @@
         "required_confirmations": 4,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/143'",
         "electrum": [
@@ -29156,6 +27878,30 @@
                 "contact": [
                     {
                         "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum1.cipig.net:30074",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum2.cipig.net:30074",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
                     }
                 ]
             },
@@ -29206,7 +27952,8 @@
         "required_confirmations": 4,
         "avg_blocktime": 150,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
@@ -29216,6 +27963,30 @@
                 "contact": [
                     {
                         "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum1.cipig.net:30074",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ric.electrum2.cipig.net:30074",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
                     }
                 ]
             },
@@ -29276,10 +28047,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -29896,10 +28663,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -29934,7 +28697,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/175'",
         "trezor_coin": "Ravencoin",
@@ -30088,10 +28852,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -30211,10 +28971,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -30270,10 +29026,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -30372,10 +29124,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -30445,52 +29193,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "SNX-FTM20": {
-        "coin": "SNX-FTM20",
-        "type": "FTM-20",
-        "name": "Synthetix",
-        "coinpaprika_id": "snx-synthetix-network-token",
-        "coingecko_id": "havven",
-        "livecoinwatch_id": "SNX",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Synthetix",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30599,10 +29301,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -30850,6 +29548,52 @@
         ],
         "explorer_block_url": "block/"
     },
+    "SPACE-AVX20_OLD": {
+        "coin": "SPACE-AVX20_OLD",
+        "type": "AVX-20",
+        "name": "Space Token (OLD)",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "__SPACE",
+        "explorer_url": "https://snowtrace.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Space Token (OLD)",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 43114,
+        "required_confirmations": 3,
+        "avg_blocktime": 2.4,
+        "decimals": 18,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "AVAX",
+                "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+        "parent_coin": "AVAX",
+        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
+        "nodes": [
+            {
+                "url": "https://0xrpc.io/avax",
+                "ws_url": "wss://0xrpc.io/avax"
+            },
+            {
+                "url": "https://avalanche-c-chain-rpc.publicnode.com",
+                "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "SPACE-AVX20": {
         "coin": "SPACE-AVX20",
         "type": "AVX-20",
@@ -30876,11 +29620,11 @@
             "type": "ERC20",
             "protocol_data": {
                 "platform": "AVAX",
-                "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+                "contract_address": "0x841Aef70237a88027ccb2d15C1bBAf88a669674a"
             }
         },
         "derivation_path": "m/44'/60'",
-        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+        "contract_address": "0x841Aef70237a88027ccb2d15C1bBAf88a669674a",
         "parent_coin": "AVAX",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
@@ -30939,61 +29683,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "SPACE-FTM20": {
-        "coin": "SPACE-FTM20",
-        "type": "FTM-20",
-        "name": "Space Token",
-        "coinpaprika_id": "space-space-token",
-        "coingecko_id": "space-token-bsc",
-        "livecoinwatch_id": "__SPACE",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Space Token",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "SPACE-PLG20_OLD": {
@@ -31282,10 +29976,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -31382,10 +30072,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -31459,52 +30145,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "SUSHI-FTM20": {
-        "coin": "SUSHI-FTM20",
-        "type": "FTM-20",
-        "name": "Sushi",
-        "coinpaprika_id": "sushi-sushi",
-        "coingecko_id": "sushi",
-        "livecoinwatch_id": "SUSHI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Sushi",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "SUSHI-MVR20": {
         "coin": "SUSHI-MVR20",
         "type": "Moonriver",
@@ -31541,12 +30181,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -31660,10 +30300,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -31712,10 +30348,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -31891,10 +30523,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -32006,52 +30634,6 @@
             {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "SYN-FTM20": {
-        "coin": "SYN-FTM20",
-        "type": "FTM-20",
-        "name": "Synapse",
-        "coinpaprika_id": "syn-synapse",
-        "coingecko_id": "synapse-2",
-        "livecoinwatch_id": "_SYN",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Synapse",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -32319,10 +30901,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -32814,10 +31392,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -32867,10 +31441,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -33035,10 +31605,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -33133,10 +31699,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -33192,10 +31754,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -33346,10 +31904,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -33525,10 +32079,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -33647,52 +32197,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "TUSD-FTM20": {
-        "coin": "TUSD-FTM20",
-        "type": "FTM-20",
-        "name": "TrueUSD",
-        "coinpaprika_id": "",
-        "coingecko_id": "true-usd",
-        "livecoinwatch_id": "TUSD",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "TrueUSD",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "TUSD-PLG20": {
         "coin": "TUSD-PLG20",
         "type": "Matic",
@@ -33789,10 +32293,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -34328,10 +32828,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -34743,60 +33239,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "USDC-FTM20": {
-        "coin": "USDC-FTM20",
-        "type": "FTM-20",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "USDC-MVR20": {
@@ -34835,12 +33282,12 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -35009,10 +33456,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -35117,62 +33560,16 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://moonriver-rpc.dwellir.com",
-                "ws_url": "wss://moonriver-rpc.dwellir.com"
+                "url": "https://moonriver-rpc.publicnode.com",
+                "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.unitedbloc.com",
-                "ws_url": "wss://moonriver.unitedbloc.com"
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDT-FTM20": {
-        "coin": "USDT-FTM20",
-        "type": "FTM-20",
-        "name": "Tether",
-        "coinpaprika_id": "usdt-tether",
-        "coingecko_id": "tether",
-        "livecoinwatch_id": "USDT",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Tether",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 6,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -35430,10 +33827,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -35503,6 +33896,60 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             }
         ],
+        "explorer_block_url": "block/"
+    },
+    "UTOPIA-BEP20": {
+        "coin": "UTOPIA-BEP20",
+        "type": "BEP-20",
+        "name": "Utopia",
+        "coinpaprika_id": "utopia-utopia-1",
+        "coingecko_id": "utopia-3",
+        "livecoinwatch_id": "__UTOPIA",
+        "explorer_url": "https://bscscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "Utopia",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 56,
+        "decimals": 18,
+        "avg_blocktime": 0.75,
+        "required_confirmations": 5,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "BNB",
+                "contract_address": "0xd83C128e7498bE555845A6dc331A99E1524C1777"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "links": {
+            "homepage": "https://www.utopiabnb.com"
+        },
+        "contract_address": "0xd83C128e7498bE555845A6dc331A99E1524C1777",
+        "parent_coin": "BNB",
+        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
+        "nodes": [
+            {
+                "url": "https://bsc-rpc.publicnode.com",
+                "ws_url": "wss://bsc-rpc.publicnode.com"
+            },
+            {
+                "url": "https://bsc1.cipig.net:18655",
+                "ws_url": "wss://bsc1.cipig.net:38655"
+            },
+            {
+                "url": "https://bsc3.cipig.net:18655",
+                "ws_url": "wss://bsc3.cipig.net:38655"
+            }
+        ],
+        "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
     "vARRR": {
@@ -35770,10 +34217,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -36119,10 +34562,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -36238,15 +34677,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.javerity.com:5887",
                 "protocol": "WSS",
                 "contact": [
@@ -36301,15 +34731,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx-vtc.cryptoverted.com:55004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "alviemahmud"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.javerity.com:5887",
                 "protocol": "WSS",
                 "contact": [
@@ -36363,10 +34784,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -36758,61 +35175,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "WOO-FTM20": {
-        "coin": "WOO-FTM20",
-        "type": "FTM-20",
-        "name": "WOO Network",
-        "coinpaprika_id": "woo-wootrade",
-        "coingecko_id": "woo-network",
-        "livecoinwatch_id": "WOO",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "WOO Network",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "WOO-PLG20": {
@@ -36982,10 +35349,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -37104,10 +35467,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -37289,10 +35648,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -37437,7 +35792,8 @@
         "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/1900'",
         "links": {
@@ -37595,10 +35951,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -37846,10 +36198,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -37956,10 +36304,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -37996,6 +36340,7 @@
         "avg_blocktime": 32,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x4cdaa46741af44c68179c54c4fcb02c2bf646d30"
@@ -38143,10 +36488,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -38249,10 +36590,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -38322,52 +36659,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "YFI-FTM20": {
-        "coin": "YFI-FTM20",
-        "type": "FTM-20",
-        "name": "yearn.finance",
-        "coinpaprika_id": "yfi-yearnfinance",
-        "coingecko_id": "yearn-finance",
-        "livecoinwatch_id": "YFI",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "yearn.finance",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "decimals": 18,
-        "avg_blocktime": 1.8,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "FTM",
-                "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -38477,10 +36768,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -38581,7 +36868,7 @@
         "txversion": 4,
         "overwintered": 1,
         "version_group_id": "0x892f2085",
-        "consensus_branch_id": "0xc8e71055",
+        "consensus_branch_id": "0x4dec4df0",
         "txfee": 100000,
         "mm2": 1,
         "required_confirmations": 3,
@@ -38759,10 +37046,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -38866,10 +37149,6 @@
             {
                 "url": "https://bsc1.cipig.net:18655",
                 "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
             },
             {
                 "url": "https://bsc3.cipig.net:18655",
@@ -39070,6 +37349,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xfe59cbc1704e89a698571413a81f0de9d8f00c69"
@@ -39237,10 +37517,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -39274,6 +37550,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf2703e93f87b846a7aacec1247beaec1c583daa4"
@@ -39354,6 +37631,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xb27d7bf95b03e02b55d5eb63d3f1692762101bf9"
@@ -39434,6 +37712,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x2f65a0af11d50d2d15962db39d7f7b0619ed55ae"
@@ -39514,6 +37793,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x72e531e37c31ecbe336208fd66e93b48df3af420"
@@ -39594,6 +37874,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x09800417b097c61b9fd26b3ddde4238304a110d5"
@@ -39674,6 +37955,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xd8dec2b605005749abbf4b060edad3070e23cf5c"
@@ -39754,6 +38036,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0xf397f39ce992b0f5bdc7ec1109d676d07f7af2f9"
@@ -39834,6 +38117,7 @@
         "dust": 72800,
         "protocol": {
             "type": "QRC20",
+            "chain_variant": "QTUM",
             "protocol_data": {
                 "platform": "QTUM",
                 "contract_address": "0x4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
@@ -41142,10 +39426,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -41258,10 +39538,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -41362,86 +39638,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "ZOMBIE": {
-        "coin": "ZOMBIE",
-        "type": "ZHTLC",
-        "name": "Zombie",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://zombie.komodo.earth/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "light_wallet_d_servers": [
-            "https://zombie.dragonhound.info:9447"
-        ],
-        "light_wallet_d_servers_wss": [
-            "https://zombie.dragonhound.info:19447"
-        ],
-        "asset": "ZOMBIE",
-        "fname": "Zombie",
-        "is_privacy_coin": true,
-        "txversion": 4,
-        "overwintered": 1,
-        "avg_blocktime": 60,
-        "mm2": 1,
-        "protocol": {
-            "type": "ZHTLC",
-            "protocol_data": {
-                "consensus_params": {
-                    "overwinter_activation_height": 0,
-                    "sapling_activation_height": 1,
-                    "blossom_activation_height": null,
-                    "heartwood_activation_height": null,
-                    "canopy_activation_height": null,
-                    "coin_type": 133,
-                    "hrp_sapling_extended_spending_key": "secret-extended-key-main",
-                    "hrp_sapling_extended_full_viewing_key": "zxviews",
-                    "hrp_sapling_payment_address": "zs",
-                    "b58_pubkey_address_prefix": [
-                        28,
-                        184
-                    ],
-                    "b58_script_address_prefix": [
-                        28,
-                        189
-                    ]
-                },
-                "z_derivation_path": "m/32'/141'"
-            }
-        },
-        "derivation_path": "m/44'/141'",
-        "required_confirmations": 3,
-        "electrum": [
-            {
-                "url": "zombie.dragonhound.info:30059",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "smk@komodoplatform.com"
-                    },
-                    {
-                        "discord": "smk#7640"
-                    }
-                ]
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "ZINU-BEP20": {
@@ -41487,10 +39688,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -41528,7 +39725,8 @@
         "required_confirmations": 6,
         "avg_blocktime": 120,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "QTUM"
         },
         "derivation_path": "m/44'/88'",
         "links": {
@@ -41654,10 +39852,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -41700,13 +39894,7 @@
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
             {
-                "url": "https://cosmos-rpc.alpha.komodo.earth/",
-                "api_url": "https://cosmos-api.alpha.komodo.earth/",
-                "grpc_url": "https://cosmos-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://cosmos-rpc.alpha.komodo.earth/websocket"
-            },
-            {
-                "url": "https://cosmoshub.rpc.stakin-nodes.com/"
+                "url": "https://rpc.cosmos.directory/cosmoshub"
             }
         ],
         "explorer_block_url": "block/",
@@ -41750,6 +39938,9 @@
         "rpc_urls": [
             {
                 "url": "https://iris-rpc.publicnode.com"
+            },
+            {
+                "url": "https://rpc.cosmos.directory/irisnet"
             },
             {
                 "url": "https://rpc.irishub-1.irisnet.org"
@@ -41801,10 +39992,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -41848,13 +40035,10 @@
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
             {
-                "url": "https://osmosis-rpc.alpha.komodo.earth/",
-                "api_url": "https://osmosis-api.alpha.komodo.earth/",
-                "grpc_url": "https://osmosis-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://osmosis-rpc.alpha.komodo.earth/websocket"
+                "url": "https://osmosis.rpc.stakin-nodes.com"
             },
             {
-                "url": "https://osmosis.rpc.stakin-nodes.com"
+                "url": "https://rpc.cosmos.directory/osmosis"
             },
             {
                 "url": "https://rpc.osmosis.zone/"
@@ -41895,6 +40079,9 @@
         "rpc_urls": [
             {
                 "url": "https://iris-rpc.publicnode.com"
+            },
+            {
+                "url": "https://rpc.cosmos.directory/irisnet"
             },
             {
                 "url": "https://rpc.irishub-1.irisnet.org"
@@ -42013,6 +40200,18 @@
         },
         "electrum": [
             {
+                "url": "coin.crionic.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
+            {
                 "url": "explorer.crionic.org:50005",
                 "protocol": "WSS",
                 "contact": [
@@ -42054,7 +40253,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "RVN"
         },
         "derivation_path": "m/44'/175'",
         "links": {
@@ -42193,10 +40393,6 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
@@ -42232,7 +40428,8 @@
         "required_confirmations": 3,
         "avg_blocktime": 60,
         "protocol": {
-            "type": "UTXO"
+            "type": "UTXO",
+            "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/1669'",
         "links": {
@@ -42292,60 +40489,10 @@
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
             {
-                "url": "https://iristest-rpc.bravo.komodo.earth"
+                "url": "http://34.80.202.172:26657"
             }
         ],
         "explorer_block_url": "#/blocks/"
-    },
-    "NUCLEUSTEST": {
-        "coin": "NUCLEUSTEST",
-        "type": "TENDERMINT",
-        "name": "Nucleus Test",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://nucleus.explorer.komodo.earth/",
-        "explorer_tx_url": "nucleus/transactions/",
-        "explorer_address_url": "nucleus/accounts/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "avg_blocktime": 5,
-        "fname": "Nucleus Test",
-        "mm2": 1,
-        "protocol": {
-            "type": "TENDERMINT",
-            "protocol_data": {
-                "decimals": 6,
-                "denom": "unucl",
-                "account_prefix": "nuc",
-                "chain_id": "nucleus-3"
-            }
-        },
-        "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "https://nucleus-rpc.alpha.komodo.earth/",
-                "api_url": "https://nucleus-api.alpha.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.alpha.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.alpha.komodo.earth/websocket"
-            },
-            {
-                "url": "https://nucleus-rpc.bravo.komodo.earth/",
-                "api_url": "https://nucleus-api.bravo.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.bravo.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.bravo.komodo.earth/websocket"
-            },
-            {
-                "url": "https://nucleus-rpc.charlie.komodo.earth/",
-                "api_url": "https://nucleus-api.charlie.komodo.earth/",
-                "grpc_url": "https://nucleus-grpc.charlie.komodo.earth/",
-                "ws_url": "wss://nucleus-rpc.charlie.komodo.earth/websocket"
-            }
-        ],
-        "explorer_block_url": "nucleus/blocks/"
     },
     "IRISTEST-IBC_NUCLEUSTEST": {
         "coin": "IRISTEST-IBC_NUCLEUSTEST",
@@ -42377,7 +40524,7 @@
         "parent_coin": "IRISTEST",
         "rpc_urls": [
             {
-                "url": "https://iristest-rpc.bravo.komodo.earth"
+                "url": "http://34.80.202.172:26657"
             }
         ],
         "explorer_block_url": "#/blocks/"
@@ -42647,62 +40794,11 @@
                 "ws_url": "wss://bsc1.cipig.net:38655"
             },
             {
-                "url": "https://bsc2.cipig.net:18655",
-                "ws_url": "wss://bsc2.cipig.net:38655"
-            },
-            {
                 "url": "https://bsc3.cipig.net:18655",
                 "ws_url": "wss://bsc3.cipig.net:38655"
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "NFT_FTM": {
-        "coin": "NFT_FTM",
-        "type": "FTM-20",
-        "name": "Fantom",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://ftmscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Fantom",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 250,
-        "required_confirmations": 3,
-        "avg_blocktime": 1.8,
-        "protocol": {
-            "type": "NFT",
-            "protocol_data": {
-                "platform": "FTM"
-            }
-        },
-        "derivation_path": "m/44'/1007'",
-        "trezor_coin": "Fantom Opera",
-        "links": {
-            "homepage": "https://fantom.foundation"
-        },
-        "parent_coin": "FTM",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://fantom-rpc.publicnode.com",
-                "ws_url": "wss://fantom-rpc.publicnode.com"
-            },
-            {
-                "url": "https://fantom.drpc.org",
-                "ws_url": "wss://fantom.drpc.org"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "NFT_MATIC": {

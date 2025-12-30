@@ -151,7 +151,6 @@ class CoinConfig:
             "ETH-ARB20": "Arbitrum",
             "ETH-BASE": "Base",
             "EWT": "EWT",
-            "FTM": "FTM-20",
             "GLMR": "Moonbeam",
             "KCS": "KRC-20",
             "MATIC": "Matic",
@@ -168,7 +167,6 @@ class CoinConfig:
         self.testnet_protocols = {
             "AVAXT": "AVX-20",
             "BNBT": "BEP-20",
-            "FTMT": "FTM-20",
             "tQTUM": "QRC-20",
             "IRISTEST": "TENDERMINT",
             "NUCLEUSTEST": "TENDERMINT",
@@ -988,10 +986,10 @@ def normalize_coin_name(name):
     # First try specific protocol suffix removal
     suffixes_to_remove = [
         # Dash-separated suffixes
-        '-bep20', '-erc20', '-plg20', '-avx20', '-krc20', '-ftm20', '-hrc20', 
+        '-bep20', '-erc20', '-plg20', '-avx20', '-krc20', '-hrc20', 
         '-qrc20', '-arb20', '-test', '-testnet',
         # Underscore-separated suffixes  
-        '_bep20', '_erc20', '_plg20', '_avx20', '_krc20', '_ftm20', '_hrc20',
+        '_bep20', '_erc20', '_plg20', '_avx20', '_krc20', '_hrc20',
         '_qrc20', '_arb20', '_test', '_testnet'
     ]
     
