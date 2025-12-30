@@ -17551,7 +17551,7 @@
 		"pubtype": 70,
 		"p2shtype": 132,
 		"wiftype": 198,
-		"txfee": 100000,
+		"txfee": 1000000,
 		"segwit": false,
 		"force_min_relay_fee": true,
 		"mm2": 1,
