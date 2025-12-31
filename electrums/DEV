@@ -3,6 +3,7 @@
     "url": "api.dogecoinev.com:50003",
     "ws_url": "api.dogecoinev.com:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "1157581316175437884" }
     ]
@@ -18,6 +19,7 @@
     "url": "api2.dogecoinev.com:50003",
     "ws_url": "api2.dogecoinev.com:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "1157581316175437884" }
     ]
