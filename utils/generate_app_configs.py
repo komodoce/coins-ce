@@ -1336,14 +1336,14 @@ if __name__ == "__main__":
     
     # Generate and log uptime alerts
     #alerts = uptime_tracker.generate_alerts()
-    if alerts:
-        logger.warning("=== UPTIME ALERTS ===")
-        for alert in alerts:
-            if "CRITICAL" in alert:
-                logger.error(alert)
-            else:
-                logger.warning(alert)
-        logger.warning("=== END UPTIME ALERTS ===")
+    #if alerts:
+    #    logger.warning("=== UPTIME ALERTS ===")
+    #    for alert in alerts:
+    #        if "CRITICAL" in alert:
+    #            logger.error(alert)
+    #        else:
+    #            logger.warning(alert)
+    #    logger.warning("=== END UPTIME ALERTS ===")
     
     # Save uptime data
     uptime_tracker.save()
