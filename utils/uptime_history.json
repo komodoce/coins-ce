@@ -371,7 +371,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/avax": {
-        "1767154964": "online"
+        "1767154964": "online",
+        "1767231090": "offline"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1767154964": "online"
@@ -380,7 +381,8 @@
         "1767154964": "online"
       },
       "wss://0xrpc.io/avax": {
-        "1767154964": "online"
+        "1767154964": "online",
+        "1767231090": "offline"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1767154964": "online"
@@ -2326,7 +2328,8 @@
         "1767154964": "online"
       },
       "wss://0xrpc.io/eth": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "wss://eth.drpc.org": {
         "1767154964": "online"
@@ -6322,7 +6325,8 @@
   },
   "XEP-segwit": {
     "all": {
-      "1767154964": "offline"
+      "1767154964": "offline",
+      "1767231090": "online"
     },
     "by_server": {
       "_metadata": {
@@ -6391,31 +6395,40 @@
         }
       },
       "electrumx1.electraprotocol.eu:50001": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx1.electraprotocol.eu:50002": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx1.electraprotocol.eu:50003": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx2.electraprotocol.eu:50001": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx2.electraprotocol.eu:50002": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx2.electraprotocol.eu:50003": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx3.electraprotocol.eu:50001": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx3.electraprotocol.eu:50002": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       },
       "electrumx3.electraprotocol.eu:50003": {
-        "1767154964": "offline"
+        "1767154964": "offline",
+        "1767231090": "online"
       }
     }
   },
