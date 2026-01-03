@@ -2447,6 +2447,15 @@
         "derivation_path": "m/44'/85'",
         "electrum": [
             {
+                "url": "electrum1.valhala.is:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "388437778624413706"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx.aur.ewmcx.info:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -21164,6 +21173,18 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "koin.electrum3.cipig.net:20024",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -25522,6 +25543,15 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.nmc.dotbit.zone:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/namecoin/electrum-nmc/issues"
+                    }
+                ]
+            },
+            {
                 "url": "namecoin.stackwallet.com:57002",
                 "protocol": "SSL"
             },
@@ -25574,6 +25604,15 @@
             "homepage": "https://namecoin.org"
         },
         "electrum": [
+            {
+                "url": "electrumx1.nmc.dotbit.zone:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/namecoin/electrum-nmc/issues"
+                    }
+                ]
+            },
             {
                 "url": "namecoin.stackwallet.com:57002",
                 "protocol": "SSL"
