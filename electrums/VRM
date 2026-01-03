@@ -1,23 +1,23 @@
 [
   {
-    "url": "electrum01-vrm.vericonomy.com:50001",
-    "protocol": "TCP",
+    "url": "electrumx-vrm1.vericonomy.com:51002",
+    "protocol": "SSL",
     "contact": [
       {
         "email": "dev@vericonomy.com"
       }
     ],
-    "ws_url": "electrum01-vrm.vericonomy.com:50001"
+    "ws_url": "electrumx-vrm1.vericonomy.com:51004"
   },
   {
-    "url": "electrum02-vrm.vericonomy.com:50002",
-    "protocol": "TCP",
+    "url": "electrumx-vrm2.vericonomy.com:52002",
+    "protocol": "SSL",
     "contact": [
       {
         "email": "dev@vericonomy.com"
       }
     ],
-    "ws_url": "electrum02-vrm.vericonomy.com:50002"
+    "ws_url": "electrumx-vrm2.vericonomy.com:52004"
   }
 ]
 
