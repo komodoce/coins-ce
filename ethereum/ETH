@@ -21,9 +21,11 @@
         {
             "url": "https://eth3.cipig.net:18555",
             "ws_url": "wss://eth3.cipig.net:38555",
-            "contact": {
-                "email": "cipi@komodoplatform.com"
-            }
+            "contact": [
+                {
+                    "email": "cipi@komodoplatform.com"
+                }
+            ]
         }
     ]
 }
