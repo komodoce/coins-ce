@@ -1335,15 +1335,15 @@ if __name__ == "__main__":
     coins_config, delisted_coins = parse_coins_repo(electrum_scan_report, uptime_tracker)
     
     # Generate and log uptime alerts
-    #alerts = uptime_tracker.generate_alerts()
-    #if alerts:
-    #    logger.warning("=== UPTIME ALERTS ===")
-    #    for alert in alerts:
-    #        if "CRITICAL" in alert:
-    #            logger.error(alert)
-    #        else:
-    #            logger.warning(alert)
-    #    logger.warning("=== END UPTIME ALERTS ===")
+    alerts = uptime_tracker.generate_alerts()
+    if alerts:
+        logger.warning("=== UPTIME ALERTS ===")
+        for alert in alerts:
+            if "CRITICAL" in alert:
+                logger.error(alert)
+            else:
+                logger.warning(alert)
+        logger.warning("=== END UPTIME ALERTS ===")
     
     # Save uptime data
     uptime_tracker.save()
