@@ -7050,8 +7050,7 @@
     "p2p": 12985,
     "magic": "feb4cb23",
     "nSPV": "5.9.102.210, 5.9.253.195, 5.9.253.196, 5.9.253.197, 5.9.253.198, 5.9.253.199, 5.9.253.200, 5.9.253.201, 5.9.253.202, 5.9.253.203",
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -8314,8 +8313,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
