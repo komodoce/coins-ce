@@ -17277,6 +17277,7 @@
 		"p2shtype": 132,
 		"wiftype": 198,
 		"txfee": 1000000,
+    "isPoS": 1,
 		"segwit": false,
 		"force_min_relay_fee": true,
 		"mm2": 1,
