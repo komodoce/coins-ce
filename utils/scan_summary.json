@@ -15,7 +15,6 @@
         "MATICTEST",
         "NINJA",
         "PRCY",
-        "SHIC",
         "RDD",
         "GRR",
         "GRMS",
@@ -66,8 +65,11 @@
         "electrum2.blocx.live:50001": 136,
         "electrum3.blocx.live:50001": 136,
         "electrum1.blocx.live:50002": 136,
+        "electrum2.blocx.live:50002": 136,
+        "electrum3.blocx.live:50002": 136,
         "electrum1.blocx.live:50004": 136,
         "electrum2.blocx.live:50004": 136,
+        "electrum3.blocx.live:50004": 136,
         "electrum.bonkscoin.io:50001": 64,
         "electrum.bonkscoin.io:50003": 64,
         "electrum.bonkscoin.io:50002": 64,
@@ -218,6 +220,7 @@
         "wss://nucleus-rpc.alpha.komodo.earth/websocket": 44,
         "wss://nucleus-rpc.bravo.komodo.earth/websocket": 44,
         "wss://nucleus-rpc.charlie.komodo.earth/websocket": 44,
-        "wss://nucleus-rpc.delta.komodo.earth/websocket": 136
+        "wss://nucleus-rpc.delta.komodo.earth/websocket": 136,
+        "https://rpc-osmosis-ia.cosmosia.notional.ventures/": 136
     }
 }
