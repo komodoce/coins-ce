@@ -7142,7 +7142,8 @@
   "SHIC": {
     "all": {
       "1755770395": "online",
-      "1767483691": "offline"
+      "1767483691": "offline",
+      "1767570469": "online"
     },
     "by_server": {
       "_metadata": {
@@ -7167,6 +7168,15 @@
             }
           ]
         }
+      },
+      "electrum.shibacoinshic.org:50001": {
+        "1767570469": "online"
+      },
+      "electrum.shibacoinshic.org:50002": {
+        "1767570469": "online"
+      },
+      "electrum.shibacoinshic.org:50003": {
+        "1767570469": "online"
       },
       "electrum.shibaexplorer.com:50001": {
         "1755770395": "online",
