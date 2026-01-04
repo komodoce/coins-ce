@@ -2998,8 +2998,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -3407,7 +3406,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -6255,7 +6253,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11781,7 +11778,6 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "is_testnet": true,
     "required_confirmations": 1,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11804,7 +11800,6 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "is_testnet": true,
     "required_confirmations": 1,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -13138,8 +13133,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
