@@ -1990,7 +1990,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -4646,7 +4645,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -6232,7 +6230,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -8181,8 +8178,7 @@
     "txfee": 1000,
     "mm2": 1,
     "sign_message_prefix": "Komodo Signed Message:\n",
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 4,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -9373,7 +9369,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -9395,7 +9390,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -10048,8 +10042,7 @@
     "overwintered": 1,
     "mm2": 1,
     "delisted": true,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11568,7 +11561,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -12323,7 +12315,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 6,
-    "requires_notarization": false,
     "avg_blocktime": 30,
     "protocol": {
       "type": "UTXO"
@@ -13173,8 +13164,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -16717,7 +16707,6 @@
     "txfee": 1000,
     "mm2": 1,
     "required_confirmations": 2,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
