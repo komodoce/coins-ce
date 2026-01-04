@@ -2420,19 +2420,22 @@
         "1755770395": "online",
         "1762820073": "offline",
         "1763079262": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1767567872": "online"
       },
       "elecx1.dingocoin.com:3341": {
         "1755770395": "online",
         "1762820073": "offline",
         "1763079262": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1767567872": "online"
       },
       "elecx1.dingocoin.com:3342": {
         "1755770395": "online",
         "1762820073": "offline",
         "1763079262": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1767567872": "online"
       },
       "elecx2.dingocoin.com:3339": {
         "1755770395": "online"
@@ -2676,13 +2679,15 @@
         "1755770395": "online",
         "1760163826": "offline",
         "1760228082": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1767567872": "online"
       },
       "electrum3.egulden.org:50004": {
         "1755770395": "online",
         "1760163826": "offline",
         "1760228082": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1767567872": "online"
       },
       "electrum5.egulden.org:11017": {
         "1755770395": "offline"
@@ -7765,6 +7770,25 @@
       },
       "via.electrum3.cipig.net:30073": {
         "1755770395": "online"
+      }
+    }
+  },
+  "VRM": {
+    "all": {
+      "1767567872": "online"
+    },
+    "by_server": {
+      "electrumx-vrm1.vericonomy.com:51002": {
+        "1767567872": "online"
+      },
+      "electrumx-vrm1.vericonomy.com:51004": {
+        "1767567872": "online"
+      },
+      "electrumx-vrm2.vericonomy.com:52002": {
+        "1767567872": "online"
+      },
+      "electrumx-vrm2.vericonomy.com:52004": {
+        "1767567872": "online"
       }
     }
   },
