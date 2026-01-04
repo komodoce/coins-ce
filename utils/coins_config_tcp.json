@@ -11362,6 +11362,15 @@
                 ]
             },
             {
+                "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
                 "url": "elecx2.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
@@ -12122,6 +12131,11 @@
         "electrum": [
             {
                 "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             }
@@ -44656,6 +44670,64 @@
             {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "VRM": {
+        "coin": "VRM",
+        "type": "UTXO",
+        "name": "Verium Reserve",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://verium-explorer.vericonomy.com/",
+        "explorer_tx_url": "transaction/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Verium Reserve",
+        "rpcport": 33987,
+        "pubtype": 70,
+        "p2shtype": 132,
+        "wiftype": 198,
+        "txfee": 1000000,
+        "isPoS": 1,
+        "segwit": false,
+        "force_min_relay_fee": true,
+        "mm2": 1,
+        "confpath": "USERHOME/.verium/verium.conf",
+        "required_confirmations": 5,
+        "avg_blocktime": 240,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/8750'",
+        "links": {
+            "github": "https://github.com/VeriConomy/verium-current",
+            "homepage": "https://vericonomy.com"
+        },
+        "electrum": [
+            {
+                "url": "electrumx-vrm1.vericonomy.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "dev@vericonomy.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx-vrm2.vericonomy.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "dev@vericonomy.com"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
