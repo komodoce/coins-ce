@@ -876,13 +876,16 @@
         "1767571426": "online"
       },
       "electrum2.blackcoin.nl:20001": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "electrum2.blackcoin.nl:20002": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "electrum2.blackcoin.nl:20004": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "electrum3.blackcoin.nl:30001": {
         "1767571426": "online"
@@ -6003,10 +6006,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1767571426": "online"
@@ -6018,10 +6023,12 @@
         "1767571426": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767576663": "online"
       }
     }
   },
