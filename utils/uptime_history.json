@@ -4369,7 +4369,8 @@
         "1767571426": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767749071": "online"
       },
       "meowelectrum.xyz:50004": {
         "1767571426": "offline"
@@ -5740,17 +5741,21 @@
   },
   "TKL": {
     "all": {
-      "1767571426": "offline"
+      "1767571426": "offline",
+      "1767749071": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767749071": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767749071": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
-        "1767571426": "offline"
+        "1767571426": "offline",
+        "1767749071": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1767571426": "offline"
