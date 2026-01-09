@@ -3073,6 +3073,15 @@
                         "email": "contact@avn.network"
                     }
                 ]
+            },
+            {
+                "url": "electrum-us.avn.network:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@avn.network"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -33182,6 +33191,7 @@
             {
                 "url": "electrum-server1.trumpow.meme:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
@@ -33195,6 +33205,7 @@
             {
                 "url": "electrum-server1.trumpow.meme:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
@@ -33221,6 +33232,7 @@
             {
                 "url": "electrum-server2.trumpow.meme:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
@@ -33234,6 +33246,7 @@
             {
                 "url": "electrum-server2.trumpow.meme:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
