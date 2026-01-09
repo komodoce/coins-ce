@@ -28878,6 +28878,7 @@
             {
                 "url": "electrum-server1.trumpow.meme:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
@@ -28891,6 +28892,7 @@
             {
                 "url": "electrum-server2.trumpow.meme:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": [
