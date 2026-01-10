@@ -7676,6 +7676,18 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "ccl.electrum3.cipig.net:20029",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
