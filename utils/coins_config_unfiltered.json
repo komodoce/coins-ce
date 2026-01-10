@@ -3130,6 +3130,15 @@
                         "email": "contact@avn.network"
                     }
                 ]
+            },
+            {
+                "url": "electrum-us.avn.network:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "contact@avn.network"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -8951,6 +8960,42 @@
             },
             {
                 "url": "ccl.electrum2.cipig.net:30029",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ccl.electrum3.cipig.net:10029",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "ccl.electrum3.cipig.net:20029",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ccl.electrum3.cipig.net:30029",
                 "protocol": "WSS",
                 "contact": [
                     {
