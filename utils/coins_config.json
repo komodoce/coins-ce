@@ -30901,6 +30901,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -43939,6 +43942,15 @@
             {
                 "url": "electrumx1.electraprotocol.eu:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "287952234317348865"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx1.electraprotocol.eu:50003",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
