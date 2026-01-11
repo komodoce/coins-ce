@@ -23851,6 +23851,10 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -23895,10 +23899,6 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
-            },
             {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
