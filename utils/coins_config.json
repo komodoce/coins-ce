@@ -5527,6 +5527,15 @@
                         "discord": "def#4726"
                     }
                 ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -29143,6 +29152,10 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -43945,15 +43958,6 @@
                 ]
             },
             {
-                "url": "electrumx1.electraprotocol.eu:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.electraprotocol.eu:50001",
                 "contact": [
                     {
@@ -51009,6 +51013,15 @@
             {
                 "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
