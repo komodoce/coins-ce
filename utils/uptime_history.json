@@ -4974,7 +4974,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1768087508": "offline"
+        "1768087508": "offline",
+        "1768095687": "online"
       },
       "https://api.harmony.one": {
         "1768087508": "online"
@@ -6347,7 +6348,8 @@
         "1768087508": "online"
       },
       "electrumx1.electraprotocol.eu:50003": {
-        "1768087508": "offline"
+        "1768087508": "offline",
+        "1768095687": "online"
       },
       "electrumx2.electraprotocol.eu:50001": {
         "1768087508": "online"
