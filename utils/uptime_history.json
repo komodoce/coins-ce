@@ -914,7 +914,8 @@
   },
   "BITN": {
     "all": {
-      "1755770395": "offline"
+      "1755770395": "offline",
+      "1768093005": "online"
     },
     "by_server": {
       "194.163.176.151:50001": {
@@ -958,6 +959,20 @@
             }
           ]
         },
+        "bit-e.minethepla.net:50004": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
+        },
+        "bit-e.outsidethebox.top:50004": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
+        },
         "bitchair.io:50001": {
           "contact": [
             {
@@ -985,7 +1000,33 @@
               "discord": "c4pt#7855"
             }
           ]
+        },
+        "bitnet.outsidethebox.top:50002": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
+        },
+        "bitnet.outsidethebox.top:50004": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
         }
+      },
+      "bit-e.minethepla.net:50002": {
+        "1768093005": "online"
+      },
+      "bit-e.minethepla.net:50004": {
+        "1768093005": "offline"
+      },
+      "bit-e.outsidethebox.top:50002": {
+        "1768093005": "online"
+      },
+      "bit-e.outsidethebox.top:50004": {
+        "1768093005": "offline"
       },
       "bitchair.io:50001": {
         "1755770395": "offline"
@@ -998,6 +1039,12 @@
       },
       "bitexplorer.io:50004": {
         "1755770395": "offline"
+      },
+      "bitnet.outsidethebox.top:50002": {
+        "1768093005": "offline"
+      },
+      "bitnet.outsidethebox.top:50004": {
+        "1768093005": "offline"
       }
     }
   },
@@ -5510,7 +5557,8 @@
       "https://moonriver.drpc.org": {
         "1763783058": "online",
         "1764337728": "offline",
-        "1764587127": "online"
+        "1764587127": "online",
+        "1768093005": "offline"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -5532,7 +5580,8 @@
       "wss://moonriver.drpc.org": {
         "1763783058": "online",
         "1764337728": "offline",
-        "1764587127": "online"
+        "1764587127": "online",
+        "1768093005": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
