@@ -1020,13 +1020,15 @@
         "1768093005": "online"
       },
       "bit-e.minethepla.net:50004": {
-        "1768093005": "offline"
+        "1768093005": "offline",
+        "1768180562": "online"
       },
       "bit-e.outsidethebox.top:50002": {
         "1768093005": "online"
       },
       "bit-e.outsidethebox.top:50004": {
-        "1768093005": "offline"
+        "1768093005": "offline",
+        "1768180562": "online"
       },
       "bitchair.io:50001": {
         "1755770395": "offline"
@@ -1259,13 +1261,16 @@
     },
     "by_server": {
       "bsty-main.coinmunity.gold:50011": {
-        "1761086724": "online"
+        "1761086724": "online",
+        "1768180562": "offline"
       },
       "bsty-main.coinmunity.gold:50012": {
-        "1761086724": "online"
+        "1761086724": "online",
+        "1768180562": "offline"
       },
       "bsty-main.coinmunity.gold:50013": {
-        "1761086724": "online"
+        "1761086724": "online",
+        "1768180562": "offline"
       },
       "electrumserver01.globalboost.info:50011": {
         "1755770395": "offline",
@@ -3458,7 +3463,8 @@
         "1755987838": "online",
         "1766625043": "offline",
         "1767483691": "online",
-        "1768094933": "offline"
+        "1768094933": "offline",
+        "1768180562": "online"
       },
       "https://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -3473,7 +3479,8 @@
         "1762013934": "online",
         "1766538588": "offline",
         "1767483691": "online",
-        "1768094933": "offline"
+        "1768094933": "offline",
+        "1768180562": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -8109,6 +8116,22 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrumx2.electraprotocol.eu:50003": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        },
+        "electrumx3.electraprotocol.eu:50003": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        }
+      },
       "electrumx1.electraprotocol.eu:50001": {
         "1755770395": "online"
       },
@@ -8125,7 +8148,8 @@
         "1755770395": "online"
       },
       "electrumx2.electraprotocol.eu:50003": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1768180562": "offline"
       },
       "electrumx3.electraprotocol.eu:50001": {
         "1755770395": "online"
@@ -8134,7 +8158,8 @@
         "1755770395": "online"
       },
       "electrumx3.electraprotocol.eu:50003": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1768180562": "offline"
       }
     }
   },
