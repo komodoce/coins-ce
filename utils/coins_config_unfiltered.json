@@ -5620,8 +5620,26 @@
                 ]
             },
             {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "def#4726"
@@ -6917,18 +6935,6 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
-            {
-                "url": "bsty-main.coinmunity.gold:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "bsty-main.coinmunity.gold:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "bsty-main.coinmunity.gold:50013",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrumserver01.globalboost.info:50011",
                 "protocol": "TCP"
@@ -29586,6 +29592,10 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -44653,15 +44663,6 @@
                 ]
             },
             {
-                "url": "electrumx2.electraprotocol.eu:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx3.electraprotocol.eu:50001",
                 "contact": [
                     {
@@ -44673,15 +44674,6 @@
             {
                 "url": "electrumx3.electraprotocol.eu:50002",
                 "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx3.electraprotocol.eu:50003",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
