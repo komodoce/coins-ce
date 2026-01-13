@@ -6820,6 +6820,18 @@
         },
         "electrum": [
             {
+                "url": "bsty-main.coinmunity.gold:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "bsty-main.coinmunity.gold:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "bsty-main.coinmunity.gold:50013",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumserver01.globalboost.info:50011",
                 "protocol": "TCP"
             },
@@ -12477,6 +12489,16 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -29151,6 +29173,10 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -29970,6 +29996,48 @@
         },
         "derivation_path": "m/44'/50'",
         "electrum": [
+            {
+                "url": "electrumx.nvc.ewmcx.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.nvc.ewmcx.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
             {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
@@ -30953,6 +31021,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
