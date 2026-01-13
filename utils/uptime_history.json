@@ -1262,15 +1262,18 @@
     "by_server": {
       "bsty-main.coinmunity.gold:50011": {
         "1761086724": "online",
-        "1768180562": "offline"
+        "1768180562": "offline",
+        "1768266592": "online"
       },
       "bsty-main.coinmunity.gold:50012": {
         "1761086724": "online",
-        "1768180562": "offline"
+        "1768180562": "offline",
+        "1768266592": "online"
       },
       "bsty-main.coinmunity.gold:50013": {
         "1761086724": "online",
-        "1768180562": "offline"
+        "1768180562": "offline",
+        "1768266592": "online"
       },
       "electrumserver01.globalboost.info:50011": {
         "1755770395": "offline",
@@ -6347,7 +6350,8 @@
         "1765110311": "offline",
         "1766366022": "online",
         "1766625043": "offline",
-        "1767483691": "online"
+        "1767483691": "online",
+        "1768266592": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
