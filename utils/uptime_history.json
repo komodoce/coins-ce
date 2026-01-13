@@ -932,13 +932,16 @@
     },
     "by_server": {
       "bsty-main.coinmunity.gold:50011": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "bsty-main.coinmunity.gold:50012": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "bsty-main.coinmunity.gold:50013": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "electrumserver01.globalboost.info:50011": {
         "1768167259": "online"
@@ -1807,10 +1810,12 @@
         "1768167259": "online"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       }
     }
   },
@@ -4375,7 +4380,8 @@
       },
       "https://moonriver.drpc.org": {
         "1768167259": "online",
-        "1768181305": "offline"
+        "1768181305": "offline",
+        "1768267307": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1768167259": "online"
@@ -4955,10 +4961,12 @@
         }
       },
       "electrumx.nvc.ewmcx.org:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "electrumx.nvc.ewmcx.org:50003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768267307": "online"
       },
       "failover.nvc.ewmcx.biz:50002": {
         "1768167259": "online"
@@ -4986,7 +4994,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1768167259": "online",
-        "1768181305": "offline"
+        "1768181305": "offline",
+        "1768267307": "online"
       },
       "https://api.harmony.one": {
         "1768167259": "online"
