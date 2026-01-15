@@ -2298,7 +2298,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/eth": {
-        "1768167259": "online"
+        "1768167259": "online",
+        "1768440196": "offline"
       },
       "https://eth.drpc.org": {
         "1768167259": "online"
@@ -2313,7 +2314,8 @@
         "1768167259": "online"
       },
       "wss://0xrpc.io/eth": {
-        "1768167259": "online"
+        "1768167259": "online",
+        "1768440196": "offline"
       },
       "wss://eth.drpc.org": {
         "1768167259": "online"
@@ -4391,7 +4393,8 @@
       },
       "wss://moonriver.drpc.org": {
         "1768167259": "online",
-        "1768181305": "offline"
+        "1768181305": "offline",
+        "1768440196": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1768167259": "online"
@@ -5335,26 +5338,33 @@
   },
   "RDD": {
     "all": {
-      "1768167259": "offline"
+      "1768167259": "offline",
+      "1768440196": "online"
     },
     "by_server": {
       "electrum01.reddcoin.com:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum01.reddcoin.com:50004": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum02.reddcoin.com:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum02.reddcoin.com:50004": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum03.reddcoin.com:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum03.reddcoin.com:50004": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       }
     }
   },
@@ -5522,13 +5532,16 @@
         "1768167259": "online"
       },
       "electrum2.runebase.io:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum2.runebase.io:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum2.runebase.io:50004": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768440196": "online"
       },
       "electrum3.runebase.io:50001": {
         "1768167259": "online"
