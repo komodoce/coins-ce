@@ -58,10 +58,12 @@
         "1768167259": "offline"
       },
       "aby-ex-three.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1768167259": "offline"
@@ -2299,7 +2301,8 @@
     "by_server": {
       "https://0xrpc.io/eth": {
         "1768167259": "online",
-        "1768440196": "offline"
+        "1768440196": "offline",
+        "1768526758": "online"
       },
       "https://eth.drpc.org": {
         "1768167259": "online"
@@ -2315,7 +2318,8 @@
       },
       "wss://0xrpc.io/eth": {
         "1768167259": "online",
-        "1768440196": "offline"
+        "1768440196": "offline",
+        "1768526758": "online"
       },
       "wss://eth.drpc.org": {
         "1768167259": "online"
@@ -6565,13 +6569,16 @@
         }
       },
       "electrumx1.vanillacash.info:50011": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1768167259": "online"
@@ -6811,10 +6818,12 @@
         }
       },
       "zet-ex-four.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768526758": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1768167259": "offline"
