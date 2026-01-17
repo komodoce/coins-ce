@@ -9,25 +9,6 @@
       ]
     },
     {
-        "url": "electrum.pepeblocks.com:50001",
-        "protocol": "TCP",
-        "contact": [
-            {
-                "discord": "realmasterkush"
-            }
-        ]
-    },
-    {
-        "url": "electrum.pepeblocks.com:50002",
-        "protocol": "SSL",
-        "ws_url": "electrum.pepeblocks.com:50004",
-        "contact": [
-            {
-                "discord": "realmasterkush"
-            }
-        ]
-    },
-    {
         "url": "electrum.pepelum.site:50001",
         "protocol": "TCP",
         "contact": [
