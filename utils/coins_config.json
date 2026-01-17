@@ -31601,33 +31601,6 @@
                 ]
             },
             {
-                "url": "electrum.pepeblocks.com:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "realmasterkush"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.pepeblocks.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "realmasterkush"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.pepeblocks.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "realmasterkush"
-                    }
-                ]
-            },
-            {
                 "url": "pep.electrum3.cipig.net:20076",
                 "protocol": "SSL",
                 "contact": [
