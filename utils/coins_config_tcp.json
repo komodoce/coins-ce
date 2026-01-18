@@ -887,6 +887,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "aby-ex-three.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -4579,6 +4588,15 @@
         "electrum": [
             {
                 "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -8831,6 +8849,15 @@
         },
         "electrum": [
             {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "clam.electrum3.cipig.net:20075",
                 "protocol": "SSL",
                 "contact": [
@@ -11788,6 +11815,49 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "DOGE"
+    },
+    "MYDOGE": {
+        "coin": "MYDOGE",
+        "type": "UTXO",
+        "name": "Mydogecoin",
+        "coinpaprika_id": "mydoge-mydogecoin",
+        "coingecko_id": "mydogecoin",
+        "livecoinwatch_id": "MYDOGE",
+        "explorer_url": "https://explorer.mydogecoin.fun/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Mydogecoin Signed Message:\n",
+        "fname": "Mydogecoin",
+        "rpcport": 22776,
+        "pubtype": 51,
+        "p2shtype": 30,
+        "wiftype": 158,
+        "txfee": 1000000,
+        "dust": 1000000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/1995'",
+        "trezor_coin": "Mydogecoin",
+        "links": {
+            "github": "https://github.com/mydogecoin-project/mydogecoin",
+            "homepage": "https://mydogecoin.fun"
+        },
+        "electrum": [
+            {
+                "url": "electrumx2.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "DOGE-BEP20": {
         "coin": "DOGE-BEP20",
@@ -39612,6 +39682,10 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
             },
@@ -40528,6 +40602,15 @@
         "electrum": [
             {
                 "url": "zet-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
                 "protocol": "SSL",
                 "contact": [
                     {
