@@ -49,13 +49,16 @@
         }
       },
       "aby-ex-four.ewmci.online:50011": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "aby-ex-four.ewmci.online:50012": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "aby-ex-four.ewmci.online:50013": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
         "1768167259": "offline",
@@ -559,13 +562,16 @@
         "1768167259": "online"
       },
       "bbk-ex-two.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "bbk-ex-two.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "bbk-ex-two.ewmci.online:50003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "bbk-one.ewm-cx.net:50001": {
         "1768167259": "offline"
@@ -1470,13 +1476,16 @@
         }
       },
       "clam-ex-one.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "clam-ex-one.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "clam-ex-one.ewmci.online:50003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "clam.electrum3.cipig.net:20075": {
         "1768167259": "online"
@@ -1797,10 +1806,12 @@
         }
       },
       "dgc-ex-three.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "dgc-ex-three.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "dgc-ex-three.ewmci.online:50003": {
         "1768167259": "offline"
@@ -2374,7 +2385,8 @@
         "1768167259": "online"
       },
       "wss://base.gateway.tenderly.co": {
-        "1768167259": "online"
+        "1768167259": "online",
+        "1768699851": "offline"
       }
     }
   },
@@ -4407,7 +4419,8 @@
   },
   "MYDOGE": {
     "all": {
-      "1768167259": "offline"
+      "1768167259": "offline",
+      "1768699851": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4436,10 +4449,12 @@
         "1768167259": "offline"
       },
       "electrumx2.mydogecoin.fun:60001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "electrumx2.mydogecoin.fun:60002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "electrumx2.mydogecoin.fun:60003": {
         "1768167259": "offline"
@@ -5002,7 +5017,8 @@
       "https://1rpc.io/one": {
         "1768167259": "online",
         "1768181305": "offline",
-        "1768267307": "online"
+        "1768267307": "online",
+        "1768699851": "offline"
       },
       "https://api.harmony.one": {
         "1768167259": "online"
@@ -6590,13 +6606,16 @@
         "1768167259": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "xvc-ex-seven.ewmci.online:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "xvc-ex-seven.ewmci.online:50003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       }
     }
   },
@@ -6829,13 +6848,16 @@
         "1768167259": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768699851": "online"
       }
     }
   },
