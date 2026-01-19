@@ -14122,6 +14122,23 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.mydogecoin.fun:60001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@mydogecoin.fun"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx1.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.mydogecoin.fun:60003",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumx2.mydogecoin.fun:60001",
                 "protocol": "TCP",
                 "contact": [
@@ -14133,6 +14150,10 @@
             {
                 "url": "electrumx2.mydogecoin.fun:60002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.mydogecoin.fun:60003",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -51267,9 +51288,6 @@
         "rpc_urls": [
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
-            },
-            {
-                "url": "https://rpc.cosmos.directory/osmosis"
             },
             {
                 "url": "https://rpc.osmosis.zone/"
