@@ -2386,7 +2386,8 @@
       },
       "wss://base.gateway.tenderly.co": {
         "1768167259": "online",
-        "1768699851": "offline"
+        "1768699851": "offline",
+        "1768786147": "online"
       }
     }
   },
@@ -4440,13 +4441,16 @@
         }
       },
       "electrumx1.mydogecoin.fun:60001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768786147": "online"
       },
       "electrumx1.mydogecoin.fun:60002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768786147": "online"
       },
       "electrumx1.mydogecoin.fun:60003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768786147": "online"
       },
       "electrumx2.mydogecoin.fun:60001": {
         "1768167259": "offline",
@@ -4457,7 +4461,8 @@
         "1768699851": "online"
       },
       "electrumx2.mydogecoin.fun:60003": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768786147": "online"
       }
     }
   },
@@ -5018,7 +5023,8 @@
         "1768167259": "online",
         "1768181305": "offline",
         "1768267307": "online",
-        "1768699851": "offline"
+        "1768699851": "offline",
+        "1768786147": "online"
       },
       "https://api.harmony.one": {
         "1768167259": "online"
