@@ -11853,6 +11853,10 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumx2.mydogecoin.fun:60002",
                 "protocol": "SSL"
             }
@@ -43889,9 +43893,6 @@
         "rpc_urls": [
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
-            },
-            {
-                "url": "https://rpc.cosmos.directory/osmosis"
             },
             {
                 "url": "https://rpc.osmosis.zone/"
