@@ -16647,6 +16647,16 @@
                         "discord": "orpheas#1503"
                     }
                 ]
+            },
+            {
+                "url": "electrum.niftybakes.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "405566674448810005"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -26852,9 +26862,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/one"
-            },
-            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -32749,48 +32756,6 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "SBCH": {
-        "coin": "SBCH",
-        "type": "SmartBCH",
-        "name": "SmartBCH",
-        "coinpaprika_id": "bch-bitcoin-cash",
-        "coingecko_id": "bitcoin-cash",
-        "livecoinwatch_id": "BCH",
-        "explorer_url": "https://smartscout.cash/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "SmartBCH",
-        "rpcport": 80,
-        "mm2": 1,
-        "alias_ticker": "BCH",
-        "chain_id": 10000,
-        "required_confirmations": 3,
-        "avg_blocktime": 6,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 10000
-            }
-        },
-        "swap_contract_address": "0x25bF2AAB8749AD2e4360b3e0B738f3Cd700C4D68",
-        "fallback_swap_contract": "0x25bF2AAB8749AD2e4360b3e0B738f3Cd700C4D68",
-        "nodes": [
-            {
-                "url": "https://smartbch.greyh.at",
-                "contact": [
-                    {
-                        "email": "quest@mac.com"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -43588,15 +43553,6 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
                 "protocol": "SSL",
                 "contact": [
                     {

@@ -15481,6 +15481,16 @@
                         "discord": "orpheas#1503"
                     }
                 ]
+            },
+            {
+                "url": "electrum.niftybakes.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "405566674448810005"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"

@@ -2947,13 +2947,16 @@
         "1768167259": "online"
       },
       "electrum.niftybakes.com:50001": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768872277": "online"
       },
       "electrum.niftybakes.com:50002": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768872277": "online"
       },
       "electrum.niftybakes.com:50004": {
-        "1768167259": "offline"
+        "1768167259": "offline",
+        "1768872277": "online"
       },
       "fr.garlium.crapules.org:50002": {
         "1768167259": "offline"
@@ -5024,7 +5027,8 @@
         "1768181305": "offline",
         "1768267307": "online",
         "1768699851": "offline",
-        "1768786147": "online"
+        "1768786147": "online",
+        "1768872277": "offline"
       },
       "https://api.harmony.one": {
         "1768167259": "online"
@@ -5633,13 +5637,21 @@
               "email": "contact@smartbch.org"
             }
           ]
+        },
+        "https://smartbch.greyh.at": {
+          "contact": [
+            {
+              "email": "quest@mac.com"
+            }
+          ]
         }
       },
       "https://rpc.smartbch.org": {
         "1768167259": "offline"
       },
       "https://smartbch.greyh.at": {
-        "1768167259": "online"
+        "1768167259": "online",
+        "1768872277": "offline"
       }
     }
   },
