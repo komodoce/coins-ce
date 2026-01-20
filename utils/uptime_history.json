@@ -2763,14 +2763,16 @@
         "1760163826": "offline",
         "1760228082": "online",
         "1767483691": "offline",
-        "1767567872": "online"
+        "1767567872": "online",
+        "1768871563": "offline"
       },
       "electrum3.egulden.org:50004": {
         "1755770395": "online",
         "1760163826": "offline",
         "1760228082": "online",
         "1767483691": "offline",
-        "1767567872": "online"
+        "1767567872": "online",
+        "1768871563": "offline"
       },
       "electrum5.egulden.org:11017": {
         "1755770395": "offline"
@@ -3598,15 +3600,18 @@
       },
       "electrum.niftybakes.com:50001": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1768871563": "online"
       },
       "electrum.niftybakes.com:50002": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1768871563": "online"
       },
       "electrum.niftybakes.com:50004": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1768871563": "online"
       },
       "fr.garlium.crapules.org:50002": {
         "1755770395": "offline"
@@ -6421,7 +6426,8 @@
         "1763521637": "online",
         "1764676026": "offline",
         "1764680900": "online",
-        "1768785451": "offline"
+        "1768785451": "offline",
+        "1768871563": "online"
       },
       "https://rpc.osmosis.zone/": {
         "1755770395": "online"
