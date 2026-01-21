@@ -4403,7 +4403,8 @@
       "https://moonriver.drpc.org": {
         "1768167259": "online",
         "1768181305": "offline",
-        "1768267307": "online"
+        "1768267307": "online",
+        "1768958851": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1768167259": "online"
@@ -4414,7 +4415,8 @@
       "wss://moonriver.drpc.org": {
         "1768167259": "online",
         "1768181305": "offline",
-        "1768440196": "online"
+        "1768440196": "online",
+        "1768958851": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1768167259": "online"
@@ -5028,7 +5030,8 @@
         "1768267307": "online",
         "1768699851": "offline",
         "1768786147": "online",
-        "1768872277": "offline"
+        "1768872277": "offline",
+        "1768958851": "online"
       },
       "https://api.harmony.one": {
         "1768167259": "online"
@@ -5651,7 +5654,8 @@
       },
       "https://smartbch.greyh.at": {
         "1768167259": "online",
-        "1768872277": "offline"
+        "1768872277": "offline",
+        "1768958851": "online"
       }
     }
   },
