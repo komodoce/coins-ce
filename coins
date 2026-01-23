@@ -13575,29 +13575,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "UIS-OLD",
-    "name": "unitus",
-    "fname": "Unitus (OLD)",
-    "sign_message_prefix": "Unitus Signed Message:\n",
-    "rpcport": 50604,
-    "pubtype": 68,
-    "p2shtype": 10,
-    "wiftype": 132,
-    "txfee": 2000000,
-    "dust": 6000000,
-    "mm2": 1,
-    "required_confirmations": 5,
-    "avg_blocktime": 60,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/723'",
-    "links": {
-      "github": "https://github.com/unitusdev/unitus",
-      "homepage": "https://unituscurrency.com"
-    }
-  },
-  {
     "coin": "UIS",
     "name": "unitus",
     "fname": "Unitus",
