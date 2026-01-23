@@ -3197,6 +3197,31 @@
       }
     }
   },
+  "FLC-segwit": {
+    "all": {
+      "1769143421": "online"
+    },
+    "by_server": {
+      "electrum-flc.hashboard.space:50001": {
+        "1769143421": "online"
+      },
+      "electrum-flc.hashboard.space:50002": {
+        "1769143421": "online"
+      },
+      "electrum-flc.hashboard.space:50004": {
+        "1769143421": "online"
+      },
+      "electrum.myfloki.com:50001": {
+        "1769143421": "online"
+      },
+      "electrum.myfloki.com:50002": {
+        "1769143421": "online"
+      },
+      "electrum.myfloki.com:50004": {
+        "1769143421": "online"
+      }
+    }
+  },
   "FLOP": {
     "all": {
       "1755770395": "online"
@@ -5605,7 +5630,8 @@
         "1768094933": "online",
         "1768958087": "offline",
         "1769044482": "online",
-        "1769130853": "offline"
+        "1769130853": "offline",
+        "1769143421": "online"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -5632,7 +5658,8 @@
         "1768094933": "online",
         "1768958087": "offline",
         "1769044482": "online",
-        "1769130853": "offline"
+        "1769130853": "offline",
+        "1769143421": "online"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
