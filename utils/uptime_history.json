@@ -5604,7 +5604,8 @@
         "1768093005": "offline",
         "1768094933": "online",
         "1768958087": "offline",
-        "1769044482": "online"
+        "1769044482": "online",
+        "1769130853": "offline"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -5630,7 +5631,8 @@
         "1768093005": "offline",
         "1768094933": "online",
         "1768958087": "offline",
-        "1769044482": "online"
+        "1769044482": "online",
+        "1769130853": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6395,7 +6397,8 @@
         "1767483691": "online",
         "1768266592": "offline",
         "1768612207": "online",
-        "1769044482": "offline"
+        "1769044482": "offline",
+        "1769130853": "online"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -6607,15 +6610,18 @@
       },
       "electrum01.chainster.org:50001": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1769130853": "online"
       },
       "electrum01.chainster.org:50002": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1769130853": "online"
       },
       "electrum01.chainster.org:50003": {
         "1755770395": "online",
-        "1767483691": "offline"
+        "1767483691": "offline",
+        "1769130853": "online"
       },
       "electrum02.chainster.org:50001": {
         "1755770395": "offline",

@@ -23986,10 +23986,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -26337,6 +26333,15 @@
         },
         "derivation_path": "m/44'/119'",
         "electrum": [
+            {
+                "url": "electrum01.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
             {
                 "url": "electrum02.chainster.org:50003",
                 "protocol": "WSS",
