@@ -35509,54 +35509,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "UIS-OLD": {
-        "coin": "UIS-OLD",
-        "type": "UTXO",
-        "name": "Unitus (OLD)",
-        "coinpaprika_id": "uis-unitus",
-        "coingecko_id": "unitus",
-        "livecoinwatch_id": "UIS",
-        "explorer_url": "https://explorer.unitus.network/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Unitus Signed Message:\n",
-        "fname": "Unitus (OLD)",
-        "rpcport": 50604,
-        "pubtype": 68,
-        "p2shtype": 10,
-        "wiftype": 132,
-        "txfee": 2000000,
-        "dust": 6000000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/723'",
-        "links": {
-            "github": "https://github.com/unitusdev/unitus",
-            "homepage": "https://unituscurrency.com"
-        },
-        "electrum": [
-            {
-                "url": "failover.trc-uis.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
-            {
-                "url": "uis-uno.ewmcx.net:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "UIS": {
         "coin": "UIS",
         "type": "UTXO",
@@ -35595,7 +35547,15 @@
         },
         "electrum": [
             {
+                "url": "failover.trc-uis.ewmcx.biz:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "uis-ex-one.ewmci.online:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "uis-uno.ewmcx.net:50002",
                 "protocol": "SSL"
             }
         ],
