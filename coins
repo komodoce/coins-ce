@@ -5714,7 +5714,7 @@
     },
     "derivation_path": "m/44'/60'"
   },
-    {
+  {
     "coin": "FLC",
     "name": "flokicoin",
     "fname": "Flokicoin",
@@ -5734,6 +5734,35 @@
     },
     "dust": 1000,
     "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/flokiorg/go-flokicoin",
+      "homepage": "https://flokicoin.org"
+    }
+  },
+  {
+    "coin": "FLC-segwit",
+    "name": "flokicoin",
+    "fname": "Flokicoin",
+    "sign_message_prefix": "Flokicoin Signed Message:\n",
+    "rpcport": 15213,
+    "pubtype": 35,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "fc",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "FLC",
+    "txfee": 0,
+    "mm2": 1,
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "dust": 1000,
+    "derivation_path": "m/84'/0'",
     "links": {
       "github": "https://github.com/flokiorg/go-flokicoin",
       "homepage": "https://flokicoin.org"
