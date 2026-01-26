@@ -2135,10 +2135,12 @@
         "1769136807": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1769136807": "offline"
+        "1769136807": "offline",
+        "1769391109": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1769136807": "offline"
+        "1769136807": "offline",
+        "1769391109": "online"
       },
       "electrum5.egulden.org:11017": {
         "1769136807": "offline"
@@ -4348,7 +4350,8 @@
       },
       "https://moonriver.drpc.org": {
         "1769136807": "offline",
-        "1769217793": "online"
+        "1769217793": "online",
+        "1769391109": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1769136807": "online"
@@ -4358,7 +4361,8 @@
       },
       "wss://moonriver.drpc.org": {
         "1769136807": "offline",
-        "1769217793": "online"
+        "1769217793": "online",
+        "1769391109": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1769136807": "online"
