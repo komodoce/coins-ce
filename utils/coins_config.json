@@ -7020,18 +7020,6 @@
                 "protocol": "WSS"
             },
             {
-                "url": "electrumserver01.globalboost.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
-            {
                 "url": "electrumserver02.globalboost.info:50011",
                 "protocol": "TCP"
             },
@@ -12766,14 +12754,6 @@
                 ]
             },
             {
-                "url": "electrumx.dgc.ewmcx.org:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx.dgc.ewmcx.org:50002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "failover.dgc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -15316,10 +15296,6 @@
         "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17601,15 +17577,6 @@
                 ]
             },
             {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
                 "url": "electrum-flc.hashboard.space:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -17692,15 +17659,6 @@
             {
                 "url": "electrum-flc.hashboard.space:50001",
                 "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "listing@hashboard.space"
@@ -29795,10 +29753,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -31669,9 +31623,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -40211,44 +40162,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:10077",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -44872,15 +44787,6 @@
             {
                 "url": "electrumx1.electraprotocol.eu:50002",
                 "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "287952234317348865"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.electraprotocol.eu:50003",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "287952234317348865"
