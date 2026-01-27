@@ -2026,6 +2026,31 @@
     }
   },
   {
+    "coin": "HRC",
+    "name": "hypercoin",
+    "fname": "Hypercoin",
+    "rpcport": 8992,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "txfee": 0,
+    "segwit": true,
+    "bech32_hrp": "hc",
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1935'",
+    "sign_message_prefix": "Hypercoin Signed Message:\n",
+    "trezor_coin": "Hypercoin",
+    "links": {
+      "github": "https://github.com/hypercoin-prj/hypercoin",
+      "homepage": "https://hypercoin.network"
+    }
+  },
+  {
     "coin": "BLK",
     "name": "blackmore",
     "fname": "BlackCoin",
