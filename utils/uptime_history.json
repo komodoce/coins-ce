@@ -1285,15 +1285,18 @@
       },
       "electrumserver01.globalboost.info:50011": {
         "1755770395": "offline",
-        "1756345150": "online"
+        "1756345150": "online",
+        "1769476724": "offline"
       },
       "electrumserver01.globalboost.info:50013": {
         "1755770395": "offline",
-        "1756345150": "online"
+        "1756345150": "online",
+        "1769476724": "offline"
       },
       "electrumserver01.globalboost.info:50014": {
         "1755770395": "offline",
-        "1756345150": "online"
+        "1756345150": "online",
+        "1769476724": "offline"
       },
       "electrumserver02.globalboost.info:50011": {
         "1755770395": "online"
@@ -2231,12 +2234,14 @@
       "electrumx.dgc.ewmcx.org:50001": {
         "1755770395": "online",
         "1766366022": "offline",
-        "1766452233": "online"
+        "1766452233": "online",
+        "1769476724": "offline"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
         "1766366022": "offline",
-        "1766452233": "online"
+        "1766452233": "online",
+        "1769476724": "offline"
       },
       "electrumx.dgc.ewmcx.org:50003": {
         "1755770395": "offline"
@@ -2882,7 +2887,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/eth": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1769476724": "offline"
       },
       "https://eth.drpc.org": {
         "1755770395": "online"
@@ -2902,7 +2908,8 @@
         "1762820073": "offline"
       },
       "wss://0xrpc.io/eth": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1769476724": "offline"
       },
       "wss://eth.drpc.org": {
         "1755770395": "online",
@@ -3177,11 +3184,21 @@
       "1766366022": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
         "1766366022": "online"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1766366022": "online"
+        "1766366022": "online",
+        "1769476724": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
         "1766366022": "online"
@@ -3202,11 +3219,21 @@
       "1769143421": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
         "1769143421": "online"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1769143421": "online"
+        "1769143421": "online",
+        "1769476724": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
         "1769143421": "online"
@@ -5631,7 +5658,8 @@
         "1768958087": "offline",
         "1769044482": "online",
         "1769130853": "offline",
-        "1769143421": "online"
+        "1769143421": "online",
+        "1769476724": "offline"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -5659,7 +5687,8 @@
         "1768958087": "offline",
         "1769044482": "online",
         "1769130853": "offline",
-        "1769143421": "online"
+        "1769143421": "online",
+        "1769476724": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6425,7 +6454,8 @@
         "1768266592": "offline",
         "1768612207": "online",
         "1769044482": "offline",
-        "1769130853": "online"
+        "1769130853": "online",
+        "1769476724": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -7535,23 +7565,27 @@
     "all": {
       "1755770395": "online",
       "1764312754": "offline",
-      "1766538588": "online"
+      "1766538588": "online",
+      "1769476724": "offline"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "online",
         "1764312754": "offline",
-        "1766538588": "online"
+        "1766538588": "online",
+        "1769476724": "offline"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
         "1755770395": "online",
         "1764312754": "offline",
-        "1766538588": "online"
+        "1766538588": "online",
+        "1769476724": "offline"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
         "1755770395": "online",
         "1764312754": "offline",
-        "1766538588": "online"
+        "1766538588": "online",
+        "1769476724": "offline"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "offline"
@@ -8228,6 +8262,13 @@
     },
     "by_server": {
       "_metadata": {
+        "electrumx1.electraprotocol.eu:50003": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        },
         "electrumx2.electraprotocol.eu:50003": {
           "contact": [
             {
@@ -8250,7 +8291,8 @@
         "1755770395": "online"
       },
       "electrumx1.electraprotocol.eu:50003": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1769476724": "offline"
       },
       "electrumx2.electraprotocol.eu:50001": {
         "1755770395": "online"
