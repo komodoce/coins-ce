@@ -2888,7 +2888,8 @@
     "by_server": {
       "https://0xrpc.io/eth": {
         "1755770395": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "https://eth.drpc.org": {
         "1755770395": "online"
@@ -2909,7 +2910,8 @@
       },
       "wss://0xrpc.io/eth": {
         "1755770395": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "wss://eth.drpc.org": {
         "1755770395": "online",
@@ -4008,6 +4010,31 @@
       },
       "electrum2.groestlcoin.org:50004": {
         "1755770395": "online"
+      }
+    }
+  },
+  "HRC": {
+    "all": {
+      "1769498555": "online"
+    },
+    "by_server": {
+      "electrumx1.hypercoin.network:50001": {
+        "1769498555": "online"
+      },
+      "electrumx1.hypercoin.network:50002": {
+        "1769498555": "online"
+      },
+      "electrumx1.hypercoin.network:50003": {
+        "1769498555": "online"
+      },
+      "electrumx2.hypercoin.network:50001": {
+        "1769498555": "online"
+      },
+      "electrumx2.hypercoin.network:50002": {
+        "1769498555": "online"
+      },
+      "electrumx2.hypercoin.network:50003": {
+        "1769498555": "online"
       }
     }
   },
@@ -5659,7 +5686,8 @@
         "1769044482": "online",
         "1769130853": "offline",
         "1769143421": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -5688,7 +5716,8 @@
         "1769044482": "online",
         "1769130853": "offline",
         "1769143421": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -7566,26 +7595,30 @@
       "1755770395": "online",
       "1764312754": "offline",
       "1766538588": "online",
-      "1769476724": "offline"
+      "1769476724": "offline",
+      "1769498555": "online"
     },
     "by_server": {
       "1.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "online",
         "1764312754": "offline",
         "1766538588": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:11077": {
         "1755770395": "online",
         "1764312754": "offline",
         "1766538588": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "1.eu.tokel.electrum.dexstats.info:9077": {
         "1755770395": "online",
         "1764312754": "offline",
         "1766538588": "online",
-        "1769476724": "offline"
+        "1769476724": "offline",
+        "1769498555": "online"
       },
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1755770395": "offline"
