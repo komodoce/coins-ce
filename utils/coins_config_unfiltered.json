@@ -14060,11 +14060,13 @@
         "electrum": [
             {
                 "url": "dogec-one.ewm-cx.com:50007",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "dogec-one.ewm-cx.com:50008",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block/"
