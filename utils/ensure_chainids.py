@@ -5,26 +5,22 @@ import json
 supported_networks = {
     "BEP20": 56,
     "ERC20": 1,
-    "FTM20": 250,
     "PLG20": 137,
     "PLG20_OLD": 137,
     "AVX20": 43114,
     "AVX20_OLD": 43114,
     "KRC20": 321,
-    "HRC20": 128,
     "MVR20": 1285
 }
 
 supported_platforms = {
     "BNB": 56,
     "ERC20": 1,
-    "FTM": 250,
     "MATIC": 137,
     "AVAX": 43114,
     "KCS": 321,
     "ETH-ARB20": 42161,
     "MOVR": 1285,
-    "HT": 128,
     "IRIS": 6688,
 }
 

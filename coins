@@ -4,6 +4,7 @@
     "fname": "Siacoin",
     "mm2": 1,
     "required_confirmations": 1,
+    "avg_blocktime": 600,
     "protocol": {
       "type": "SIA"
     }
@@ -13,6 +14,7 @@
     "fname": "Siacoin Zen Testnet",
     "mm2": 1,
     "required_confirmations": 1,
+    "avg_blocktime": 600,
     "is_testnet": true,
     "protocol": {
       "type": "SIA"
@@ -276,46 +278,6 @@
       "github": "https://github.com/aave",
       "homepage": "https://aave.com/ "
     }
-  },
-  {
-    "coin": "AAVE-FTM20",
-    "name": "aave_ftm20",
-    "fname": "AAVE",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "AAVE-HCO20",
-    "name": "aave_hco20",
-    "fname": "AAVE",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "AAVE-KRC20",
@@ -592,7 +554,7 @@
   {
     "coin": "AIPG",
     "name": "aipowergrid",
-    "fname": "AIPowerGrid",
+    "fname": "AI Power Grid",
     "sign_message_prefix": "Aipg Signed Message:\n",
     "rpcport": 9788,
     "pubtype": 23,
@@ -605,13 +567,33 @@
     "required_confirmations": 6,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "RVN"
     },
     "derivation_path": "m/44'/2686'",
     "links": {
       "github": "https://github.com/AIPowerGrid/AI-Power-Grid-Core",
       "homepage": "aipowergrid.io"
     }
+  },
+  {
+    "coin": "AIPG-BASE",
+    "name": "aipg_base",
+    "fname": "AI Power Grid",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xa1c0deCaFE3E9Bf06A5F29B7015CD373a9854608"
+      }
+    },
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "ANEY",
@@ -699,6 +681,25 @@
     }
   },
   {
+    "coin": "APE-ARB20",
+    "name": "ape_arb20",
+    "fname": "ApeCoin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x7f9FBf9bDd3F4105C478b996B648FE6e828a1e98"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "APE-ERC20",
     "name": "ape_erc20",
     "fname": "ApeCoin",
@@ -725,6 +726,29 @@
     "mm2": 1,
     "chain_id": 56,
     "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://apecoin.com"
+    }
+  },
+  {
+    "coin": "APE-BEP20_OLD",
+    "name": "ape_bep20_old",
+    "fname": "ApeCoin (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
+    "chain_id": 56,
+    "decimals": 18,
     "avg_blocktime": 3,
     "required_confirmations": 3,
     "protocol": {
@@ -741,26 +765,6 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
-  },
-  {
-    "coin": "APE-FTM20",
-    "name": "ape_ftm20",
-    "fname": "ApeCoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "APE-PLG20",
@@ -825,15 +829,7 @@
         "contract_address": "0x912CE59144191C1204E64559FE8253a0e49E6548"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "ARPA-BEP20",
@@ -908,6 +904,7 @@
     "coin": "ARRR",
     "asset": "PIRATE",
     "fname": "Pirate",
+    "is_privacy_coin": true,
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
@@ -1159,7 +1156,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 30,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "RVN"
     },
     "derivation_path": "m/44'/921'"
   },
@@ -1329,6 +1327,44 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "BAL-ARB20",
+    "name": "bal_arb20",
+    "fname": "Balancer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "BAL-AVX20",
+    "name": "bal_avx20",
+    "fname": "Balancer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 18,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0xE15bCB9E0EA69e6aB9FA080c4c4A5632896298C3"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "BAL-BEP20",
     "name": "bal_bep20",
     "fname": "Balancer",
@@ -1478,26 +1514,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "BAND-FTM20",
-    "name": "band_ftm20",
-    "fname": "Band Protocol",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "BAND-PLG20",
     "name": "band_plg20",
     "fname": "Band Protocol",
@@ -1620,6 +1636,58 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "BC2",
+    "name": "bitcoinII",
+    "fname": "Bitcoin II",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "homepage": "https://bitcoin-ii.org"
+    }
+  },
+  {
+    "coin": "BC2-segwit",
+    "name": "bitcoinII",
+    "fname": "Bitcoin II",
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "rpcport": 8332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "BC2",
+    "txfee": 1000,
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/0'",
+    "links": {
+      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "homepage": "https://bitcoin-ii.org"
+    }
+  },
+  {
     "coin": "BCH",
     "name": "bch",
     "fname": "Bitcoin Cash",
@@ -1639,7 +1707,8 @@
     "required_confirmations": 1,
     "avg_blocktime": 600,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/145'",
     "trezor_coin": "Bitcoin Cash",
@@ -1810,21 +1879,61 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "BCH-HCO20",
-    "name": "bch_hco20",
-    "fname": "Bitcoin Cash",
+    "coin": "BEAMX-BEP20",
+    "name": "beamx_bep20",
+    "fname": "Beam",
     "rpcport": 80,
     "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "avg_blocktime": 3,
+    "chain_id": 56,
     "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://onbeam.com"
+    }
+  },
+  {
+    "coin": "BEAMX-AVX20",
+    "name": "beamx_avx20",
+    "fname": "Beam",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 18,
+    "avg_blocktime": 2.4,
     "required_confirmations": 3,
     "protocol": {
       "type": "ERC20",
       "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375"
+        "platform": "AVAX",
+        "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "BEAMX-ERC20",
+    "name": "beamx_erc20",
+    "fname": "Beam",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -1872,6 +1981,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "BCZERO",
     "fname": "Buggyra Coin Zero",
+    "is_privacy_coin": true,
     "rpcport": 46856,
     "pubtype": 60,
     "p2shtype": 85,
@@ -1880,7 +1990,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -1889,6 +1998,56 @@
     "trezor_coin": "Komodo",
     "links": {
       "homepage": "https://buggyracoinzero.com"
+    }
+  },
+  {
+    "coin": "BKC",
+    "name": "briskcoin",
+    "fname": "Briskcoin",
+    "rpcport": 8552,
+    "pubtype": 25,
+    "p2shtype": 33,
+    "wiftype": 153,
+    "txfee": 0,
+    "segwit": true,
+    "bech32_hrp": "bc",
+    "mm2": 1,
+    "required_confirmations": 5,
+    "avg_blocktime": 30,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1918'",
+    "sign_message_prefix": "Briskcoin Signed Message:\n",
+    "trezor_coin": "Briskcoin",
+    "links": {
+      "github": "https://github.com/briskcoin-project/briskcoin",
+      "homepage": "https://briskcoin.org"
+    }
+  },
+  {
+    "coin": "HRC",
+    "name": "hypercoin",
+    "fname": "Hypercoin",
+    "rpcport": 8992,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "txfee": 0,
+    "segwit": true,
+    "bech32_hrp": "hc",
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1935'",
+    "sign_message_prefix": "Hypercoin Signed Message:\n",
+    "trezor_coin": "Hypercoin",
+    "links": {
+      "github": "https://github.com/hypercoin-prj/hypercoin",
+      "homepage": "https://hypercoin.network"
     }
   },
   {
@@ -1965,6 +2124,7 @@
     "segwit": false,
     "txfee": 1000,
     "mm2": 1,
+    "delisted": true,
     "sign_message_prefix": "DarkCoin Signed Message:\n",
     "required_confirmations": 3,
     "avg_blocktime": 90,
@@ -2299,38 +2459,14 @@
     "required_confirmations": 1,
     "avg_blocktime": 600,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/0'",
     "trezor_coin": "Bitcoin",
     "links": {
       "github": "https://github.com/bitcoin/bitcoin",
       "homepage": "https://bitcoin.org"
-    }
-  },
-  {
-    "coin": "BKC",
-    "name": "briskcoin",
-    "fname": "Briskcoin",
-    "rpcport": 8552,
-    "pubtype": 25,
-    "p2shtype": 33,
-    "wiftype": 153,
-    "txfee": 0,
-    "segwit": true,
-    "bech32_hrp": "bc",
-    "mm2": 1,
-    "required_confirmations": 5,
-    "avg_blocktime": 30,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/1918'",
-    "sign_message_prefix": "Briskcoin Signed Message:\n",
-    "trezor_coin": "Briskcoin",
-    "links": {
-      "github": "https://github.com/briskcoin-project/briskcoin",
-      "homepage": "https://briskcoin.org"
     }
   },
   {
@@ -2354,7 +2490,8 @@
     "required_confirmations": 1,
     "avg_blocktime": 600,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/84'/0'",
     "trezor_coin": "Bitcoin",
@@ -2391,6 +2528,7 @@
     "coin": "BTCZ",
     "name": "bitcoinz",
     "fname": "BitcoinZ",
+    "is_privacy_coin": true,
     "sign_message_prefix": "BitcoinZ Signed Message:\n",
     "rpcport": 1979,
     "taddr": 28,
@@ -2745,6 +2883,44 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "CADC-ARB20",
+    "name": "cadc_arb20",
+    "fname": "CAD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x2b28E826b55e399F4d4699b85f68666AC51e6f70"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "CADC-BASE",
+    "name": "cadc_base",
+    "fname": "CAD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x043eB4B75d0805c43D7C834902E335621983Cf03"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "CADC-ERC20",
     "name": "cadc_erc20",
     "fname": "CAD Coin",
@@ -2838,6 +3014,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "CCL",
     "fname": "CoinCollect",
+    "is_privacy_coin": true,
     "rpcport": 20849,
     "pubtype": 60,
     "p2shtype": 85,
@@ -2845,8 +3022,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -3024,15 +3200,7 @@
         "contract_address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "CFX-BEP20",
@@ -3064,6 +3232,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "CHIPS",
     "fname": "CHIPS",
+    "is_privacy_coin": true,
     "rpcport": 22778,
     "pubtype": 60,
     "p2shtype": 85,
@@ -3261,7 +3430,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -3489,6 +3657,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x0f80aa32ba51e0acf171e106a1cfcd1eb9a9c3a5"
@@ -3532,15 +3701,7 @@
         "contract_address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "CRV-AVX20",
@@ -3557,26 +3718,6 @@
       "protocol_data": {
         "platform": "AVAX",
         "contract_address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "CRV-FTM20",
-    "name": "crv_ftm20",
-    "fname": "Curve DAO",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -3802,46 +3943,6 @@
     }
   },
   {
-    "coin": "DAI-FTM20",
-    "name": "dai_ftm20",
-    "fname": "Dai",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "DAI-HCO20",
-    "name": "dai_hco20",
-    "fname": "Dai",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "DAI-MVR20",
     "name": "dai_mvr20",
     "fname": "Dai",
@@ -3892,6 +3993,7 @@
     "coin": "DASH",
     "name": "dashcore",
     "fname": "Dash",
+    "is_privacy_coin": true,
     "sign_message_prefix": "DarkCoin Signed Message:\n",
     "confpath": "USERHOME/.dashcore/dash.conf",
     "rpcport": 9998,
@@ -3899,7 +4001,6 @@
     "p2shtype": 16,
     "wiftype": 204,
     "txfee": 1000,
-    "force_min_relay_fee": true,
     "mm2": 1,
     "required_confirmations": 2,
     "avg_blocktime": 150,
@@ -4154,7 +4255,6 @@
     "p2shtype": 16,
     "wiftype": 204,
     "txfee": 1000,
-    "force_min_relay_fee": true,
     "mm2": 1,
     "required_confirmations": 2,
     "avg_blocktime": 90,
@@ -4195,7 +4295,7 @@
     "name": "diminutivecoin",
     "fname": "Diminutive Coin",
     "sign_message_prefix": "DiminutiveCoin Signed Message:\n",
-    "rpcport": 49122,
+    "rpcport": 49588,
     "pubtype": 32,
     "p2shtype": 30,
     "wiftype": 181,
@@ -4203,11 +4303,16 @@
     "txfee": 10000,
     "segwit": false,
     "mm2": 1,
-    "mature_confirmations": 75,
-    "required_confirmations": 4,
+    "mature_confirmations": 100,
+    "required_confirmations": 6,
     "avg_blocktime": 75,
     "protocol": {
       "type": "UTXO"
+    },
+    "derivation_path": "m/44'/745'",
+    "links": {
+      "github": "https://github.com/MadCatMining/DiminutiveCoin",
+      "homepage": "https://diminutivecoin.com"
     }
   },
   {
@@ -4245,6 +4350,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x2c660b0d4d53382aeef855d3010d697970fa0bd5"
@@ -4311,15 +4417,7 @@
         "contract_address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "DODO-BEP20",
@@ -4408,6 +4506,55 @@
     }
   },
   {
+    "coin": "DEV",
+    "name": "dogecoinev",
+    "fname": "DogecoinEV",
+    "rpcport": 42069,
+    "pubtype": 30,
+    "p2shtype": 22,
+    "wiftype": 158,
+    "segwit": false,
+    "txfee": 1000000,
+    "dingo_fee": true,
+    "dust": 1000000,
+    "mm2": 1,
+    "sign_message_prefix": "DogecoinEV Signed Message:\n",
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1420'",
+    "links": {
+      "github": "https://github.com/DogecoinEV-Foundation/DogecoinEV",
+      "homepage": "https://dogecoinev.com"
+    }
+  },
+  {
+    "coin": "MYDOGE",
+    "name": "mydogecoin",
+    "fname": "Mydogecoin",
+    "sign_message_prefix": "Mydogecoin Signed Message:\n",
+    "rpcport": 22776,
+    "pubtype": 51,
+    "p2shtype": 30,
+    "wiftype": 158,
+    "txfee": 1000000,
+    "dust": 1000000,
+    "mm2": 1,
+    "required_confirmations": 2,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1995'",
+    "trezor_coin": "Mydogecoin",
+    "links": {
+      "github": "https://github.com/mydogecoin-project/mydogecoin",
+      "homepage": "https://mydogecoin.fun"
+    }
+  },
+  {
     "coin": "DOGE-BEP20",
     "name": "doge_bep20",
     "fname": "Dogecoin",
@@ -4440,7 +4587,8 @@
     "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "PIVX"
     },
     "derivation_path": "m/44'/385'",
     "links": {
@@ -4509,30 +4657,11 @@
     }
   },
   {
-    "coin": "DOT-HCO20",
-    "name": "dot_hco20",
-    "fname": "Polkadot",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "DP",
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "DP",
     "fname": "DigitalPrice",
+    "is_privacy_coin": true,
     "rpcport": 28388,
     "pubtype": 60,
     "p2shtype": 85,
@@ -4541,7 +4670,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -4887,14 +5015,29 @@
       }
     },
     "derivation_path": "m/44'/60'",
-    "use_access_list": true,
     "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_coins": 300000,
-      "eth_payment": 700000,
-      "eth_receiver_spend": 600000,
-      "eth_sender_refund": 600000
-    }
+    "swap_gas_fee_policy": "Medium",
+    "estimate_gas_mult": 1.3
+  },
+  {
+    "coin": "ETH-BASE",
+    "name": "eth_base",
+    "fname": "Ethereum",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "required_confirmations": 10,
+    "avg_blocktime": 0.2,
+    "protocol": {
+      "type": "ETH",
+      "protocol_data": {
+        "chain_id": 8453
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
+    "estimate_gas_mult": 1.3
   },
   {
     "coin": "ETH-BEP20",
@@ -4919,46 +5062,6 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
-  },
-  {
-    "coin": "ETH-FTM20",
-    "name": "eth_ftm20",
-    "fname": "Ethereum",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "ETH-HCO20",
-    "name": "eth_hco20",
-    "fname": "Ethereum",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "ETH-KRC20",
@@ -5005,6 +5108,85 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
+  },
+  {
+    "coin": "EURC-AVX20",
+    "name": "eurc_avx20",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 6,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "EURC-BASE",
+    "name": "eurc_base",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "EURC-ERC20",
+    "name": "eurc_erc20",
+    "fname": "EURC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 6,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.circle.com/eurc"
+    }
+  },
+  {
+    "coin": "EURE-ARB20",
+    "name": "eure_arb20",
+    "fname": "Monerium EUR",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8"
+      }
+    },
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "EURE-ERC20",
@@ -5361,29 +5543,10 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "FIL-HCO20",
-    "name": "fil_hco20",
-    "fname": "Filecoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "FIRO",
     "name": "firo",
     "fname": "Firo",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Firo Signed Message:\n",
     "rpcport": 8888,
     "pubtype": 82,
@@ -5427,6 +5590,62 @@
       "erc20_payment": 110000,
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
+    }
+  },
+  {
+    "coin": "FIX",
+    "name": "fixedcoin",
+    "fname": "FixedCoin",
+    "rpcport": 24761,
+    "pubtype": 1,
+    "p2shtype": 0,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "fix",
+    "txfee": 1000,
+    "dust": 10000,
+    "mm2": 1,
+    "required_confirmations": 3,
+    "mature_confirmations": 101,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "sign_message_prefix": "FixedCoin Signed Message:\n",
+    "links": {
+      "github": "https://github.com/biigbang0001/fixedcoin",
+      "homepage": "https://web.fixedcoin.org"
+    }
+  },
+  {
+    "coin": "FIX-segwit",
+    "name": "fixedcoin",
+    "fname": "FixedCoin",
+    "rpcport": 24761,
+    "pubtype": 1,
+    "p2shtype": 0,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "fix",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "FIX",
+    "txfee": 1000,
+    "dust": 10000,
+    "mm2": 1,
+    "required_confirmations": 3,
+    "mature_confirmations": 101,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/0'",
+    "sign_message_prefix": "FixedCoin Signed Message:\n",
+    "links": {
+      "github": "https://github.com/biigbang0001/fixedcoin",
+      "homepage": "https://web.fixedcoin.org"
     }
   },
   {
@@ -5519,6 +5738,60 @@
       }
     },
     "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "FLC",
+    "name": "flokicoin",
+    "fname": "Flokicoin",
+    "rpcport": 15213,
+    "pubtype": 35,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "fc",
+    "txfee": 0,
+    "mm2": 1,
+    "sign_message_prefix": "Flokicoin Signed Message:\n",
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "dust": 1000,
+    "derivation_path": "m/44'/0'",
+    "links": {
+      "github": "https://github.com/flokiorg/go-flokicoin",
+      "homepage": "https://flokicoin.org"
+    }
+  },
+  {
+    "coin": "FLC-segwit",
+    "name": "flokicoin",
+    "fname": "Flokicoin",
+    "sign_message_prefix": "Flokicoin Signed Message:\n",
+    "rpcport": 15213,
+    "pubtype": 35,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "fc",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "FLC",
+    "txfee": 0,
+    "mm2": 1,
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "dust": 1000,
+    "derivation_path": "m/84'/0'",
+    "links": {
+      "github": "https://github.com/flokiorg/go-flokicoin",
+      "homepage": "https://flokicoin.org"
+    }
   },
   {
     "coin": "FLOKI-BEP20",
@@ -5663,47 +5936,6 @@
     "links": {
       "github": "https://github.com/FeatherCoin/Feathercoin",
       "homepage": "https://feathercoin.com"
-    }
-  },
-  {
-    "coin": "FTMT",
-    "name": "ftmt",
-    "fname": "Fantom Testnet",
-    "is_testnet": true,
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 4002,
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 4002
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "FTM",
-    "name": "ftm",
-    "fname": "Fantom",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "required_confirmations": 3,
-    "avg_blocktime": 1.8,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 250
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Fantom Opera",
-    "links": {
-      "homepage": "https://fantom.foundation"
     }
   },
   {
@@ -5861,25 +6093,6 @@
       "erc20_receiver_spend": 1000000,
       "erc20_sender_refund": 1000000
     }
-  },
-  {
-    "coin": "FXS-FTM20",
-    "name": "fxs_ftm20",
-    "fname": "Frax Share",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GALA-ERC20",
@@ -6071,7 +6284,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -6092,7 +6304,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -6227,15 +6438,7 @@
         "contract_address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GMX-AVX20",
@@ -6323,15 +6526,7 @@
         "contract_address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GNS-PLG20",
@@ -6462,15 +6657,7 @@
         "contract_address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "GRT-AVX20",
@@ -6641,6 +6828,28 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "HBAR-BEP20",
+    "name": "hbar_bep20",
+    "fname": "Hedera",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x0422f966Bf8E978075a97D47eF4c7EFd3563Fa51"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://hedera.com"
+    }
+  },
+  {
     "coin": "HEX-ERC20",
     "name": "hex_erc20",
     "fname": "HEX",
@@ -6730,49 +6939,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "HT",
-    "name": "huobi-token",
-    "fname": "Huobi Token",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 128,
-    "required_confirmations": 3,
-    "avg_blocktime": 3,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 128
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Huobi ECO Chain",
-    "links": {
-      "homepage": "https://www.hecochain.com"
-    }
-  },
-  {
-    "coin": "HT-ERC20",
-    "name": "huobi-token",
-    "fname": "Huobi Token",
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 1,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "ETH",
-        "contract_address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161"
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Huobi Token",
-    "links": {
-      "homepage": "https://www.hbg.com"
-    }
-  },
-  {
     "coin": "HUSD-ERC20",
     "name": "husd_erc20",
     "fname": "HUSD",
@@ -6788,26 +6954,6 @@
       "protocol_data": {
         "platform": "ETH",
         "contract_address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "HUSD-HCO20",
-    "name": "husd_hco20",
-    "fname": "HUSD",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 8,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -6947,6 +7093,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "ILN",
     "fname": "Ilien",
+    "is_privacy_coin": true,
     "rpcport": 12986,
     "pubtype": 60,
     "p2shtype": 85,
@@ -6957,8 +7104,7 @@
     "p2p": 12985,
     "magic": "feb4cb23",
     "nSPV": "5.9.102.210, 5.9.253.195, 5.9.253.196, 5.9.253.197, 5.9.253.198, 5.9.253.199, 5.9.253.200, 5.9.253.201, 5.9.253.202, 5.9.253.203",
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -8085,8 +8231,7 @@
     "txfee": 1000,
     "mm2": 1,
     "sign_message_prefix": "Komodo Signed Message:\n",
-    "required_confirmations": 3,
-    "requires_notarization": false,
+    "required_confirmations": 4,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -8214,6 +8359,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "KOIN",
     "fname": "Koinon",
+    "is_privacy_coin": true,
     "rpcport": 10702,
     "pubtype": 60,
     "p2shtype": 85,
@@ -8221,8 +8367,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -8272,7 +8417,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 150,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "LBC"
     },
     "derivation_path": "m/44'/140'"
   },
@@ -8296,7 +8442,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 150,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "LBC"
     },
     "derivation_path": "m/84'/140'"
   },
@@ -8598,46 +8745,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "LINK-FTM20",
-    "name": "link_ftm20",
-    "fname": "Chainlink",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "LINK-HCO20",
-    "name": "link_hco20",
-    "fname": "Chainlink",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x9e004545c59D359F6B7BFB06a26390b087717b42"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "LINK-KRC20",
     "name": "link_krc20",
     "fname": "Chainlink",
@@ -8860,6 +8967,47 @@
     }
   },
   {
+    "coin": "LPT-ERC20",
+    "name": "lpt_erc20",
+    "fname": "Livepeer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.livepeer.org"
+    }
+  },
+  {
+    "coin": "LPT-ARB20",
+    "name": "lpt_arb20",
+    "fname": "Livepeer",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "LSWAP-BEP20",
     "name": "lswap_bep20",
     "fname": "LoopSwap",
@@ -8882,12 +9030,13 @@
     "coin": "LTC",
     "name": "litecoin",
     "fname": "Litecoin",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Litecoin Signed Message:\n",
     "rpcport": 9332,
     "pubtype": 48,
     "p2shtype": 50,
     "wiftype": 176,
-    "txfee": 0,
+    "txfee": 1000,
     "dust": 5460,
     "segwit": true,
     "bech32_hrp": "ltc",
@@ -8909,12 +9058,13 @@
     "coin": "LTC-segwit",
     "name": "litecoin",
     "fname": "Litecoin",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Litecoin Signed Message:\n",
     "rpcport": 9332,
     "pubtype": 48,
     "p2shtype": 50,
     "wiftype": 176,
-    "txfee": 0,
+    "txfee": 1000,
     "dust": 5460,
     "segwit": true,
     "bech32_hrp": "ltc",
@@ -9199,26 +9349,6 @@
     }
   },
   {
-    "coin": "MATIC-HCO20",
-    "name": "matic_hco20",
-    "fname": "Polygon",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0xdB11743fe8B129b49b11236E8a715004BDabe7e5"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "MATIC-KRC20",
     "name": "matic_krc20",
     "fname": "Polygon",
@@ -9282,6 +9412,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "MCL",
     "fname": "Marmara Credit Loops",
+    "is_privacy_coin": true,
     "rpcport": 33825,
     "pubtype": 60,
     "p2shtype": 85,
@@ -9290,7 +9421,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 5,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -9303,6 +9433,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "MDX",
     "fname": "Mandala",
+    "is_privacy_coin": true,
     "rpcport": 18482,
     "pubtype": 60,
     "p2shtype": 85,
@@ -9311,7 +9442,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -9721,15 +9851,7 @@
         "contract_address": "0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "MOVR",
@@ -9800,7 +9922,8 @@
     "required_confirmations": 10,
     "avg_blocktime": 30,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/130'"
   },
@@ -9962,6 +10085,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "NINJA",
     "fname": "Ninja",
+    "is_privacy_coin": true,
     "rpcport": 8427,
     "pubtype": 60,
     "p2shtype": 85,
@@ -9969,8 +10093,8 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "delisted": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -10097,6 +10221,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xffb67c56c42b71144ae394dbfe298d863fbb3b9e"
@@ -10153,6 +10278,8 @@
     "wiftype": 188,
     "segwit": false,
     "txfee": 100000000,
+    "dingo_fee": true,
+    "dust": 100000000,
     "mm2": 1,
     "required_confirmations": 7,
     "avg_blocktime": 30,
@@ -10484,24 +10611,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "PAXG-BEP20",
-    "name": "paxg_bep20",
-    "fname": "PAX Gold",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 56,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "BNB",
-        "contract_address": "0x7950865a9140cB519342433146Ed5b40c6F210f7"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "PAXG-ERC20",
     "name": "paxg_erc20",
     "fname": "PAX Gold",
@@ -10617,15 +10726,7 @@
         "contract_address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "PENDLE-ERC20",
@@ -10729,12 +10830,6 @@
     "derivation_path": "m/44'/60'",
     "links": {
       "homepage": "https://www.pepe.vip"
-    },
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
     }
   },
   {
@@ -10765,6 +10860,7 @@
     "coin": "PIVX",
     "name": "pivx",
     "fname": "PIVX",
+    "is_privacy_coin": true,
     "sign_message_prefix": "DarkNet Signed Message:\n",
     "rpcport": 51473,
     "pubtype": 30,
@@ -10776,7 +10872,8 @@
     "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "PIVX"
     },
     "derivation_path": "m/44'/119'"
   },
@@ -10937,7 +11034,8 @@
     "required_confirmations": 1,
     "avg_blocktime": 510,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "PPC"
     },
     "derivation_path": "m/44'/6'",
     "trezor_coin": "Peercoin",
@@ -10988,6 +11086,7 @@
     "coin": "PRCY",
     "name": "prcy",
     "fname": "PRivaCY Coin",
+    "is_privacy_coin": true,
     "rpcport": 59683,
     "pubtype": 55,
     "p2shtype": 61,
@@ -11215,6 +11314,31 @@
     }
   },
   {
+    "coin": "TRMP",
+    "name": "trumpow",
+    "fname": "TrumPow",
+    "rpcport": 33883,
+    "pubtype": 65,
+    "p2shtype": 28,
+    "wiftype": 151,
+    "segwit": false,
+    "txfee": 1000000,
+    "dingo_fee": true,
+    "dust": 1000000,
+    "mm2": 1,
+    "sign_message_prefix": "TrumPow Signed Message:\n",
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/1707'",
+    "links": {
+      "github": "https://github.com/trumpowppc/trumpow",
+      "homepage": "https://trumpow.meme"
+    }
+  },
+  {
     "coin": "QC-QRC20",
     "name": "qtum",
     "fname": "Qcash",
@@ -11231,6 +11355,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xf2033ede578e17fa6231047265010445bca8cf1c"
@@ -11255,6 +11380,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x60f33e17d8d2dba280cf85b6c35880dedd8ed728"
@@ -11279,6 +11405,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x54fefdb5b31164f66ddb68becd7bdd864cacd65b"
@@ -11390,6 +11517,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "tQTUM",
         "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44"
@@ -11411,12 +11539,12 @@
     "dust": 72800,
     "mm2": 1,
     "sign_message_prefix": "Qtum Signed Message:\n",
-    "force_min_relay_fee": true,
     "required_confirmations": 3,
     "mature_confirmations": 2000,
     "avg_blocktime": 32,
     "protocol": {
-      "type": "QTUM"
+      "type": "QTUM",
+      "chain_variant": "QTUM"
     },
     "derivation_path": "m/44'/2301'",
     "trezor_coin": "Qtum",
@@ -11466,7 +11594,8 @@
     "mature_confirmations": 2000,
     "avg_blocktime": 32,
     "protocol": {
-      "type": "QTUM"
+      "type": "QTUM",
+      "chain_variant": "QTUM"
     },
     "derivation_path": "m/44'/1'"
   },
@@ -11475,6 +11604,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "RAPH",
     "fname": "Raphael",
+    "is_privacy_coin": true,
     "rpcport": 30261,
     "pubtype": 60,
     "p2shtype": 85,
@@ -11483,7 +11613,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 4,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11543,26 +11672,6 @@
       "github": "https://github.com/renproject",
       "homepage": "https://renproject.io/"
     }
-  },
-  {
-    "coin": "REN-HCO20",
-    "name": "ren_hco20",
-    "fname": "Ren",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x212208bcc81F3a2D0188afF76A2d39351eb53b96"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "REP-ERC20",
@@ -11649,7 +11758,8 @@
     "required_confirmations": 4,
     "avg_blocktime": 150,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/143'"
   },
@@ -11673,7 +11783,8 @@
     "required_confirmations": 4,
     "avg_blocktime": 150,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/84'/143'"
   },
@@ -11700,6 +11811,7 @@
     "coin": "DOC",
     "asset": "DOC",
     "fname": "DOC",
+    "is_privacy_coin": true,
     "rpcport": 62415,
     "pubtype": 60,
     "p2shtype": 85,
@@ -11710,7 +11822,6 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "is_testnet": true,
     "required_confirmations": 1,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11722,6 +11833,7 @@
     "coin": "MARTY",
     "asset": "MARTY",
     "fname": "MARTY",
+    "is_privacy_coin": true,
     "rpcport": 52592,
     "pubtype": 60,
     "p2shtype": 85,
@@ -11732,7 +11844,6 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "is_testnet": true,
     "required_confirmations": 1,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -11946,7 +12057,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "RVN"
     },
     "derivation_path": "m/44'/175'",
     "trezor_coin": "Ravencoin",
@@ -12132,26 +12244,6 @@
     }
   },
   {
-    "coin": "SNX-FTM20",
-    "name": "snx_ftm20",
-    "fname": "Synthetix",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "SNX-KRC20",
     "name": "snx_krc20",
     "fname": "Synthetix",
@@ -12266,6 +12358,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "SPACE",
     "fname": "Spacecoin",
+    "is_privacy_coin": true,
     "rpcport": 35593,
     "pubtype": 60,
     "p2shtype": 85,
@@ -12274,7 +12367,6 @@
     "overwintered": 1,
     "mm2": 1,
     "required_confirmations": 6,
-    "requires_notarization": false,
     "avg_blocktime": 30,
     "protocol": {
       "type": "UTXO"
@@ -12299,15 +12391,26 @@
         "contract_address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "SPACE-AVX20_OLD",
+    "name": "space_avx20_old",
+    "fname": "Space Token (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "required_confirmations": 3,
+    "avg_blocktime": 2.4,
+    "decimals": 18,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+      }
+    },
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "SPACE-AVX20",
@@ -12323,7 +12426,7 @@
       "type": "ERC20",
       "protocol_data": {
         "platform": "AVAX",
-        "contract_address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2"
+        "contract_address": "0x841Aef70237a88027ccb2d15C1bBAf88a669674a"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -12342,25 +12445,6 @@
       "protocol_data": {
         "platform": "BNB",
         "contract_address": "0x9E1170c12FDDd3B00FEc42ddF4C942565D9Be577"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "SPACE-FTM20",
-    "name": "space_ftm20",
-    "fname": "Space Token",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x5f7F94a1dd7b15594d17543BEB8B30b111DD464c"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -12458,6 +12542,28 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "SUI-BEP20",
+    "name": "sui_bep20",
+    "fname": "Sui",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0xd57f2e190C11cffc667AA5aD026Cd4C8DE0772a7"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://sui.io"
+    }
+  },
+  {
     "coin": "SUSHI-AVX20",
     "name": "sushi_avx20",
     "fname": "Sushi",
@@ -12517,26 +12623,6 @@
       "github": "https://github.com/sushiswap",
       "homepage": "https://sushiswapclassic.org/"
     }
-  },
-  {
-    "coin": "SUSHI-FTM20",
-    "name": "sushi_ftm20",
-    "fname": "Sushi",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "SUSHI-KRC20",
@@ -12763,25 +12849,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "SYN-FTM20",
-    "name": "syn_ftm20",
-    "fname": "Synapse",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0xE55e19Fb4F2D85af758950957714292DAC1e25B2"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "SYS",
     "name": "syscoin",
     "fname": "Syscoin",
@@ -12872,6 +12939,44 @@
       "protocol_data": {
         "platform": "BNB",
         "contract_address": "0x83BC92dcfC1F62Ba5dbd0f3537032f83a004300A"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "TBTC-ARB20",
+    "name": "tbtc_arb20",
+    "fname": "tBTC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "TBTC-BASE",
+    "name": "tbtc_base",
+    "fname": "tBTC",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -13063,6 +13168,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "THC",
     "fname": "HempCoin",
+    "is_privacy_coin": true,
     "rpcport": 36790,
     "pubtype": 60,
     "p2shtype": 85,
@@ -13070,8 +13176,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -13103,6 +13208,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "TOKEL",
     "fname": "Tokel",
+    "is_privacy_coin": true,
     "rpcport": 29405,
     "pubtype": 60,
     "p2shtype": 85,
@@ -13110,8 +13216,7 @@
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
-    "required_confirmations": 2,
-    "requires_notarization": true,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -13253,6 +13358,25 @@
     }
   },
   {
+    "coin": "TRYB-BASE",
+    "name": "tryb_base",
+    "fname": "BiLira",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xFb8718a69aed7726AFb3f04D2Bd4bfDE1BdCb294"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "TRYB-BEP20",
     "name": "tryb_bep20",
     "fname": "BiLira",
@@ -13377,46 +13501,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "TUSD-FTM20",
-    "name": "tusd_ftm20",
-    "fname": "TrueUSD",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "TUSD-HCO20",
-    "name": "tusd_hco20",
-    "fname": "TrueUSD",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "TUSD-KRC20",
     "name": "tusd_krc20",
     "fname": "TrueUSD",
@@ -13514,29 +13598,6 @@
       }
     },
     "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "UIS-OLD",
-    "name": "unitus",
-    "fname": "Unitus (OLD)",
-    "sign_message_prefix": "Unitus Signed Message:\n",
-    "rpcport": 50604,
-    "pubtype": 68,
-    "p2shtype": 10,
-    "wiftype": 132,
-    "txfee": 2000000,
-    "dust": 6000000,
-    "mm2": 1,
-    "required_confirmations": 5,
-    "avg_blocktime": 60,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/723'",
-    "links": {
-      "github": "https://github.com/unitusdev/unitus",
-      "homepage": "https://unituscurrency.com"
-    }
   },
   {
     "coin": "UIS",
@@ -13681,26 +13742,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "UNI-HCO20",
-    "name": "uni_hco20",
-    "fname": "Uniswap",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "UNI-KRC20",
     "name": "uni_krc20",
     "fname": "Uniswap",
@@ -13786,15 +13827,26 @@
         "contract_address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "USDC-BASE",
+    "name": "usdc_base",
+    "fname": "USD Coin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+      }
+    },
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "USDC-AVX20",
@@ -13881,45 +13933,6 @@
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
     }
-  },
-  {
-    "coin": "USDC-FTM20",
-    "name": "usdc_ftm20",
-    "fname": "USD Coin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "USDC-HCO20",
-    "name": "usdc_hco20",
-    "fname": "USD Coin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "avg_blocktime": 3,
-    "decimals": 6,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "USDC-KRC20",
@@ -14065,46 +14078,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "USDT-FTM20",
-    "name": "usdt_ftm20",
-    "fname": "Tether",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 6,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "USDT-HCO20",
-    "name": "usdt_hco20",
-    "fname": "Tether",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 128,
-    "avg_blocktime": 3,
-    "decimals": 18,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "HT",
-        "contract_address": "0xa71EdC38d189767582C38A3145b5873052c3e47a"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "USDT-KRC20",
     "name": "usdt_krc20",
     "fname": "Tether",
@@ -14167,15 +14140,7 @@
         "contract_address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "USDT-AVX20",
@@ -14272,10 +14237,34 @@
     }
   },
   {
+    "coin": "UTOPIA-BEP20",
+    "name": "utopia_bep20",
+    "fname": "Utopia",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.75,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0xd83C128e7498bE555845A6dc331A99E1524C1777"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.utopiabnb.com"
+    }
+  },
+  {
     "coin": "vARRR",
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "vARRR",
     "fname": "vARRR",
+    "is_privacy_coin": true,
     "rpcport": 20778,
     "pubtype": 60,
     "p2shtype": 85,
@@ -14296,6 +14285,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "vDEX",
     "fname": "vDEX",
+    "is_privacy_coin": true,
     "rpcport": 21778,
     "pubtype": 60,
     "p2shtype": 85,
@@ -14505,6 +14495,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "VRSC",
     "fname": "Verus Coin",
+    "is_privacy_coin": true,
     "rpcport": 27486,
     "pubtype": 60,
     "p2shtype": 85,
@@ -14525,6 +14516,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "GRMS",
     "fname": "GRMS",
+    "is_privacy_coin": true,
     "rpcport": 21687,
     "pubtype": 60,
     "p2shtype": 85,
@@ -14722,15 +14714,7 @@
         "contract_address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b"
       }
     },
-    "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
-    "gas_limit": {
-      "eth_send_erc20": 400000,
-      "erc20_payment": 800000,
-      "erc20_receiver_spend": 700000,
-      "erc20_sender_refund": 700000
-    }
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "WOO-AVX20",
@@ -14766,26 +14750,6 @@
       "protocol_data": {
         "platform": "BNB",
         "contract_address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "WOO-FTM20",
-    "name": "woo_ftm20",
-    "fname": "WOO Network",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -15031,7 +14995,8 @@
     "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "RVN"
     },
     "derivation_path": "m/44'/1900'",
     "links": {
@@ -15268,6 +15233,7 @@
     "avg_blocktime": 32,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x4cdaa46741af44c68179c54c4fcb02c2bf646d30"
@@ -15391,26 +15357,6 @@
     }
   },
   {
-    "coin": "YFI-FTM20",
-    "name": "yfi_ftm20",
-    "fname": "yearn.finance",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 250,
-    "decimals": 18,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "FTM",
-        "contract_address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "YFI-KRC20",
     "name": "yfi_krc20",
     "fname": "yearn.finance",
@@ -15502,6 +15448,7 @@
     "coin": "ZEC",
     "name": "zcash",
     "fname": "Zcash",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Zcash Signed Message:\n",
     "rpcport": 8232,
     "taddr": 28,
@@ -15512,7 +15459,7 @@
     "txversion": 4,
     "overwintered": 1,
     "version_group_id": "0x892f2085",
-    "consensus_branch_id": "0xc8e71055",
+    "consensus_branch_id": "0x4dec4df0",
     "txfee": 100000,
     "mm2": 1,
     "required_confirmations": 3,
@@ -15531,6 +15478,7 @@
     "coin": "ZER",
     "name": "zero",
     "fname": "Zero",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Zero Signed Message:\n",
     "rpcport": 23811,
     "taddr": 28,
@@ -15697,6 +15645,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xfe59cbc1704e89a698571413a81f0de9d8f00c69"
@@ -15714,6 +15663,7 @@
     "name": "flux",
     "fname": "Flux",
     "sign_message_prefix": "Zelcash Signed Message:\n",
+    "is_privacy_coin": true,
     "rpcport": 16124,
     "taddr": 28,
     "pubtype": 184,
@@ -15793,6 +15743,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xf2703e93f87b846a7aacec1247beaec1c583daa4"
@@ -15818,6 +15769,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xb27d7bf95b03e02b55d5eb63d3f1692762101bf9"
@@ -15843,6 +15795,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x2f65a0af11d50d2d15962db39d7f7b0619ed55ae"
@@ -15868,6 +15821,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x72e531e37c31ecbe336208fd66e93b48df3af420"
@@ -15893,6 +15847,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x09800417b097c61b9fd26b3ddde4238304a110d5"
@@ -15918,6 +15873,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xd8dec2b605005749abbf4b060edad3070e23cf5c"
@@ -15943,6 +15899,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0xf397f39ce992b0f5bdc7ec1109d676d07f7af2f9"
@@ -15968,6 +15925,7 @@
     "dust": 72800,
     "protocol": {
       "type": "QRC20",
+      "chain_variant": "QTUM",
       "protocol_data": {
         "platform": "QTUM",
         "contract_address": "0x4060e21ac01b5c5d2a3f01cecd7cbf820f50be95"
@@ -16509,7 +16467,8 @@
     "required_confirmations": 1,
     "avg_blocktime": 600,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/1'"
   },
@@ -16646,6 +16605,7 @@
     "coin": "ZOMBIE",
     "asset": "ZOMBIE",
     "fname": "Zombie",
+    "is_privacy_coin": true,
     "txversion": 4,
     "overwintered": 1,
     "avg_blocktime": 60,
@@ -16683,6 +16643,7 @@
     "coin": "ZDEEX",
     "asset": "ZDEEX",
     "fname": "Zdeex",
+    "is_privacy_coin": true,
     "txversion": 4,
     "overwintered": 1,
     "mm2": 1,
@@ -16751,7 +16712,8 @@
     "required_confirmations": 6,
     "avg_blocktime": 120,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "QTUM"
     },
     "derivation_path": "m/44'/88'",
     "links": {
@@ -16763,6 +16725,7 @@
     "coin": "ACTN",
     "asset": "ACTN",
     "fname": "Action Coin",
+    "is_privacy_coin": true,
     "sign_message_prefix": "Komodo Signed Message:\n",
     "rpcport": 51677,
     "pubtype": 60,
@@ -16773,7 +16736,6 @@
     "txfee": 1000,
     "mm2": 1,
     "required_confirmations": 2,
-    "requires_notarization": false,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -17002,7 +16964,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "RVN"
     },
     "derivation_path": "m/44'/175'",
     "links": {
@@ -17066,7 +17029,8 @@
     "required_confirmations": 3,
     "avg_blocktime": 60,
     "protocol": {
-      "type": "UTXO"
+      "type": "UTXO",
+      "chain_variant": "BTC"
     },
     "derivation_path": "m/44'/1669'",
     "links": {
@@ -17172,6 +17136,7 @@
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "LUPA",
     "fname": "Lupaza",
+    "is_privacy_coin": true,
     "rpcport": 64151,
     "pubtype": 60,
     "p2shtype": 85,
@@ -17272,27 +17237,6 @@
     }
   },
   {
-    "coin": "NFT_FTM",
-    "name": "nft_ftm",
-    "fname": "Fantom",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 250,
-    "required_confirmations": 3,
-    "avg_blocktime": 1.8,
-    "protocol": {
-      "type": "NFT",
-      "protocol_data": {
-        "platform": "FTM"
-      }
-    },
-    "derivation_path": "m/44'/1007'",
-    "trezor_coin": "Fantom Opera",
-    "links": {
-      "homepage": "https://fantom.foundation"
-    }
-  },
-  {
     "coin": "NFT_MATIC",
     "name": "nft_matic",
     "fname": "Polygon",
@@ -17337,13 +17281,38 @@
     }
   },
   {
+	"coin": "VRM",
+	"name": "veriumreserve",
+	"fname": "Verium Reserve",
+	"rpcport": 33987,
+	"pubtype": 70,
+	"p2shtype": 132,
+	"wiftype": 198,
+	"txfee": 1000000,
+    "isPoS": 1,
+	"segwit": false,
+	"force_min_relay_fee": true,
+	"mm2": 1,
+	"confpath": "USERHOME/.verium/verium.conf",
+	"required_confirmations": 5,
+	"avg_blocktime": 240,
+	"protocol": {
+	  "type": "UTXO"
+	},
+   	"derivation_path": "m/44'/8750'",
+    "links": {
+      "github": "https://github.com/VeriConomy/verium-current",
+      "homepage": "https://vericonomy.com"
+     }
+  },
+  {
     "coin": "CAS",
     "name": "cascoin",
     "fname": "Cascoin",
     "sign_message_prefix": "Cascoin Signed Message:\n",
     "rpcport": 62457,
     "pubtype": 40,
-    "p2shtype": 8,
+    "p2shtype": 50,
     "wiftype": 188,
     "decimals": 7,
     "fork_id": "0x40",
