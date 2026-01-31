@@ -734,7 +734,8 @@
         "1769762839": "online"
       },
       "bit-e.outsidethebox.top:50004": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769823874": "online"
       },
       "bitnet.outsidethebox.top:50002": {
         "1769762839": "offline"
@@ -1922,10 +1923,12 @@
         "1769762839": "online"
       },
       "electrumx2.diminutivecoin.com:50012": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769823874": "online"
       },
       "electrumx2.diminutivecoin.com:50013": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769823874": "online"
       }
     }
   },
@@ -2330,7 +2333,8 @@
     "all": {},
     "by_server": {
       "https://0xrpc.io/eth": {
-        "1769762839": "online"
+        "1769762839": "online",
+        "1769823874": "offline"
       },
       "https://eth.drpc.org": {
         "1769762839": "online"
@@ -2345,7 +2349,8 @@
         "1769762839": "online"
       },
       "wss://0xrpc.io/eth": {
-        "1769762839": "online"
+        "1769762839": "online",
+        "1769823874": "offline"
       },
       "wss://eth.drpc.org": {
         "1769762839": "online"
