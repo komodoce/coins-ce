@@ -4818,6 +4818,22 @@
       }
     }
   },
+  "KMDCL": {
+    "all": {
+      "1769858997": "offline"
+    },
+    "by_server": {
+      "electrum.kmdclassic.com:50001": {
+        "1769858997": "offline"
+      },
+      "electrum.kmdclassic.com:50002": {
+        "1769858997": "offline"
+      },
+      "electrum.kmdclassic.com:50004": {
+        "1769858997": "offline"
+      }
+    }
+  },
   "KOIN": {
     "all": {
       "1755770395": "online"
@@ -6641,7 +6657,8 @@
         "1769044482": "offline",
         "1769130853": "online",
         "1769476724": "offline",
-        "1769532251": "online"
+        "1769532251": "online",
+        "1769858997": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
