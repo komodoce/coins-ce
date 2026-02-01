@@ -939,13 +939,16 @@
         "1769762839": "offline"
       },
       "electrumserver01.globalboost.info:50011": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769911332": "online"
       },
       "electrumserver01.globalboost.info:50013": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769911332": "online"
       },
       "electrumserver01.globalboost.info:50014": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769911332": "online"
       },
       "electrumserver02.globalboost.info:50011": {
         "1769762839": "online"
@@ -2334,7 +2337,8 @@
     "by_server": {
       "https://0xrpc.io/eth": {
         "1769762839": "online",
-        "1769823874": "offline"
+        "1769823874": "offline",
+        "1769911332": "online"
       },
       "https://eth.drpc.org": {
         "1769762839": "online"
@@ -2350,7 +2354,8 @@
       },
       "wss://0xrpc.io/eth": {
         "1769762839": "online",
-        "1769823874": "offline"
+        "1769823874": "offline",
+        "1769911332": "online"
       },
       "wss://eth.drpc.org": {
         "1769762839": "online"
@@ -4434,6 +4439,9 @@
       "electrum.mewccrypto.com:50004": {
         "1769762839": "online"
       },
+      "meowelectrum.xyz:50002": {
+        "1769911332": "online"
+      },
       "meowelectrum.xyz:50004": {
         "1769762839": "offline"
       }
@@ -4484,7 +4492,8 @@
         "1769762839": "online"
       },
       "https://moonriver.drpc.org": {
-        "1769762839": "online"
+        "1769762839": "online",
+        "1769911332": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1769762839": "online"
@@ -4493,7 +4502,8 @@
         "1769762839": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1769762839": "online"
+        "1769762839": "online",
+        "1769911332": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1769762839": "online"
@@ -5037,7 +5047,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769911332": "online"
       },
       "https://api.harmony.one": {
         "1769762839": "online"
