@@ -2338,7 +2338,8 @@
       "https://0xrpc.io/eth": {
         "1769762839": "online",
         "1769823874": "offline",
-        "1769911332": "online"
+        "1769911332": "online",
+        "1769997306": "offline"
       },
       "https://eth.drpc.org": {
         "1769762839": "online"
@@ -2355,7 +2356,8 @@
       "wss://0xrpc.io/eth": {
         "1769762839": "online",
         "1769823874": "offline",
-        "1769911332": "online"
+        "1769911332": "online",
+        "1769997306": "offline"
       },
       "wss://eth.drpc.org": {
         "1769762839": "online"
@@ -4493,7 +4495,8 @@
       },
       "https://moonriver.drpc.org": {
         "1769762839": "online",
-        "1769911332": "offline"
+        "1769911332": "offline",
+        "1769997306": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1769762839": "online"
@@ -4503,7 +4506,8 @@
       },
       "wss://moonriver.drpc.org": {
         "1769762839": "online",
-        "1769911332": "offline"
+        "1769911332": "offline",
+        "1769997306": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1769762839": "online"
@@ -5048,7 +5052,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1769762839": "offline",
-        "1769911332": "online"
+        "1769911332": "online",
+        "1769997306": "offline"
       },
       "https://api.harmony.one": {
         "1769762839": "online"
@@ -5956,10 +5961,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769997306": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769997306": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1769762839": "online"
@@ -5971,10 +5978,12 @@
         "1769762839": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769997306": "online"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1769762839": "offline"
+        "1769762839": "offline",
+        "1769997306": "online"
       }
     }
   },
