@@ -2371,7 +2371,8 @@
         "1769823874": "offline",
         "1769911332": "online",
         "1769997306": "offline",
-        "1770083647": "online"
+        "1770083647": "online",
+        "1770169745": "offline"
       },
       "wss://eth.drpc.org": {
         "1769762839": "online"
@@ -4454,6 +4455,12 @@
       },
       "electrum.mewccrypto.com:50004": {
         "1769762839": "online"
+      },
+      "meowcoinelectrum.xyz:50002": {
+        "1770169745": "online"
+      },
+      "meowcoinelectrum.xyz:50004": {
+        "1770169745": "online"
       },
       "meowelectrum.xyz:50002": {
         "1769911332": "online"
