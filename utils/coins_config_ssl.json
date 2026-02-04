@@ -297,8 +297,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x111111111117dC0aa78b770fA6A738034120C302",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -360,8 +360,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5da3E93faB0580bD7a532A741aC5F886376EFF46",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -700,8 +700,8 @@
         },
         "contract_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1050,8 +1050,8 @@
         },
         "contract_address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1162,8 +1162,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1287,8 +1287,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1504,8 +1504,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1680,8 +1680,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -1914,8 +1914,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -2082,8 +2082,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -2587,8 +2587,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xa6C0c097741D55ECd9a3A7DeF3A8253fD022ceB9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -2909,8 +2909,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xaD22f63404f7305e4713CcBd4F296f34770513f4",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -3107,8 +3107,8 @@
         },
         "contract_address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -3456,8 +3456,8 @@
         },
         "contract_address": "0xba100000625a3754423978a60c9317c58a424e3D",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -3729,8 +3729,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -3898,8 +3898,8 @@
         },
         "contract_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -4308,8 +4308,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xa774FFB4AF6B0A91331C084E1aebAE6Ad535e6F3",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -4636,8 +4636,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x85c4EdC43724e954e5849cAAab61A26a9CB65F1B",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -4853,8 +4853,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -5413,8 +5413,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -5622,8 +5622,8 @@
         },
         "contract_address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -5743,8 +5743,8 @@
         },
         "contract_address": "0x64d0f55Cd8C7133a9D7102b13987235F486F2224",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -5856,8 +5856,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x01d33FD36ec67c6Ada32cf36b31e88EE190B1839",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -6673,8 +6673,8 @@
         },
         "contract_address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -7119,8 +7119,8 @@
         },
         "contract_address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -7388,8 +7388,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xcaDC0acd4B445166f12d2C07EAc6E2544FbE2Eef",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -7871,8 +7871,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -7993,8 +7993,8 @@
         },
         "contract_address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -8422,8 +8422,8 @@
         },
         "contract_address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -8539,8 +8539,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -8967,8 +8967,8 @@
         },
         "contract_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -9136,8 +9136,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -9377,8 +9377,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -9744,8 +9744,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -9978,8 +9978,8 @@
         },
         "contract_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -10284,8 +10284,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -10350,8 +10350,8 @@
         },
         "contract_address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -10413,8 +10413,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -10745,8 +10745,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -11485,8 +11485,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -12108,8 +12108,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xb0DBa4BD6b6C4fC9A1263D8C19A57A6BdD740A52",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -12231,8 +12231,8 @@
         },
         "contract_address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -12357,8 +12357,8 @@
         },
         "contract_address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -12673,8 +12673,8 @@
         },
         "trezor_coin": "Ethereum",
         "derivation_path": "m/44'/60'",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13158,8 +13158,8 @@
         },
         "contract_address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13272,8 +13272,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13397,8 +13397,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13527,8 +13527,8 @@
         },
         "contract_address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13749,8 +13749,8 @@
         },
         "contract_address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13871,8 +13871,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -13934,8 +13934,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -14156,8 +14156,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -14852,8 +14852,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x160B1E5aaBFD70B2FC40Af815014925D71CEEd7E",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -15182,8 +15182,8 @@
         },
         "contract_address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -15301,8 +15301,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -15531,8 +15531,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -15644,8 +15644,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -16066,8 +16066,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -16464,8 +16464,8 @@
         },
         "contract_address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -16749,8 +16749,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x58f7345b5295E43aA454911571f13be186655BE9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17007,8 +17007,8 @@
         },
         "contract_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17226,8 +17226,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17342,8 +17342,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17463,8 +17463,8 @@
         },
         "contract_address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17588,8 +17588,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17705,8 +17705,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -17866,8 +17866,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -18322,8 +18322,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -18441,8 +18441,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -18558,8 +18558,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -18785,8 +18785,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -19292,8 +19292,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -19579,8 +19579,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -19754,8 +19754,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x7409856CAE628f5d578B285B45669b36E7005283",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -20398,8 +20398,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x8A9C67fee641579dEbA04928c4BC45F66e26343A",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -21294,8 +21294,8 @@
         },
         "contract_address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22033,8 +22033,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22162,8 +22162,8 @@
         },
         "contract_address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22278,8 +22278,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22653,8 +22653,8 @@
         },
         "contract_address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22825,8 +22825,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x27C70Cd1946795B66be9d954418546998b546634",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -22893,8 +22893,8 @@
         },
         "contract_address": "0x42476F744292107e34519F9c357927074Ea3F75D",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -23015,8 +23015,8 @@
         },
         "contract_address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -23402,8 +23402,8 @@
         },
         "contract_address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -23671,8 +23671,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -23858,8 +23858,8 @@
         },
         "contract_address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -23981,8 +23981,8 @@
         },
         "contract_address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24044,8 +24044,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24306,8 +24306,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24373,8 +24373,8 @@
         },
         "contract_address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24486,8 +24486,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24702,8 +24702,8 @@
         },
         "contract_address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -24874,8 +24874,8 @@
         },
         "contract_address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -25224,8 +25224,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xcBB8f1BDA10b9696c57E13BC128Fe674769DCEc0",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -25724,8 +25724,8 @@
         },
         "contract_address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -26227,8 +26227,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xDa446fAd08277B4D2591536F204E018f32B6831c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -26496,8 +26496,8 @@
         },
         "contract_address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -26613,8 +26613,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -26799,8 +26799,8 @@
         },
         "contract_address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -26918,6 +26918,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -27022,8 +27025,8 @@
         },
         "contract_address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -27237,8 +27240,8 @@
         },
         "contract_address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -27482,8 +27485,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x808507121B80c02388fAd14726482e061B8da827",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -27598,8 +27601,8 @@
         },
         "contract_address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -27956,8 +27959,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x390603F023A33C76e3A4bf7B6Cc9Fba5E87dd05D",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -28085,8 +28088,8 @@
         },
         "contract_address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -28256,8 +28259,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x044d078F1c86508e13328842Cc75AC021B272958",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -28422,8 +28425,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -28539,8 +28542,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -28716,8 +28719,8 @@
         },
         "contract_address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29300,8 +29303,8 @@
         },
         "contract_address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29368,8 +29371,8 @@
         },
         "contract_address": "0x4a220E6096B25EADb88358cb44068A3248254675",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29615,8 +29618,8 @@
         },
         "contract_address": "0x3103dF8F05c4D8aF16fD22AE63E406b97FeC6938",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29863,8 +29866,8 @@
         },
         "contract_address": "0x408e41876cCCDC0F92210600ef50372656052a38",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29929,8 +29932,8 @@
         },
         "contract_address": "0x221657776846890989a759BA2973e427DfF5C9bB",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -29992,8 +29995,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -30483,8 +30486,8 @@
         },
         "contract_address": "0x607F4C5BB672230e8672085532f7e901544a7375",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -30600,8 +30603,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -30725,8 +30728,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -30793,8 +30796,8 @@
         },
         "contract_address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -31029,8 +31032,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -31419,8 +31422,8 @@
         },
         "contract_address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -31699,8 +31702,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -32157,8 +32160,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -32430,8 +32433,8 @@
         },
         "contract_address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -32747,8 +32750,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -32852,8 +32855,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -33236,8 +33239,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -33452,8 +33455,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -33675,8 +33678,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -33999,8 +34002,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -34480,8 +34483,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -34597,8 +34600,8 @@
         },
         "contract_address": "0x0000000000085d4780B73119b644AE5ecd22b376",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -34861,8 +34864,8 @@
         },
         "contract_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -35075,8 +35078,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -35245,8 +35248,8 @@
         },
         "contract_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -35720,8 +35723,8 @@
         },
         "contract_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -36098,8 +36101,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -36511,7 +36514,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "fname": "Tether",
         "rpcport": 80,
         "mm2": 1,
@@ -36532,8 +36535,8 @@
         },
         "contract_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -36920,8 +36923,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -36983,8 +36986,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -37511,8 +37514,8 @@
         },
         "contract_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -37636,8 +37639,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x163f8C2467924be0ae7B5347228CABF260318753",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -37699,8 +37702,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -37974,8 +37977,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -38206,8 +38209,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xebF2096E01455108bAdCbAF86cE30b6e5A72aa52",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -38720,8 +38723,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -38788,8 +38791,8 @@
         },
         "contract_address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -39365,8 +39368,8 @@
         },
         "contract_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -39588,8 +39591,8 @@
         },
         "contract_address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -40029,8 +40032,8 @@
         },
         "contract_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -40270,8 +40273,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41044,8 +41047,8 @@
         },
         "contract_address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41111,8 +41114,8 @@
         },
         "contract_address": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41179,8 +41182,8 @@
         },
         "contract_address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41247,8 +41250,8 @@
         },
         "contract_address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41310,8 +41313,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41373,8 +41376,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41440,8 +41443,8 @@
         },
         "contract_address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41503,8 +41506,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x973e52691176d36453868D9d86572788d27041A9",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41571,8 +41574,8 @@
         },
         "contract_address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41638,8 +41641,8 @@
         },
         "contract_address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41706,8 +41709,8 @@
         },
         "contract_address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41769,8 +41772,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41836,8 +41839,8 @@
         },
         "contract_address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41904,8 +41907,8 @@
         },
         "contract_address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -41967,8 +41970,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -42030,8 +42033,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -42097,8 +42100,8 @@
         },
         "contract_address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -42160,8 +42163,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -42223,8 +42226,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -42336,8 +42339,8 @@
         "derivation_path": "m/44'/60'",
         "contract_address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
@@ -43815,8 +43818,8 @@
         },
         "derivation_path": "m/44'/60'",
         "parent_coin": "ETH",
-        "swap_contract_address": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
-        "fallback_swap_contract": "0x8500AFc0bc5214728082163326C2FF0C73f4a871",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
                 "url": "https://0xrpc.io/eth",
