@@ -910,8 +910,14 @@
       "https://bsc-dataseed3.bnbchain.org": {
         "1770247310": "online"
       },
+      "https://bsc.blockrazor.xyz": {
+        "1770256840": "online"
+      },
       "https://bsc.drpc.org": {
         "1770247310": "online"
+      },
+      "https://bsc.meowrpc.com": {
+        "1770256840": "online"
       },
       "https://bsc1.cipig.net:18655": {
         "1770247310": "online"
@@ -1219,10 +1225,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1770247310": "online"
@@ -1266,10 +1274,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1770247310": "online"
@@ -2502,13 +2512,16 @@
         "1770247310": "online"
       },
       "electrum2-mainnet.evrmorecoin.org:50001": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "electrum2-mainnet.evrmorecoin.org:50002": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       },
       "electrum2-mainnet.evrmorecoin.org:50004": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770256840": "online"
       }
     }
   },
