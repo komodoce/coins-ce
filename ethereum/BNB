@@ -9,7 +9,11 @@
             "url": "https://bsc-dataseed3.bnbchain.org"
         },
         {
-            "url": "https://bsc.meowrpc.com"
+            "url": "https://bsc.api.pocket.network"
+        },
+        {
+            "url": "https://bsc-rpc.publicnode.com",
+            "ws_url": "wss://bsc-rpc.publicnode.com"
         },
         {
             "url": "https://bsc1.cipig.net:18655",
