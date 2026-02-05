@@ -24209,6 +24209,10 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -40819,6 +40823,9 @@
             },
             {
                 "url": "https://rpc.cosmos.directory/irisnet"
+            },
+            {
+                "url": "https://rpc.irishub-1.irisnet.org"
             }
         ],
         "explorer_block_url": "block/"

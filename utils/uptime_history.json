@@ -314,7 +314,8 @@
     "by_server": {
       "https://1rpc.io/avax/c": {
         "1770247310": "online",
-        "1770262590": "offline"
+        "1770262590": "offline",
+        "1770264404": "online"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1770247310": "online"
@@ -324,6 +325,9 @@
       },
       "https://avalanche.drpc.org": {
         "1770247310": "online"
+      },
+      "https://avax.api.pocket.network": {
+        "1770264404": "online"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1770247310": "online"
@@ -3550,7 +3554,8 @@
       },
       "https://rpc.irishub-1.irisnet.org": {
         "1770247310": "online",
-        "1770262590": "offline"
+        "1770262590": "offline",
+        "1770264404": "online"
       }
     }
   },
@@ -4603,7 +4608,8 @@
       },
       "https://moonriver.drpc.org": {
         "1770247310": "online",
-        "1770262590": "offline"
+        "1770262590": "offline",
+        "1770264404": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -4613,7 +4619,8 @@
       },
       "wss://moonriver.drpc.org": {
         "1770247310": "online",
-        "1770262590": "offline"
+        "1770262590": "offline",
+        "1770264404": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -5158,7 +5165,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1770247310": "online",
-        "1770262590": "offline"
+        "1770262590": "offline",
+        "1770264404": "online"
       },
       "https://api.harmony.one": {
         "1770247310": "online"
