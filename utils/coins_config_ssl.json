@@ -105,6 +105,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -630,6 +633,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -1185,6 +1191,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -2825,6 +2834,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/avax/c"
+            },
+            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -2834,6 +2846,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/",
@@ -3521,6 +3536,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -4047,6 +4065,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -5048,6 +5069,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -6278,6 +6302,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -7362,6 +7389,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -9279,6 +9309,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -9926,6 +9959,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -10383,6 +10419,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -13319,6 +13358,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/",
@@ -13650,6 +13692,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -16136,6 +16181,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -17175,6 +17223,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -17732,6 +17783,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -20095,6 +20149,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -20395,6 +20452,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -21226,6 +21286,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -22400,6 +22463,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -23345,6 +23411,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -25727,6 +25796,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -26078,6 +26150,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -26491,6 +26566,10 @@
             {
                 "url": "https://moonriver-rpc.publicnode.com",
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
+            },
+            {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -28122,6 +28201,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -32659,6 +32741,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -33253,6 +33338,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -33305,6 +33393,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -33720,6 +33811,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -34463,6 +34557,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -35769,6 +35866,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -36183,6 +36283,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -36562,6 +36665,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -36731,6 +36837,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -37171,6 +37280,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -37223,6 +37335,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -37956,6 +38071,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -38008,6 +38126,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -39450,6 +39571,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -40976,6 +41100,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -41738,6 +41865,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
@@ -44843,6 +44973,9 @@
             },
             {
                 "url": "https://rpc.cosmos.directory/irisnet"
+            },
+            {
+                "url": "https://rpc.irishub-1.irisnet.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -45713,6 +45846,9 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
+            },
+            {
+                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/"
