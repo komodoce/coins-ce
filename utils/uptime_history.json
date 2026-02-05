@@ -313,7 +313,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/avax/c": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770262590": "offline"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1770247310": "online"
@@ -910,6 +911,12 @@
       "https://bsc-dataseed3.bnbchain.org": {
         "1770247310": "online"
       },
+      "https://bsc-rpc.publicnode.com": {
+        "1770262590": "online"
+      },
+      "https://bsc.api.pocket.network": {
+        "1770262590": "online"
+      },
       "https://bsc.blockrazor.xyz": {
         "1770256840": "online"
       },
@@ -924,6 +931,9 @@
       },
       "https://bsc3.cipig.net:18655": {
         "1770247310": "online"
+      },
+      "wss://bsc-rpc.publicnode.com": {
+        "1770262590": "online"
       },
       "wss://bsc.drpc.org": {
         "1770247310": "online"
@@ -3539,7 +3549,8 @@
         "1770247310": "online"
       },
       "https://rpc.irishub-1.irisnet.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770262590": "offline"
       }
     }
   },
@@ -4591,7 +4602,8 @@
         "1770247310": "online"
       },
       "https://moonriver.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770262590": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -4600,7 +4612,8 @@
         "1770247310": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770262590": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -5144,7 +5157,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770262590": "offline"
       },
       "https://api.harmony.one": {
         "1770247310": "online"
