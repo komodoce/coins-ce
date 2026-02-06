@@ -915,6 +915,9 @@
   "BNB": {
     "all": {},
     "by_server": {
+      "https://bsc-dataseed2.defibit.io": {
+        "1770352122": "online"
+      },
       "https://bsc-dataseed3.bnbchain.org": {
         "1770247310": "online"
       },
