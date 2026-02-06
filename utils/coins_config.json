@@ -3479,6 +3479,42 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "axe.electrum2.cipig.net:10057",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "axe.electrum2.cipig.net:20057",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "axe.electrum2.cipig.net:30057",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -14874,6 +14910,16 @@
             },
             {
                 "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             }
@@ -30556,10 +30602,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -30604,10 +30646,6 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
-            },
             {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
@@ -32482,10 +32520,6 @@
             },
             {
                 "url": "https://api.s0.t.hmny.io"
-            },
-            {
-                "url": "https://harmony-0.drpc.org",
-                "ws_url": "wss://harmony-0.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -53337,6 +53371,15 @@
             {
                 "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"

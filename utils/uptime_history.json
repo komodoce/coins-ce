@@ -456,13 +456,16 @@
         "1770247310": "online"
       },
       "axe.electrum2.cipig.net:10057": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "axe.electrum2.cipig.net:20057": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "axe.electrum2.cipig.net:30057": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "axe.electrum3.cipig.net:10057": {
         "1770247310": "offline"
@@ -1142,6 +1145,13 @@
               "discord": "426842722436120577"
             }
           ]
+        },
+        "electrum5.btcz.rocks:50004": {
+          "contact": [
+            {
+              "discord": "426842722436120577"
+            }
+          ]
         }
       },
       "electrum1.btcz.rocks:50001": {
@@ -1164,6 +1174,9 @@
       },
       "electrum5.btcz.rocks:50002": {
         "1770247310": "offline"
+      },
+      "electrum5.btcz.rocks:50004": {
+        "1770342585": "offline"
       }
     }
   },
@@ -1876,6 +1889,9 @@
       "electrumx.dgc.ewmcx.org:50002": {
         "1770247310": "offline"
       },
+      "electrumx.dgc.ewmcx.org:50003": {
+        "1770342585": "offline"
+      },
       "failover.dgc.ewmcx.biz:50002": {
         "1770247310": "online"
       },
@@ -2293,10 +2309,12 @@
         "1770247310": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "electrum5.egulden.org:11017": {
         "1770247310": "offline"
@@ -2417,7 +2435,8 @@
         "1770247310": "online"
       },
       "wss://0xrpc.io/eth": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "wss://eth.drpc.org": {
         "1770247310": "online"
@@ -3045,7 +3064,8 @@
     "all": {},
     "by_server": {
       "https://moonbeam.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770342585": "offline"
       },
       "https://moonbeam.public.blastapi.io": {
         "1770247310": "offline"
@@ -3054,7 +3074,8 @@
         "1770247310": "online"
       },
       "wss://moonbeam.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770342585": "offline"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1770247310": "offline"
@@ -4555,7 +4576,8 @@
         "1770247310": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770342585": "online"
       },
       "meowelectrum.xyz:50004": {
         "1770247310": "offline"
@@ -4609,7 +4631,8 @@
       "https://moonriver.drpc.org": {
         "1770247310": "online",
         "1770262590": "offline",
-        "1770264404": "online"
+        "1770264404": "online",
+        "1770342585": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -4620,7 +4643,8 @@
       "wss://moonriver.drpc.org": {
         "1770247310": "online",
         "1770262590": "offline",
-        "1770264404": "online"
+        "1770264404": "online",
+        "1770342585": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -5175,10 +5199,12 @@
         "1770247310": "online"
       },
       "https://harmony-0.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770342585": "offline"
       },
       "wss://harmony-0.drpc.org": {
-        "1770247310": "online"
+        "1770247310": "online",
+        "1770342585": "offline"
       }
     }
   },
