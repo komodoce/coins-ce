@@ -3068,7 +3068,8 @@
     "by_server": {
       "https://moonbeam.drpc.org": {
         "1770247310": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       },
       "https://moonbeam.public.blastapi.io": {
         "1770247310": "offline"
@@ -3078,7 +3079,8 @@
       },
       "wss://moonbeam.drpc.org": {
         "1770247310": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1770247310": "offline"
@@ -4635,7 +4637,8 @@
         "1770247310": "online",
         "1770262590": "offline",
         "1770264404": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -4647,7 +4650,8 @@
         "1770247310": "online",
         "1770262590": "offline",
         "1770264404": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770247310": "online"
@@ -5203,11 +5207,13 @@
       },
       "https://harmony-0.drpc.org": {
         "1770247310": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       },
       "wss://harmony-0.drpc.org": {
         "1770247310": "online",
-        "1770342585": "offline"
+        "1770342585": "offline",
+        "1770428830": "online"
       }
     }
   },
@@ -6249,7 +6255,8 @@
         "1770247310": "online"
       },
       "el2.verus.io:17488": {
-        "1770247310": "offline"
+        "1770247310": "offline",
+        "1770428830": "online"
       }
     }
   },
