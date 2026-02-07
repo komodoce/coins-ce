@@ -327,10 +327,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -350,6 +346,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -390,10 +389,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -413,6 +408,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -746,10 +744,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -769,6 +763,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -1152,10 +1149,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1175,6 +1168,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -1270,10 +1266,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1293,6 +1285,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -1395,10 +1390,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1418,6 +1409,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -1739,10 +1733,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1762,6 +1752,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -1916,10 +1909,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1939,6 +1928,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -2170,10 +2162,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2193,6 +2181,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -2349,10 +2340,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2372,6 +2359,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -2984,10 +2974,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3007,6 +2993,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -3380,10 +3369,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3403,6 +3388,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -3624,10 +3612,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3647,6 +3631,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -4015,10 +4002,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4038,6 +4021,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -4308,10 +4294,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4331,6 +4313,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -4483,10 +4468,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4506,6 +4487,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -5023,10 +5007,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5046,6 +5026,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -5421,10 +5404,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5444,6 +5423,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/",
@@ -5664,10 +5646,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5687,6 +5665,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -6567,10 +6548,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6590,6 +6567,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -6786,10 +6766,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6809,6 +6785,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -6907,10 +6886,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6930,6 +6905,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -7030,10 +7008,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -7053,6 +7027,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -7210,18 +7187,6 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
-            {
-                "url": "bsty-main.coinmunity.gold:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "bsty-main.coinmunity.gold:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "bsty-main.coinmunity.gold:50013",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrumserver01.globalboost.info:50011",
                 "protocol": "TCP"
@@ -8173,10 +8138,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8196,6 +8157,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -8727,10 +8691,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8750,6 +8710,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -9007,10 +8970,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9030,6 +8989,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -9602,10 +9564,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9625,6 +9583,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -9724,10 +9685,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9747,6 +9704,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -10328,10 +10288,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -10351,6 +10307,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -10445,10 +10404,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -10468,6 +10423,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -10983,10 +10941,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11006,6 +10960,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -11152,10 +11109,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11175,6 +11128,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -11465,10 +11421,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11488,6 +11440,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -11859,10 +11814,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11882,6 +11833,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -12135,10 +12089,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12158,6 +12108,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -12523,10 +12476,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12546,6 +12495,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -12589,10 +12541,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12612,6 +12560,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -12652,10 +12603,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12675,6 +12622,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -13092,16 +13042,6 @@
                         "discord": "475820011634819072"
                     }
                 ]
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -13142,10 +13082,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -13165,6 +13101,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -13561,50 +13500,6 @@
             "homepage": "https://diminutivecoin.com"
         },
         "electrum": [
-            {
-                "url": "electrumx1.diminutivecoin.com:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "support@diminutivecoin.com"
-                    },
-                    {
-                        "twitter": "coin_dimi"
-                    },
-                    {
-                        "reddit": "DiminutiveCoin_DIMI"
-                    },
-                    {
-                        "github": "MadCatMining"
-                    },
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx1.diminutivecoin.com:50013",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "support@diminutivecoin.com"
-                    },
-                    {
-                        "twitter": "coin_dimi"
-                    },
-                    {
-                        "reddit": "DiminutiveCoin_DIMI"
-                    },
-                    {
-                        "github": "MadCatMining"
-                    },
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.diminutivecoin.com:50012",
                 "protocol": "SSL",
@@ -14148,10 +14043,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14171,6 +14062,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -15027,10 +14921,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15050,6 +14940,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -15160,10 +15053,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15183,6 +15072,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -15334,10 +15226,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15357,6 +15245,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -15670,10 +15561,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15693,6 +15580,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/",
@@ -16178,10 +16068,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16201,6 +16087,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16293,10 +16182,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16316,6 +16201,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16418,10 +16306,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16441,6 +16325,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16548,10 +16435,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16571,6 +16454,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16780,10 +16666,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16803,6 +16685,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16912,10 +16797,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16935,6 +16816,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -16975,10 +16859,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16998,6 +16878,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -17217,10 +17100,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17240,6 +17119,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -18245,10 +18127,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -18268,6 +18146,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -18772,10 +18653,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -18795,6 +18672,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -18901,10 +18781,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -18924,6 +18800,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -19137,10 +19016,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -19160,6 +19035,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -19260,10 +19138,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -19283,6 +19157,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -19901,10 +19778,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -19924,6 +19797,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -20326,10 +20202,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -20349,6 +20221,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -20580,35 +20455,6 @@
                         "discord": "orpheas#1503"
                     }
                 ]
-            },
-            {
-                "url": "electrum.niftybakes.com:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "405566674448810005"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.niftybakes.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "405566674448810005"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.niftybakes.com:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "405566674448810005"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -20649,10 +20495,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -20672,6 +20514,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -20973,10 +20818,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -20996,6 +20837,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21202,10 +21046,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21225,6 +21065,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21328,10 +21171,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21351,6 +21190,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21459,10 +21301,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21482,6 +21320,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21584,10 +21425,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21607,6 +21444,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21701,10 +21541,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21724,6 +21560,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -21862,10 +21701,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21885,6 +21720,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -22431,10 +22269,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22454,6 +22288,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -22560,10 +22397,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22583,6 +22416,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -22687,10 +22523,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22710,6 +22542,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -22934,10 +22769,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22957,6 +22788,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -23487,10 +23321,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23510,6 +23340,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -23790,10 +23623,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23813,6 +23642,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -23975,10 +23807,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23998,6 +23826,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -24625,10 +24456,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -24648,6 +24475,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -25713,10 +25543,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25736,6 +25562,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -26730,10 +26559,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26753,6 +26578,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -26894,10 +26722,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26917,6 +26741,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -27010,10 +26837,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27033,6 +26856,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -27421,10 +27247,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27444,6 +27266,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -27603,10 +27428,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27626,6 +27447,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -27671,10 +27495,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27694,6 +27514,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -27803,10 +27626,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27826,6 +27645,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -28366,10 +28188,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28389,6 +28207,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -28655,10 +28476,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28678,6 +28495,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -28875,10 +28695,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28898,6 +28714,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/",
@@ -29008,10 +28827,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29031,6 +28846,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -29071,10 +28889,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29094,6 +28908,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -29487,10 +29304,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29510,6 +29323,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -29554,10 +29370,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29577,6 +29389,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -29677,10 +29492,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29700,6 +29511,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -29919,10 +29733,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29942,6 +29752,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -30091,10 +29904,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -30114,6 +29923,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -30475,10 +30287,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -30498,6 +30306,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -31087,10 +30898,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31110,6 +30917,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -31795,10 +31605,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31818,6 +31624,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -32093,10 +31902,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32116,6 +31921,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -32210,10 +32018,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32233,6 +32037,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -32406,10 +32213,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32429,6 +32232,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -32642,10 +32448,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32665,6 +32467,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -32867,10 +32672,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32890,6 +32691,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -33199,10 +33003,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33222,6 +33022,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -33325,10 +33128,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33348,6 +33147,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -33765,10 +33567,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33788,6 +33586,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -33894,10 +33695,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33917,6 +33714,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -34075,10 +33875,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34098,6 +33894,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -34283,10 +34082,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34306,6 +34101,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -34400,10 +34198,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34423,6 +34217,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -34587,10 +34384,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34610,6 +34403,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -35469,10 +35265,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35492,6 +35284,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -35537,10 +35332,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35560,6 +35351,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -35880,10 +35674,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35903,6 +35693,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/",
@@ -36236,10 +36029,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36259,6 +36048,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -36302,10 +36094,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36325,6 +36113,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -36365,10 +36156,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36388,6 +36175,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -37118,10 +36908,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37141,6 +36927,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -37235,10 +37024,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37258,6 +37043,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -37360,10 +37148,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37383,6 +37167,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -37428,10 +37215,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37451,6 +37234,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -37795,10 +37581,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37818,6 +37600,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -38231,10 +38016,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -38254,6 +38035,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -38521,10 +38305,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -38544,6 +38324,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -39074,10 +38857,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39097,6 +38876,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -39373,10 +39155,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39396,6 +39174,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -39710,10 +39491,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39733,6 +39510,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -39815,10 +39595,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39838,6 +39614,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -40359,10 +40138,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40382,6 +40157,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -40586,10 +40364,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40609,6 +40383,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -40865,10 +40642,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40888,6 +40661,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -41194,44 +40970,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:10077",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            },
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -41270,10 +41010,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -41293,6 +41029,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -41802,10 +41541,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -41825,6 +41560,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -41929,10 +41667,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -41952,6 +41686,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -42209,10 +41946,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -42232,6 +41965,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -42437,10 +42173,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -42460,6 +42192,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -42613,10 +42348,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -42636,6 +42367,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -43125,10 +42859,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -43148,6 +42878,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -43523,10 +43256,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -43546,6 +43275,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -43980,10 +43712,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -44003,6 +43731,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -44589,10 +44320,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -44612,6 +44339,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -44652,10 +44382,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -44675,6 +44401,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -45398,10 +45127,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -45421,6 +45146,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -45523,10 +45251,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -45546,6 +45270,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -45586,10 +45313,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -45609,6 +45332,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -45878,10 +45604,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -45901,6 +45623,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -46157,10 +45882,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -46180,6 +45901,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -46817,10 +46541,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -46840,6 +46560,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -46885,10 +46608,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -46908,6 +46627,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -47634,10 +47356,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -47657,6 +47375,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -47867,10 +47588,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -47890,6 +47607,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -48509,10 +48229,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -48532,6 +48248,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -48831,10 +48550,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -48854,6 +48569,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/",
@@ -50191,10 +49909,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50214,6 +49928,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50258,10 +49975,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50281,6 +49994,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50358,10 +50074,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50381,6 +50093,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50426,10 +50141,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50449,6 +50160,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50489,10 +50203,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50512,6 +50222,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50552,10 +50265,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50575,6 +50284,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50619,10 +50331,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50642,6 +50350,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50682,10 +50393,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50705,6 +50412,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50750,10 +50460,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50773,6 +50479,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50817,10 +50526,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50840,6 +50545,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50923,10 +50631,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -50946,6 +50650,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -50986,10 +50693,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51009,6 +50712,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51053,10 +50759,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51076,6 +50778,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51121,10 +50826,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51144,6 +50845,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51184,10 +50888,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51207,6 +50907,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51247,10 +50950,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51270,6 +50969,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51314,10 +51016,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51337,6 +51035,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51377,10 +51078,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51400,6 +51097,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51440,10 +51140,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51463,6 +51159,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -51563,10 +51262,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -51586,6 +51281,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"
@@ -53404,15 +53102,6 @@
                         "discord": "Meowmancer#2099"
                     }
                 ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -53744,10 +53433,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -53767,6 +53452,9 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             }
         ],
         "explorer_block_url": "block/"

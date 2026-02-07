@@ -242,10 +242,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -304,10 +300,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -598,10 +590,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -898,10 +886,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1006,10 +990,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1131,10 +1111,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1344,10 +1320,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1514,10 +1486,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -1751,10 +1719,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -1914,10 +1878,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -2423,10 +2383,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2710,10 +2666,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -2896,10 +2848,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -3208,10 +3156,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3439,10 +3383,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -3604,10 +3544,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -3972,10 +3908,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4300,10 +4232,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -4515,10 +4443,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -5041,10 +4965,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5210,10 +5130,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5331,10 +5247,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -5444,10 +5356,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -5616,10 +5524,6 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
-            {
-                "url": "bsty-main.coinmunity.gold:50013",
-                "protocol": "WSS"
-            },
             {
                 "url": "electrumserver01.globalboost.info:50013",
                 "protocol": "WSS"
@@ -6278,10 +6182,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6722,10 +6622,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -6980,10 +6876,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -7436,10 +7328,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -7557,10 +7445,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -7985,10 +7869,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8101,10 +7981,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -8485,10 +8361,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -8609,10 +8481,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -8806,10 +8674,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -9124,10 +8988,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9354,10 +9214,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -9662,10 +9518,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9728,10 +9580,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -9790,10 +9638,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -10040,44 +9884,6 @@
         "explorer_block_url": "block/",
         "binance_id": "DGB"
     },
-    "DGC": {
-        "coin": "DGC",
-        "type": "UTXO",
-        "name": "Digitalcoin",
-        "coinpaprika_id": "dgc-digitalcoin",
-        "coingecko_id": "digitalcoin",
-        "livecoinwatch_id": "DGC",
-        "explorer_url": "https://chainz.cryptoid.info/dgc/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Digitalcoin Signed Message:\n",
-        "fname": "Digitalcoin",
-        "rpcport": 7998,
-        "pubtype": 30,
-        "p2shtype": 5,
-        "wiftype": 128,
-        "txfee": 10000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 36,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/18'",
-        "electrum": [
-            {
-                "url": "failover.dgc.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
     "DIA-ERC20": {
         "coin": "DIA-ERC20",
         "type": "ERC-20",
@@ -10113,10 +9919,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -10431,28 +10233,6 @@
             "homepage": "https://diminutivecoin.com"
         },
         "electrum": [
-            {
-                "url": "electrumx1.diminutivecoin.com:50013",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "support@diminutivecoin.com"
-                    },
-                    {
-                        "twitter": "coin_dimi"
-                    },
-                    {
-                        "reddit": "DiminutiveCoin_DIMI"
-                    },
-                    {
-                        "github": "MadCatMining"
-                    },
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.diminutivecoin.com:50013",
                 "protocol": "WSS",
@@ -10842,10 +10622,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11432,10 +11208,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -11555,10 +11327,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11681,10 +11449,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -11905,10 +11669,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12324,10 +12084,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -12432,10 +12188,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12557,10 +12309,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12687,10 +12435,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -12911,10 +12655,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -13034,10 +12774,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -13096,10 +12832,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -13320,10 +13052,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -14039,10 +13767,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14371,10 +14095,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14490,10 +14210,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -14718,10 +14434,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -14831,10 +14543,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -15256,10 +14964,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15648,10 +15352,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -15878,16 +15578,6 @@
                         "discord": "orpheas#1503"
                     }
                 ]
-            },
-            {
-                "url": "electrum.niftybakes.com:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "405566674448810005"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -15927,10 +15617,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16204,10 +15890,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16380,10 +16062,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16496,10 +16174,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16618,10 +16292,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -16744,10 +16414,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16861,10 +16527,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -16977,10 +16639,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -17461,10 +17119,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17581,10 +17235,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -17698,10 +17348,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -17927,10 +17573,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -18436,10 +18078,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -18721,10 +18359,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -18896,10 +18530,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -19537,10 +19167,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -20392,10 +20018,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21130,10 +20752,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21259,10 +20877,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21374,10 +20988,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -21706,10 +21316,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21879,10 +21485,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -21946,10 +21548,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -22069,10 +21667,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -22453,10 +22047,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22680,10 +22270,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22867,10 +22453,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -22991,10 +22573,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23053,10 +22631,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23317,10 +22891,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23383,10 +22953,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23497,10 +23063,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -23713,10 +23275,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -23840,10 +23398,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -24104,10 +23658,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -24603,10 +24153,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25045,10 +24591,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25316,10 +24858,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -25432,10 +24970,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -25619,10 +25153,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -25838,10 +25368,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26009,10 +25535,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26250,10 +25772,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26366,10 +25884,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26684,10 +26198,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -26812,10 +26322,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -26984,10 +26490,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27151,10 +26653,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -27267,10 +26765,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -27445,10 +26939,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -27987,10 +27477,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28054,10 +27540,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -28257,10 +27739,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -28506,10 +27984,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28572,10 +28046,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -28634,10 +28104,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29127,10 +28593,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29243,10 +28705,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29369,10 +28827,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -29436,10 +28890,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -29673,10 +29123,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -30065,10 +29511,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -30301,10 +29743,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -30750,10 +30188,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31021,10 +30455,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -31297,10 +30727,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31359,10 +30785,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -31742,10 +31164,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -31947,10 +31365,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -32171,10 +31585,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -32368,55 +31778,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "TKL": {
-        "coin": "TKL",
-        "type": "Smart Chain",
-        "name": "Tokel",
-        "coinpaprika_id": "tkl-tokel",
-        "coingecko_id": "tokel",
-        "livecoinwatch_id": "TKL",
-        "explorer_url": "https://explorer.tokel.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "TOKEL",
-        "fname": "Tokel",
-        "is_privacy_coin": true,
-        "rpcport": 29405,
-        "pubtype": 60,
-        "p2shtype": 85,
-        "wiftype": 188,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:9077",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "TON-ERC20": {
         "coin": "TON-ERC20",
         "type": "ERC-20",
@@ -32452,10 +31813,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -32929,10 +32286,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33046,10 +32399,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -33265,10 +32614,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33476,10 +32821,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -33642,10 +32983,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -34054,10 +33391,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -34389,10 +33722,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -34769,10 +34098,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -35160,10 +34485,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35222,10 +34543,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -35753,10 +35070,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35878,10 +35191,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -35940,10 +35249,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -36209,10 +35514,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36373,10 +35674,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -36848,10 +36145,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -36915,10 +36208,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -37494,10 +36783,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -37673,10 +36958,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -38105,10 +37386,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -38302,10 +37579,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39078,10 +38351,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39144,10 +38413,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39213,10 +38478,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39281,10 +38542,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39344,10 +38601,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39406,10 +38659,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39474,10 +38723,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39536,10 +38781,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39605,10 +38846,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39671,10 +38908,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39740,10 +38973,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -39802,10 +39031,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39869,10 +39094,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -39938,10 +39159,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40001,10 +39218,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40063,10 +39276,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -40131,10 +39340,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40194,10 +39399,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
-            {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
             },
@@ -40256,10 +39457,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -40370,10 +39567,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
@@ -41579,10 +40772,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://0xrpc.io/eth",
-                "ws_url": "wss://0xrpc.io/eth"
-            },
             {
                 "url": "https://eth.drpc.org",
                 "ws_url": "wss://eth.drpc.org"
