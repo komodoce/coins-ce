@@ -2749,6 +2749,18 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "axe.electrum3.cipig.net:30057",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
