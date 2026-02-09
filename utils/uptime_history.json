@@ -2203,10 +2203,12 @@
         "1770435256": "offline"
       },
       "ugly-bird-70.doi.works:50002": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770602236": "online"
       },
       "ugly-bird-70.doi.works:50004": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770602236": "online"
       }
     }
   },
@@ -2704,7 +2706,8 @@
   },
   "FLOP": {
     "all": {
-      "1770435256": "offline"
+      "1770435256": "offline",
+      "1770602236": "online"
     },
     "by_server": {
       "_metadata": {
@@ -2738,13 +2741,15 @@
         }
       },
       "electrumx1.flopcoin.net:10001": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770602236": "online"
       },
       "electrumx1.flopcoin.net:10003": {
         "1770435256": "offline"
       },
       "electrumx1.flopcoin.net:10004": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770602236": "online"
       },
       "electrumx2.flopcoin.net:10001": {
         "1770435256": "offline"
@@ -4576,7 +4581,8 @@
         "1770435256": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1770435256": "online"
+        "1770435256": "online",
+        "1770602236": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770435256": "online"
