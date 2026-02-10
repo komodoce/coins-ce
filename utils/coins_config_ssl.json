@@ -6347,6 +6347,10 @@
         },
         "electrum": [
             {
+                "url": "bsty-main.coinmunity.gold:50012",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumserver01.globalboost.info:50014",
                 "protocol": "SSL"
             }
@@ -11180,6 +11184,11 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -11545,6 +11554,28 @@
             "homepage": "https://diminutivecoin.com"
         },
         "electrum": [
+            {
+                "url": "electrumx1.diminutivecoin.com:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "support@diminutivecoin.com"
+                    },
+                    {
+                        "twitter": "coin_dimi"
+                    },
+                    {
+                        "reddit": "DiminutiveCoin_DIMI"
+                    },
+                    {
+                        "github": "MadCatMining"
+                    },
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.diminutivecoin.com:50012",
                 "protocol": "SSL",
@@ -45375,42 +45406,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "IRISTEST": {
-        "coin": "IRISTEST",
-        "type": "TENDERMINT",
-        "name": "Iris Test",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://nyancat.iobscan.io/",
-        "explorer_tx_url": "#/txs/",
-        "explorer_address_url": "#/address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": true,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "avg_blocktime": 7,
-        "fname": "Iris Test",
-        "mm2": 1,
-        "protocol": {
-            "type": "TENDERMINT",
-            "protocol_data": {
-                "decimals": 6,
-                "denom": "unyan",
-                "account_prefix": "iaa",
-                "chain_id": "nyancat-9",
-                "gas_price": 0.5
-            }
-        },
-        "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "http://34.80.202.172:26657"
-            }
-        ],
-        "explorer_block_url": "#/blocks/"
     },
     "IRISTEST-IBC_NUCLEUSTEST": {
         "coin": "IRISTEST-IBC_NUCLEUSTEST",

@@ -975,13 +975,16 @@
     },
     "by_server": {
       "bsty-main.coinmunity.gold:50011": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "bsty-main.coinmunity.gold:50012": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "bsty-main.coinmunity.gold:50013": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "electrumserver01.globalboost.info:50011": {
         "1770435256": "online"
@@ -1816,10 +1819,12 @@
         "1770435256": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       }
     }
   },
@@ -1967,10 +1972,12 @@
         }
       },
       "electrumx1.diminutivecoin.com:50012": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "electrumx1.diminutivecoin.com:50013": {
-        "1770435256": "offline"
+        "1770435256": "offline",
+        "1770689267": "online"
       },
       "electrumx2.diminutivecoin.com:50012": {
         "1770435256": "online"
@@ -3528,7 +3535,8 @@
     "all": {},
     "by_server": {
       "http://34.80.202.172:26657": {
-        "1770435256": "online"
+        "1770435256": "online",
+        "1770689267": "offline"
       }
     }
   },
@@ -4582,7 +4590,8 @@
       },
       "wss://moonriver.drpc.org": {
         "1770435256": "online",
-        "1770602236": "offline"
+        "1770602236": "offline",
+        "1770689267": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1770435256": "online"
