@@ -848,6 +848,9 @@
   "BNB": {
     "all": {},
     "by_server": {
+      "https://bsc-dataseed1.ninicoin.io": {
+        "1770852119": "online"
+      },
       "https://bsc-dataseed2.defibit.io": {
         "1770796399": "online"
       },
@@ -2315,7 +2318,8 @@
       },
       "wss://arbitrum.drpc.org": {
         "1770796399": "online",
-        "1770832835": "offline"
+        "1770832835": "offline",
+        "1770852119": "online"
       }
     }
   },
