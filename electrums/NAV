@@ -1,5 +1,9 @@
 [
   {
+    "url": "159.69.73.223:5061",
+    "protocol": "TCP"
+  },
+  {
     "url": "electrum2.nav.community:40002",
     "protocol": "SSL",
     "disable_cert_verification": true,
