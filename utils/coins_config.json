@@ -13097,6 +13097,7 @@
             {
                 "url": "dgc-ex-three.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -26303,6 +26304,7 @@
         "electrum": [
             {
                 "url": "electrum-lcc.cascoin.net:50002",
+                "disable_cert_verification": true,
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -26312,6 +26314,7 @@
             },
             {
                 "url": "electrum-lcc.cascoin.net:50003",
+                "disable_cert_verification": true,
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -26331,6 +26334,7 @@
             {
                 "url": "lcc-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -26340,6 +26344,7 @@
             {
                 "url": "lcc-ex-one.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -26390,6 +26395,7 @@
         "electrum": [
             {
                 "url": "electrum-lcc.cascoin.net:50002",
+                "disable_cert_verification": true,
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -26399,6 +26405,7 @@
             },
             {
                 "url": "electrum-lcc.cascoin.net:50003",
+                "disable_cert_verification": true,
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -26418,6 +26425,7 @@
             {
                 "url": "lcc-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -26427,6 +26435,7 @@
             {
                 "url": "lcc-ex-one.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -30671,6 +30680,10 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
+                "url": "https://moonbeam-rpc.publicnode.com",
+                "ws_url": "wss://moonbeam-rpc.publicnode.com"
+            },
+            {
                 "url": "https://moonbeam.drpc.org",
                 "ws_url": "wss://moonbeam.drpc.org"
             },
@@ -30716,6 +30729,10 @@
         },
         "derivation_path": "m/44'/130'",
         "electrum": [
+            {
+                "url": "159.69.73.223:5061",
+                "protocol": "TCP"
+            },
             {
                 "url": "electrum2.nav.community:40002",
                 "protocol": "SSL",
@@ -46337,6 +46354,7 @@
             {
                 "url": "xmy-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46346,6 +46364,7 @@
             {
                 "url": "xmy-ex-one.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46364,6 +46383,7 @@
             {
                 "url": "xmy-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46373,6 +46393,7 @@
             {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46430,6 +46451,7 @@
             {
                 "url": "xmy-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46439,6 +46461,7 @@
             {
                 "url": "xmy-ex-one.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46457,6 +46480,7 @@
             {
                 "url": "xmy-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -46466,6 +46490,7 @@
             {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
