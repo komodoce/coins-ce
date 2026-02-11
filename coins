@@ -6312,6 +6312,44 @@
     "trezor_coin": "Komodo"
   },
   {
+    "coin": "GLEECT",
+    "name": "gleect",
+    "fname": "Gleec Testnet",
+    "is_testnet": true,
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 11169,
+    "required_confirmations": 3,
+    "avg_blocktime": 2.6,
+    "protocol": {
+      "type": "ETH",
+      "protocol_data": {
+        "chain_id": 11169
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "KMDT-GRC20",
+    "name": "kmdt_grc20",
+    "fname": "KMD Testnet",
+    "is_testnet": true,
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 11169,
+    "decimals": 18,
+    "required_confirmations": 3,
+    "avg_blocktime": 2.6,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "GLEECT",
+        "contract_address": "0xB749CEC294d460ae75ec4efEe227fE0baFcb6ACd"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "GLM-ERC20",
     "name": "glm_erc20",
     "fname": "Golem",

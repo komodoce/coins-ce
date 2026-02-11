@@ -145,6 +145,7 @@ class CoinConfig:
         self.ticker = self.coin_data["coin"].replace("-TEST", "")
         self.base_ticker = self.ticker.split("-")[0]
         self.protocols = {
+            "GLEEC": "GRC-20",
             "AVAX": "AVX-20",
             "BNB": "BEP-20",
             "ETC": "Ethereum Classic",
@@ -166,6 +167,7 @@ class CoinConfig:
             "UBQ": "Ubiq",
         }
         self.testnet_protocols = {
+            "GLEECT": "GRC-20",
             "AVAXT": "AVX-20",
             "BNBT": "BEP-20",
             "tQTUM": "QRC-20",
@@ -379,7 +381,7 @@ class CoinConfig:
         For token coins, this returns the parent chain coin.
         """
         # For token coins, we need to check parent chain status
-        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20")):
+        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20")):
             if self.ticker.endswith("-QRC20"):
                 return "tQTUM" if self.is_testnet else "QTUM"
             elif self.ticker.endswith("-ERC20"):
@@ -390,6 +392,8 @@ class CoinConfig:
                 return "MATIC"
             elif self.ticker.endswith("-AVX20"):
                 return "AVAX"
+            elif self.ticker.endswith("-GRC20"):
+                return "GLEEC"
         
         # For electrum coins, use the actual coin name (with segwit handling)
         coin = self.ticker.replace("-segwit", "")
@@ -578,7 +582,7 @@ class CoinConfig:
                 
                 if scan_coin in electrum_scan_report:
                     # If parent chain is working, inherit all configured nodes for token
-                    if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20")):
+                    if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20")):
                         # For token coins, check if parent chain has working nodes
                         parent_has_working_nodes = False
                         for protocol in ["ssl", "wss", "tcp"]:
@@ -988,10 +992,10 @@ def normalize_coin_name(name):
     suffixes_to_remove = [
         # Dash-separated suffixes
         '-bep20', '-erc20', '-plg20', '-avx20', '-krc20', '-hrc20', 
-        '-qrc20', '-arb20', '-test', '-testnet',
+        '-qrc20', '-arb20', '-test', '-testnet', '-grc20',
         # Underscore-separated suffixes  
         '_bep20', '_erc20', '_plg20', '_avx20', '_krc20', '_hrc20',
-        '_qrc20', '_arb20', '_test', '_testnet'
+        '_qrc20', '_arb20', '_test', '_testnet', '_grc20',
     ]
     
     for suffix in suffixes_to_remove:
