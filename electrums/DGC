@@ -12,12 +12,14 @@
     {
         "url": "electrumx.dgc.ewmcx.org:50002",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "ws_url": "electrumx.dgc.ewmcx.org:50003"
     },
   {
     "url": "dgc-ex-three.ewmci.online:50002",
     "ws_url": "dgc-ex-three.ewmci.online:50003",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "475820011634819072" }
     ]
