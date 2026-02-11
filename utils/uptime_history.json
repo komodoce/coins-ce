@@ -2314,7 +2314,8 @@
         "1770796399": "online"
       },
       "wss://arbitrum.drpc.org": {
-        "1770796399": "online"
+        "1770796399": "online",
+        "1770832835": "offline"
       }
     }
   },
@@ -2875,6 +2876,9 @@
   "GLMR": {
     "all": {},
     "by_server": {
+      "https://moonbeam-rpc.publicnode.com": {
+        "1770832835": "online"
+      },
       "https://moonbeam.drpc.org": {
         "1770796399": "online"
       },
@@ -2883,6 +2887,9 @@
       },
       "https://rpc.api.moonbeam.network": {
         "1770796399": "online"
+      },
+      "wss://moonbeam-rpc.publicnode.com": {
+        "1770832835": "online"
       },
       "wss://moonbeam.drpc.org": {
         "1770796399": "online"
@@ -4496,6 +4503,9 @@
       "1770796399": "online"
     },
     "by_server": {
+      "159.69.73.223:5061": {
+        "1770832835": "online"
+      },
       "electrum2.nav.community:40002": {
         "1770796399": "online"
       },
