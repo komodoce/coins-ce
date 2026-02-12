@@ -47104,6 +47104,7 @@
             {
                 "url": "xvc-ex-seven.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -47113,6 +47114,7 @@
             {
                 "url": "xvc-ex-seven.ewmci.online:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "475820011634819072"
