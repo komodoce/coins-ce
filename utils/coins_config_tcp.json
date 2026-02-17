@@ -41135,6 +41135,10 @@
                 "protocol": "SSL"
             },
             {
+                "url": "electrumx-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "159.69.73.223:5036",
                 "protocol": "TCP"
             }
