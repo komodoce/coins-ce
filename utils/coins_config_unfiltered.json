@@ -3076,6 +3076,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/avax/c"
+            },
+            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -5989,7 +5992,7 @@
         "coin": "HRC",
         "type": "UTXO",
         "name": "Hypercoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "hrc-hypercoin",
         "coingecko_id": "",
         "livecoinwatch_id": "__HRC",
         "explorer_url": "https://explorer.hypercoin.network/",
@@ -15861,9 +15864,6 @@
             {
                 "url": "https://base.gateway.tenderly.co",
                 "ws_url": "wss://base.gateway.tenderly.co"
-            },
-            {
-                "url": "https://base.lava.build"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -32497,6 +32497,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
