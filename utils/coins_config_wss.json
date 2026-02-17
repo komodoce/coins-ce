@@ -36620,6 +36620,10 @@
             {
                 "url": "electrum-verge.cloud:50004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "electrumx-verge.cloud:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/",
