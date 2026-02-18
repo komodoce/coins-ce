@@ -15866,6 +15866,9 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
+                "url": "https://base.lava.build"
+            },
+            {
                 "url": "https://mainnet.base.org"
             }
         ],
@@ -52359,11 +52362,8 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [
-            {
-                "url": "https://rpc.cosmos.directory/cosmoshub"
-            }
-        ],
+        "rpc_urls": [],
+        "delisted": true,
         "explorer_block_url": "block/",
         "binance_id": "ATOM"
     },

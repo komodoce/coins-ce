@@ -274,7 +274,8 @@
     "all": {},
     "by_server": {
       "https://rpc.cosmos.directory/cosmoshub": {
-        "1771252084": "online"
+        "1771252084": "online",
+        "1771379789": "offline"
       }
     }
   },
@@ -2312,7 +2313,8 @@
       },
       "https://base.lava.build": {
         "1771252084": "online",
-        "1771345052": "offline"
+        "1771345052": "offline",
+        "1771379789": "online"
       },
       "https://mainnet.base.org": {
         "1771252084": "online"
