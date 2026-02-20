@@ -1783,7 +1783,8 @@
         "1771444887": "offline"
       },
       "electrumx.dgc.ewmcx.org:50001": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1771444887": "offline"
@@ -2160,10 +2161,12 @@
     },
     "by_server": {
       "electrum1.egulden.org:50002": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       },
       "electrum1.egulden.org:50004": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       },
       "electrum2.egulden.org:50002": {
         "1771444887": "offline"
@@ -6858,13 +6861,16 @@
         "1771444887": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1771444887": "offline"
+        "1771444887": "offline",
+        "1771552267": "online"
       }
     }
   },
