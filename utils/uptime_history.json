@@ -314,7 +314,8 @@
     "by_server": {
       "https://1rpc.io/avax/c": {
         "1771444887": "online",
-        "1771638383": "offline"
+        "1771638383": "offline",
+        "1771725255": "online"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1771444887": "online"
@@ -5102,7 +5103,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1771444887": "online",
-        "1771638383": "offline"
+        "1771638383": "offline",
+        "1771725255": "online"
       },
       "https://api.harmony.one": {
         "1771444887": "online"
@@ -5129,7 +5131,8 @@
       },
       "https://rpc.cosmos.directory/osmosis": {
         "1771444887": "online",
-        "1771638383": "offline"
+        "1771638383": "offline",
+        "1771725255": "online"
       },
       "https://rpc.osmosis.zone/": {
         "1771444887": "online"
