@@ -3,6 +3,7 @@
     "url": "explorer.bitcoin-ii.org:50009",
     "ws_url": "explorer.bitcoin-ii.org:50010",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "1391871602127540236" }
     ]
@@ -18,6 +19,7 @@
     "url": "infra1.bitcoin-ii.org:50009",
     "ws_url": "infra1.bitcoin-ii.org:50010",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "1391871602127540236" }
     ]
