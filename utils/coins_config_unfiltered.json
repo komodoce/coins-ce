@@ -914,51 +914,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50011",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "aby-ex-four.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "aby-ex-four.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "aby-ex-three.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "aby-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -3076,6 +3031,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/avax/c"
+            },
+            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -4727,6 +4685,35 @@
         },
         "electrum": [
             {
+                "url": "bitcoinii.ddns.net:50008",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
+                "url": "bitcoinii.ddns.net:50009",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
+                "url": "bitcoinii.ddns.net:50010",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
                 "url": "infra1.bitcoin-ii.org:50008",
                 "protocol": "TCP",
                 "contact": [
@@ -4798,6 +4785,35 @@
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
+            {
+                "url": "bitcoinii.ddns.net:50008",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
+                "url": "bitcoinii.ddns.net:50009",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
+                "url": "bitcoinii.ddns.net:50010",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
             {
                 "url": "infra1.bitcoin-ii.org:50008",
                 "protocol": "TCP",
@@ -5762,24 +5778,6 @@
             "type": "UTXO"
         },
         "electrum": [
-            {
-                "url": "bit-e.minethepla.net:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
-                "url": "bit-e.minethepla.net:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
             {
                 "url": "bit-e.outsidethebox.top:50002",
                 "protocol": "SSL",
@@ -13071,16 +13069,6 @@
             {
                 "url": "electrumx.dgc.ewmcx.org:50001",
                 "protocol": "TCP"
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -14863,26 +14851,6 @@
                 "url": "itchy-jellyfish-89.doi.works:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "github": "https://github.com/doichain/electrum-doi/issues",
-                        "twitter": "doichain"
-                    }
-                ]
-            },
-            {
-                "url": "ugly-bird-70.doi.works:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/doichain/electrum-doi/issues",
-                        "twitter": "doichain"
-                    }
-                ]
-            },
-            {
-                "url": "ugly-bird-70.doi.works:50004",
-                "protocol": "WSS",
                 "contact": [
                     {
                         "github": "https://github.com/doichain/electrum-doi/issues",
@@ -17294,33 +17262,6 @@
             "homepage": "https://firo.org"
         },
         "electrum": [
-            {
-                "url": "electrumx.firo.org:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "github": "https://github.com/firoorg/electrumx-firo/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.firo.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/firoorg/electrumx-firo/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx.firo.org:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "github": "https://github.com/firoorg/electrumx-firo/issues"
-                    }
-                ]
-            },
             {
                 "url": "electrumx01.firo.org:50001",
                 "protocol": "TCP",
@@ -30737,10 +30678,6 @@
         "derivation_path": "m/44'/130'",
         "electrum": [
             {
-                "url": "159.69.73.223:5061",
-                "protocol": "TCP"
-            },
-            {
                 "url": "electrum2.nav.community:40002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -32505,6 +32442,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -51692,37 +51632,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.cointest.com:50001",
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.cointest.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
                     {
@@ -51798,37 +51707,6 @@
             "homepage": "https://www.whive.io"
         },
         "electrum": [
-            {
-                "url": "electrumx1.cointest.com:50001",
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx1.cointest.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "email": "protocol@whive.io"
-                    },
-                    {
-                        "discord": "whiveio#9340"
-                    },
-                    {
-                        "twitter": "whiveio"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.cointest.com:50001",
                 "contact": [
@@ -52602,9 +52480,6 @@
         "rpc_urls": [
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
-            },
-            {
-                "url": "https://rpc.cosmos.directory/osmosis"
             },
             {
                 "url": "https://rpc.osmosis.zone/"
