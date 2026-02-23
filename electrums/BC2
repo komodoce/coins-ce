@@ -1,7 +1,7 @@
 [
   {
-    "url": "explorer.bitcoin-ii.org:50009",
-    "ws_url": "explorer.bitcoin-ii.org:50010",
+    "url": "bitcoinii.ddns.net:50009",
+    "ws_url": "bitcoinii.ddns.net:50010",
     "protocol": "SSL",
     "disable_cert_verification": true,
     "contact": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "url": "explorer.bitcoin-ii.org:50008",
+    "url": "bitcoinii.ddns.net:50008",
     "protocol": "TCP",
     "contact": [
       { "discord": "1391871602127540236" }
