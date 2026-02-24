@@ -350,6 +350,9 @@
       "1771903328": "online"
     },
     "by_server": {
+      "aurascan.gt.tc/wss:443": {
+        "1771906929": "online"
+      },
       "aurascan.gt.tc:50001": {
         "1771897935": "offline",
         "1771903328": "online"
@@ -360,6 +363,9 @@
       "aurascan.gt.tc:50004": {
         "1771903328": "offline"
       },
+      "aureuscoin.site/wss:443": {
+        "1771906929": "online"
+      },
       "aureuscoin.site:50001": {
         "1771897935": "offline",
         "1771903328": "online"
@@ -369,6 +375,9 @@
       },
       "aureuscoin.site:50004": {
         "1771903328": "offline"
+      },
+      "fulcrum.aureuscoin.site:50002": {
+        "1771906929": "online"
       }
     }
   },
@@ -4632,7 +4641,8 @@
         "1771897935": "online"
       },
       "https://moonriver.drpc.org": {
-        "1771897935": "online"
+        "1771897935": "online",
+        "1771906929": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1771897935": "online"
@@ -4641,7 +4651,8 @@
         "1771897935": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1771897935": "online"
+        "1771897935": "online",
+        "1771906929": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1771897935": "online"
