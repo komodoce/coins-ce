@@ -2871,16 +2871,28 @@
         },
         "electrum": [
             {
-                "url": "aurascan.gt.tc/wss:443",
+                "url": "aurascan.gt.tc:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "aurascan.gt.tc:50004",
                 "protocol": "WSS"
             },
             {
-                "url": "aureuscoin.site/wss:443",
+                "url": "aureuscoin.site:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "aureuscoin.site:50004",
                 "protocol": "WSS"
             },
             {
                 "url": "fulcrum.aureuscoin.site:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "fulcrum.aureuscoin.site:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -30512,6 +30524,10 @@
             {
                 "url": "https://moonriver-rpc.publicnode.com",
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
+            },
+            {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
