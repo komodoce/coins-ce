@@ -346,14 +346,29 @@
   },
   "AURE": {
     "all": {
-      "1771897935": "offline"
+      "1771897935": "offline",
+      "1771903328": "online"
     },
     "by_server": {
       "aurascan.gt.tc:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771903328": "online"
+      },
+      "aurascan.gt.tc:50002": {
+        "1771903328": "online"
+      },
+      "aurascan.gt.tc:50004": {
+        "1771903328": "offline"
       },
       "aureuscoin.site:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771903328": "online"
+      },
+      "aureuscoin.site:50002": {
+        "1771903328": "online"
+      },
+      "aureuscoin.site:50004": {
+        "1771903328": "offline"
       }
     }
   },
@@ -6864,13 +6879,16 @@
         "1771897935": "online"
       },
       "electrum-verge.cloud:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771903328": "online"
       },
       "electrum-verge.cloud:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771903328": "online"
       },
       "electrum-verge.cloud:50004": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771903328": "online"
       },
       "electrumx-verge.cloud:50001": {
         "1771897935": "online"
