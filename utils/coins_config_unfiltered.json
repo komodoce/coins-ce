@@ -2869,8 +2869,24 @@
             "github": "https://github.com/sipherapex/aureus-core",
             "homepage": "https://aureuscoin.site"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "aurascan.gt.tc:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "aurascan.gt.tc:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "aureuscoin.site:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "aureuscoin.site:50002",
+                "protocol": "SSL"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "AVA-BEP20": {
@@ -47185,6 +47201,18 @@
             {
                 "url": "159.69.73.223:5036",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrum-verge.cloud:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
             },
             {
                 "url": "electrumx-verge.cloud:50001",
