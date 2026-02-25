@@ -522,13 +522,16 @@
         }
       },
       "axe.electrum1.cipig.net:10057": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771984543": "online"
       },
       "axe.electrum1.cipig.net:20057": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771984543": "online"
       },
       "axe.electrum1.cipig.net:30057": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771984543": "online"
       },
       "axe.electrum2.cipig.net:10057": {
         "1771897935": "offline"
@@ -2805,7 +2808,8 @@
         "1771897935": "offline"
       },
       "electrumx2.runonflux.io:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771984543": "online"
       },
       "electrumx2.runonflux.io:50004": {
         "1771897935": "offline"
@@ -4648,7 +4652,8 @@
       "https://moonriver.drpc.org": {
         "1771897935": "online",
         "1771906929": "offline",
-        "1771912160": "online"
+        "1771912160": "online",
+        "1771984543": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1771897935": "online"
@@ -4659,7 +4664,8 @@
       "wss://moonriver.drpc.org": {
         "1771897935": "online",
         "1771906929": "offline",
-        "1771912160": "online"
+        "1771912160": "online",
+        "1771984543": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1771897935": "online"
@@ -4697,7 +4703,8 @@
     },
     "by_server": {
       "159.69.73.223:5061": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1771984543": "online"
       },
       "electrum2.nav.community:40002": {
         "1771897935": "online"

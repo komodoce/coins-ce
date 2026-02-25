@@ -3159,6 +3159,18 @@
         },
         "electrum": [
             {
+                "url": "axe.electrum1.cipig.net:20057",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "axe.electrum3.cipig.net:20057",
                 "protocol": "SSL",
                 "contact": [
@@ -26678,10 +26690,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -26784,6 +26792,10 @@
             {
                 "url": "electrum3.nav.community:40002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "159.69.73.223:5061",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -42245,6 +42257,10 @@
         "electrum": [
             {
                 "url": "electrumx.runonflux.io:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.runonflux.io:50001",
                 "protocol": "TCP"
             }
         ],
