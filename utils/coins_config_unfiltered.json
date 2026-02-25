@@ -3451,6 +3451,42 @@
         },
         "electrum": [
             {
+                "url": "axe.electrum1.cipig.net:10057",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "axe.electrum1.cipig.net:20057",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "axe.electrum1.cipig.net:30057",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "axe.electrum3.cipig.net:10057",
                 "contact": [
                     {
@@ -30526,10 +30562,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -30624,6 +30656,10 @@
         },
         "derivation_path": "m/44'/130'",
         "electrum": [
+            {
+                "url": "159.69.73.223:5061",
+                "protocol": "TCP"
+            },
             {
                 "url": "electrum2.nav.community:40002",
                 "protocol": "SSL",
@@ -48612,6 +48648,10 @@
         "electrum": [
             {
                 "url": "electrumx.runonflux.io:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.runonflux.io:50001",
                 "protocol": "TCP"
             }
         ],
