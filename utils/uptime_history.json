@@ -2286,10 +2286,12 @@
     },
     "by_server": {
       "electrum1.egulden.org:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum1.egulden.org:50004": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum2.egulden.org:50002": {
         "1771897935": "offline"
@@ -2314,6 +2316,9 @@
       },
       "holland.ecoincore.com:11019": {
         "1771897935": "offline"
+      },
+      "lenoir.ecoincore.com:11017": {
+        "1772070641": "offline"
       },
       "lenoir.ecoincore.com:11019": {
         "1771897935": "offline"
@@ -4653,7 +4658,8 @@
         "1771897935": "online",
         "1771906929": "offline",
         "1771912160": "online",
-        "1771984543": "offline"
+        "1771984543": "offline",
+        "1772070641": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1771897935": "online"
@@ -4665,7 +4671,8 @@
         "1771897935": "online",
         "1771906929": "offline",
         "1771912160": "online",
-        "1771984543": "offline"
+        "1771984543": "offline",
+        "1772070641": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1771897935": "online"
@@ -5727,22 +5734,28 @@
         "1771897935": "online"
       },
       "electrum2.runebase.io:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum2.runebase.io:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum2.runebase.io:50004": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrum4.runebase.io:50001": {
         "1771897935": "online"
@@ -6578,10 +6591,12 @@
         }
       },
       "electrumx1.cointest.com:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrumx1.cointest.com:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrumx2.cointest.com:50001": {
         "1771897935": "online"
@@ -6625,10 +6640,12 @@
         }
       },
       "electrumx1.cointest.com:50001": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrumx1.cointest.com:50002": {
-        "1771897935": "offline"
+        "1771897935": "offline",
+        "1772070641": "online"
       },
       "electrumx2.cointest.com:50001": {
         "1771897935": "online"
