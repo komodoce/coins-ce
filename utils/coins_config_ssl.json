@@ -3171,6 +3171,18 @@
                 ]
             },
             {
+                "url": "axe.electrum2.cipig.net:20057",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "axe.electrum3.cipig.net:20057",
                 "protocol": "SSL",
                 "contact": [
@@ -14885,6 +14897,15 @@
             "homepage": "https://firo.org"
         },
         "electrum": [
+            {
+                "url": "electrumx.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
             {
                 "url": "electrumx01.firo.org:50002",
                 "protocol": "SSL",
@@ -39117,7 +39138,17 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "VTC-segwit": {
@@ -39161,7 +39192,17 @@
             "github": "https://github.com/vertcoin-project/vertcoin-core",
             "homepage": "https://vertcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "WAVES-BEP20": {

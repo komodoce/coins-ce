@@ -3487,6 +3487,42 @@
                 ]
             },
             {
+                "url": "axe.electrum2.cipig.net:10057",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "axe.electrum2.cipig.net:20057",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "axe.electrum2.cipig.net:30057",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "axe.electrum3.cipig.net:10057",
                 "contact": [
                     {
@@ -17255,6 +17291,33 @@
             "homepage": "https://firo.org"
         },
         "electrum": [
+            {
+                "url": "electrumx.firo.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.firo.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
             {
                 "url": "electrumx01.firo.org:50001",
                 "protocol": "TCP",
@@ -45133,6 +45196,33 @@
             {
                 "url": "159.69.73.223:5028",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -45182,6 +45272,33 @@
             {
                 "url": "159.69.73.223:5028",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5885",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.javerity.com:5886",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.javerity.com:5887",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cruelnovo#4936"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
