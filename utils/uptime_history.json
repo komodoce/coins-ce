@@ -2380,6 +2380,9 @@
   "ETH": {
     "all": {},
     "by_server": {
+      "https://eth.merkle.io": {
+        "1772237993": "online"
+      },
       "https://eth.rpc.blxrbdn.com": {
         "1772211486": "online"
       },
@@ -4641,7 +4644,8 @@
         "1772211486": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1772211486": "online"
+        "1772211486": "online",
+        "1772237993": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1772211486": "online"
@@ -6341,7 +6345,8 @@
         "1772211486": "online"
       },
       "el2.verus.io:17488": {
-        "1772211486": "offline"
+        "1772211486": "offline",
+        "1772237993": "online"
       }
     }
   },
