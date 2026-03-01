@@ -2540,6 +2540,7 @@
             {
                 "url": "electrum-ca.avn.network:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "contact@avn.network"
@@ -2549,6 +2550,7 @@
             {
                 "url": "electrum-eu.avn.network:50003",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "contact@avn.network"
@@ -10950,6 +10952,16 @@
                         "twitter": "doichain"
                     }
                 ]
+            },
+            {
+                "url": "ugly-bird-70.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -10990,6 +11002,11 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
+            {
+                "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
