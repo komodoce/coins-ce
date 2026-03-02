@@ -985,13 +985,16 @@
     },
     "by_server": {
       "bsty-main.coinmunity.gold:50011": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "bsty-main.coinmunity.gold:50012": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "bsty-main.coinmunity.gold:50013": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "electrumserver01.globalboost.info:50011": {
         "1772393363": "online"
@@ -1221,10 +1224,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1772393363": "online"
@@ -1268,10 +1273,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1772393363": "online"
@@ -1837,10 +1844,12 @@
         "1772393363": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       }
     }
   },
@@ -2340,6 +2349,9 @@
       },
       "https://eth3.cipig.net:18555": {
         "1772393363": "online"
+      },
+      "https://ethereum-mainnet.gateway.tatum.io": {
+        "1772451970": "online"
       },
       "https://ethereum-rpc.publicnode.com": {
         "1772393363": "online"
@@ -6717,13 +6729,16 @@
     },
     "by_server": {
       "electrumx1.vanillacash.info:50011": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772451970": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1772393363": "online"

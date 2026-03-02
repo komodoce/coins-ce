@@ -327,9 +327,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -337,6 +334,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -385,9 +385,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -395,6 +392,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -736,9 +736,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -746,6 +743,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -1092,9 +1092,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1102,6 +1099,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -1205,9 +1205,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1215,6 +1212,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -1325,9 +1325,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1335,6 +1332,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -1664,9 +1664,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1674,6 +1671,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -1835,9 +1835,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1845,6 +1842,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -2084,9 +2084,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2094,6 +2091,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -2257,9 +2257,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2267,6 +2264,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -2950,9 +2950,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2960,6 +2957,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -3345,9 +3345,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3355,6 +3352,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -3620,9 +3620,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3630,6 +3627,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -4005,9 +4005,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4015,6 +4012,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -4293,9 +4293,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4303,6 +4300,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -4463,9 +4463,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4473,6 +4470,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -5060,9 +5060,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5070,6 +5067,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -5416,9 +5416,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5426,6 +5423,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -5654,9 +5654,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5664,6 +5661,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -6516,9 +6516,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6526,6 +6523,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -6730,9 +6730,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6740,6 +6737,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -6846,9 +6846,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6856,6 +6853,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -6964,9 +6964,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6974,6 +6971,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -7139,6 +7139,18 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
+            {
+                "url": "bsty-main.coinmunity.gold:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "bsty-main.coinmunity.gold:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "bsty-main.coinmunity.gold:50013",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumserver01.globalboost.info:50011",
                 "protocol": "TCP"
@@ -8102,9 +8114,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8112,6 +8121,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -8215,6 +8227,26 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -8331,6 +8363,26 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -8611,9 +8663,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8621,6 +8670,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -8885,9 +8937,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8895,6 +8944,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -9475,9 +9527,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9485,6 +9534,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -9592,9 +9644,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9602,6 +9651,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -10190,9 +10242,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10200,6 +10249,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -10302,9 +10354,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10312,6 +10361,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -10835,9 +10887,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10845,6 +10894,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -10999,9 +11051,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11009,6 +11058,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -11307,9 +11359,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11317,6 +11366,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -11695,9 +11747,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11705,6 +11754,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -11966,9 +12018,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11976,6 +12025,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -12349,9 +12401,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12359,6 +12408,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -12410,9 +12462,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12420,6 +12469,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -12468,9 +12520,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12478,6 +12527,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -12904,6 +12956,16 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -12944,9 +13006,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12954,6 +13013,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -13924,9 +13986,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -13934,6 +13993,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -14940,9 +15002,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -14950,6 +15009,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -15068,9 +15130,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15078,6 +15137,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -15237,9 +15299,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15247,6 +15306,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -15568,9 +15630,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15578,6 +15637,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16070,9 +16132,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16080,6 +16139,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16179,9 +16241,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16189,6 +16248,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16299,9 +16361,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16309,6 +16368,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16424,9 +16486,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16434,6 +16493,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16651,9 +16713,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16661,6 +16720,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16778,9 +16840,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16788,6 +16847,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -16836,9 +16898,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16846,6 +16905,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -17073,9 +17135,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17083,6 +17142,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -18096,9 +18158,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18106,6 +18165,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -18618,9 +18680,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18628,6 +18687,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -18742,9 +18804,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18752,6 +18811,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -18973,9 +19035,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18983,6 +19042,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -19091,9 +19153,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -19101,6 +19160,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -19812,9 +19874,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -19822,6 +19881,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -20231,9 +20293,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20241,6 +20300,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -20519,9 +20581,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20529,6 +20588,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -20837,9 +20899,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20847,6 +20906,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21061,9 +21123,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21071,6 +21130,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21182,9 +21244,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21192,6 +21251,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21308,9 +21370,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21318,6 +21377,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21428,9 +21490,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21438,6 +21497,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21540,9 +21602,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21550,6 +21609,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -21696,9 +21758,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21706,6 +21765,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -22216,9 +22278,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22226,6 +22285,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -22340,9 +22402,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22350,6 +22409,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -22462,9 +22524,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22472,6 +22531,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -22704,9 +22766,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22714,6 +22773,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -23252,9 +23314,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23262,6 +23321,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -23550,9 +23612,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23560,6 +23619,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -23730,9 +23792,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23740,6 +23799,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -24375,9 +24437,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24385,6 +24444,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -25446,9 +25508,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -25456,6 +25515,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -26466,9 +26528,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26476,6 +26535,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -26625,9 +26687,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26635,6 +26694,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -26736,9 +26798,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26746,6 +26805,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -27142,9 +27204,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27152,6 +27211,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -27319,9 +27381,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27329,6 +27388,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -27382,9 +27444,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27392,6 +27451,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -27509,9 +27571,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27519,6 +27578,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -28066,9 +28128,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28076,6 +28135,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -28350,9 +28412,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28360,6 +28419,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -28565,9 +28627,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28575,6 +28634,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -28693,9 +28755,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28703,6 +28762,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -28751,9 +28813,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28761,6 +28820,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -29162,9 +29224,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29172,6 +29231,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -29224,9 +29286,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29234,6 +29293,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -29342,9 +29404,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29352,6 +29411,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -29579,9 +29641,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29589,6 +29648,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -29746,9 +29808,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29756,6 +29815,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -30125,9 +30187,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30135,6 +30194,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -30739,9 +30801,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30749,6 +30808,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -31388,9 +31450,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31398,6 +31457,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -31681,9 +31743,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31691,6 +31750,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -31793,9 +31855,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31803,6 +31862,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -31984,9 +32046,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31994,6 +32053,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -32215,9 +32277,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32225,6 +32284,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -32435,9 +32497,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32445,6 +32504,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -32761,9 +32823,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32771,6 +32830,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -32882,9 +32944,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32892,6 +32951,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -33308,9 +33370,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33318,6 +33377,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -33432,9 +33494,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33442,6 +33501,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -33608,9 +33670,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33618,6 +33677,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -33811,9 +33873,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33821,6 +33880,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -33923,9 +33985,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33933,6 +33992,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -34105,9 +34167,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34115,6 +34174,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -34982,9 +35044,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34992,6 +35051,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -35045,9 +35107,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35055,6 +35114,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -35383,9 +35445,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35393,6 +35452,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -35734,9 +35796,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35744,6 +35803,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -35795,9 +35857,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35805,6 +35864,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -35853,9 +35915,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35863,6 +35922,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -36605,9 +36667,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36615,6 +36674,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -36717,9 +36779,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36727,6 +36786,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -36837,9 +36899,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36847,6 +36906,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -36900,9 +36962,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36910,6 +36969,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -37326,9 +37388,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37336,6 +37395,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -37757,9 +37819,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37767,6 +37826,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -38042,9 +38104,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38052,6 +38111,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -38589,9 +38651,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38599,6 +38658,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -38883,9 +38945,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38893,6 +38952,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -39215,9 +39277,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39225,6 +39284,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -39315,9 +39377,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39325,6 +39384,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -39854,9 +39916,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39864,6 +39923,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -40075,9 +40137,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -40085,6 +40144,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -40349,9 +40411,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -40359,6 +40418,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -40749,9 +40811,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -40759,6 +40818,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -41276,9 +41338,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41286,6 +41345,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -41398,9 +41460,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41408,6 +41467,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -41673,9 +41735,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41683,6 +41742,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -41904,9 +41966,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41914,6 +41973,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -42075,9 +42137,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42085,6 +42144,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -42581,9 +42643,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42591,6 +42650,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -42974,9 +43036,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42984,6 +43043,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -43425,9 +43487,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -43435,6 +43494,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -44029,9 +44091,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44039,6 +44098,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -44087,9 +44149,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44097,6 +44156,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -44828,9 +44890,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44838,6 +44897,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -44948,9 +45010,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44958,6 +45017,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -45006,9 +45068,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45016,6 +45075,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -45292,9 +45354,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45302,6 +45361,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -45566,9 +45628,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45576,6 +45635,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -46217,9 +46279,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -46227,6 +46286,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -46280,9 +46342,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -46290,6 +46349,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -46465,6 +46527,18 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
+            {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumx2.vanillacash.info:50011",
                 "protocol": "TCP"
@@ -47014,9 +47088,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -47024,6 +47095,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -47242,9 +47316,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -47252,6 +47323,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -47879,9 +47953,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -47889,6 +47960,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -48196,9 +48270,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -48206,6 +48277,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49551,9 +49625,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49561,6 +49632,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49613,9 +49687,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49623,6 +49694,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49708,9 +49782,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49718,6 +49789,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49771,9 +49845,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49781,6 +49852,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49829,9 +49903,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49839,6 +49910,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49887,9 +49961,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49897,6 +49968,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -49949,9 +50023,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -49959,6 +50030,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50007,9 +50081,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50017,6 +50088,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50070,9 +50144,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50080,6 +50151,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50132,9 +50206,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50142,6 +50213,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50233,9 +50307,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50243,6 +50314,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50291,9 +50365,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50301,6 +50372,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50353,9 +50427,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50363,6 +50434,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50416,9 +50490,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50426,6 +50497,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50474,9 +50548,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50484,6 +50555,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50532,9 +50606,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50542,6 +50613,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50594,9 +50668,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50604,6 +50675,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50652,9 +50726,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50662,6 +50733,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50710,9 +50784,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50720,6 +50791,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
@@ -50828,9 +50902,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.merkle.io"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50838,6 +50909,9 @@
                         "email": "cipi@komodoplatform.com"
                     }
                 ]
+            },
+            {
+                "url": "https://ethereum-mainnet.gateway.tatum.io"
             },
             {
                 "url": "https://ethereum-rpc.publicnode.com",
