@@ -2359,6 +2359,9 @@
       "https://mainnet.gateway.tenderly.co": {
         "1772393363": "online"
       },
+      "https://rpc.mevblocker.io": {
+        "1772512168": "online"
+      },
       "wss://eth3.cipig.net:38555": {
         "1772393363": "online"
       },
@@ -5212,7 +5215,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1772393363": "online",
-        "1772510201": "offline"
+        "1772510201": "offline",
+        "1772512168": "online"
       },
       "https://api.harmony.one": {
         "1772393363": "online"
