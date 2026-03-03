@@ -4606,6 +4606,9 @@
       "https://moonriver-rpc.publicnode.com": {
         "1772393363": "online"
       },
+      "https://moonriver.api.onfinality.io/public": {
+        "1772510201": "online"
+      },
       "https://moonriver.drpc.org": {
         "1772393363": "online"
       },
@@ -4614,6 +4617,9 @@
       },
       "wss://moonriver-rpc.publicnode.com": {
         "1772393363": "online"
+      },
+      "wss://moonriver.api.onfinality.io/public-ws": {
+        "1772510201": "online"
       },
       "wss://moonriver.drpc.org": {
         "1772393363": "online"
@@ -5205,7 +5211,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1772393363": "online"
+        "1772393363": "online",
+        "1772510201": "offline"
       },
       "https://api.harmony.one": {
         "1772393363": "online"
