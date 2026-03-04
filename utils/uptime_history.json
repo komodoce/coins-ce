@@ -447,7 +447,8 @@
         "1771550721": "offline",
         "1771824489": "online",
         "1772144114": "offline",
-        "1772355424": "online"
+        "1772355424": "online",
+        "1772587456": "offline"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1755770395": "online"
@@ -1039,7 +1040,8 @@
   "BITN": {
     "all": {
       "1755770395": "offline",
-      "1768093005": "online"
+      "1768093005": "online",
+      "1772587456": "offline"
     },
     "by_server": {
       "194.163.176.151:50001": {
@@ -1091,6 +1093,13 @@
           ]
         },
         "bit-e.minethepla.net:50004": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
+        },
+        "bit-e.outsidethebox.top:50002": {
           "contact": [
             {
               "discord": "def#4726"
@@ -1157,11 +1166,13 @@
         "1772144114": "offline"
       },
       "bit-e.outsidethebox.top:50002": {
-        "1768093005": "online"
+        "1768093005": "online",
+        "1772587456": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
         "1768093005": "offline",
-        "1768180562": "online"
+        "1768180562": "online",
+        "1772587456": "offline"
       },
       "bitchair.io:50001": {
         "1755770395": "offline"
@@ -2383,7 +2394,8 @@
         "1766366022": "offline",
         "1766452233": "online",
         "1769476724": "offline",
-        "1771550721": "online"
+        "1771550721": "online",
+        "1772587456": "offline"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
@@ -2402,7 +2414,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772587456": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -2412,7 +2425,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772587456": "online"
       }
     }
   },
@@ -6869,7 +6883,8 @@
         "1771550721": "offline",
         "1771824489": "online",
         "1772144114": "offline",
-        "1772355424": "online"
+        "1772355424": "online",
+        "1772587456": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -7703,15 +7718,18 @@
       },
       "electrum4.runebase.io:50001": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772587456": "offline"
       },
       "electrum4.runebase.io:50002": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772587456": "offline"
       },
       "electrum4.runebase.io:50004": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772587456": "offline"
       }
     }
   },
