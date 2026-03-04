@@ -918,7 +918,8 @@
         "1772393363": "online"
       },
       "wss://bsc3.cipig.net:38655": {
-        "1772393363": "online"
+        "1772393363": "online",
+        "1772667808": "offline"
       }
     }
   },
@@ -5699,22 +5700,28 @@
         "1772393363": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       },
       "electrum4.runebase.io:50001": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       },
       "electrum4.runebase.io:50002": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       },
       "electrum4.runebase.io:50004": {
-        "1772393363": "offline"
+        "1772393363": "offline",
+        "1772667808": "online"
       }
     }
   },
