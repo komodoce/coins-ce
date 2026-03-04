@@ -24,11 +24,13 @@
   {
     "url": "electrumx2.vanillacash.info:50012",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "electrumx2.vanillacash.info:50013"
   },
   {
     "url": "electrumx1.vanillacash.info:50012",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "electrumx1.vanillacash.info:50013"
   }
 ]

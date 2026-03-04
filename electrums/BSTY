@@ -24,6 +24,7 @@
     {
         "url": "bsty-main.coinmunity.gold:50012",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "ws_url": "bsty-main.coinmunity.gold:50013"
     }
 ]
