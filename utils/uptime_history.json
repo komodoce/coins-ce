@@ -448,7 +448,8 @@
         "1771824489": "online",
         "1772144114": "offline",
         "1772355424": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1772673982": "online"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1755770395": "online"
@@ -6884,7 +6885,8 @@
         "1771824489": "online",
         "1772144114": "offline",
         "1772355424": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1772673982": "online"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -7719,17 +7721,20 @@
       "electrum4.runebase.io:50001": {
         "1755770395": "offline",
         "1770168231": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1772673982": "online"
       },
       "electrum4.runebase.io:50002": {
         "1755770395": "offline",
         "1770168231": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1772673982": "online"
       },
       "electrum4.runebase.io:50004": {
         "1755770395": "offline",
         "1770168231": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1772673982": "online"
       }
     }
   },
