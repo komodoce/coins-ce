@@ -908,7 +908,8 @@
             },
             {
                 "url": "elec-seeder-two.artbytecoin.org:50012",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -6215,7 +6216,8 @@
         "electrum": [
             {
                 "url": "bsty-main.coinmunity.gold:50012",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrumserver01.globalboost.info:50014",
@@ -40283,11 +40285,13 @@
         "electrum": [
             {
                 "url": "electrumx1.vanillacash.info:50012",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrumx2.vanillacash.info:50012",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "xvc-ex-seven.ewmci.online:50002",
@@ -44147,6 +44151,30 @@
         "electrum": [
             {
                 "url": "electrum2.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
