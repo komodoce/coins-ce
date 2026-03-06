@@ -28649,7 +28649,8 @@
             },
             {
                 "url": "electrumx2.radiant4people.com:50022",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block/"
@@ -39634,6 +39635,7 @@
             {
                 "url": "electrumx.mazanode.com:50005",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "brian@mazacoin.org"
