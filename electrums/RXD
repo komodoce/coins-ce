@@ -7,6 +7,7 @@
   {
     "url": "electrumx2.radiant4people.com:50012",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "electrumx2.radiant4people.com:50022"
   },
   {
