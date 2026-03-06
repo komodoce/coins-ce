@@ -6415,9 +6415,6 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
-                "url": "https://bsc-dataseed1.ninicoin.io"
-            },
-            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -25362,8 +25359,20 @@
             "github": "https://github.com/kmdclassic/KmdClassic",
             "homepage": "https://kmdclassic.com/"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.kmdclassic.com:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum.kmdclassic.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum.kmdclassic.com:50004",
+                "protocol": "WSS"
+            }
+        ],
         "explorer_block_url": "block/",
         "is_claimable": true,
         "minimal_claim_amount": "10"
