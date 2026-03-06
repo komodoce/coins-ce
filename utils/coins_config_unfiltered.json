@@ -6415,6 +6415,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -37376,11 +37379,13 @@
             },
             {
                 "url": "electrumx2.radiant4people.com:50012",
-                "protocol": "SSL"
+                "protocol": "SSL",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrumx2.radiant4people.com:50022",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block/"
@@ -52225,6 +52230,7 @@
             {
                 "url": "electrumx.mazanode.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "brian@mazacoin.org"
@@ -52234,6 +52240,7 @@
             {
                 "url": "electrumx.mazanode.com:50005",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "brian@mazacoin.org"
