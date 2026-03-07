@@ -1437,10 +1437,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -3111,18 +3111,6 @@
             "homepage": "https://axerunners.com"
         },
         "electrum": [
-            {
-                "url": "axe.electrum1.cipig.net:20057",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
             {
                 "url": "axe.electrum2.cipig.net:20057",
                 "protocol": "SSL",
@@ -7575,10 +7563,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -7953,11 +7941,6 @@
                 "url": "seattle.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "woolloomooloo.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -8016,11 +7999,6 @@
             },
             {
                 "url": "seattle.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "woolloomooloo.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             }
@@ -11974,15 +11952,6 @@
         },
         "electrum": [
             {
-                "url": "electrum1.wojakcoin.cash:50102",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "danny_utxo"
-                    }
-                ]
-            },
-            {
                 "url": "electrum2.wojakcoin.cash:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -13338,10 +13307,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/",
@@ -13620,10 +13589,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -14728,15 +14697,6 @@
             "homepage": "https://firo.org"
         },
         "electrum": [
-            {
-                "url": "electrumx.firo.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/firoorg/electrumx-firo/issues"
-                    }
-                ]
-            },
             {
                 "url": "electrumx01.firo.org:50002",
                 "protocol": "SSL",
@@ -24197,10 +24157,6 @@
         "derivation_path": "m/44'/191'",
         "electrum": [
             {
-                "url": "electrum5.getlynx.io:50002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "electrum6.getlynx.io:50002",
                 "protocol": "SSL"
             },
@@ -31192,6 +31148,140 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "RIN": {
+        "coin": "RIN",
+        "type": "UTXO",
+        "name": "Rincoin",
+        "coinpaprika_id": "rin-rincoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_RIN",
+        "explorer_url": "https://www.rinscan.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "rincoin Signed Message:\n",
+        "fname": "Rincoin",
+        "is_privacy_coin": true,
+        "rpcport": 9556,
+        "pubtype": 60,
+        "p2shtype": 122,
+        "wiftype": 188,
+        "txfee": 10000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "rin",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/9555'",
+        "links": {
+            "github": "https://github.com/Rin-coin/rincoin",
+            "homepage": "https://rincoin.net"
+        },
+        "electrum": [
+            {
+                "url": "peer1.rincoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer2.rincoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "RIN-segwit": {
+        "coin": "RIN-segwit",
+        "type": "UTXO",
+        "name": "Rincoin",
+        "coinpaprika_id": "rin-rincoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_RIN",
+        "explorer_url": "https://www.rinscan.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "rincoin Signed Message:\n",
+        "fname": "Rincoin",
+        "is_privacy_coin": true,
+        "rpcport": 9556,
+        "pubtype": 60,
+        "p2shtype": 122,
+        "wiftype": 188,
+        "txfee": 10000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "rin",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "RIN",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/9555'",
+        "links": {
+            "github": "https://github.com/Rin-coin/rincoin",
+            "homepage": "https://rincoin.net"
+        },
+        "electrum": [
+            {
+                "url": "peer1.rincoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer2.rincoin.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "DOC": {
         "coin": "DOC",
         "type": "Smart Chain",
@@ -32753,18 +32843,6 @@
             },
             {
                 "url": "spacecoin.electrum2.cipig.net:20011",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "spacecoin.electrum3.cipig.net:20011",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -34456,10 +34534,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -35415,10 +35493,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -36589,11 +36667,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
             },
@@ -36700,10 +36773,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -44048,18 +44121,6 @@
         },
         "electrum": [
             {
-                "url": "electrum2.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -44843,15 +44904,6 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
