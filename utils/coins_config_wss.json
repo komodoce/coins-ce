@@ -10593,6 +10593,15 @@
         },
         "electrum": [
             {
+                "url": "electrum1.wojakcoin.cash:50104",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "danny_utxo"
+                    }
+                ]
+            },
+            {
                 "url": "electrum2.wojakcoin.cash:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -32796,6 +32805,11 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",

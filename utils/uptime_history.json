@@ -1825,7 +1825,8 @@
         "1772925734": "offline"
       },
       "electrumx.dgc.ewmcx.org:50001": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1772925734": "offline"
@@ -4304,7 +4305,8 @@
     },
     "by_server": {
       "electrum5.getlynx.io:50002": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "electrum5.getlynx.io:50004": {
         "1772925734": "online"
@@ -5196,7 +5198,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1772925734": "online"
+        "1772925734": "online",
+        "1773021221": "offline"
       },
       "https://api.harmony.one": {
         "1772925734": "online"
@@ -6234,10 +6237,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1772925734": "online"
@@ -6538,13 +6543,16 @@
         }
       },
       "electrum1.wojakcoin.cash:50101": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "electrum1.wojakcoin.cash:50102": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "electrum1.wojakcoin.cash:50104": {
-        "1772925734": "offline"
+        "1772925734": "offline",
+        "1773021221": "online"
       },
       "electrum2.wojakcoin.cash:50001": {
         "1772925734": "online"
