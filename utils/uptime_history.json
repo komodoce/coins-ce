@@ -468,6 +468,9 @@
         "1762321286": "online",
         "1762820073": "offline"
       },
+      "https://rpc.sentio.xyz/avalanche": {
+        "1773027258": "online"
+      },
       "wss://0xrpc.io/avax": {
         "1755770395": "online",
         "1767483691": "offline"
@@ -3116,6 +3119,9 @@
       "https://rpc.fullsend.to": {
         "1770607407": "online"
       },
+      "https://rpc.mevblocker.io": {
+        "1773027258": "online"
+      },
       "wss://0xrpc.io/eth": {
         "1755770395": "online",
         "1769476724": "offline",
@@ -3144,6 +3150,9 @@
   "ETH-ARB20": {
     "all": {},
     "by_server": {
+      "https://api.zan.top/arb-one": {
+        "1773027258": "online"
+      },
       "https://arb1.arbitrum.io/rpc": {
         "1755770395": "online"
       },
@@ -3163,6 +3172,9 @@
         "1755770395": "offline",
         "1762321286": "online",
         "1762820073": "offline"
+      },
+      "https://rpc.sentio.xyz/arbitrum-one": {
+        "1773027258": "online"
       },
       "wss://arbitrum-one-rpc.publicnode.com": {
         "1755770395": "online"
@@ -3192,6 +3204,9 @@
       },
       "https://mainnet.base.org": {
         "1761238027": "online"
+      },
+      "https://rpc.sentio.xyz/base": {
+        "1773027258": "online"
       },
       "wss://base-rpc.publicnode.com": {
         "1761238027": "online"
@@ -6051,6 +6066,9 @@
       "https://moonriver-rpc.publicnode.com": {
         "1763783058": "online"
       },
+      "https://moonriver.api.onfinality.io/public": {
+        "1773027258": "online"
+      },
       "https://moonriver.drpc.org": {
         "1763783058": "online",
         "1764337728": "offline",
@@ -6088,6 +6106,9 @@
         "1763783058": "online",
         "1771824489": "offline",
         "1772144114": "online"
+      },
+      "wss://moonriver.api.onfinality.io/public-ws": {
+        "1773027258": "online"
       },
       "wss://moonriver.drpc.org": {
         "1763783058": "online",

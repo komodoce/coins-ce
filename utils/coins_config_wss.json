@@ -242,10 +242,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -300,10 +296,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -591,10 +583,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -877,10 +865,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -981,10 +965,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1102,10 +1082,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1311,10 +1287,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1434,10 +1406,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -1477,10 +1445,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -1710,10 +1674,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1771,10 +1731,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -1869,10 +1825,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -2430,10 +2382,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2713,10 +2661,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2908,10 +2852,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3070,10 +3010,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -3214,10 +3150,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -3442,10 +3374,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3603,10 +3531,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -3985,10 +3909,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4257,10 +4177,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4468,10 +4384,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -4938,10 +4850,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5103,10 +5011,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5220,10 +5124,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5329,10 +5229,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -6157,10 +6053,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6547,8 +6439,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -6596,10 +6488,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -6762,10 +6650,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -6851,10 +6735,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -7293,10 +7173,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -7410,10 +7286,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -7529,10 +7401,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -7834,10 +7702,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -7946,10 +7810,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -8325,10 +8185,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8445,10 +8301,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -8639,10 +8491,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8700,10 +8548,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -8952,10 +8796,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9179,10 +9019,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9298,8 +9134,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -9482,10 +9318,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9544,10 +9376,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9602,10 +9430,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -9921,10 +9745,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -10545,10 +10365,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -10644,10 +10460,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11344,10 +11156,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11463,10 +11271,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11585,10 +11389,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -11806,10 +11606,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11914,10 +11710,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -12220,10 +12012,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12281,10 +12069,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -12324,10 +12108,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12445,10 +12225,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12571,10 +12347,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -12791,10 +12563,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12910,10 +12678,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12968,10 +12732,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -13188,10 +12948,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -13903,10 +13659,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -14231,10 +13983,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -14346,10 +14094,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -14524,8 +14268,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -14569,10 +14313,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -14679,10 +14419,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15107,10 +14843,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15393,10 +15125,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15494,10 +15222,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15610,10 +15334,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -15760,10 +15480,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -15938,10 +15654,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -16032,10 +15744,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16205,10 +15913,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16317,10 +16021,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16435,10 +16135,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -16557,10 +16253,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16670,10 +16362,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16782,10 +16470,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -17240,10 +16924,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17356,10 +17036,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17469,10 +17145,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -17694,10 +17366,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -18199,10 +17867,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18480,10 +18144,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18651,10 +18311,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -19288,10 +18944,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -20139,10 +19791,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20873,10 +20521,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20998,10 +20642,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21109,10 +20749,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -21437,10 +21073,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21606,10 +21238,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21669,10 +21297,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -21789,10 +21413,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21850,10 +21470,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -22167,10 +21783,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22389,10 +22001,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -22630,10 +22238,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22689,10 +22293,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -22949,10 +22549,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23011,10 +22607,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23121,10 +22713,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23333,10 +22921,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23456,10 +23040,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -23617,8 +23197,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -23717,10 +23297,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23778,10 +23354,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -23834,8 +23406,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -24214,10 +23786,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24550,10 +24118,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24817,10 +24381,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24929,10 +24489,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25112,10 +24668,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25327,10 +24879,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -25494,10 +25042,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25687,10 +25231,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -25730,10 +25270,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25843,10 +25379,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -25962,10 +25494,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -26157,10 +25685,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26281,10 +25805,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -26449,10 +25969,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26612,10 +26128,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26724,10 +26236,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -26898,10 +26406,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27434,10 +26938,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27497,10 +26997,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27696,10 +27192,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -27941,10 +27433,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28003,10 +27491,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28061,10 +27545,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -28684,10 +28164,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28796,10 +28272,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -28918,10 +28390,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28981,10 +28449,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -29214,10 +28678,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -29602,10 +29062,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29835,10 +29291,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29969,10 +29421,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -30279,10 +29727,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30547,10 +29991,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30610,8 +30050,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -30818,10 +30258,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30876,10 +30312,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -31255,10 +30687,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31367,10 +30795,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -31456,10 +30880,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -31675,10 +31095,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -31953,10 +31369,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -32426,10 +31838,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32539,10 +31947,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -32754,10 +32158,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32965,10 +32365,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33127,10 +32523,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -33349,10 +32741,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -33535,10 +32923,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33654,8 +33038,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -33867,10 +33251,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33930,8 +33310,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -34040,10 +33420,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -34242,10 +33618,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -34629,10 +34001,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34687,10 +34055,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -35214,10 +34578,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35335,10 +34695,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35393,10 +34749,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -35455,10 +34807,6 @@
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
-            },
-            {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -35658,10 +35006,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35818,10 +35162,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -36277,10 +35617,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36340,10 +35676,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -36915,10 +36247,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37090,10 +36418,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -37518,10 +36842,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37711,10 +37031,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -38483,10 +37799,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38545,10 +37857,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -38610,10 +37918,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38674,10 +37978,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38733,10 +38033,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38791,10 +38087,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -38855,10 +38147,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38913,10 +38201,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -38978,10 +38262,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39040,10 +38320,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39105,10 +38381,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39163,10 +38435,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39226,10 +38494,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39291,10 +38555,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39350,10 +38610,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39408,10 +38664,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39472,10 +38724,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39531,10 +38779,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39589,10 +38833,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -39699,10 +38939,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
@@ -40868,10 +40104,6 @@
         "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
-            {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
             {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",

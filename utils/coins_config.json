@@ -93,9 +93,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -108,6 +105,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -327,10 +327,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -348,7 +344,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -389,10 +385,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -410,7 +402,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -619,9 +611,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -634,6 +623,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -744,10 +736,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -765,7 +753,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -1104,10 +1092,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1125,7 +1109,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -1166,9 +1150,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -1181,6 +1162,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -1221,10 +1205,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1242,7 +1222,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -1345,10 +1325,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1366,7 +1342,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -1549,10 +1525,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -1688,10 +1664,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1709,7 +1681,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -1812,18 +1784,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -1864,10 +1835,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -1885,7 +1852,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -2117,10 +2084,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2138,7 +2101,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -2179,18 +2142,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -2295,10 +2257,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -2316,7 +2274,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -2997,10 +2955,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3018,7 +2972,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -3099,9 +3053,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -3114,6 +3065,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/",
@@ -3392,10 +3346,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3413,7 +3363,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -3671,10 +3621,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -3692,7 +3638,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -3890,18 +3836,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -3942,9 +3887,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -3957,6 +3899,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -4061,10 +4006,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4082,7 +4023,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -4353,10 +4294,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4374,7 +4311,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -4469,9 +4406,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -4484,6 +4418,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -4527,10 +4464,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -4548,7 +4481,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -5120,10 +5053,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5141,7 +5070,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -5480,10 +5409,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5501,7 +5426,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -5667,9 +5592,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -5682,6 +5604,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -5722,10 +5647,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -5743,7 +5664,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -6588,10 +6509,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6609,7 +6526,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -6806,10 +6723,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6827,7 +6740,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -6926,10 +6839,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -6947,7 +6856,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -7048,10 +6957,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -7069,7 +6974,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -7172,9 +7077,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -7187,6 +7089,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -8190,10 +8095,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8211,7 +8112,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -8634,9 +8535,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -8649,6 +8547,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -8693,8 +8594,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -8743,10 +8644,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -8764,7 +8661,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -8918,18 +8815,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -8978,10 +8874,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -9022,10 +8918,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9043,7 +8935,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -9596,10 +9488,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9617,7 +9505,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -9717,10 +9605,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -9738,7 +9622,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -9845,18 +9729,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -10320,10 +10203,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10341,7 +10220,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -10436,10 +10315,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10457,7 +10332,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -10846,9 +10721,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -10861,6 +10733,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -10971,10 +10846,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -10992,7 +10863,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -11139,10 +11010,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11160,7 +11027,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -11451,10 +11318,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11472,7 +11335,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -11513,18 +11376,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -11565,9 +11427,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -11580,6 +11439,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -11844,10 +11706,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -11865,7 +11723,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -12060,9 +11918,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -12075,6 +11930,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -12119,10 +11977,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12140,7 +11994,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -12250,8 +12104,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -12506,10 +12360,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12527,7 +12377,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -12571,10 +12421,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12592,7 +12438,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -12633,10 +12479,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -12654,7 +12496,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -13126,10 +12968,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -13147,7 +12985,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -14010,18 +13848,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -14127,10 +13964,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -14148,7 +13981,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -15141,10 +14974,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15162,7 +14991,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -15273,10 +15102,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15294,7 +15119,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -15446,10 +15271,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15467,7 +15288,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -15781,10 +15602,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -15802,7 +15619,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -15844,9 +15661,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -15859,6 +15673,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/",
@@ -15899,18 +15716,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/",
@@ -15959,10 +15775,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/",
@@ -16178,9 +15994,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -16193,6 +16006,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -16241,10 +16057,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -16288,10 +16104,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16309,7 +16121,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -16350,18 +16162,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -16402,10 +16213,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16423,7 +16230,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -16526,10 +16333,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16547,7 +16350,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -16655,10 +16458,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16676,7 +16475,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -16886,10 +16685,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -16907,7 +16702,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -17017,10 +16812,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17038,7 +16829,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -17079,10 +16870,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17100,7 +16887,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -17320,10 +17107,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -17341,7 +17124,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -18347,10 +18130,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18368,7 +18147,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -18873,10 +18652,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -18894,7 +18669,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -19001,10 +18776,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -19022,7 +18793,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -19125,9 +18896,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -19140,6 +18908,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -19190,8 +18961,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -19236,10 +19007,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -19257,7 +19024,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -19358,10 +19125,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -19379,7 +19142,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20083,10 +19846,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20104,7 +19863,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20388,18 +20147,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -20448,9 +20206,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -20463,6 +20218,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -20507,10 +20265,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20528,7 +20282,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20623,18 +20377,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -20800,10 +20553,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -20821,7 +20570,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21011,18 +20760,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -21063,9 +20811,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -21078,6 +20823,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -21123,10 +20871,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21144,7 +20888,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21351,10 +21095,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21372,7 +21112,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21476,10 +21216,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21497,7 +21233,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21606,10 +21342,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21627,7 +21359,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21730,10 +21462,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21751,7 +21479,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -21846,10 +21574,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -21867,7 +21591,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -22006,10 +21730,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22027,7 +21747,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -22530,10 +22250,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22551,7 +22267,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -22658,10 +22374,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22679,7 +22391,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -22784,10 +22496,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -22805,7 +22513,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -23030,10 +22738,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23051,7 +22755,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -23467,9 +23171,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -23482,6 +23183,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -23582,10 +23286,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23603,7 +23303,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -23769,9 +23469,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -23784,6 +23481,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -23884,10 +23584,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -23905,7 +23601,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -24068,10 +23764,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24089,7 +23781,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -24601,9 +24293,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -24616,6 +24305,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -24717,10 +24409,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -24738,7 +24426,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -25804,10 +25492,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -25825,7 +25509,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -25928,9 +25612,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -25943,6 +25624,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -26820,10 +26504,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -26841,7 +26521,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -26983,10 +26663,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27004,7 +26680,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27098,10 +26774,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27119,7 +26791,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27160,9 +26832,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -27175,6 +26844,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -27508,10 +27180,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27529,7 +27197,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27689,10 +27357,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27710,7 +27374,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27756,10 +27420,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27777,7 +27437,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27887,10 +27547,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -27908,7 +27564,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -27949,18 +27605,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -28447,10 +28102,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28468,7 +28119,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -28735,10 +28386,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -28756,7 +28403,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29020,10 +28667,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29041,7 +28684,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -29128,10 +28771,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29149,7 +28788,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29543,10 +29182,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29564,7 +29199,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29609,10 +29244,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29630,7 +29261,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29731,10 +29362,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29752,7 +29379,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29853,9 +29480,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -29868,6 +29492,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -29972,10 +29599,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -29993,7 +29616,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -30143,10 +29766,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30164,7 +29783,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -30205,9 +29824,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -30220,6 +29836,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -30324,8 +29943,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -30534,10 +30153,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -30555,7 +30170,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -30596,18 +30211,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -30660,8 +30274,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -31147,10 +30761,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31168,7 +30778,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -31800,10 +31410,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -31821,7 +31427,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32097,10 +31703,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32118,7 +31720,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32213,10 +31815,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32234,7 +31832,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32408,10 +32006,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32429,7 +32023,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32643,10 +32237,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32664,7 +32254,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32867,10 +32457,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -32888,7 +32474,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -33146,18 +32732,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -33198,10 +32783,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33219,7 +32800,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -33323,10 +32904,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33344,7 +32921,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -33451,18 +33028,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -33754,10 +33330,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33775,7 +33347,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -33882,10 +33454,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -33903,7 +33471,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -34062,10 +33630,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34083,7 +33647,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -34269,10 +33833,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34290,7 +33850,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -34385,10 +33945,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34406,7 +33962,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -34571,10 +34127,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -34592,7 +34144,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -35448,10 +35000,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35469,7 +35017,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -35515,10 +35063,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35536,7 +35080,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -35857,10 +35401,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -35878,7 +35418,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -36212,10 +35752,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36233,7 +35769,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -36277,10 +35813,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36298,7 +35830,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -36339,10 +35871,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -36360,7 +35888,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37273,10 +36801,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37294,7 +36818,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37389,10 +36913,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37410,7 +36930,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37513,10 +37033,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37534,7 +37050,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37580,10 +37096,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37601,7 +37113,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37946,10 +37458,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -37967,7 +37475,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -38262,9 +37770,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -38277,6 +37782,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -38381,10 +37889,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38402,7 +37906,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -38670,10 +38174,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -38691,7 +38191,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -38877,18 +38377,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -38929,9 +38428,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -38944,6 +38440,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -38984,9 +38483,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -38999,6 +38495,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -39222,10 +38721,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39243,7 +38738,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -39401,9 +38896,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -39416,6 +38908,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -39520,10 +39015,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39541,7 +39032,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -39630,8 +39121,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -39856,10 +39347,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39877,7 +39364,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -39960,10 +39447,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -39981,7 +39464,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -40144,9 +39627,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -40159,6 +39639,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -40503,10 +39986,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -40524,7 +40003,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -40625,18 +40104,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -40685,10 +40163,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -40729,10 +40207,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -40750,7 +40224,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -41007,10 +40481,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41028,7 +40498,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -41411,10 +40881,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41432,7 +40898,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -41715,9 +41181,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -41730,6 +41193,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -41778,10 +41244,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -41942,10 +41408,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -41963,7 +41425,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42068,10 +41530,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42089,7 +41547,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42130,9 +41588,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -42145,6 +41600,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -42347,10 +41805,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42368,7 +41822,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42527,9 +41981,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -42542,6 +41993,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -42582,10 +42036,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42603,7 +42053,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42698,9 +42148,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -42713,6 +42160,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -42757,10 +42207,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -42778,7 +42224,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -43050,18 +42496,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -43110,10 +42555,10 @@
                 "ws_url": "wss://base.gateway.tenderly.co"
             },
             {
-                "url": "https://base.lava.build"
+                "url": "https://mainnet.base.org"
             },
             {
-                "url": "https://mainnet.base.org"
+                "url": "https://rpc.sentio.xyz/base"
             }
         ],
         "explorer_block_url": "block/"
@@ -43154,9 +42599,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -43169,6 +42611,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -43209,9 +42654,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -43224,6 +42666,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -43268,10 +42713,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -43289,7 +42730,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -43443,8 +42884,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -43665,10 +43106,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -43686,7 +43123,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -43731,8 +43168,8 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
@@ -43883,18 +43320,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -43943,9 +43379,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -43958,6 +43391,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -43998,9 +43434,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -44013,6 +43446,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -44121,10 +43557,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44142,7 +43574,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -44729,10 +44161,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44750,7 +44178,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -44791,10 +44219,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -44812,7 +44236,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -45536,10 +44960,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45557,7 +44977,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -45660,10 +45080,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45681,7 +45097,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -45722,10 +45138,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -45743,7 +45155,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -45784,18 +45196,17 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://arb1.arbitrum.io/rpc"
+                "url": "https://api.zan.top/arb-one"
             },
             {
-                "url": "https://arb1.lava.build"
+                "url": "https://arb1.arbitrum.io/rpc"
             },
             {
                 "url": "https://arbitrum-one-rpc.publicnode.com",
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://arbitrum.drpc.org",
-                "ws_url": "wss://arbitrum.drpc.org"
+                "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
         "explorer_block_url": "block/"
@@ -45836,9 +45247,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -45851,6 +45259,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -46013,10 +45424,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -46034,7 +45441,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -46291,10 +45698,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -46312,7 +45715,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -46938,10 +46341,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -46959,7 +46358,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -47005,10 +46404,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -47026,7 +46421,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -47628,9 +47023,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -47643,6 +47035,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -47753,10 +47148,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -47774,7 +47165,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -47985,10 +47376,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -48006,7 +47393,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -48566,9 +47953,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -48581,6 +47965,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
@@ -48626,10 +48013,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -48647,7 +48030,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -48947,10 +48330,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -48968,7 +48347,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -50306,10 +49685,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50327,7 +49702,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50372,10 +49747,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50393,7 +49764,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50471,10 +49842,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50492,7 +49859,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50538,10 +49905,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50559,7 +49922,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50600,10 +49963,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50621,7 +49980,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50662,10 +50021,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50683,7 +50038,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50728,10 +50083,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50749,7 +50100,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50790,10 +50141,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50811,7 +50158,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50857,10 +50204,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50878,7 +50221,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -50923,10 +50266,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -50944,7 +50283,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51028,10 +50367,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51049,7 +50384,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51090,10 +50425,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51111,7 +50442,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51156,10 +50487,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51177,7 +50504,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51223,10 +50550,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51244,7 +50567,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51285,10 +50608,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51306,7 +50625,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51347,10 +50666,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51368,7 +50683,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51413,10 +50728,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51434,7 +50745,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51475,10 +50786,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51496,7 +50803,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51537,10 +50844,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51558,7 +50861,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -51659,10 +50962,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -51680,7 +50979,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -53831,10 +53130,6 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth.drpc.org",
-                "ws_url": "wss://eth.drpc.org"
-            },
-            {
                 "url": "https://eth3.cipig.net:18555",
                 "ws_url": "wss://eth3.cipig.net:38555",
                 "contact": [
@@ -53852,7 +53147,7 @@
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
             },
             {
-                "url": "https://rpc.fullsend.to"
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -53894,9 +53189,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/avax/c"
-            },
-            {
                 "url": "https://api.avax.network/ext/bc/C/rpc"
             },
             {
@@ -53909,6 +53201,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/"
