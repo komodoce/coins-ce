@@ -1890,10 +1890,12 @@
         "1755770395": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1773016924": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1773016924": "offline"
       }
     }
   },
@@ -1936,10 +1938,12 @@
         "1755770395": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1773016924": "offline"
       },
       "woolloomooloo.ecoincore.com:34335": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1773016924": "offline"
       }
     }
   },
@@ -2396,7 +2400,8 @@
         "1766452233": "online",
         "1769476724": "offline",
         "1771550721": "online",
-        "1772587456": "offline"
+        "1772587456": "offline",
+        "1773016924": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
@@ -3503,7 +3508,8 @@
     "all": {
       "1755770395": "online",
       "1770168231": "offline",
-      "1770600592": "online"
+      "1770600592": "online",
+      "1773016924": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -3539,7 +3545,8 @@
       "electrumx1.flopcoin.net:10001": {
         "1755770395": "online",
         "1770168231": "offline",
-        "1770600592": "online"
+        "1770600592": "online",
+        "1773016924": "offline"
       },
       "electrumx1.flopcoin.net:10003": {
         "1755770395": "online",
@@ -3548,7 +3555,8 @@
       "electrumx1.flopcoin.net:10004": {
         "1755770395": "online",
         "1770168231": "offline",
-        "1770600592": "online"
+        "1770600592": "online",
+        "1773016924": "offline"
       },
       "electrumx2.flopcoin.net:10001": {
         "1755770395": "online",
@@ -4483,12 +4491,14 @@
       "il9p.electrumx.transcenders.name:50002": {
         "1755770395": "online",
         "1758502268": "offline",
-        "1758586414": "online"
+        "1758586414": "online",
+        "1773016924": "offline"
       },
       "il9p.electrumx.transcenders.name:50003": {
         "1755770395": "online",
         "1758502268": "offline",
-        "1758586414": "online"
+        "1758586414": "online",
+        "1773016924": "offline"
       }
     }
   },
@@ -7530,6 +7540,44 @@
       },
       "ric.electrum3.cipig.net:30074": {
         "1755770395": "online"
+      }
+    }
+  },
+  "RIN": {
+    "all": {
+      "1773016924": "online"
+    },
+    "by_server": {
+      "peer1.rincoin.net:50002": {
+        "1773016924": "online"
+      },
+      "peer1.rincoin.net:50004": {
+        "1773016924": "online"
+      },
+      "peer2.rincoin.net:50002": {
+        "1773016924": "online"
+      },
+      "peer2.rincoin.net:50004": {
+        "1773016924": "online"
+      }
+    }
+  },
+  "RIN-segwit": {
+    "all": {
+      "1773016924": "online"
+    },
+    "by_server": {
+      "peer1.rincoin.net:50002": {
+        "1773016924": "online"
+      },
+      "peer1.rincoin.net:50004": {
+        "1773016924": "online"
+      },
+      "peer2.rincoin.net:50002": {
+        "1773016924": "online"
+      },
+      "peer2.rincoin.net:50004": {
+        "1773016924": "online"
       }
     }
   },
