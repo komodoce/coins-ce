@@ -10988,6 +10988,10 @@
                 "url": "failover.dgc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "electrumx.dgc.ewmcx.org:50001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -11971,6 +11975,15 @@
             "homepage": "https://wojakcoin.cash"
         },
         "electrum": [
+            {
+                "url": "electrum1.wojakcoin.cash:50102",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "danny_utxo"
+                    }
+                ]
+            },
             {
                 "url": "electrum2.wojakcoin.cash:50002",
                 "protocol": "SSL",
@@ -24245,6 +24258,10 @@
         "derivation_path": "m/44'/191'",
         "electrum": [
             {
+                "url": "electrum5.getlynx.io:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrum6.getlynx.io:50002",
                 "protocol": "SSL"
             },
@@ -27906,9 +27923,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -36796,6 +36810,11 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
