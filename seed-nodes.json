@@ -51,7 +51,7 @@
         "name": "balerion-dragon-seed",
         "host": "balerion.dragon-seed.com",
         "type": "domain",
-        "wss": true,
+        "wss": false,
         "netid": 8762,
         "contact": [
             {
@@ -63,7 +63,7 @@
         "name": "sintara-dragon-seed",
         "host": "sintara.dragon-seed.com",
         "type": "domain",
-        "wss": true,
+        "wss": false,
         "netid": 8762,
         "contact": [
             {
