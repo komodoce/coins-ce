@@ -10,6 +10,7 @@
   {
     "url": "meowcoinelectrum.xyz:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
         {
             "discord": "Meowmancer#2099"
