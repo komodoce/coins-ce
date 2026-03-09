@@ -40024,6 +40024,7 @@
             {
                 "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
