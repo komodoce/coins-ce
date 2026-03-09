@@ -9701,6 +9701,15 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
+                "url": "dgc-ex-four.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "failover.dgc.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -13490,6 +13499,7 @@
             {
                 "url": "electrum.myfloki.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
@@ -13552,6 +13562,7 @@
             {
                 "url": "electrum.myfloki.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"

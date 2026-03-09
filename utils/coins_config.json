@@ -12887,6 +12887,33 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
+                "url": "dgc-ex-four.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "dgc-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "dgc-ex-four.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "dgc-ex-three.ewmci.online:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -17891,6 +17918,7 @@
             {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
@@ -17900,6 +17928,7 @@
             {
                 "url": "electrum.myfloki.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
@@ -17980,6 +18009,7 @@
             {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
@@ -17989,6 +18019,7 @@
             {
                 "url": "electrum.myfloki.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
@@ -46179,6 +46210,18 @@
             {
                 "url": "electrumx-dex-02.neuraiexplorer.com:50002",
                 "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "alarm@neurai.org"
+                    },
+                    {
+                        "discord": "456566604809895947"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx3.neurai.top:50001",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "alarm@neurai.org"

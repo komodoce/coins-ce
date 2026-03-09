@@ -1815,6 +1815,15 @@
           ]
         }
       },
+      "dgc-ex-four.ewmci.online:50001": {
+        "1773077930": "online"
+      },
+      "dgc-ex-four.ewmci.online:50002": {
+        "1773077930": "online"
+      },
+      "dgc-ex-four.ewmci.online:50003": {
+        "1773077930": "online"
+      },
       "dgc-ex-three.ewmci.online:50001": {
         "1773058429": "online"
       },
@@ -4600,7 +4609,8 @@
         "1773058429": "online"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
-        "1773058429": "online"
+        "1773058429": "online",
+        "1773077930": "offline"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1773058429": "online"
@@ -6685,7 +6695,8 @@
         "1773058429": "online"
       },
       "electrumx3.neurai.top:50001": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773077930": "online"
       },
       "electrumx3.neurai.top:50002": {
         "1773058429": "offline"
