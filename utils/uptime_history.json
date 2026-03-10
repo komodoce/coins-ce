@@ -49,13 +49,16 @@
         }
       },
       "aby-ex-four.ewmci.online:50011": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773107219": "online"
       },
       "aby-ex-four.ewmci.online:50012": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773107219": "online"
       },
       "aby-ex-four.ewmci.online:50013": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773107219": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
         "1773058429": "offline"
@@ -373,7 +376,8 @@
     "all": {},
     "by_server": {
       "https://api.avax.network/ext/bc/C/rpc": {
-        "1773058429": "online"
+        "1773058429": "online",
+        "1773107219": "offline"
       },
       "https://avalanche-c-chain-rpc.publicnode.com": {
         "1773058429": "online"
@@ -4600,7 +4604,8 @@
         "1773058429": "online"
       },
       "https://moonriver.api.onfinality.io/public": {
-        "1773058429": "online"
+        "1773058429": "online",
+        "1773107219": "offline"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1773058429": "online"

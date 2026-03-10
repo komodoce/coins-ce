@@ -902,6 +902,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -2810,9 +2819,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://api.avax.network/ext/bc/C/rpc"
-            },
             {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
@@ -26330,10 +26336,6 @@
             {
                 "url": "https://moonriver-rpc.publicnode.com",
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
