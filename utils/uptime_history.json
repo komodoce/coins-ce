@@ -377,7 +377,8 @@
     "by_server": {
       "https://api.avax.network/ext/bc/C/rpc": {
         "1773058429": "online",
-        "1773107219": "offline"
+        "1773107219": "offline",
+        "1773193625": "online"
       },
       "https://avalanche-c-chain-rpc.publicnode.com": {
         "1773058429": "online"
@@ -479,13 +480,16 @@
         }
       },
       "axe.electrum1.cipig.net:10057": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773193625": "online"
       },
       "axe.electrum1.cipig.net:20057": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773193625": "online"
       },
       "axe.electrum1.cipig.net:30057": {
-        "1773058429": "offline"
+        "1773058429": "offline",
+        "1773193625": "online"
       },
       "axe.electrum2.cipig.net:10057": {
         "1773058429": "online"
@@ -4605,7 +4609,8 @@
       },
       "https://moonriver.api.onfinality.io/public": {
         "1773058429": "online",
-        "1773107219": "offline"
+        "1773107219": "offline",
+        "1773193625": "online"
       },
       "https://rpc.api.moonriver.moonbeam.network": {
         "1773058429": "online"
@@ -4615,7 +4620,8 @@
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1773058429": "online",
-        "1773077930": "offline"
+        "1773077930": "offline",
+        "1773193625": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1773058429": "online"

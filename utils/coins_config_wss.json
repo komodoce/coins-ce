@@ -2725,6 +2725,18 @@
         },
         "electrum": [
             {
+                "url": "axe.electrum1.cipig.net:30057",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "axe.electrum2.cipig.net:30057",
                 "protocol": "WSS",
                 "contact": [
@@ -23481,6 +23493,10 @@
             {
                 "url": "https://moonriver-rpc.publicnode.com",
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
+            },
+            {
+                "url": "https://moonriver.api.onfinality.io/public",
+                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
