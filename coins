@@ -17091,29 +17091,56 @@
     }
   },
   {
-    "coin": "NITO-segwit",
+    "coin": "NITO",
     "name": "nito",
     "fname": "NITO",
-    "sign_message_prefix": "Nito Signed Message:\n",
     "rpcport": 8825,
     "pubtype": 0,
     "p2shtype": 5,
     "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "nito",
     "txfee": 10000,
-    "wallet_only": true,
+    "dust": 10000,
+    "mm2": 1,
+    "required_confirmations": 3,
+    "mature_confirmations": 101,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/0'",
+    "sign_message_prefix": "Nito Signed Message:\n",
+    "links": {
+      "github": "https://github.com/NitoNetwork/Nito-core",
+      "homepage": "https://nito.network"
+    }
+  },
+  {
+    "coin": "NITO-segwit",
+    "name": "nito",
+    "fname": "NITO",
+    "rpcport": 8825,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
     "segwit": true,
     "bech32_hrp": "nito",
     "address_format": {
       "format": "segwit"
     },
     "orderbook_ticker": "NITO",
+    "txfee": 10000,
+    "dust": 10000,
     "mm2": 1,
     "required_confirmations": 3,
+    "mature_confirmations": 101,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
     },
     "derivation_path": "m/84'/0'",
+    "sign_message_prefix": "Nito Signed Message:\n",
     "links": {
       "github": "https://github.com/NitoNetwork/Nito-core",
       "homepage": "https://nito.network"
