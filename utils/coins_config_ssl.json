@@ -10966,6 +10966,15 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
+                "url": "dgc-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "dgc-ex-three.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -44097,18 +44106,6 @@
                         "discord": "Bago#7842"
                     }
                 ]
-            },
-            {
-                "url": "electrum4.runebase.io:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "support@runebase.io"
-                    },
-                    {
-                        "discord": "Bago#7842"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -44622,7 +44619,32 @@
             "github": "https://github.com/NitoNetwork/Nito-core",
             "homepage": "https://nito.network"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum1.nito.network:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.nitopool.fr:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "EVR": {
