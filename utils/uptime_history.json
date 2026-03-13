@@ -2391,6 +2391,15 @@
           ]
         }
       },
+      "dgc-ex-four.ewmci.online:50001": {
+        "1773442299": "online"
+      },
+      "dgc-ex-four.ewmci.online:50002": {
+        "1773442299": "online"
+      },
+      "dgc-ex-four.ewmci.online:50003": {
+        "1773442299": "online"
+      },
       "dgc-ex-three.ewmci.online:50001": {
         "1755770395": "online"
       },
@@ -6144,7 +6153,8 @@
         "1763717835": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1773442299": "offline"
       }
     }
   },
@@ -6440,20 +6450,24 @@
         "1761437654": "online"
       },
       "electrum1.nito.network:50003": {
-        "1755770395": "offline"
+        "1755770395": "offline",
+        "1773442299": "online"
       },
       "electrum1.nito.network:50005": {
-        "1755770395": "offline"
+        "1755770395": "offline",
+        "1773442299": "online"
       },
       "electrum1.nitopool.fr:50001": {
         "1755770395": "offline",
         "1761437654": "online"
       },
       "electrum1.nitopool.fr:50003": {
-        "1755770395": "offline"
+        "1755770395": "offline",
+        "1773442299": "online"
       },
       "electrum1.nitopool.fr:50005": {
-        "1755770395": "offline"
+        "1755770395": "offline",
+        "1773442299": "online"
       }
     }
   },
@@ -7796,19 +7810,22 @@
         "1755770395": "offline",
         "1770168231": "online",
         "1772587456": "offline",
-        "1772673982": "online"
+        "1772673982": "online",
+        "1773442299": "offline"
       },
       "electrum4.runebase.io:50002": {
         "1755770395": "offline",
         "1770168231": "online",
         "1772587456": "offline",
-        "1772673982": "online"
+        "1772673982": "online",
+        "1773442299": "offline"
       },
       "electrum4.runebase.io:50004": {
         "1755770395": "offline",
         "1770168231": "online",
         "1772587456": "offline",
-        "1772673982": "online"
+        "1772673982": "online",
+        "1773442299": "offline"
       }
     }
   },
