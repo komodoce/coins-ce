@@ -47035,6 +47035,18 @@
                 "protocol": "TCP"
             },
             {
+                "url": "electrum-verge.cloud:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum-verge.cloud:50004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "electrumx-verge.cloud:50001",
                 "protocol": "TCP"
             },
@@ -52961,6 +52973,15 @@
                 "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"

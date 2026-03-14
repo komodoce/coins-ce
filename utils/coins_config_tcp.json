@@ -40679,6 +40679,10 @@
         "derivation_path": "m/44'/77'",
         "electrum": [
             {
+                "url": "electrum-verge.cloud:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
             },
@@ -45154,6 +45158,15 @@
                 "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
