@@ -2962,6 +2962,74 @@
       }
     }
   },
+  "DSV": {
+    "all": {
+      "1773447566": "online"
+    },
+    "by_server": {
+      "electrumx.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "electrumx.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "electrumx.doriancoin.com:50004": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50004": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50004": {
+        "1773447566": "online"
+      }
+    }
+  },
+  "DSV-segwit": {
+    "all": {
+      "1773447566": "online"
+    },
+    "by_server": {
+      "electrumx.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "electrumx.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "electrumx.doriancoin.com:50004": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "node1.doriancoin.com:50004": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50001": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50002": {
+        "1773447566": "online"
+      },
+      "node2.doriancoin.com:50004": {
+        "1773447566": "online"
+      }
+    }
+  },
   "EFL": {
     "all": {
       "1755770395": "online"
@@ -6154,7 +6222,8 @@
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1755770395": "online",
-        "1773442299": "offline"
+        "1773442299": "offline",
+        "1773447566": "online"
       }
     }
   },
