@@ -6446,6 +6446,31 @@
       }
     }
   },
+  "NITO": {
+    "all": {
+      "1773452062": "online"
+    },
+    "by_server": {
+      "electrum1.nito.network:50001": {
+        "1773452062": "online"
+      },
+      "electrum1.nito.network:50003": {
+        "1773452062": "online"
+      },
+      "electrum1.nito.network:50005": {
+        "1773452062": "online"
+      },
+      "electrum1.nitopool.fr:50001": {
+        "1773452062": "online"
+      },
+      "electrum1.nitopool.fr:50003": {
+        "1773452062": "online"
+      },
+      "electrum1.nitopool.fr:50005": {
+        "1773452062": "online"
+      }
+    }
+  },
   "NITO-segwit": {
     "all": {
       "1755770395": "offline",
