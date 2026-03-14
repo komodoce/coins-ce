@@ -10574,6 +10574,146 @@
         "explorer_block_url": "block/",
         "binance_id": "DOGE"
     },
+    "DSV": {
+        "coin": "DSV",
+        "type": "UTXO",
+        "name": "Doriancoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://blocks.doriancoin.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Doriancoin Signed Message:\n",
+        "fname": "Doriancoin",
+        "is_privacy_coin": true,
+        "rpcport": 1948,
+        "pubtype": 30,
+        "p2shtype": 28,
+        "wiftype": 176,
+        "txfee": 1000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "dsv",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 150,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/1948'",
+        "links": {
+            "github": "https://github.com/doriancoin-project/doriancoin",
+            "homepage": "https://doriancoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            },
+            {
+                "url": "node1.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            },
+            {
+                "url": "node2.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "DSV-segwit": {
+        "coin": "DSV-segwit",
+        "type": "UTXO",
+        "name": "Doriancoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://blocks.doriancoin.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Doriancoin Signed Message:\n",
+        "fname": "Doriancoin",
+        "is_privacy_coin": true,
+        "rpcport": 1948,
+        "pubtype": 30,
+        "p2shtype": 28,
+        "wiftype": 176,
+        "txfee": 1000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "dsv",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "DSV",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 150,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/1948'",
+        "links": {
+            "github": "https://github.com/doriancoin-project/doriancoin",
+            "homepage": "https://doriancoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            },
+            {
+                "url": "node1.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            },
+            {
+                "url": "node2.doriancoin.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cloudhax#8411"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "WJK": {
         "coin": "WJK",
         "type": "UTXO",
