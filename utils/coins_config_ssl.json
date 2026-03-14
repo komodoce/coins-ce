@@ -14863,6 +14863,15 @@
         },
         "electrum": [
             {
+                "url": "electrumx.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx01.firo.org:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -15650,18 +15659,6 @@
                 ]
             },
             {
-                "url": "ftc.electrum2.cipig.net:20054",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
                 "url": "ftc.electrum3.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
@@ -15719,18 +15716,6 @@
         "electrum": [
             {
                 "url": "ftc.electrum1.cipig.net:20054",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "ftc.electrum2.cipig.net:20054",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -27028,27 +27013,6 @@
         "derivation_path": "m/44'/50'",
         "electrum": [
             {
-                "url": "electrumx.nvc.ewmcx.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "coins@ewmci.com"
-                    },
-                    {
-                        "discord": "[CryptoStan]#9341"
-                    },
-                    {
-                        "twitter": "EwmciL"
-                    },
-                    {
-                        "reddit": "NovacoinCommunity"
-                    },
-                    {
-                        "github": "novacoin-project"
-                    }
-                ]
-            },
-            {
                 "url": "failover.nvc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -35215,55 +35179,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "TKL": {
-        "coin": "TKL",
-        "type": "Smart Chain",
-        "name": "Tokel",
-        "coinpaprika_id": "tkl-tokel",
-        "coingecko_id": "tokel",
-        "livecoinwatch_id": "TKL",
-        "explorer_url": "https://explorer.tokel.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "TOKEL",
-        "fname": "Tokel",
-        "is_privacy_coin": true,
-        "rpcport": 29405,
-        "pubtype": 60,
-        "p2shtype": 85,
-        "wiftype": 188,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "1.eu.tokel.electrum.dexstats.info:11077",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "chmex@dexstats.info"
-                    },
-                    {
-                        "discord": "chmex#0686"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "TON-ERC20": {
         "coin": "TON-ERC20",
         "type": "ERC-20",
@@ -36831,11 +36746,6 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
-            {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
@@ -40624,10 +40534,6 @@
         },
         "derivation_path": "m/44'/77'",
         "electrum": [
-            {
-                "url": "electrum-verge.cloud:50002",
-                "protocol": "SSL"
-            },
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
@@ -44690,6 +44596,73 @@
         ],
         "explorer_block_url": "block/"
     },
+    "NITO": {
+        "coin": "NITO",
+        "type": "UTXO",
+        "name": "NITO",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_NITO",
+        "explorer_url": "https://explorer.nito.network/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Nito Signed Message:\n",
+        "fname": "NITO",
+        "rpcport": 8825,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "nito",
+        "txfee": 10000,
+        "dust": 10000,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "mature_confirmations": 101,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/0'",
+        "links": {
+            "github": "https://github.com/NitoNetwork/Nito-core",
+            "homepage": "https://nito.network"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.nito.network:50003",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.nitopool.fr:50003",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "NITO-segwit": {
         "coin": "NITO-segwit",
         "type": "UTXO",
@@ -44704,22 +44677,24 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Nito Signed Message:\n",
         "fname": "NITO",
         "rpcport": 8825,
         "pubtype": 0,
         "p2shtype": 5,
         "wiftype": 128,
-        "txfee": 10000,
         "segwit": true,
         "bech32_hrp": "nito",
         "address_format": {
             "format": "segwit"
         },
         "orderbook_ticker": "NITO",
+        "txfee": 10000,
+        "dust": 10000,
         "mm2": 1,
         "required_confirmations": 3,
+        "mature_confirmations": 101,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -44729,7 +44704,34 @@
             "github": "https://github.com/NitoNetwork/Nito-core",
             "homepage": "https://nito.network"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum1.nito.network:50003",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.nitopool.fr:50003",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "EVR": {
@@ -44978,15 +44980,6 @@
                 "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
