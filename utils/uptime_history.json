@@ -2887,13 +2887,16 @@
         "1773447438": "online"
       },
       "ftc.electrum2.cipig.net:10054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum2.cipig.net:20054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum2.cipig.net:30054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum3.cipig.net:10054": {
         "1773447438": "online"
@@ -2953,13 +2956,16 @@
         "1773447438": "online"
       },
       "ftc.electrum2.cipig.net:10054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum2.cipig.net:20054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum2.cipig.net:30054": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "ftc.electrum3.cipig.net:10054": {
         "1773447438": "online"
@@ -7353,7 +7359,8 @@
   },
   "tBCH": {
     "all": {
-      "1773447438": "offline"
+      "1773447438": "offline",
+      "1773540248": "online"
     },
     "by_server": {
       "_metadata": {
@@ -7393,7 +7400,8 @@
         "1773447438": "offline"
       },
       "tbch.loping.net:60002": {
-        "1773447438": "offline"
+        "1773447438": "offline",
+        "1773540248": "online"
       },
       "testnet.bitcoincash.network:60002": {
         "1773447438": "offline"

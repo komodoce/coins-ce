@@ -18554,6 +18554,42 @@
                 ]
             },
             {
+                "url": "ftc.electrum2.cipig.net:10054",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "ftc.electrum2.cipig.net:20054",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ftc.electrum2.cipig.net:30054",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
                 "url": "ftc.electrum3.cipig.net:10054",
                 "contact": [
                     {
@@ -18659,6 +18695,42 @@
             },
             {
                 "url": "ftc.electrum1.cipig.net:30054",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ftc.electrum2.cipig.net:10054",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "ftc.electrum2.cipig.net:20054",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    },
+                    {
+                        "discord": "cipi#4502"
+                    }
+                ]
+            },
+            {
+                "url": "ftc.electrum2.cipig.net:30054",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -51202,8 +51274,17 @@
             "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/1'",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "tbch.loping.net:60002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "UFO": {
