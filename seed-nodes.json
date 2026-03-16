@@ -46,5 +46,29 @@
                 "email": ""
             }
         ]
+    },
+    {
+        "name": "balerion-dragon-seed",
+        "host": "balerion.dragon-seed.com",
+        "type": "domain",
+        "wss": false,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "sintara-dragon-seed",
+        "host": "sintara.dragon-seed.com",
+        "type": "domain",
+        "wss": false,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
     }
 ]
