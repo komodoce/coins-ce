@@ -160,6 +160,7 @@ class CoinConfig:
             "QTUM": "QRC-20",
             "RBTC": "RSK Smart Bitcoin",
             "SBCH": "SmartBCH",
+            "TRX": "TRC-20",
             "ATOM": "TENDERMINT",
             "OSMO": "TENDERMINT",
             "IRIS": "TENDERMINT",
@@ -173,6 +174,7 @@ class CoinConfig:
             "IRISTEST": "TENDERMINT",
             "NUCLEUSTEST": "TENDERMINT",
             "MATICTEST": "Matic",
+            "TRXT": "TRC-20",
             "UBQ": "Ubiq",
         }
         self.coin_type = coin_data["protocol"]["type"]
@@ -380,7 +382,7 @@ class CoinConfig:
         For token coins, this returns the parent chain coin.
         """
         # For token coins, we need to check parent chain status
-        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20")):
+        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20", "-TRC20")):
             if self.ticker.endswith("-QRC20"):
                 return "tQTUM" if self.is_testnet else "QTUM"
             elif self.ticker.endswith("-ERC20"):
@@ -389,6 +391,8 @@ class CoinConfig:
                 return "BNB"
             elif self.ticker.endswith("-PLG20"):
                 return "MATIC"
+            elif self.ticker.endswith("-TRC20"):
+                return "TRX"
             elif self.ticker.endswith("-AVX20"):
                 return "AVAX"
             elif self.ticker.endswith("-GRC20"):
