@@ -9709,6 +9709,11 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -24097,6 +24102,27 @@
         },
         "derivation_path": "m/44'/50'",
         "electrum": [
+            {
+                "url": "electrumx.nvc.ewmcx.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "coins@ewmci.com"
+                    },
+                    {
+                        "discord": "[CryptoStan]#9341"
+                    },
+                    {
+                        "twitter": "EwmciL"
+                    },
+                    {
+                        "reddit": "NovacoinCommunity"
+                    },
+                    {
+                        "github": "novacoin-project"
+                    }
+                ]
+            },
             {
                 "url": "failover.nvc.ewmcx.biz:50003",
                 "protocol": "WSS",
