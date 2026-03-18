@@ -3126,7 +3126,7 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://api.avax.network/ext/bc/C/rpc"
+                "url": "https://1rpc.io/avax/c"
             },
             {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
@@ -32497,6 +32497,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -41473,7 +41476,7 @@
     },
     "TRX": {
         "coin": "TRX",
-        "type": "TRC-20",
+        "type": "TRX",
         "name": "TRON",
         "coinpaprika_id": "",
         "coingecko_id": "",
@@ -41535,7 +41538,7 @@
     },
     "TRXT": {
         "coin": "TRXT",
-        "type": "TRC-20",
+        "type": "TRX",
         "name": "TRON Testnet",
         "coinpaprika_id": "",
         "coingecko_id": "",
