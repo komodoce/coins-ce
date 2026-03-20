@@ -4714,6 +4714,15 @@
         },
         "electrum": [
             {
+                "url": "bitcoinii.ddns.net:50008",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
+            {
                 "url": "bitcoinii.ddns.net:50009",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
@@ -4795,6 +4804,15 @@
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
+            {
+                "url": "bitcoinii.ddns.net:50008",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1391871602127540236"
+                    }
+                ]
+            },
             {
                 "url": "bitcoinii.ddns.net:50009",
                 "protocol": "SSL",
@@ -7591,6 +7609,15 @@
                 "contact": [
                     {
                         "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum3.btcz.rocks:50004",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
                     }
                 ],
                 "protocol": "WSS"
@@ -53240,6 +53267,15 @@
                 "url": "meowcoinelectrum.xyz:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
