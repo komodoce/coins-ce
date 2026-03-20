@@ -3080,9 +3080,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://api.avax.network/ext/bc/C/rpc"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
             },
@@ -12950,6 +12947,16 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -41435,8 +41442,14 @@
                 "network": "Mainnet"
             }
         },
-        "nodes": [],
-        "delisted": true,
+        "nodes": [
+            {
+                "url": "https://api.trongrid.io"
+            },
+            {
+                "url": "https://tron-rpc.publicnode.com"
+            }
+        ],
         "binance_id": "TRX"
     },
     "USDT-TRC20": {
@@ -41467,8 +41480,14 @@
         },
         "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
         "parent_coin": "TRX",
-        "nodes": [],
-        "delisted": true
+        "nodes": [
+            {
+                "url": "https://api.trongrid.io"
+            },
+            {
+                "url": "https://tron-rpc.publicnode.com"
+            }
+        ]
     },
     "TRXT": {
         "coin": "TRXT",
@@ -41497,8 +41516,14 @@
                 "network": "Nile"
             }
         },
-        "nodes": [],
-        "delisted": true
+        "nodes": [
+            {
+                "url": "https://api.nileex.io"
+            },
+            {
+                "url": "https://nile.trongrid.io"
+            }
+        ]
     },
     "TESTUSDT-TRC20": {
         "coin": "TESTUSDT-TRC20",
@@ -41528,8 +41553,14 @@
         },
         "contract_address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
         "parent_coin": "TRXT",
-        "nodes": [],
-        "delisted": true
+        "nodes": [
+            {
+                "url": "https://api.nileex.io"
+            },
+            {
+                "url": "https://nile.trongrid.io"
+            }
+        ]
     },
     "TRYB-AVX20": {
         "coin": "TRYB-AVX20",
@@ -48160,33 +48191,6 @@
             {
                 "url": "207.180.252.200:50011",
                 "protocol": "TCP"
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50011",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50013",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"

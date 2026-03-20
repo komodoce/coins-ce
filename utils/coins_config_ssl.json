@@ -2824,9 +2824,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://api.avax.network/ext/bc/C/rpc"
-            },
-            {
                 "url": "https://avalanche-c-chain-rpc.publicnode.com",
                 "ws_url": "wss://avalanche-c-chain-rpc.publicnode.com"
             },
@@ -10982,6 +10979,11 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -35491,6 +35493,153 @@
         "explorer_block_url": "block/",
         "binance_id": "TRX"
     },
+    "TRX": {
+        "coin": "TRX",
+        "type": "TRX",
+        "name": "TRON",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "TRX",
+        "explorer_url": "",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "TRON",
+        "mm2": 1,
+        "decimals": 6,
+        "avg_blocktime": 3,
+        "required_confirmations": 1,
+        "derivation_path": "m/44'/195'",
+        "protocol": {
+            "type": "TRX",
+            "protocol_data": {
+                "network": "Mainnet"
+            }
+        },
+        "nodes": [
+            {
+                "url": "https://api.trongrid.io"
+            },
+            {
+                "url": "https://tron-rpc.publicnode.com"
+            }
+        ],
+        "binance_id": "TRX"
+    },
+    "USDT-TRC20": {
+        "coin": "USDT-TRC20",
+        "type": "TRC-20",
+        "name": "Tether",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "USDT",
+        "explorer_url": "",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "Tether",
+        "mm2": 1,
+        "decimals": 6,
+        "derivation_path": "m/44'/195'",
+        "protocol": {
+            "type": "TRC20",
+            "protocol_data": {
+                "platform": "TRX",
+                "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            }
+        },
+        "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+        "parent_coin": "TRX",
+        "nodes": [
+            {
+                "url": "https://api.trongrid.io"
+            },
+            {
+                "url": "https://tron-rpc.publicnode.com"
+            }
+        ]
+    },
+    "TRXT": {
+        "coin": "TRXT",
+        "type": "TRX",
+        "name": "TRON Testnet",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": true,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "TRON Testnet",
+        "mm2": 1,
+        "decimals": 6,
+        "avg_blocktime": 3,
+        "required_confirmations": 1,
+        "derivation_path": "m/44'/195'",
+        "protocol": {
+            "type": "TRX",
+            "protocol_data": {
+                "network": "Nile"
+            }
+        },
+        "nodes": [
+            {
+                "url": "https://api.nileex.io"
+            },
+            {
+                "url": "https://nile.trongrid.io"
+            }
+        ]
+    },
+    "TESTUSDT-TRC20": {
+        "coin": "TESTUSDT-TRC20",
+        "type": "TRC-20",
+        "name": "Tether Testnet",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": true,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "Tether Testnet",
+        "mm2": 1,
+        "decimals": 6,
+        "derivation_path": "m/44'/195'",
+        "protocol": {
+            "type": "TRC20",
+            "protocol_data": {
+                "platform": "TRXT",
+                "contract_address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf"
+            }
+        },
+        "contract_address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
+        "parent_coin": "TRXT",
+        "nodes": [
+            {
+                "url": "https://api.nileex.io"
+            },
+            {
+                "url": "https://nile.trongrid.io"
+            }
+        ]
+    },
     "TRYB-AVX20": {
         "coin": "TRYB-AVX20",
         "type": "AVX-20",
@@ -41303,17 +41452,7 @@
             "github": "https://github.com/WikiMin3R/ZetacoinE",
             "homepage": "https://zetacoin.io"
         },
-        "electrum": [
-            {
-                "url": "zet-ex-three.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
