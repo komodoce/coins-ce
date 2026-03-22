@@ -70,5 +70,17 @@
                 "email": ""
             }
         ]
+    },
+    {
+        "name": "seed-decker-1",
+        "host": "kdfseed1.decker.im",
+        "type": "domain",
+        "wss": true,
+        "netid": 6133,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
     }
 ]
