@@ -82,5 +82,17 @@
                 "email": ""
             }
         ]
+    },
+    {
+        "name": "seed-gleec-2",
+        "host": "staking2.gleec.com",
+        "type": "domain",
+        "wss": true,
+        "netid": 6133,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
     }
 ]
