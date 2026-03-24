@@ -2433,7 +2433,8 @@
         "1771550721": "online",
         "1772587456": "offline",
         "1773016924": "online",
-        "1773958007": "offline"
+        "1773958007": "offline",
+        "1774315522": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
@@ -2454,7 +2455,8 @@
         "1770254634": "online",
         "1772144114": "offline",
         "1772587456": "online",
-        "1773958007": "offline"
+        "1773958007": "offline",
+        "1774315522": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -2466,7 +2468,8 @@
         "1770254634": "online",
         "1772144114": "offline",
         "1772587456": "online",
-        "1773958007": "offline"
+        "1773958007": "offline",
+        "1774315522": "online"
       }
     }
   },
@@ -8582,11 +8585,13 @@
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
         "1755770395": "online",
-        "1773958007": "offline"
+        "1773958007": "offline",
+        "1774315522": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1755770395": "online",
-        "1773958007": "offline"
+        "1773958007": "offline",
+        "1774315522": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1755770395": "online"
@@ -9520,7 +9525,8 @@
         "1767483691": "offline",
         "1768699088": "online",
         "1771378210": "offline",
-        "1771550721": "online"
+        "1771550721": "online",
+        "1774315522": "offline"
       },
       "zet-ex-three.ewmci.online:50012": {
         "1755770395": "offline",
@@ -9532,7 +9538,8 @@
         "1767483691": "offline",
         "1768699088": "online",
         "1771378210": "offline",
-        "1771550721": "online"
+        "1771550721": "online",
+        "1774315522": "offline"
       },
       "zet-ex-three.ewmci.online:50013": {
         "1755770395": "offline",
@@ -9544,7 +9551,8 @@
         "1767483691": "offline",
         "1768699088": "online",
         "1771378210": "offline",
-        "1771550721": "online"
+        "1771550721": "online",
+        "1774315522": "offline"
       }
     }
   },
