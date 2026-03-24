@@ -9709,6 +9709,11 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -35724,6 +35729,7 @@
             {
                 "url": "electrumx-dex-01.neuraiexplorer.com:50002",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "alarm@neurai.org"
@@ -35736,6 +35742,7 @@
             {
                 "url": "electrumx-dex-02.neuraiexplorer.com:50002",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "alarm@neurai.org"
@@ -39722,9 +39729,6 @@
             },
             {
                 "url": "https://rpc.cosmos.directory/osmosis"
-            },
-            {
-                "url": "https://rpc.osmosis.zone/"
             }
         ],
         "explorer_block_url": "block/",
@@ -40250,6 +40254,7 @@
             {
                 "url": "electrum.mewccrypto.com:50004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
