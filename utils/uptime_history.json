@@ -1935,7 +1935,8 @@
   },
   "DINGO": {
     "all": {
-      "1774402945": "offline"
+      "1774402945": "offline",
+      "1774490598": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1990,13 +1991,16 @@
         }
       },
       "delecx.twinkykms.com:3339": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "delecx.twinkykms.com:3341": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "delecx.twinkykms.com:3342": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "elecx1.dingocoin.com:3339": {
         "1774402945": "offline"
@@ -2315,6 +2319,12 @@
       },
       "holland.ecoincore.com:11019": {
         "1774402945": "offline"
+      },
+      "lenoir.ecoincore.com:11017": {
+        "1774490598": "offline"
+      },
+      "lenoir.ecoincore.com:11019": {
+        "1774490598": "offline"
       }
     }
   },
@@ -4631,7 +4641,8 @@
         "1774402945": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "meowelectrum.xyz:50004": {
         "1774402945": "offline"
@@ -4693,7 +4704,8 @@
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1774402945": "online",
-        "1774403793": "offline"
+        "1774403793": "offline",
+        "1774490598": "online"
       },
       "wss://wss.api.moonriver.moonbeam.network": {
         "1774402945": "online"
@@ -5764,13 +5776,16 @@
         "1774402945": "online"
       },
       "electrum4.runebase.io:50001": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "electrum4.runebase.io:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "electrum4.runebase.io:50004": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       }
     }
   },
@@ -6275,10 +6290,12 @@
         "1774402945": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774490598": "online"
       }
     }
   },
