@@ -11533,6 +11533,55 @@
         ],
         "explorer_block_url": "block/"
     },
+    "DINGO": {
+        "coin": "DINGO",
+        "type": "UTXO",
+        "name": "Dingocoin",
+        "coinpaprika_id": "dingo-dingocoin",
+        "coingecko_id": "dingocoin",
+        "livecoinwatch_id": "__DINGO",
+        "explorer_url": "https://explorer.dingocoin.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Dingocoin Signed Message:\n",
+        "fname": "Dingocoin",
+        "rpcport": 34646,
+        "pubtype": 30,
+        "p2shtype": 22,
+        "wiftype": 158,
+        "txfee": 100000000,
+        "dingo_fee": true,
+        "dust": 100000000,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/3'",
+        "links": {
+            "github": "https://github.com/dingocoin/dingocoin",
+            "homepage": "https://dingocoin.com"
+        },
+        "electrum": [
+            {
+                "url": "delecx.twinkykms.com:3342",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "405102339612082177"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "DINGO-BEP20": {
         "coin": "DINGO-BEP20",
         "type": "BEP-20",
@@ -36803,6 +36852,11 @@
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -44225,6 +44279,18 @@
                         "discord": "Bago#7842"
                     }
                 ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -45085,6 +45151,15 @@
                 "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
