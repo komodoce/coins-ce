@@ -2586,7 +2586,7 @@
         "name": "Aureus",
         "coinpaprika_id": "aur-aureus-1",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "AURE",
         "explorer_url": "https://explore.aureuscoin.site/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -12100,7 +12100,7 @@
         "coin": "WJK",
         "type": "UTXO",
         "name": "WojakCoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "wjk-wojakcoin",
         "coingecko_id": "",
         "livecoinwatch_id": "WJK",
         "explorer_url": "https://explorer.wojakcoin.cash/",
@@ -44378,6 +44378,18 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
