@@ -10264,15 +10264,6 @@
                         "discord": "405102339612082177"
                     }
                 ]
-            },
-            {
-                "url": "elecx2.dingocoin.com:3341",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -11191,11 +11182,6 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
-            {
-                "url": "electrum1.egulden.org:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
             {
                 "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
@@ -26061,11 +26047,6 @@
         },
         "electrum": [
             {
-                "url": "allingas.peercoinexplorer.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": false
-            },
-            {
                 "url": "electrum.peercoinexplorer.net:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": false
@@ -35473,15 +35454,6 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -35529,15 +35501,6 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
-            {
-                "url": "xmy-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "xmy-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
