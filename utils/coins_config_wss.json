@@ -13157,6 +13157,15 @@
                 ]
             },
             {
+                "url": "electrumx01.firo.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx02.firo.org:50004",
                 "protocol": "WSS",
                 "contact": [

@@ -2551,13 +2551,16 @@
         "1774402945": "online"
       },
       "electrumx01.firo.org:50001": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrumx01.firo.org:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrumx01.firo.org:50004": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrumx02.firo.org:50001": {
         "1774402945": "online"
@@ -2697,7 +2700,8 @@
         "1774402945": "online"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrum-flc.hashboard.space:50004": {
         "1774402945": "online"
@@ -2731,7 +2735,8 @@
         "1774402945": "online"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrum-flc.hashboard.space:50004": {
         "1774402945": "online"
@@ -2749,7 +2754,8 @@
   },
   "FLOP": {
     "all": {
-      "1774402945": "offline"
+      "1774402945": "offline",
+      "1774577025": "online"
     },
     "by_server": {
       "_metadata": {
@@ -2783,13 +2789,15 @@
         }
       },
       "electrumx1.flopcoin.net:10001": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrumx1.flopcoin.net:10003": {
         "1774402945": "offline"
       },
       "electrumx1.flopcoin.net:10004": {
-        "1774402945": "offline"
+        "1774402945": "offline",
+        "1774577025": "online"
       },
       "electrumx2.flopcoin.net:10001": {
         "1774402945": "offline"
