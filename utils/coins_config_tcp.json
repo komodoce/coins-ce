@@ -2586,7 +2586,7 @@
         "name": "Aureus",
         "coinpaprika_id": "aur-aureus-1",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "AURE",
         "explorer_url": "https://explore.aureuscoin.site/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -11590,15 +11590,6 @@
                         "discord": "405102339612082177"
                     }
                 ]
-            },
-            {
-                "url": "elecx2.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -12100,7 +12091,7 @@
         "coin": "WJK",
         "type": "UTXO",
         "name": "WojakCoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "wjk-wojakcoin",
         "coingecko_id": "",
         "livecoinwatch_id": "WJK",
         "explorer_url": "https://explorer.wojakcoin.cash/",
@@ -12627,11 +12618,6 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
-            {
-                "url": "electrum1.egulden.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
             {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
@@ -15392,20 +15378,20 @@
         },
         "electrum": [
             {
+                "url": "electrum-flc.hashboard.space:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "listing@hashboard.space"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
                     }
                 ]
             }
@@ -15454,20 +15440,20 @@
         },
         "electrum": [
             {
+                "url": "electrum-flc.hashboard.space:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "listing@hashboard.space"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
                         "email": "electrum@myfloki.com"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
                     }
                 ]
             }
@@ -28490,6 +28476,53 @@
         ],
         "explorer_block_url": "block/"
     },
+    "FLOP": {
+        "coin": "FLOP",
+        "type": "UTXO",
+        "name": "Flopcoin",
+        "coinpaprika_id": "flop-flopcoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "FLOP",
+        "explorer_url": "https://explorer.flopcoin.net/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Flopcoin Signed Message:\n",
+        "fname": "Flopcoin",
+        "rpcport": 32552,
+        "pubtype": 35,
+        "p2shtype": 22,
+        "wiftype": 158,
+        "segwit": false,
+        "txfee": 1000000,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/3'",
+        "links": {
+            "github": "https://github.com/Flopcoin/Flopcoin",
+            "homepage": "https://flopcoin.net"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.flopcoin.net:10004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "technovision"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "PEP": {
         "coin": "PEP",
         "type": "UTXO",
@@ -29334,11 +29367,6 @@
             "homepage": "https://peercoin.net"
         },
         "electrum": [
-            {
-                "url": "allingas.peercoinexplorer.net:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false
-            },
             {
                 "url": "electrum.peercoinexplorer.net:50002",
                 "protocol": "SSL",
@@ -40077,15 +40105,6 @@
         "derivation_path": "m/44'/90'",
         "electrum": [
             {
-                "url": "xmy-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "xmy-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -40133,15 +40152,6 @@
         },
         "derivation_path": "m/84'/90'",
         "electrum": [
-            {
-                "url": "xmy-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "xmy-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
@@ -44527,6 +44537,18 @@
             },
             {
                 "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
