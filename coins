@@ -6379,27 +6379,7 @@
   {
     "coin": "GLEEC-OLD",
     "sign_message_prefix": "Komodo Signed Message:\n",
-    "asset": "GLEEC",
-    "fname": "Gleec (OLD)",
-    "rpcport": 23226,
-    "pubtype": 60,
-    "p2shtype": 85,
-    "wiftype": 188,
-    "txversion": 4,
-    "overwintered": 1,
-    "mm2": 1,
-    "required_confirmations": 4,
-    "avg_blocktime": 60,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/141'",
-    "trezor_coin": "Komodo"
-  },
-  {
-    "coin": "GLEEC",
-    "sign_message_prefix": "Komodo Signed Message:\n",
-    "asset": "GLEEC",
+    "asset": "GLEEC (OLD)",
     "fname": "Gleec",
     "rpcport": 23345,
     "pubtype": 60,
