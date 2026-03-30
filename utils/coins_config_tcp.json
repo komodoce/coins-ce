@@ -11005,8 +11005,9 @@
                 ]
             },
             {
-                "url": "electrumx.dgc.ewmcx.org:50001",
-                "protocol": "TCP"
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -12618,11 +12619,6 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
-            {
-                "url": "electrum1.egulden.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
             {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
@@ -15152,15 +15148,6 @@
                         "discord": "motty#8318"
                     }
                 ]
-            },
-            {
-                "url": "electrumx2.fujicoin.org:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -15208,15 +15195,6 @@
         "electrum": [
             {
                 "url": "electrumx1.fujicoin.org:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx2.fujicoin.org:50003",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -24736,6 +24714,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -31984,10 +31966,6 @@
             "homepage": "https://raptoreum.com"
         },
         "electrum": [
-            {
-                "url": "x1.raptoreum.com:50002",
-                "protocol": "SSL"
-            },
             {
                 "url": "x2.raptoreum.com:50002",
                 "protocol": "SSL"
@@ -44927,6 +44905,59 @@
         ],
         "explorer_block_url": "block/"
     },
+    "CRNC": {
+        "coin": "CRNC",
+        "type": "UTXO",
+        "name": "CrionicCoin",
+        "coinpaprika_id": "crnc-crionic",
+        "coingecko_id": "crionic",
+        "livecoinwatch_id": "CRNC",
+        "explorer_url": "https://crncexplorer.nostrweb.gleeze.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Crioniccoin Signed Message:\n",
+        "fname": "CrionicCoin",
+        "rpcport": 4466,
+        "pubtype": 28,
+        "p2shtype": 45,
+        "wiftype": 176,
+        "decimals": 8,
+        "signature_version": "base",
+        "txfee": 10000,
+        "segwit": true,
+        "bech32_hrp": "crnc",
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 20,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/192'",
+        "links": {
+            "github": "https://github.com/diabaths/Crionic-Coin",
+            "homepage": "https://coin.crionic.org"
+        },
+        "electrum": [
+            {
+                "url": "explorer.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "NITO": {
         "coin": "NITO",
         "type": "UTXO",
@@ -45312,15 +45343,6 @@
                 "url": "meowcoinelectrum.xyz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "Meowmancer#2099"
-                    }
-                ]
-            },
-            {
-                "url": "meowelectrum.xyz:50002",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "Meowmancer#2099"
