@@ -3316,7 +3316,12 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/357'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "159.69.73.223:5151",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "AYA-BEP20": {
@@ -5552,7 +5557,12 @@
             "github": "https://github.com/BOLI-Project/BolivarCoin",
             "homepage": "https://bolis.info"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.bolivarcoin.tech:23001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BONE-ERC20": {
@@ -6490,7 +6500,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/177'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum2.btcz.rocks:50001",
+                "contact": [
+                    {
+                        "discord": "VandarGR#6065"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BTCZ-BEP20": {
@@ -10983,6 +11003,10 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "electrumx.dgc.ewmcx.org:50001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -12099,6 +12123,15 @@
             {
                 "url": "electrum2.wojakcoin.cash:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "danny_utxo"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.wojakcoin.cash:50101",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "discord": "danny_utxo"
@@ -17526,7 +17559,32 @@
             "github": "https://github.com/Groestlcoin/groestlcoin",
             "homepage": "https://www.groestlcoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum1.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.groestlcoin.org:50001",
+                "contact": [
+                    {
+                        "email": "jackielove4u@hotmail.com"
+                    },
+                    {
+                        "discord": "jackielove4u#0412"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "GRT-ARB20": {
@@ -18777,7 +18835,32 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum1.ilien.io:65011",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum2.ilien.io:65011",
+                "contact": [
+                    {
+                        "email": "admin@ilien.io"
+                    },
+                    {
+                        "discord": "siu - Chainmakers#3920"
+                    }
+                ],
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "ILN-BEP20": {
@@ -26019,7 +26102,16 @@
             "github": "https://github.com/monacoinproject/monacoin",
             "homepage": "https://monacoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "133.167.67.203:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "MONA-segwit": {
@@ -26063,7 +26155,16 @@
             "github": "https://github.com/monacoinproject/monacoin",
             "homepage": "https://monacoin.org"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "133.167.67.203:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.tamami-foundation.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "MOR-ERC20": {
@@ -26329,6 +26430,10 @@
             {
                 "url": "electrum3.nav.community:40002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "159.69.73.223:5061",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -34788,6 +34893,10 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "testnet.aranguren.org:51001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -34839,6 +34948,10 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            },
+            {
+                "url": "testnet.aranguren.org:51001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/"
@@ -38708,6 +38821,10 @@
                         "discord": "cruelnovo#4936"
                     }
                 ]
+            },
+            {
+                "url": "159.69.73.223:5028",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -38762,6 +38879,10 @@
                         "discord": "cruelnovo#4936"
                     }
                 ]
+            },
+            {
+                "url": "159.69.73.223:5028",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -39932,7 +40053,16 @@
             "github": "https://github.com/primecoin/primecoin",
             "homepage": "https://primecoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.mainnet.primecoin.org:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx.primecoin.org:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "XRG": {
@@ -40536,6 +40666,10 @@
             {
                 "url": "electrumx-verge.cloud:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "159.69.73.223:5036",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block/",
@@ -41274,7 +41408,12 @@
             "github": "https://github.com/WikiMin3R/ZetacoinE",
             "homepage": "https://zetacoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "207.180.252.200:50011",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
@@ -41634,7 +41773,16 @@
             "github": "https://github.com/RunOnFlux/fluxd",
             "homepage": "https://www.runonflux.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrumx.runonflux.io:50001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.runonflux.io:50001",
+                "protocol": "TCP"
+            }
+        ],
         "explorer_block_url": "block/",
         "binance_id": "FLUX"
     },
@@ -44188,6 +44336,18 @@
             {
                 "url": "electrum4.runebase.io:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.runebase.io:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "email": "support@runebase.io"

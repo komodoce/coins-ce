@@ -12957,37 +12957,8 @@
                 ]
             },
             {
-                "url": "dgc-ex-three.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "dgc-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.dgc.ewmcx.org:50001",
                 "protocol": "TCP"
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -15130,6 +15101,16 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
+            {
+                "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
@@ -19732,150 +19713,6 @@
     "GLEEC-OLD": {
         "coin": "GLEEC-OLD",
         "type": "Smart Chain",
-        "name": "Gleec (OLD)",
-        "coinpaprika_id": "gleec-gleec-coin",
-        "coingecko_id": "gleec-coin",
-        "livecoinwatch_id": "GLEEC",
-        "explorer_url": "https://gleec.explorer.dexstats.info/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "GLEEC",
-        "fname": "Gleec (OLD)",
-        "rpcport": 23226,
-        "pubtype": 60,
-        "p2shtype": 85,
-        "wiftype": 188,
-        "txversion": 4,
-        "overwintered": 1,
-        "mm2": 1,
-        "required_confirmations": 4,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/141'",
-        "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "gleecold.electrum1.cipig.net:10022",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum1.cipig.net:20022",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum1.cipig.net:30022",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum2.cipig.net:10022",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum2.cipig.net:20022",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum2.cipig.net:30022",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum3.cipig.net:10022",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum3.cipig.net:20022",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "gleecold.electrum3.cipig.net:30022",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "cipi@komodoplatform.com"
-                    },
-                    {
-                        "discord": "cipi#4502"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "GLEEC": {
-        "coin": "GLEEC",
-        "type": "Smart Chain",
         "name": "Gleec",
         "coinpaprika_id": "gleec-gleec-coin",
         "coingecko_id": "gleec-coin",
@@ -19889,7 +19726,7 @@
         "currently_enabled": false,
         "wallet_only": false,
         "sign_message_prefix": "Komodo Signed Message:\n",
-        "asset": "GLEEC",
+        "asset": "GLEEC (OLD)",
         "fname": "Gleec",
         "rpcport": 23345,
         "pubtype": 60,
@@ -19905,13 +19742,6 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "nodes": [
-            {
-                "url": "https://rpc.gleec.dev"
-            }
-        ],
         "electrum": [
             {
                 "url": "gleec.electrum1.cipig.net:10025",
@@ -20054,11 +19884,8 @@
         "derivation_path": "m/44'/60'",
         "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
         "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "nodes": [
-            {
-                "url": "https://rpc.gleec.dev"
-            }
-        ],
+        "nodes": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "KMDT-GRC20": {
@@ -20095,11 +19922,8 @@
         "parent_coin": "GLEECT",
         "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
         "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "nodes": [
-            {
-                "url": "https://rpc.gleec.dev"
-            }
-        ],
+        "nodes": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "GLM-ERC20": {
@@ -32431,6 +32255,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -52625,44 +52452,8 @@
             "github": "https://github.com/diabaths/Crionic-Coin",
             "homepage": "https://coin.crionic.org"
         },
-        "electrum": [
-            {
-                "url": "explorer.crionic.org:50001",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "explorer.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
-            {
-                "url": "explorer.crionic.org:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "NITO": {
