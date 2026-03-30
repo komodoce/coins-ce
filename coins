@@ -6379,8 +6379,8 @@
   {
     "coin": "GLEEC-OLD",
     "sign_message_prefix": "Komodo Signed Message:\n",
-    "asset": "GLEEC (OLD)",
-    "fname": "Gleec",
+    "asset": "GLEEC",
+    "fname": "Gleec (OLD)",
     "rpcport": 23345,
     "pubtype": 60,
     "p2shtype": 85,
