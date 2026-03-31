@@ -2299,10 +2299,12 @@
     },
     "by_server": {
       "electrum1.egulden.org:50002": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrum1.egulden.org:50004": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrum2.egulden.org:50002": {
         "1774881707": "offline"
@@ -2652,13 +2654,16 @@
         "1774881707": "online"
       },
       "electrumx2.fujicoin.org:50001": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrumx2.fujicoin.org:50003": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrumx2.fujicoin.org:50005": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       }
     }
   },
@@ -2700,13 +2705,16 @@
         "1774881707": "online"
       },
       "electrumx2.fujicoin.org:50001": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrumx2.fujicoin.org:50003": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "electrumx2.fujicoin.org:50005": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       }
     }
   },
@@ -4610,7 +4618,8 @@
         "1774881707": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "meowelectrum.xyz:50004": {
         "1774881707": "offline"
@@ -5663,13 +5672,16 @@
     },
     "by_server": {
       "x1.raptoreum.com:50001": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "x1.raptoreum.com:50002": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "x1.raptoreum.com:50004": {
-        "1774881707": "offline"
+        "1774881707": "offline",
+        "1774922717": "online"
       },
       "x2.raptoreum.com:50001": {
         "1774881707": "online"
