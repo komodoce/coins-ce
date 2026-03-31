@@ -11195,6 +11195,11 @@
         },
         "electrum": [
             {
+                "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -13410,6 +13415,15 @@
                         "discord": "motty#8318"
                     }
                 ]
+            },
+            {
+                "url": "electrumx2.fujicoin.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "motty#8318"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -13457,6 +13471,15 @@
         "electrum": [
             {
                 "url": "electrumx1.fujicoin.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "motty#8318"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.fujicoin.org:50005",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -28610,6 +28633,10 @@
             "homepage": "https://raptoreum.com"
         },
         "electrum": [
+            {
+                "url": "x1.raptoreum.com:50004",
+                "protocol": "WSS"
+            },
             {
                 "url": "x2.raptoreum.com:50004",
                 "protocol": "WSS"
