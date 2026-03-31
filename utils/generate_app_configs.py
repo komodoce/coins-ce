@@ -160,6 +160,7 @@ class CoinConfig:
             "QTUM": "QRC-20",
             "RBTC": "RSK Smart Bitcoin",
             "SBCH": "SmartBCH",
+            "TRX": "TRX",
             "ATOM": "TENDERMINT",
             "OSMO": "TENDERMINT",
             "IRIS": "TENDERMINT",
@@ -173,6 +174,7 @@ class CoinConfig:
             "IRISTEST": "TENDERMINT",
             "NUCLEUSTEST": "TENDERMINT",
             "MATICTEST": "Matic",
+            "TRXT": "TRX",
             "UBQ": "Ubiq",
         }
         self.coin_type = coin_data["protocol"]["type"]
@@ -259,11 +261,14 @@ class CoinConfig:
 
             elif "platform" in protocol_data:
                 # TODO: ERC-like things
-                platform = protocol_data["platform"]
-                if self.is_testnet:
-                    coin_type = self.testnet_protocols[platform]
+                if self.coin_data["protocol"]["type"] == "TRC20":
+                    coin_type = "TRC-20"
                 else:
-                    coin_type = self.protocols[platform]
+                    platform = protocol_data["platform"]
+                    if self.is_testnet:
+                        coin_type = self.testnet_protocols[platform]
+                    else:
+                        coin_type = self.protocols[platform]
                 self.data[self.ticker].update({"type": coin_type})
                 if "contract_address" in protocol_data:
                     self.data[self.ticker].update(
@@ -277,7 +282,7 @@ class CoinConfig:
             if self.parent_coin != self.ticker:
                 self.data[self.ticker].update({"parent_coin": self.parent_coin})
 
-        if self.coin_data["protocol"]["type"] in ["ETH", "QTUM"]:
+        if self.coin_data["protocol"]["type"] in ["ETH", "QTUM", "TRX"]:
             if self.ticker in self.protocols:
                 coin_type = self.protocols[self.ticker]
             elif self.ticker in self.testnet_protocols:
@@ -380,7 +385,7 @@ class CoinConfig:
         For token coins, this returns the parent chain coin.
         """
         # For token coins, we need to check parent chain status
-        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20")):
+        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20", "-TRC20")):
             if self.ticker.endswith("-QRC20"):
                 return "tQTUM" if self.is_testnet else "QTUM"
             elif self.ticker.endswith("-ERC20"):
@@ -389,6 +394,8 @@ class CoinConfig:
                 return "BNB"
             elif self.ticker.endswith("-PLG20"):
                 return "MATIC"
+            elif self.ticker.endswith("-TRC20"):
+                return "TRXT" if self.is_testnet else "TRX"
             elif self.ticker.endswith("-AVX20"):
                 return "AVAX"
             elif self.ticker.endswith("-GRC20"):
@@ -409,6 +416,11 @@ class CoinConfig:
         token_type = self.data[self.ticker]["type"]
         if self.ticker == "RBTC":
             return "RSK"
+
+        if self.coin_type == "TRC20":
+            protocol_data = self.coin_data["protocol"].get("protocol_data", {})
+            if "platform" in protocol_data:
+                return protocol_data["platform"]
 
         if self.coin_type in ["TENDERMINTTOKEN", "TENDERMINT"]:
             for i in ["IRISTEST", "NUCLEUSTEST"]:
@@ -581,7 +593,7 @@ class CoinConfig:
                 
                 if scan_coin in electrum_scan_report:
                     # If parent chain is working, inherit all configured nodes for token
-                    if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20")):
+                    if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-PLG20", "-AVX20", "-GRC20", "-TRC20")):
                         # For token coins, check if parent chain has working nodes
                         parent_has_working_nodes = False
                         for protocol in ["ssl", "wss", "tcp"]:
