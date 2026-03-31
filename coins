@@ -6199,12 +6199,32 @@
       "erc20_sender_refund": 1000000
     }
   },
-  {
+  {   
     "coin": "GALA-ERC20",
     "name": "gala_erc20",
     "fname": "Gala",
     "rpcport": 80,
     "mm2": 1,
+    "chain_id": 1,
+    "decimals": 8,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "GALA-ERC20_OLD",
+    "name": "gala_erc20_old",
+    "fname": "Gala (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
     "chain_id": 1,
     "decimals": 8,
     "avg_blocktime": 15,
