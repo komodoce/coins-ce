@@ -15099,6 +15099,16 @@
         },
         "electrum": [
             {
+                "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -19253,6 +19263,64 @@
             "type": "ERC20",
             "protocol_data": {
                 "platform": "ETH",
+                "contract_address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+        "parent_coin": "ETH",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
+        "nodes": [
+            {
+                "url": "https://eth3.cipig.net:18555",
+                "ws_url": "wss://eth3.cipig.net:38555",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    }
+                ]
+            },
+            {
+                "url": "https://ethereum-rpc.publicnode.com",
+                "ws_url": "wss://ethereum-rpc.publicnode.com"
+            },
+            {
+                "url": "https://mainnet.gateway.tenderly.co",
+                "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.mevblocker.io"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "GALA-ERC20_OLD": {
+        "coin": "GALA-ERC20_OLD",
+        "type": "ERC-20",
+        "name": "Gala (OLD)",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "GALA",
+        "explorer_url": "https://etherscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "Gala (OLD)",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 1,
+        "decimals": 8,
+        "avg_blocktime": 15,
+        "required_confirmations": 3,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH",
                 "contract_address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA"
             }
         },
@@ -19871,11 +19939,8 @@
         "trezor_coin": "Komodo",
         "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
         "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "nodes": [
-            {
-                "url": "https://rpc.gleec.dev"
-            }
-        ],
+        "nodes": [],
+        "delisted": true,
         "electrum": [
             {
                 "url": "gleec.electrum1.cipig.net:10025",
@@ -20018,11 +20083,8 @@
         "derivation_path": "m/44'/60'",
         "swap_contract_address": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
         "fallback_swap_contract": "0x51d9EfFc20F6965bc8DFD37E797ac52a72fcdb9D",
-        "nodes": [
-            {
-                "url": "https://rpc.gleec.dev"
-            }
-        ],
+        "nodes": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "KMDT-GRC20": {
@@ -28806,6 +28868,10 @@
                 "ws_url": "wss://polygon-bor-rpc.publicnode.com"
             },
             {
+                "url": "https://polygon.drpc.org",
+                "ws_url": "wss://polygon.drpc.org"
+            },
+            {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
@@ -30528,10 +30594,6 @@
             {
                 "url": "https://moonriver.api.onfinality.io/public",
                 "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
         ],
         "explorer_block_url": "block/",
@@ -37676,6 +37738,70 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "RVN"
+    },
+    "RXD": {
+        "coin": "RXD",
+        "type": "UTXO",
+        "name": "Radiant",
+        "coinpaprika_id": "rxd-radiant",
+        "coingecko_id": "radiant",
+        "livecoinwatch_id": "RXD",
+        "explorer_url": "https://explorer.radiantblockchain.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitcoin Signed Message:\n",
+        "fname": "Radiant",
+        "rpcport": 7332,
+        "pubtype": 0,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "txfee": 10000000,
+        "segwit": false,
+        "fork_id": "0x40",
+        "signature_version": "fork_id_rxd",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 300,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/512'",
+        "links": {
+            "github": "https://github.com/Radiant-Core/Radiant-Core",
+            "homepage": "https://radiantblockchain.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx.radiant4people.com:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx.radiant4people.com:50022",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumx.rxd-radiant.com:50022",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx.rxd-radiant.com:50023",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumx2.radiant4people.com:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.radiant4people.com:50022",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "SAND-ERC20": {
         "coin": "SAND-ERC20",
