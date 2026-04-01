@@ -2832,6 +2832,9 @@
             },
             {
                 "url": "https://avax.api.pocket.network"
+            },
+            {
+                "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
         "explorer_block_url": "block/",
