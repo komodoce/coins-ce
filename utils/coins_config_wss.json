@@ -5655,22 +5655,13 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
-                "url": "electrum2.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
                 "url": "electrum3.btcz.rocks:50004",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "426842722436120577"
                     }
-                ],
-                "protocol": "WSS"
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -27987,7 +27978,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://doc.komodo.earth/",
+        "explorer_url": "https://doc.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -28060,7 +28051,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://marty.komodo.earth/",
+        "explorer_url": "https://marty.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
