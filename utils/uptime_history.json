@@ -1133,6 +1133,9 @@
       "electrum3.btcz.rocks:50001": {
         "1775004866": "offline"
       },
+      "electrum3.btcz.rocks:50002": {
+        "1775058794": "online"
+      },
       "electrum3.btcz.rocks:50004": {
         "1775004866": "online"
       },
@@ -5219,7 +5222,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775058794": "offline"
       },
       "https://api.harmony.one": {
         "1775004866": "online"

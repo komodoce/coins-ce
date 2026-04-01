@@ -7598,31 +7598,22 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
-                "url": "electrum2.btcz.rocks:50001",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum2.btcz.rocks:50004",
-                "contact": [
-                    {
-                        "discord": "VandarGR#6065"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum3.btcz.rocks:50004",
+                "url": "electrum3.btcz.rocks:50002",
+                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "426842722436120577"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrum3.btcz.rocks:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -32260,9 +32251,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
