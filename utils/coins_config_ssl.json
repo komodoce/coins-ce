@@ -6489,7 +6489,17 @@
             "type": "UTXO"
         },
         "derivation_path": "m/44'/177'",
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "electrum3.btcz.rocks:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "426842722436120577"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "BTCZ-BEP20": {
@@ -31323,7 +31333,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://doc.komodo.earth/",
+        "explorer_url": "https://doc.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -31396,7 +31406,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://marty.komodo.earth/",
+        "explorer_url": "https://marty.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
