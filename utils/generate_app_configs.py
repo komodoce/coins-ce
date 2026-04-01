@@ -942,7 +942,7 @@ def filter_wss(coins_config):
 
 def generate_binance_api_ids(coins_config):
     kdf_coins = coins_config.keys()
-    r = requests.get("https://defi-stats.komodo.earth/api/v3/binance/ticker_price")
+    r = requests.get("https://defistats.gleec.com/api/v3/binance/ticker_price")
     binance_tickers = r.json()
     pairs = []
     for ticker in binance_tickers:
