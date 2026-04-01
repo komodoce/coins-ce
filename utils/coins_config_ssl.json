@@ -27867,6 +27867,9 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
+                "url": "https://1rpc.io/one"
+            },
+            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -31398,7 +31401,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://doc.komodo.earth/",
+        "explorer_url": "https://doc.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -31471,7 +31474,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://marty.komodo.earth/",
+        "explorer_url": "https://marty.explorer.dexstats.info/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
