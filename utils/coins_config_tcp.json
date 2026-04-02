@@ -22525,6 +22525,108 @@
         ],
         "explorer_block_url": "block/"
     },
+    "LC2": {
+        "coin": "LC2",
+        "type": "UTXO",
+        "name": "LitecoinII",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://mempool.litecoinii.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "LitecoinII Signed Message:\n",
+        "fname": "LitecoinII",
+        "rpcport": 9222,
+        "pubtype": 48,
+        "p2shtype": 50,
+        "wiftype": 176,
+        "txfee": 1000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "lc2",
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 150,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/2102'",
+        "links": {
+            "github": "https://github.com/litecoinII-project/litecoinII",
+            "homepage": "https://litecoinii.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum01.lc2.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1480198007939923999"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "LC2-segwit": {
+        "coin": "LC2-segwit",
+        "type": "UTXO",
+        "name": "LitecoinII",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://mempool.litecoinii.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "LitecoinII Signed Message:\n",
+        "fname": "LitecoinII",
+        "rpcport": 9222,
+        "pubtype": 48,
+        "p2shtype": 50,
+        "wiftype": 176,
+        "txfee": 1000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "lc2",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "LC2",
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 150,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/2102'",
+        "links": {
+            "github": "https://github.com/litecoinII-project/litecoinII",
+            "homepage": "https://litecoinii.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum01.lc2.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1480198007939923999"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "LCC": {
         "coin": "LCC",
         "type": "UTXO",
