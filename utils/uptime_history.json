@@ -927,11 +927,13 @@
   },
   "BOLI": {
     "all": {
-      "1775004866": "online"
+      "1775004866": "online",
+      "1775094675": "offline"
     },
     "by_server": {
       "electrum2.bolivarcoin.tech:23001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       }
     }
   },
@@ -1132,9 +1134,6 @@
       },
       "electrum3.btcz.rocks:50001": {
         "1775004866": "offline"
-      },
-      "electrum3.btcz.rocks:50002": {
-        "1775058794": "online"
       },
       "electrum3.btcz.rocks:50002": {
         "1775063847": "online"
@@ -3988,6 +3987,38 @@
       }
     }
   },
+  "LC2": {
+    "all": {
+      "1775094675": "online"
+    },
+    "by_server": {
+      "electrum01.lc2.online:50001": {
+        "1775094675": "online"
+      },
+      "electrum01.lc2.online:50002": {
+        "1775094675": "online"
+      },
+      "electrum01.lc2.online:50004": {
+        "1775094675": "online"
+      }
+    }
+  },
+  "LC2-segwit": {
+    "all": {
+      "1775094675": "online"
+    },
+    "by_server": {
+      "electrum01.lc2.online:50001": {
+        "1775094675": "online"
+      },
+      "electrum01.lc2.online:50002": {
+        "1775094675": "online"
+      },
+      "electrum01.lc2.online:50004": {
+        "1775094675": "online"
+      }
+    }
+  },
   "LCC": {
     "all": {
       "1775004866": "online"
@@ -4571,6 +4602,13 @@
     },
     "by_server": {
       "_metadata": {
+        "meowelectrum.xyz:50002": {
+          "contact": [
+            {
+              "discord": "Meowmancer#2099"
+            }
+          ]
+        },
         "meowelectrum.xyz:50004": {
           "contact": [
             {
@@ -4592,7 +4630,8 @@
         "1775004866": "online"
       },
       "meowelectrum.xyz:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       },
       "meowelectrum.xyz:50004": {
         "1775004866": "offline"
@@ -4669,7 +4708,8 @@
         "1775004866": "online"
       },
       "electrumx1.mydogecoin.fun:60002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       },
       "electrumx1.mydogecoin.fun:60003": {
         "1775004866": "online"
@@ -5227,7 +5267,8 @@
       "https://1rpc.io/one": {
         "1775004866": "online",
         "1775058794": "offline",
-        "1775063864": "online"
+        "1775063864": "online",
+        "1775094675": "offline"
       },
       "https://api.harmony.one": {
         "1775004866": "online"
@@ -5671,6 +5712,38 @@
       "1775004866": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum4.runebase.io:50001": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        },
+        "electrum4.runebase.io:50002": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        },
+        "electrum4.runebase.io:50004": {
+          "contact": [
+            {
+              "email": "support@runebase.io"
+            },
+            {
+              "discord": "Bago#7842"
+            }
+          ]
+        }
+      },
       "electrum1.runebase.io:50001": {
         "1775004866": "online"
       },
@@ -5693,13 +5766,16 @@
         "1775004866": "online"
       },
       "electrum4.runebase.io:50001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       },
       "electrum4.runebase.io:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       },
       "electrum4.runebase.io:50004": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775094675": "offline"
       }
     }
   },
