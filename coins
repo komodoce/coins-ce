@@ -17756,4 +17756,34 @@
       "homepage": "https://cascoin.net"
     }
   }
+{
+    "coin": "BTGS",
+    "name": "bitcoingold",
+    "fname": "Bitcoin Gold BTGS",
+    "sign_message_prefix": "BitcoinGold Signed Message:\n",
+    "rpcport": 18888,
+    "p2pport": 18881,
+    "pubtype": 38,
+    "p2shtype": 22,
+    "wiftype": 176,
+    "decimals": 8,
+    "fork_id": "0x00",
+    "signature_version": "base",
+    "txfee": 1000,
+    "segwit": true,
+    "bech32_hrp": "bcg",
+    "mm2": 1,
+    "wallet_only": false,
+    "required_confirmations": 6,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/18888'",
+    "links": {
+      "github": "https://github.com/BTGSCOINDEV/BTGS",
+      "homepage": "https://bitcoingold.site"
+      "homepage2": "https://btgscoin.site"
+    }
+}
 ]
