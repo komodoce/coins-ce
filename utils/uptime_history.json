@@ -3677,6 +3677,19 @@
       }
     }
   },
+  "JUMP": {
+    "all": {
+      "1775140651": "offline"
+    },
+    "by_server": {
+      "electrum1.jumpcoin.net:50001": {
+        "1775140651": "offline"
+      },
+      "electrum1.jumpcoin.net:50002": {
+        "1775140651": "offline"
+      }
+    }
+  },
   "KCN": {
     "all": {
       "1775004866": "online"
