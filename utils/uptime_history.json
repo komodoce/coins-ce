@@ -1526,14 +1526,40 @@
       "1775004866": "online"
     },
     "by_server": {
+      "_metadata": {
+        "clam-ex-one.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "clam-ex-one.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "clam-ex-one.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        }
+      },
       "clam-ex-one.ewmci.online:50001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "clam-ex-one.ewmci.online:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "clam-ex-one.ewmci.online:50003": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "clam.electrum3.cipig.net:20075": {
         "1775004866": "online"
@@ -1690,10 +1716,32 @@
   },
   "DEV": {
     "all": {
-      "1775004866": "online"
+      "1775004866": "online",
+      "1775136704": "offline"
     },
     "by_server": {
       "_metadata": {
+        "api.dogecoinev.com:50001": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
+        "api.dogecoinev.com:50002": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
+        "api.dogecoinev.com:50003": {
+          "contact": [
+            {
+              "discord": "1157581316175437884"
+            }
+          ]
+        },
         "api2.dogecoinev.com:50001": {
           "contact": [
             {
@@ -1717,13 +1765,16 @@
         }
       },
       "api.dogecoinev.com:50001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "api.dogecoinev.com:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "api.dogecoinev.com:50003": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "api2.dogecoinev.com:50001": {
         "1775004866": "offline"
@@ -3989,38 +4040,6 @@
   },
   "LC2": {
     "all": {
-      "1775094675": "online"
-    },
-    "by_server": {
-      "electrum01.lc2.online:50001": {
-        "1775094675": "online"
-      },
-      "electrum01.lc2.online:50002": {
-        "1775094675": "online"
-      },
-      "electrum01.lc2.online:50004": {
-        "1775094675": "online"
-      }
-    }
-  },
-  "LC2-segwit": {
-    "all": {
-      "1775094675": "online"
-    },
-    "by_server": {
-      "electrum01.lc2.online:50001": {
-        "1775094675": "online"
-      },
-      "electrum01.lc2.online:50002": {
-        "1775094675": "online"
-      },
-      "electrum01.lc2.online:50004": {
-        "1775094675": "online"
-      }
-    }
-  },
-  "LC2": {
-    "all": {
       "1775133406": "online"
     },
     "by_server": {
@@ -5300,7 +5319,8 @@
         "1775004866": "online",
         "1775058794": "offline",
         "1775063864": "online",
-        "1775094675": "offline"
+        "1775094675": "offline",
+        "1775136704": "online"
       },
       "https://api.harmony.one": {
         "1775004866": "online"
@@ -5309,10 +5329,12 @@
         "1775004866": "online"
       },
       "https://harmony-0.drpc.org": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "wss://harmony-0.drpc.org": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       }
     }
   },
@@ -6127,14 +6149,52 @@
       "1775004866": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-server1.trumpow.meme:50001": {
+          "contact": [
+            {
+              "discord": [
+                "1157581316175437884",
+                "1100673536743460894",
+                "1209163889489616998"
+              ]
+            }
+          ]
+        },
+        "electrum-server1.trumpow.meme:50002": {
+          "contact": [
+            {
+              "discord": [
+                "1157581316175437884",
+                "1100673536743460894",
+                "1209163889489616998"
+              ]
+            }
+          ]
+        },
+        "electrum-server1.trumpow.meme:50004": {
+          "contact": [
+            {
+              "discord": [
+                "1157581316175437884",
+                "1100673536743460894",
+                "1209163889489616998"
+              ]
+            }
+          ]
+        }
+      },
       "electrum-server1.trumpow.meme:50001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum-server1.trumpow.meme:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum-server1.trumpow.meme:50004": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum-server2.trumpow.meme:50001": {
         "1775004866": "online"
@@ -6573,26 +6633,77 @@
   },
   "WJK": {
     "all": {
-      "1775004866": "online"
+      "1775004866": "online",
+      "1775136704": "offline"
     },
     "by_server": {
+      "_metadata": {
+        "electrum1.wojakcoin.cash:50101": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        },
+        "electrum1.wojakcoin.cash:50102": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        },
+        "electrum1.wojakcoin.cash:50104": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        },
+        "electrum2.wojakcoin.cash:50001": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        },
+        "electrum2.wojakcoin.cash:50002": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        },
+        "electrum2.wojakcoin.cash:50003": {
+          "contact": [
+            {
+              "discord": "danny_utxo"
+            }
+          ]
+        }
+      },
       "electrum1.wojakcoin.cash:50101": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum1.wojakcoin.cash:50102": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum1.wojakcoin.cash:50104": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum2.wojakcoin.cash:50001": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum2.wojakcoin.cash:50002": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       },
       "electrum2.wojakcoin.cash:50003": {
-        "1775004866": "online"
+        "1775004866": "online",
+        "1775136704": "offline"
       }
     }
   },
