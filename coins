@@ -17660,5 +17660,31 @@
       "github": "https://github.com/casraw/cascoin",
       "homepage": "https://cascoin.net"
     }
+  },
+  {
+    "coin": "JUMP",
+    "name": "jumpcoin",
+    "fname": "Jumpcoin",
+    "sign_message_prefix": "Jumpcoin Signed Message:\n",
+    "isPoS": 1,
+    "rpcport": 31240,
+    "pubtype": 43,
+    "p2shtype": 122,
+    "wiftype": 171,
+    "txfee": 10000,
+    "dust": 10000,
+    "mm2": 1,
+    "mature_confirmations": 100,
+    "required_confirmations": 5,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/278'",
+    "links": {
+      "homepage": "https://jumpcoin.net",
+      "explorer": "https://explorer.jumpcoin.net",
+      "github": "https://github.com/jumpcoin"
+    }
   }
 ]
