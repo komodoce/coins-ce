@@ -4019,6 +4019,38 @@
       }
     }
   },
+  "LC2": {
+    "all": {
+      "1775133406": "online"
+    },
+    "by_server": {
+      "electrum01.lc2.online:50001": {
+        "1775133406": "online"
+      },
+      "electrum01.lc2.online:50002": {
+        "1775133406": "online"
+      },
+      "electrum01.lc2.online:50004": {
+        "1775133406": "online"
+      }
+    }
+  },
+  "LC2-segwit": {
+    "all": {
+      "1775133406": "online"
+    },
+    "by_server": {
+      "electrum01.lc2.online:50001": {
+        "1775133406": "online"
+      },
+      "electrum01.lc2.online:50002": {
+        "1775133406": "online"
+      },
+      "electrum01.lc2.online:50004": {
+        "1775133406": "online"
+      }
+    }
+  },
   "LCC": {
     "all": {
       "1775004866": "online"
