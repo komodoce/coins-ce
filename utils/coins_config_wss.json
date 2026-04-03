@@ -20156,7 +20156,7 @@
         "coin": "LC2",
         "type": "UTXO",
         "name": "LitecoinII",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "lc2-litecoinii",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://mempool.litecoinii.org/",
@@ -20205,7 +20205,7 @@
         "coin": "LC2-segwit",
         "type": "UTXO",
         "name": "LitecoinII",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "lc2-litecoinii",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://mempool.litecoinii.org/",
@@ -24841,47 +24841,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "ONE": {
-        "coin": "ONE",
-        "type": "HRC-20",
-        "name": "Harmony",
-        "coinpaprika_id": "one-harmony",
-        "coingecko_id": "harmony",
-        "livecoinwatch_id": "ONE",
-        "explorer_url": "https://explorer.harmony.one/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Harmony",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1666600000,
-        "use_access_list": true,
-        "max_eth_tx_type": 2,
-        "required_confirmations": 3,
-        "avg_blocktime": 15,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 1666600000
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://harmony-0.drpc.org",
-                "ws_url": "wss://harmony-0.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/",
-        "binance_id": "ONE"
     },
     "ONT-BEP20": {
         "coin": "ONT-BEP20",

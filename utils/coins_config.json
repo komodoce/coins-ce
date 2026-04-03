@@ -26136,7 +26136,7 @@
         "coin": "LC2",
         "type": "UTXO",
         "name": "LitecoinII",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "lc2-litecoinii",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://mempool.litecoinii.org/",
@@ -26203,7 +26203,7 @@
         "coin": "LC2-segwit",
         "type": "UTXO",
         "name": "LitecoinII",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "lc2-litecoinii",
         "coingecko_id": "",
         "livecoinwatch_id": "",
         "explorer_url": "https://mempool.litecoinii.org/",
@@ -32391,10 +32391,6 @@
             },
             {
                 "url": "https://api.s0.t.hmny.io"
-            },
-            {
-                "url": "https://harmony-0.drpc.org",
-                "ws_url": "wss://harmony-0.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
