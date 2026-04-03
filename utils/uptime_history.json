@@ -1717,7 +1717,8 @@
   "DEV": {
     "all": {
       "1775004866": "online",
-      "1775136704": "offline"
+      "1775136704": "offline",
+      "1775181742": "online"
     },
     "by_server": {
       "_metadata": {
@@ -1766,15 +1767,18 @@
       },
       "api.dogecoinev.com:50001": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "api.dogecoinev.com:50002": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "api.dogecoinev.com:50003": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "api2.dogecoinev.com:50001": {
         "1775004866": "offline"
@@ -3679,11 +3683,13 @@
   },
   "JUMP": {
     "all": {
-      "1775140651": "offline"
+      "1775140651": "offline",
+      "1775181742": "online"
     },
     "by_server": {
       "electrum1.jumpcoin.net:50001": {
-        "1775140651": "offline"
+        "1775140651": "offline",
+        "1775181742": "online"
       },
       "electrum1.jumpcoin.net:50002": {
         "1775140651": "offline"
@@ -5333,7 +5339,8 @@
         "1775058794": "offline",
         "1775063864": "online",
         "1775094675": "offline",
-        "1775136704": "online"
+        "1775136704": "online",
+        "1775181742": "offline"
       },
       "https://api.harmony.one": {
         "1775004866": "online"
@@ -6647,7 +6654,8 @@
   "WJK": {
     "all": {
       "1775004866": "online",
-      "1775136704": "offline"
+      "1775136704": "offline",
+      "1775181742": "online"
     },
     "by_server": {
       "_metadata": {
@@ -6696,27 +6704,33 @@
       },
       "electrum1.wojakcoin.cash:50101": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "electrum1.wojakcoin.cash:50102": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "electrum1.wojakcoin.cash:50104": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "electrum2.wojakcoin.cash:50001": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "electrum2.wojakcoin.cash:50002": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       },
       "electrum2.wojakcoin.cash:50003": {
         "1775004866": "online",
-        "1775136704": "offline"
+        "1775136704": "offline",
+        "1775181742": "online"
       }
     }
   },
