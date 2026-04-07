@@ -3,10 +3,10 @@
         "icon_size": 128,
         "grid_cols": 23,
         "grid_rows": 19,
-        "total_icons": 432,
+        "total_icons": 430,
         "spritemap_width": 2944,
         "spritemap_height": 2432,
-        "generated_at": 1775592931
+        "generated_at": 1775596182
     },
     "coordinates": {
         "1inch": {
@@ -2547,56 +2547,44 @@
             "width": 128,
             "height": 128
         },
-        "zdeex": {
+        "zec": {
             "x": 1152,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zec": {
+        "zer": {
             "x": 1280,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zer": {
+        "zet": {
             "x": 1408,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zet": {
+        "zil": {
             "x": 1536,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zil": {
+        "zinu": {
             "x": 1664,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zinu": {
+        "zoin": {
             "x": 1792,
             "y": 2304,
             "width": 128,
             "height": 128
         },
-        "zoin": {
-            "x": 1920,
-            "y": 2304,
-            "width": 128,
-            "height": 128
-        },
-        "zombie": {
-            "x": 2048,
-            "y": 2304,
-            "width": 128,
-            "height": 128
-        },
         "zrx": {
-            "x": 2176,
+            "x": 1920,
             "y": 2304,
             "width": 128,
             "height": 128
