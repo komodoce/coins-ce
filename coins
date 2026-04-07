@@ -12263,6 +12263,44 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "RSR-ARB20",
+    "name": "rsr_arb20",
+    "fname": "Reserve Rights",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "RSR-BASE",
+    "name": "rsr_base",
+    "fname": "Reserve Rights",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "RSR-ERC20",
     "name": "rsr_erc20",
     "fname": "Reserve Rights",
