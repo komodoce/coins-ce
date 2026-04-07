@@ -45649,6 +45649,7 @@
             {
                 "url": "electrumx-vrm1.vericonomy.com:51002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "dev@vericonomy.com"
@@ -45658,6 +45659,7 @@
             {
                 "url": "electrumx-vrm2.vericonomy.com:52002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "dev@vericonomy.com"

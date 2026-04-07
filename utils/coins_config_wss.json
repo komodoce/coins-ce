@@ -40504,6 +40504,7 @@
             {
                 "url": "electrumx-vrm1.vericonomy.com:51004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "dev@vericonomy.com"
@@ -40513,6 +40514,7 @@
             {
                 "url": "electrumx-vrm2.vericonomy.com:52004",
                 "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "email": "dev@vericonomy.com"
