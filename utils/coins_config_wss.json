@@ -34848,6 +34848,48 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "WBTC-ARB20": {
+        "coin": "WBTC-ARB20",
+        "type": "Arbitrum",
+        "name": "Wrapped Bitcoin",
+        "coinpaprika_id": "wbtc-wrapped-bitcoin",
+        "coingecko_id": "wrapped-bitcoin",
+        "livecoinwatch_id": "WBTC",
+        "explorer_url": "https://arbiscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Wrapped Bitcoin",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 42161,
+        "decimals": 8,
+        "avg_blocktime": 0.25,
+        "required_confirmations": 10,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH-ARB20",
+                "contract_address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "parent_coin": "ETH-ARB20",
+        "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
+        "nodes": [
+            {
+                "url": "https://arbitrum-one-rpc.publicnode.com",
+                "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "WBTC-ERC20": {
         "coin": "WBTC-ERC20",
         "type": "ERC-20",
@@ -34912,7 +34954,7 @@
         "coin": "WBTC-PLG20",
         "type": "Polygon",
         "name": "Wrapped Bitcoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "wbtc-wrapped-bitcoin",
         "coingecko_id": "wrapped-bitcoin",
         "livecoinwatch_id": "WBTC",
         "explorer_url": "https://polygonscan.com/",
