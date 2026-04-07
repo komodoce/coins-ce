@@ -178,6 +178,7 @@
 	"JGBP": "GBP",
 	"JGOLD": "XAU",
 	"JJPY": "JPY",
+    "JKC": "JKC",
 	"JKRW": "KRW",
 	"JMXN": "MXN",
 	"JNZD": "NZD",
@@ -190,7 +191,7 @@
 	"JSGD": "SGD",
 	"JST": "JST",
 	"JTRY": "TRY",
-        "JKC": "JKC",
+	"JUMP": "_JUMP",
 	"JUSD": "USD",
 	"KCS": "KCS",
 	"KIIRO": "KIIRO",
@@ -374,6 +375,5 @@
 	"ZDEEX": "ZDEEX",
 	"ZIL": "ZIL",
 	"ZINU": "ZINU",
-	"ZRX": "ZRX",
-	"JUMP": "_JUMP"
+	"ZRX": "ZRX"
 }
