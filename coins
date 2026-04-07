@@ -10477,44 +10477,6 @@
     "derivation_path": "m/44'/2301'"
   },
   {
-    "coin": "NZDS-ERC20",
-    "name": "nzds_erc20",
-    "fname": "NZD Stablecoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 1,
-    "decimals": 6,
-    "avg_blocktime": 15,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "ETH",
-        "contract_address": "0xDa446fAd08277B4D2591536F204E018f32B6831c"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "NZDS-PLG20",
-    "name": "nzds_plg20",
-    "fname": "NZD Stablecoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 137,
-    "decimals": 6,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 20,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MATIC",
-        "contract_address": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "NYC",
     "name": "newyorkcoin",
     "fname": "NewYorkCoin",
@@ -12258,6 +12220,44 @@
       "protocol_data": {
         "platform": "ETH",
         "contract_address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "RSR-ARB20",
+    "name": "rsr_arb20",
+    "fname": "Reserve Rights",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 18,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "RSR-BASE",
+    "name": "rsr_base",
+    "fname": "Reserve Rights",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 18,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -15005,6 +15005,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "WBTC-ARB20",
+    "name": "wbtc_arb20",
+    "fname": "Wrapped Bitcoin",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 42161,
+    "decimals": 8,
+    "avg_blocktime": 0.25,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-ARB20",
+        "contract_address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "WBTC-ERC20",
     "name": "wbtc_erc20",
     "fname": "Wrapped Bitcoin",
@@ -15496,9 +15515,47 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "XSGD-AVX20",
+    "name": "xsgd_avx20",
+    "fname": "StraitsX SGD",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 6,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "XSGD-BASE",
+    "name": "xsgd_base",
+    "fname": "StraitsX SGD",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "XSGD-ERC20",
     "name": "xsgd_erc20",
-    "fname": "StraitsX Singapore Dollar",
+    "fname": "StraitsX SGD",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 1,
@@ -15522,7 +15579,7 @@
   {
     "coin": "XSGD-PLG20",
     "name": "xsgd_plg20",
-    "fname": "StraitsX Singapore Dollar",
+    "fname": "StraitsX SGD",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 137,
@@ -15537,8 +15594,6 @@
       }
     },
     "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
     "gas_limit": {
       "eth_send_erc20": 55000,
       "erc20_payment": 110000,
