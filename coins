@@ -15496,9 +15496,47 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "XSGD-AVX20",
+    "name": "xsgd_avx20",
+    "fname": "StraitsX SGD",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 43114,
+    "decimals": 6,
+    "avg_blocktime": 2.4,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "AVAX",
+        "contract_address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "XSGD-BASE",
+    "name": "xsgd_base",
+    "fname": "StraitsX SGD",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 8453,
+    "decimals": 6,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH-BASE",
+        "contract_address": "0x0A4C9cb2778aB3302996A34BeFCF9a8Bc288C33b"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "XSGD-ERC20",
     "name": "xsgd_erc20",
-    "fname": "StraitsX Singapore Dollar",
+    "fname": "StraitsX SGD",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 1,
@@ -15522,7 +15560,7 @@
   {
     "coin": "XSGD-PLG20",
     "name": "xsgd_plg20",
-    "fname": "StraitsX Singapore Dollar",
+    "fname": "StraitsX SGD",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 137,
@@ -15537,8 +15575,6 @@
       }
     },
     "derivation_path": "m/44'/60'",
-    "use_access_list": true,
-    "max_eth_tx_type": 2,
     "gas_limit": {
       "eth_send_erc20": 55000,
       "erc20_payment": 110000,
