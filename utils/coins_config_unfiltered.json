@@ -1550,8 +1550,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -8862,8 +8861,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -15968,8 +15966,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -16250,8 +16247,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -30599,6 +30595,10 @@
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
             },
             {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -37274,8 +37274,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -40464,8 +40463,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -41701,8 +41699,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -43012,8 +43009,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -44452,35 +44448,6 @@
             },
             {
                 "url": "e1.validitytech.com:11004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
-            },
-            {
-                "url": "e2.validitytech.com:11001",
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "e2.validitytech.com:11002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "michelvankessel#7656"
-                    }
-                ]
-            },
-            {
-                "url": "e2.validitytech.com:11004",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
                 "contact": [
@@ -46924,8 +46891,7 @@
                 "ws_url": "wss://base-rpc.publicnode.com"
             },
             {
-                "url": "https://base.gateway.tenderly.co",
-                "ws_url": "wss://base.gateway.tenderly.co"
+                "url": "https://base.public.blockpi.network/v1/rpc/public"
             },
             {
                 "url": "https://mainnet.base.org"
@@ -52299,8 +52265,11 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [],
-        "delisted": true,
+        "rpc_urls": [
+            {
+                "url": "https://rpc.cosmos.directory/cosmoshub"
+            }
+        ],
         "explorer_block_url": "block/",
         "binance_id": "ATOM"
     },
