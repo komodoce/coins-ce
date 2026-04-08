@@ -3414,6 +3414,9 @@
       "https://base.llamarpc.com": {
         "1761238027": "online"
       },
+      "https://base.public.blockpi.network/v1/rpc/public": {
+        "1775624465": "online"
+      },
       "https://mainnet.base.org": {
         "1761238027": "online"
       },
@@ -7399,7 +7402,8 @@
         "1773828034": "offline",
         "1773845398": "online",
         "1775585421": "offline",
-        "1775592931": "online"
+        "1775592931": "online",
+        "1775624465": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
