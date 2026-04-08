@@ -999,10 +999,6 @@
     "original": "87a889163d50434ce5d903781f1c7d180e32b726ef54e28ebd889de44dacc2cb",
     "processed": "8db1c125eab0745e11dff34841d4a41e655ce99ffdd0caadb2162c48cac1056f"
   },
-  "zdeex.png": {
-    "original": "c66a3f0c00b33001e48f05396608f8071f22e264a3e0a67827249f3e7f6d0fd8",
-    "processed": "34e6be87dc0fb571f725eef4ad47c027f845445fc884e462fbc6cdc345d44d6b"
-  },
   "xtz.png": {
     "original": "9ea4ae6948c821bf40f3ac6a36869b2bbd7546db51dcf371f4d1164892dbcf4d",
     "processed": "78b44b8e9176a27e4b6a994f3dc081f17f242f250b46560234ee65cbfe4e10d8"
@@ -1126,10 +1122,6 @@
   "jeur.png": {
     "original": "9ea21ebcae164e465ed744a38299ae67fd841df6ceed1251633963507904ff9c",
     "processed": "e83ef2fa7b48205e459a521bfe19095c789d01470e23b7a16b667cc18f3dfef1"
-  },
-  "zombie.png": {
-    "original": "674833a824f1f592931864d787a6ec9d59e20fa23d5259d9dfaf6edec554ecbe",
-    "processed": "627052c6ea33fec7811e4b3672d14aedeb84eb3774cda20dee70fb37e8113f7a"
   },
   "ltc.png": {
     "original": "635cbd5c4f2676a4f9287331eddb4fdae18114878cf9f45fefc068922628f368",
@@ -1938,5 +1930,9 @@
   "jump.png": {
     "original": "1fb60819aa870dd1d7045ba5d16d1b3b7f818e98eb2747eee33d23a47d76bded",
     "processed": "9dd05d23724f2ec88b518edfef273526f2b897409e0ee68e3aeb575ba6bc53fd"
+  },
+  "zchf.png": {
+    "original": "0c249b737ddd1e0f7aab356d4c25d7a7c37ee27501a0ce7b335a54eb300e9eac",
+    "processed": "9491d4ef2f7dbb347883008ad1687862978bee87c7bb8975d4a37ece36cceb68"
   }
 }
