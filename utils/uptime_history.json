@@ -373,7 +373,8 @@
     "all": {},
     "by_server": {
       "https://api.avax.network/ext/bc/C/rpc": {
-        "1775776870": "offline"
+        "1775776870": "offline",
+        "1775777462": "online"
       },
       "https://avalanche-c-chain-rpc.publicnode.com": {
         "1775776870": "online"
