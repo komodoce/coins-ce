@@ -3847,26 +3847,6 @@
     }
   },
   {
-    "coin": "DAI-MVR20",
-    "name": "dai_mvr20",
-    "fname": "Dai",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 1285,
-    "avg_blocktime": 6,
-    "decimals": 18,
-    "required_confirmations": 6,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MOVR",
-        "contract_address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "DAI-PLG20",
     "name": "dai_plg20",
     "fname": "Dai",
@@ -9771,26 +9751,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "MM-MVR20",
-    "name": "mm_mvr20",
-    "fname": "Million",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 1285,
-    "avg_blocktime": 6,
-    "decimals": 18,
-    "required_confirmations": 6,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MOVR",
-        "contract_address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "MM-PLG20",
     "name": "mm_plg20",
     "fname": "Million",
@@ -12698,26 +12658,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "SUSHI-MVR20",
-    "name": "sushi_mvr20",
-    "fname": "Sushi",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 1285,
-    "avg_blocktime": 6,
-    "decimals": 18,
-    "required_confirmations": 6,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MOVR",
-        "contract_address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "SUSHI-PLG20",
     "name": "sushi_plg20",
     "fname": "Sushi",
@@ -14076,26 +14016,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "USDC-MVR20",
-    "name": "usdc_mvr20",
-    "fname": "USD Coin",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 1285,
-    "avg_blocktime": 6,
-    "decimals": 6,
-    "required_confirmations": 6,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MOVR",
-        "contract_address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "USDC-PLG20",
     "name": "usdc_plg20",
     "fname": "USD Coin",
@@ -14216,26 +14136,6 @@
       "protocol_data": {
         "platform": "BNB",
         "contract_address": "0xb3c11196A4f3b1da7c23d9FB0A3dDE9c6340934F"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
-    "coin": "USDT-MVR20",
-    "name": "usdt_mvr20",
-    "fname": "Tether",
-    "rpcport": 80,
-    "mm2": 1,
-    "wallet_only": true,
-    "chain_id": 1285,
-    "avg_blocktime": 6,
-    "decimals": 6,
-    "required_confirmations": 6,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "MOVR",
-        "contract_address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C"
       }
     },
     "derivation_path": "m/44'/60'"
