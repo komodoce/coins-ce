@@ -1180,6 +1180,31 @@
       }
     }
   },
+  "BTGS": {
+    "all": {
+      "1775752010": "online"
+    },
+    "by_server": {
+      "electrum.bitcoingold.site:50001": {
+        "1775752010": "online"
+      },
+      "electrum.bitcoingold.site:50002": {
+        "1775752010": "online"
+      },
+      "electrum.bitcoingold.site:50005": {
+        "1775752010": "online"
+      },
+      "electrum.btgscoin.site:50001": {
+        "1775752010": "online"
+      },
+      "electrum.btgscoin.site:50002": {
+        "1775752010": "online"
+      },
+      "electrum.btgscoin.site:50005": {
+        "1775752010": "online"
+      }
+    }
+  },
   "BTX": {
     "all": {
       "1775706378": "online"
@@ -5266,7 +5291,8 @@
         "1775706378": "online"
       },
       "https://rpc.osmosis.zone/": {
-        "1775706378": "online"
+        "1775706378": "online",
+        "1775752010": "offline"
       }
     }
   },
