@@ -11683,25 +11683,6 @@
     "derivation_path": "m/84'/143'"
   },
   {
-    "coin": "RIC-BEP20",
-    "name": "ric_bep20",
-    "fname": "Riecoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 56,
-    "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "BNB",
-        "contract_address": "0xc2097531d6Cd4A712AE08f398283a92631DC39F9"
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "RIN",
     "name": "rincoin",
     "fname": "Rincoin",
