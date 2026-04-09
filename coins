@@ -10,17 +10,6 @@
     }
   },
   {
-    "coin": "SCZEN",
-    "fname": "Siacoin Zen Testnet",
-    "mm2": 1,
-    "required_confirmations": 1,
-    "avg_blocktime": 600,
-    "is_testnet": true,
-    "protocol": {
-      "type": "SIA"
-    }
-  },
-  {
     "coin": "1INCH-AVX20",
     "name": "1inch_avx20",
     "fname": "1Inch",
@@ -1098,24 +1087,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "AVAXT",
-    "name": "avaxt",
-    "fname": "Avalanche Testnet",
-    "is_testnet": true,
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 43113,
-    "required_confirmations": 3,
-    "avg_blocktime": 2.4,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 43113
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "AVAX",
     "name": "avax",
     "fname": "Avalanche",
@@ -2097,28 +2068,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "tBLK",
-    "name": "blackmore",
-    "fname": "BlackCoin Testnet",
-    "sign_message_prefix": "BlackCoin Signed Message:\n",
-    "isPoS": 1,
-    "rpcport": 25715,
-    "pubtype": 111,
-    "p2shtype": 196,
-    "wiftype": 239,
-    "txfee": 100000,
-    "segwit": true,
-    "mm2": 1,
-    "is_testnet": true,
-    "required_confirmations": 5,
-    "mature_confirmations": 10,
-    "avg_blocktime": 66,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/1'"
-  },
-  {
     "coin": "BLOCX",
     "name": "blocx",
     "fname": "BLOCX.",
@@ -2229,24 +2178,6 @@
     "links": {
       "homepage": "https://rsk.co"
     }
-  },
-  {
-    "coin": "BNBT",
-    "name": "binancesmartchaintest",
-    "fname": "Binance Coin Testnet",
-    "avg_blocktime": 15,
-    "rpcport": 80,
-    "chain_id": 97,
-    "mm2": 1,
-    "is_testnet": true,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 97
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "BNT-BEP20",
@@ -9285,24 +9216,6 @@
     }
   },
   {
-    "coin": "POLTEST",
-    "name": "polygon testnet",
-    "fname": "Polygon Testnet",
-    "is_testnet": true,
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 80001,
-    "avg_blocktime": 1.8,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 80001
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "POL",
     "name": "polygon",
     "fname": "Polygon",
@@ -11397,29 +11310,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "QRC20",
-    "fname": "QRC20",
-    "pubtype": 120,
-    "p2shtype": 50,
-    "wiftype": 128,
-    "segwit": false,
-    "txfee": 400000,
-    "mm2": 1,
-    "is_testnet": true,
-    "mature_confirmations": 2000,
-    "required_confirmations": 1,
-    "avg_blocktime": 32,
-    "protocol": {
-      "type": "QRC20",
-      "chain_variant": "QTUM",
-      "protocol_data": {
-        "platform": "tQTUM",
-        "contract_address": "0xd362e096e873eb7907e205fadc6175c6fec7bc44"
-      },
-      "derivation_path": "m/44'/1'"
-    }
-  },
-  {
     "coin": "QTUM",
     "name": "qtum",
     "fname": "Qtum",
@@ -11469,29 +11359,6 @@
       "github": "https://github.com/qtumproject",
       "homepage": "https://qtum.org/"
     }
-  },
-  {
-    "coin": "tQTUM",
-    "name": "qtumtest",
-    "fname": "QTUM Testnet",
-    "sign_message_prefix": "Qtum Signed Message:\n",
-    "is_testnet": true,
-    "rpcport": 13889,
-    "pubtype": 120,
-    "p2shtype": 110,
-    "wiftype": 239,
-    "segwit": true,
-    "bech32_hrp": "tq",
-    "txfee": 400000,
-    "mm2": 1,
-    "required_confirmations": 1,
-    "mature_confirmations": 2000,
-    "avg_blocktime": 32,
-    "protocol": {
-      "type": "QTUM",
-      "chain_variant": "QTUM"
-    },
-    "derivation_path": "m/44'/1'"
   },
   {
     "coin": "RAPH",
@@ -13003,52 +12870,6 @@
     }
   },
   {
-    "coin": "TESTBTC",
-    "name": "tbitcoin",
-    "fname": "Bitcoin Testnet",
-    "sign_message_prefix": "Bitcoin Signed Message:\n",
-    "rpcport": 18332,
-    "pubtype": 111,
-    "p2shtype": 196,
-    "wiftype": 239,
-    "segwit": true,
-    "bech32_hrp": "tb",
-    "txfee": 0,
-    "estimate_fee_mode": "ECONOMICAL",
-    "mm2": 1,
-    "is_testnet": true,
-    "required_confirmations": 0,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/1'"
-  },
-  {
-    "coin": "TESTBTC-segwit",
-    "name": "tbitcoin",
-    "fname": "Bitcoin Testnet",
-    "sign_message_prefix": "Bitcoin Signed Message:\n",
-    "rpcport": 18332,
-    "pubtype": 111,
-    "p2shtype": 196,
-    "wiftype": 239,
-    "segwit": true,
-    "bech32_hrp": "tb",
-    "address_format": {
-      "format": "segwit"
-    },
-    "orderbook_ticker": "tBTC",
-    "txfee": 0,
-    "estimate_fee_mode": "ECONOMICAL",
-    "mm2": 1,
-    "is_testnet": true,
-    "required_confirmations": 0,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/84'/1'"
-  },
-  {
     "coin": "TEL-ERC20",
     "name": "tel_erc20",
     "fname": "Telcoin",
@@ -13335,41 +13156,6 @@
       "protocol_data": {
         "platform": "TRX",
         "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
-      }
-    }
-  },
-  {
-    "coin": "TRXT",
-    "name": "tron_test",
-    "fname": "TRON Testnet",
-    "is_testnet": true,
-    "mm2": 1,
-    "wallet_only": true,
-    "decimals": 6,
-    "avg_blocktime": 3,
-    "required_confirmations": 1,
-    "derivation_path": "m/44'/195'",
-    "protocol": {
-      "type": "TRX",
-      "protocol_data": {
-        "network": "Nile"
-      }
-    }
-  },
-  {
-    "coin": "TESTUSDT-TRC20",
-    "name": "testusdt_trc20",
-    "fname": "Tether Testnet",
-    "is_testnet": true,
-    "mm2": 1,
-    "wallet_only": true,
-    "decimals": 6,
-    "derivation_path": "m/44'/195'",
-    "protocol": {
-      "type": "TRC20",
-      "protocol_data": {
-        "platform": "TRXT",
-        "contract_address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf"
       }
     }
   },
@@ -16643,32 +16429,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "tBCH",
-    "name": "Bitcoin Cash Testnet",
-    "fname": "Bitcoin Cash Testnet",
-    "sign_message_prefix": "Bitcoin Signed Message:\n",
-    "is_testnet": true,
-    "pubtype": 111,
-    "p2shtype": 196,
-    "wiftype": 239,
-    "txfee": 0,
-    "estimate_fee_blocks": 2,
-    "segwit": false,
-    "fork_id": "0x40",
-    "address_format": {
-      "format": "cashaddress",
-      "network": "bchtest"
-    },
-    "mm2": 1,
-    "required_confirmations": 1,
-    "avg_blocktime": 600,
-    "protocol": {
-      "type": "UTXO",
-      "chain_variant": "BTC"
-    },
-    "derivation_path": "m/44'/1'"
-  },
-  {
     "coin": "UFO",
     "name": "ufo",
     "fname": "Uniform Fiscal Object",
@@ -17185,99 +16945,6 @@
       "github": "https://github.com/Meowcoin-Foundation/Meowcoin",
       "homepage": "https://www.mewccrypto.com/"
     }
-  },
-  {
-    "coin": "IRISTEST",
-    "avg_blocktime": 7,
-    "name": "iristest",
-    "fname": "Iris Test",
-    "mm2": 1,
-    "wallet_only": false,
-    "is_testnet": true,
-    "protocol": {
-      "type": "TENDERMINT",
-      "protocol_data": {
-        "decimals": 6,
-        "denom": "unyan",
-        "account_prefix": "iaa",
-        "chain_id": "nyancat-9",
-        "gas_price": 0.5
-      }
-    },
-    "derivation_path": "m/44'/118'"
-  },
-  {
-    "coin": "NUCLEUSTEST",
-    "avg_blocktime": 5,
-    "name": "nucleus-test",
-    "fname": "Nucleus Test",
-    "mm2": 1,
-    "wallet_only": false,
-    "is_testnet": true,
-    "protocol": {
-      "type": "TENDERMINT",
-      "protocol_data": {
-        "decimals": 6,
-        "denom": "unucl",
-        "account_prefix": "nuc",
-        "chain_id": "nucleus-3"
-      }
-    },
-    "derivation_path": "m/44'/118'"
-  },
-  {
-    "coin": "IRISTEST-IBC_NUCLEUSTEST",
-    "avg_blocktime": 5,
-    "name": "iristest-ibc-nucleus-test",
-    "fname": "Iris Test",
-    "mm2": 1,
-    "wallet_only": false,
-    "is_testnet": true,
-    "protocol": {
-      "type": "TENDERMINTTOKEN",
-      "protocol_data": {
-        "platform": "NUCLEUSTEST",
-        "decimals": 6,
-        "denom": "ibc/F7F28FF3C09024A0225EDBBDB207E5872D2B4EF2FB874FE47B05EF9C9A7D211C"
-      }
-    },
-    "derivation_path": "m/44'/118'"
-  },
-  {
-    "coin": "ATOM-IBC_NUCLEUSTEST",
-    "avg_blocktime": 5,
-    "name": "cosmos-ibc-nucleus-test",
-    "fname": "Cosmos",
-    "mm2": 1,
-    "wallet_only": false,
-    "is_testnet": true,
-    "protocol": {
-      "type": "TENDERMINTTOKEN",
-      "protocol_data": {
-        "platform": "NUCLEUSTEST",
-        "decimals": 6,
-        "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E"
-      }
-    },
-    "derivation_path": "m/44'/118'"
-  },
-  {
-    "coin": "OSMO-IBC_NUCLEUSTEST",
-    "avg_blocktime": 5,
-    "name": "cosmos-ibc-nucleus-test",
-    "fname": "Osmosis",
-    "mm2": 1,
-    "wallet_only": false,
-    "is_testnet": true,
-    "protocol": {
-      "type": "TENDERMINTTOKEN",
-      "protocol_data": {
-        "platform": "NUCLEUSTEST",
-        "decimals": 6,
-        "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23"
-      }
-    },
-    "derivation_path": "m/44'/118'"
   },
   {
     "coin": "LUPA",
