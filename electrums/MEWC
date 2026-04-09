@@ -1,13 +1,5 @@
 [
   {
-    "url": "meowelectrum.xyz:50002",
-    "protocol": "SSL",
-    "contact": [
-      { "discord": "Meowmancer#2099" } 
-    ],
-    "ws_url": "meowelectrum.xyz:50004"
-  },
-  {
     "url": "meowcoinelectrum.xyz:50002",
     "protocol": "SSL",
     "contact": [
@@ -22,9 +14,19 @@
     "protocol": "SSL",
     "contact": [
         {
-            "discord": "Meowmancer#2099"
+            "discord": "351803108407509005"
         }
     ],
     "ws_url": "electrum.mewccrypto.com:50004"
+  },
+  {
+    "url": "electrs.mewccrypto.com:50002",
+    "protocol": "SSL",
+    "contact": [
+        {
+            "discord": "351803108407509005"
+        }
+    ],
+    "ws_url": "electrs.mewccrypto.com:50004"
   }
 ]
