@@ -2446,8 +2446,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "ATOM"
+        "explorer_block_url": "block/"
     },
     "ATOM-PLG20": {
         "coin": "ATOM-PLG20",
@@ -2509,8 +2508,7 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ATOM"
+        "explorer_block_url": "block/"
     },
     "AUR": {
         "coin": "AUR",
@@ -2827,8 +2825,7 @@
                 "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "AVAX"
+        "explorer_block_url": "block/"
     },
     "AVAX-BEP20": {
         "coin": "AVAX-BEP20",
@@ -2893,8 +2890,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "AVAX"
+        "explorer_block_url": "block/"
     },
     "AVN": {
         "coin": "AVN",
@@ -4490,8 +4486,7 @@
                 "protocol": "SSL"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "BCH"
+        "explorer_block_url": "block/"
     },
     "FLEXUSD-ERC20": {
         "coin": "FLEXUSD-ERC20",
@@ -4820,8 +4815,7 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "BCH"
+        "explorer_block_url": "block/"
     },
     "BCH-BEP20": {
         "coin": "BCH-BEP20",
@@ -4881,8 +4875,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "BCH"
+        "explorer_block_url": "block/"
     },
     "BEAMX-BEP20": {
         "coin": "BEAMX-BEP20",
@@ -5436,8 +5429,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "BNB"
+        "explorer_block_url": "block/"
     },
     "BONE-ERC20": {
         "coin": "BONE-ERC20",
@@ -6189,8 +6181,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "BTC"
+        "explorer_block_url": "block/"
     },
     "BTC-segwit": {
         "coin": "BTC-segwit",
@@ -6272,8 +6263,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "BTC"
+        "explorer_block_url": "block/"
     },
     "BTC-BEP20": {
         "coin": "BTC-BEP20",
@@ -6338,8 +6328,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "BTC"
+        "explorer_block_url": "block/"
     },
     "BTCZ": {
         "coin": "BTCZ",
@@ -9964,56 +9953,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "DAI-MVR20": {
-        "coin": "DAI-MVR20",
-        "type": "Moonriver",
-        "name": "Dai",
-        "coinpaprika_id": "dai-dai",
-        "coingecko_id": "dai",
-        "livecoinwatch_id": "DAI",
-        "explorer_url": "https://moonriver.moonscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Dai",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1285,
-        "avg_blocktime": 6,
-        "decimals": 18,
-        "required_confirmations": 6,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "MOVR",
-                "contract_address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-        "parent_coin": "MOVR",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://moonriver-rpc.publicnode.com",
-                "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "DAI-PLG20": {
         "coin": "DAI-PLG20",
         "type": "Polygon",
@@ -10150,8 +10089,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "DASH"
+        "explorer_block_url": "block/"
     },
     "DDD-ERC20": {
         "coin": "DDD-ERC20",
@@ -10466,8 +10404,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "DGB"
+        "explorer_block_url": "block/"
     },
     "DGB-segwit": {
         "coin": "DGB-segwit",
@@ -10548,8 +10485,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "DGB"
+        "explorer_block_url": "block/"
     },
     "DGC": {
         "coin": "DGC",
@@ -11523,8 +11459,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "DOGE"
+        "explorer_block_url": "block/"
     },
     "DSV": {
         "coin": "DSV",
@@ -11873,8 +11808,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "DOGE"
+        "explorer_block_url": "block/"
     },
     "DOGEC": {
         "coin": "DOGEC",
@@ -12791,8 +12725,7 @@
                 "url": "https://rpc.etcinscribe.com"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETC"
+        "explorer_block_url": "block/"
     },
     "ETC-BEP20": {
         "coin": "ETC-BEP20",
@@ -12851,8 +12784,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "ETC"
+        "explorer_block_url": "block/"
     },
     "ETH": {
         "coin": "ETH",
@@ -12910,8 +12842,7 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-AVX20": {
         "coin": "ETH-AVX20",
@@ -12966,8 +12897,7 @@
                 "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-ARB20": {
         "coin": "ETH-ARB20",
@@ -13017,8 +12947,7 @@
                 "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-BASE": {
         "coin": "ETH-BASE",
@@ -13068,8 +12997,7 @@
                 "url": "https://rpc.sentio.xyz/base"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-BEP20": {
         "coin": "ETH-BEP20",
@@ -13134,8 +13062,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-KRC20": {
         "coin": "ETH-KRC20",
@@ -13179,8 +13106,7 @@
                 "url": "https://rpc-mainnet.kcc.network"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "ETH-PLG20": {
         "coin": "ETH-PLG20",
@@ -13242,8 +13168,7 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ETH"
+        "explorer_block_url": "block/"
     },
     "EURC-AVX20": {
         "coin": "EURC-AVX20",
@@ -23651,8 +23576,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "LTC"
+        "explorer_block_url": "block/"
     },
     "LTC-segwit": {
         "coin": "LTC-segwit",
@@ -23734,8 +23658,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "LTC"
+        "explorer_block_url": "block/"
     },
     "LYNX": {
         "coin": "LYNX",
@@ -24257,8 +24180,7 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "POL"
+        "explorer_block_url": "block/"
     },
     "POL-ERC20": {
         "coin": "POL-ERC20",
@@ -24320,8 +24242,7 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "POL"
+        "explorer_block_url": "block/"
     },
     "MATIC-BEP20": {
         "coin": "MATIC-BEP20",
@@ -25474,56 +25395,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "MM-MVR20": {
-        "coin": "MM-MVR20",
-        "type": "Moonriver",
-        "name": "Million",
-        "coinpaprika_id": "mm-million",
-        "coingecko_id": "million",
-        "livecoinwatch_id": "_MM",
-        "explorer_url": "https://moonriver.moonscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Million",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1285,
-        "avg_blocktime": 6,
-        "decimals": 18,
-        "required_confirmations": 6,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "MOVR",
-                "contract_address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x95bf7E307BC1ab0BA38ae10fc27084bC36FcD605",
-        "parent_coin": "MOVR",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://moonriver-rpc.publicnode.com",
-                "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "MM-PLG20": {
         "coin": "MM-PLG20",
         "type": "Polygon",
@@ -25827,8 +25698,7 @@
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "MOVR"
+        "explorer_block_url": "block/"
     },
     "GLMR": {
         "coin": "GLMR",
@@ -25880,8 +25750,7 @@
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "GLMR"
+        "explorer_block_url": "block/"
     },
     "NAV": {
         "coin": "NAV",
@@ -27308,8 +27177,7 @@
                 "url": "https://api.s0.t.hmny.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ONE"
+        "explorer_block_url": "block/"
     },
     "ONT-BEP20": {
         "coin": "ONT-BEP20",
@@ -28016,8 +27884,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?",
-        "binance_id": "PIVX"
+        "explorer_block_url": "block.dws?"
     },
     "PND": {
         "coin": "PND",
@@ -29738,8 +29605,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "QTUM"
+        "explorer_block_url": "block/"
     },
     "QTUM-ERC20": {
         "coin": "QTUM-ERC20",
@@ -29801,8 +29667,7 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "QTUM"
+        "explorer_block_url": "block/"
     },
     "tQTUM": {
         "coin": "tQTUM",
@@ -31374,8 +31239,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "RVN"
+        "explorer_block_url": "block/"
     },
     "RXD": {
         "coin": "RXD",
@@ -33017,56 +32881,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "SUSHI-MVR20": {
-        "coin": "SUSHI-MVR20",
-        "type": "Moonriver",
-        "name": "Sushi",
-        "coinpaprika_id": "sushi-sushi",
-        "coingecko_id": "sushi",
-        "livecoinwatch_id": "SUSHI",
-        "explorer_url": "https://moonriver.moonscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Sushi",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1285,
-        "avg_blocktime": 6,
-        "decimals": 18,
-        "required_confirmations": 6,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "MOVR",
-                "contract_address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
-        "parent_coin": "MOVR",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://moonriver-rpc.publicnode.com",
-                "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "SUSHI-PLG20": {
         "coin": "SUSHI-PLG20",
         "type": "Polygon",
@@ -33665,8 +33479,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?",
-        "binance_id": "SYS"
+        "explorer_block_url": "block.dws?"
     },
     "SYS-segwit": {
         "coin": "SYS-segwit",
@@ -33747,8 +33560,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?",
-        "binance_id": "SYS"
+        "explorer_block_url": "block.dws?"
     },
     "TAMA-ERC20": {
         "coin": "TAMA-ERC20",
@@ -34746,8 +34558,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "TRX"
+        "explorer_block_url": "block/"
     },
     "TRX-BEP20": {
         "coin": "TRX-BEP20",
@@ -34813,8 +34624,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "TRX"
+        "explorer_block_url": "block/"
     },
     "TRX": {
         "coin": "TRX",
@@ -34851,8 +34661,7 @@
                 "url": "https://tron-rpc.publicnode.com"
             }
         ],
-        "explorer_block_url": "#/block/",
-        "binance_id": "TRX"
+        "explorer_block_url": "#/block/"
     },
     "USDT-TRC20": {
         "coin": "USDT-TRC20",
@@ -36644,56 +36453,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "USDC-MVR20": {
-        "coin": "USDC-MVR20",
-        "type": "Moonriver",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://moonriver.moonscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1285,
-        "avg_blocktime": 6,
-        "decimals": 6,
-        "required_confirmations": 6,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "MOVR",
-                "contract_address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-        "parent_coin": "MOVR",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://moonriver-rpc.publicnode.com",
-                "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "USDC-PLG20": {
         "coin": "USDC-PLG20",
         "type": "Polygon",
@@ -37047,56 +36806,6 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
-    },
-    "USDT-MVR20": {
-        "coin": "USDT-MVR20",
-        "type": "Moonriver",
-        "name": "Tether",
-        "coinpaprika_id": "usdt-tether",
-        "coingecko_id": "tether",
-        "livecoinwatch_id": "USDT",
-        "explorer_url": "https://moonriver.moonscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "fname": "Tether",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 1285,
-        "avg_blocktime": 6,
-        "decimals": 6,
-        "required_confirmations": 6,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "MOVR",
-                "contract_address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-        "parent_coin": "MOVR",
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [
-            {
-                "url": "https://moonriver-rpc.publicnode.com",
-                "ws_url": "wss://moonriver-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonriver.api.onfinality.io/public",
-                "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://rpc.api.moonriver.moonbeam.network",
-                "ws_url": "wss://wss.api.moonriver.moonbeam.network"
-            }
-        ],
         "explorer_block_url": "block/"
     },
     "USDT-KRC20": {
@@ -40308,8 +40017,7 @@
                 "protocol": "SSL"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "XVG"
+        "explorer_block_url": "block/"
     },
     "XVS-BEP20": {
         "coin": "XVS-BEP20",
@@ -41138,8 +40846,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ZEC"
+        "explorer_block_url": "block/"
     },
     "ZER": {
         "coin": "ZER",
@@ -41677,8 +41384,7 @@
             "homepage": "https://www.runonflux.io"
         },
         "electrum": [],
-        "explorer_block_url": "block/",
-        "binance_id": "FLUX"
+        "explorer_block_url": "block/"
     },
     "FLUX-ERC20": {
         "coin": "FLUX-ERC20",
@@ -41736,8 +41442,7 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "FLUX"
+        "explorer_block_url": "block/"
     },
     "FLUX-BEP20": {
         "coin": "FLUX-BEP20",
@@ -41803,8 +41508,7 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/",
-        "binance_id": "FLUX"
+        "explorer_block_url": "block/"
     },
     "HPY-QRC20": {
         "coin": "HPY-QRC20",
@@ -44043,8 +43747,7 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "XEC"
+        "explorer_block_url": "block/"
     },
     "SIBM-BEP20": {
         "coin": "SIBM-BEP20",
@@ -44386,8 +44089,7 @@
                 "url": "https://rpc.cosmos.directory/cosmoshub"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ATOM"
+        "explorer_block_url": "block/"
     },
     "IRIS": {
         "coin": "IRIS",
@@ -44542,8 +44244,7 @@
                 "url": "https://rpc.osmosis.zone/"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "OSMO"
+        "explorer_block_url": "block/"
     },
     "ATOM-IBC_IRIS": {
         "coin": "ATOM-IBC_IRIS",
@@ -44585,8 +44286,7 @@
                 "url": "https://rpc.irishub-1.irisnet.org"
             }
         ],
-        "explorer_block_url": "block/",
-        "binance_id": "ATOM"
+        "explorer_block_url": "block/"
     },
     "MAZA": {
         "coin": "MAZA",
@@ -45205,8 +44905,7 @@
                 "ws_url": "wss://nucleus-rpc.delta.komodo.earth/websocket"
             }
         ],
-        "explorer_block_url": "nucleus/blocks/",
-        "binance_id": "ATOM"
+        "explorer_block_url": "nucleus/blocks/"
     },
     "OSMO-IBC_NUCLEUSTEST": {
         "coin": "OSMO-IBC_NUCLEUSTEST",
@@ -45262,8 +44961,7 @@
                 "ws_url": "wss://nucleus-rpc.delta.komodo.earth/websocket"
             }
         ],
-        "explorer_block_url": "nucleus/blocks/",
-        "binance_id": "OSMO"
+        "explorer_block_url": "nucleus/blocks/"
     },
     "VRM": {
         "coin": "VRM",
