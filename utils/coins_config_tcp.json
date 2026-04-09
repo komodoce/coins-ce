@@ -2446,7 +2446,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ATOM"
     },
     "ATOM-PLG20": {
         "coin": "ATOM-PLG20",
@@ -2508,7 +2509,8 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ATOM"
     },
     "AUR": {
         "coin": "AUR",
@@ -2825,7 +2827,8 @@
                 "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "AVAX"
     },
     "AVAX-BEP20": {
         "coin": "AVAX-BEP20",
@@ -2890,7 +2893,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "AVAX"
     },
     "AVN": {
         "coin": "AVN",
@@ -4491,7 +4495,8 @@
                 "protocol": "SSL"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BCH"
     },
     "FLEXUSD-ERC20": {
         "coin": "FLEXUSD-ERC20",
@@ -4639,8 +4644,8 @@
         },
         "electrum": [
             {
-                "url": "bbk-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
+                "url": "bbk-ex-two.ewmci.online:50001",
+                "protocol": "TCP",
                 "contact": [
                     {
                         "discord": "475820011634819072"
@@ -4820,7 +4825,8 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BCH"
     },
     "BCH-BEP20": {
         "coin": "BCH-BEP20",
@@ -4880,7 +4886,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BCH"
     },
     "BEAMX-BEP20": {
         "coin": "BEAMX-BEP20",
@@ -5434,7 +5441,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BNB"
     },
     "BONE-ERC20": {
         "coin": "BONE-ERC20",
@@ -6186,7 +6194,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BTC"
     },
     "BTC-segwit": {
         "coin": "BTC-segwit",
@@ -6268,7 +6277,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BTC"
     },
     "BTC-BEP20": {
         "coin": "BTC-BEP20",
@@ -6333,7 +6343,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "BTC"
     },
     "BTCZ": {
         "coin": "BTCZ",
@@ -10094,7 +10105,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "DASH"
     },
     "DDD-ERC20": {
         "coin": "DDD-ERC20",
@@ -10409,7 +10421,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "DGB"
     },
     "DGB-segwit": {
         "coin": "DGB-segwit",
@@ -10490,7 +10503,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "DGB"
     },
     "DGC": {
         "coin": "DGC",
@@ -11464,7 +11478,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "DOGE"
     },
     "DSV": {
         "coin": "DSV",
@@ -11822,7 +11837,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "DOGE"
     },
     "DOGEC": {
         "coin": "DOGEC",
@@ -12739,7 +12755,8 @@
                 "url": "https://rpc.etcinscribe.com"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETC"
     },
     "ETC-BEP20": {
         "coin": "ETC-BEP20",
@@ -12798,7 +12815,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETC"
     },
     "ETH": {
         "coin": "ETH",
@@ -12856,7 +12874,8 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-AVX20": {
         "coin": "ETH-AVX20",
@@ -12911,7 +12930,8 @@
                 "url": "https://rpc.sentio.xyz/avalanche"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-ARB20": {
         "coin": "ETH-ARB20",
@@ -12961,7 +12981,8 @@
                 "url": "https://rpc.sentio.xyz/arbitrum-one"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-BASE": {
         "coin": "ETH-BASE",
@@ -13011,7 +13032,8 @@
                 "url": "https://rpc.sentio.xyz/base"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-BEP20": {
         "coin": "ETH-BEP20",
@@ -13076,7 +13098,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-KRC20": {
         "coin": "ETH-KRC20",
@@ -13120,7 +13143,8 @@
                 "url": "https://rpc-mainnet.kcc.network"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "ETH-PLG20": {
         "coin": "ETH-PLG20",
@@ -13182,7 +13206,8 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ETH"
     },
     "EURC-AVX20": {
         "coin": "EURC-AVX20",
@@ -23615,7 +23640,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "LTC"
     },
     "LTC-segwit": {
         "coin": "LTC-segwit",
@@ -23697,7 +23723,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "LTC"
     },
     "LYNX": {
         "coin": "LYNX",
@@ -24219,7 +24246,8 @@
                 "ws_url": "wss://polygon.gateway.tenderly.co"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "POL"
     },
     "POL-ERC20": {
         "coin": "POL-ERC20",
@@ -24281,7 +24309,8 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "POL"
     },
     "MATIC-BEP20": {
         "coin": "MATIC-BEP20",
@@ -25755,7 +25784,8 @@
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "MOVR"
     },
     "GLMR": {
         "coin": "GLMR",
@@ -25807,7 +25837,8 @@
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "GLMR"
     },
     "NAV": {
         "coin": "NAV",
@@ -27238,7 +27269,8 @@
                 "url": "https://api.s0.t.hmny.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ONE"
     },
     "ONT-BEP20": {
         "coin": "ONT-BEP20",
@@ -27945,7 +27977,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?"
+        "explorer_block_url": "block.dws?",
+        "binance_id": "PIVX"
     },
     "PND": {
         "coin": "PND",
@@ -29666,7 +29699,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "QTUM"
     },
     "QTUM-ERC20": {
         "coin": "QTUM-ERC20",
@@ -29728,7 +29762,8 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "QTUM"
     },
     "tQTUM": {
         "coin": "tQTUM",
@@ -31300,7 +31335,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "RVN"
     },
     "RXD": {
         "coin": "RXD",
@@ -33540,7 +33576,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?"
+        "explorer_block_url": "block.dws?",
+        "binance_id": "SYS"
     },
     "SYS-segwit": {
         "coin": "SYS-segwit",
@@ -33621,7 +33658,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block.dws?"
+        "explorer_block_url": "block.dws?",
+        "binance_id": "SYS"
     },
     "TAMA-ERC20": {
         "coin": "TAMA-ERC20",
@@ -34627,7 +34665,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "TRX"
     },
     "TRX-BEP20": {
         "coin": "TRX-BEP20",
@@ -34693,7 +34732,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "TRX"
     },
     "TRX": {
         "coin": "TRX",
@@ -34730,7 +34770,8 @@
                 "url": "https://tron-rpc.publicnode.com"
             }
         ],
-        "explorer_block_url": "#/block/"
+        "explorer_block_url": "#/block/",
+        "binance_id": "TRX"
     },
     "USDT-TRC20": {
         "coin": "USDT-TRC20",
@@ -40107,7 +40148,8 @@
                 "protocol": "TCP"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "XVG"
     },
     "XVS-BEP20": {
         "coin": "XVS-BEP20",
@@ -40936,7 +40978,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ZEC"
     },
     "ZER": {
         "coin": "ZER",
@@ -41488,7 +41531,8 @@
                 "protocol": "TCP"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "FLUX"
     },
     "FLUX-ERC20": {
         "coin": "FLUX-ERC20",
@@ -41546,7 +41590,8 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "FLUX"
     },
     "FLUX-BEP20": {
         "coin": "FLUX-BEP20",
@@ -41612,7 +41657,8 @@
             }
         ],
         "token_address_url": "tokentxns?a=",
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "FLUX"
     },
     "HPY-QRC20": {
         "coin": "HPY-QRC20",
@@ -43851,7 +43897,8 @@
                 ]
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "XEC"
     },
     "SIBM-BEP20": {
         "coin": "SIBM-BEP20",
@@ -44205,7 +44252,8 @@
                 "url": "https://rpc.cosmos.directory/cosmoshub"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ATOM"
     },
     "IRIS": {
         "coin": "IRIS",
@@ -44360,7 +44408,8 @@
                 "url": "https://rpc.osmosis.zone/"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "OSMO"
     },
     "ATOM-IBC_IRIS": {
         "coin": "ATOM-IBC_IRIS",
@@ -44402,7 +44451,8 @@
                 "url": "https://rpc.irishub-1.irisnet.org"
             }
         ],
-        "explorer_block_url": "block/"
+        "explorer_block_url": "block/",
+        "binance_id": "ATOM"
     },
     "MAZA": {
         "coin": "MAZA",
@@ -45021,7 +45071,8 @@
                 "ws_url": "wss://nucleus-rpc.delta.komodo.earth/websocket"
             }
         ],
-        "explorer_block_url": "nucleus/blocks/"
+        "explorer_block_url": "nucleus/blocks/",
+        "binance_id": "ATOM"
     },
     "OSMO-IBC_NUCLEUSTEST": {
         "coin": "OSMO-IBC_NUCLEUSTEST",
@@ -45077,7 +45128,8 @@
                 "ws_url": "wss://nucleus-rpc.delta.komodo.earth/websocket"
             }
         ],
-        "explorer_block_url": "nucleus/blocks/"
+        "explorer_block_url": "nucleus/blocks/",
+        "binance_id": "OSMO"
     },
     "VRM": {
         "coin": "VRM",
