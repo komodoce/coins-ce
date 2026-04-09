@@ -1832,10 +1832,12 @@
         "1775706378": "offline"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1775706378": "offline"
+        "1775706378": "offline",
+        "1775714785": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1775706378": "offline"
+        "1775706378": "offline",
+        "1775714785": "online"
       }
     }
   },
@@ -2956,7 +2958,8 @@
       },
       "https://moonbeam.drpc.org": {
         "1775706378": "online",
-        "1775714095": "offline"
+        "1775714095": "offline",
+        "1775714785": "online"
       },
       "https://rpc.api.moonbeam.network": {
         "1775706378": "online"
@@ -2966,7 +2969,8 @@
       },
       "wss://moonbeam.drpc.org": {
         "1775706378": "online",
-        "1775714095": "offline"
+        "1775714095": "offline",
+        "1775714785": "online"
       },
       "wss://wss.api.moonbeam.network": {
         "1775706378": "online"
@@ -5378,7 +5382,8 @@
       "wss://polygon.gateway.tenderly.co": {
         "1775706378": "online",
         "1775707242": "offline",
-        "1775709080": "online"
+        "1775709080": "online",
+        "1775714785": "offline"
       }
     }
   },
