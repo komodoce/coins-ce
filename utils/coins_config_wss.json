@@ -39646,11 +39646,20 @@
         },
         "electrum": [
             {
+                "url": "electrs.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "351803108407509005"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.mewccrypto.com:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "Meowmancer#2099"
+                        "discord": "351803108407509005"
                     }
                 ]
             },
