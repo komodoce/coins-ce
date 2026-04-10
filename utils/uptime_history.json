@@ -6427,6 +6427,12 @@
           ]
         }
       },
+      "electrs.mewccrypto.com:50002": {
+        "1775779172": "online"
+      },
+      "electrs.mewccrypto.com:50004": {
+        "1775779172": "online"
+      },
       "electrum.mewccrypto.com:50002": {
         "1755770395": "online"
       },
@@ -7408,7 +7414,8 @@
         "1775585421": "offline",
         "1775592931": "online",
         "1775624465": "offline",
-        "1775750563": "online"
+        "1775750563": "online",
+        "1775779172": "offline"
       },
       "https://api.harmony.one": {
         "1755770395": "online"

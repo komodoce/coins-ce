@@ -27285,9 +27285,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://1rpc.io/one"
-            },
-            {
                 "url": "https://api.harmony.one"
             },
             {
@@ -44905,11 +44902,20 @@
         },
         "electrum": [
             {
+                "url": "electrs.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "351803108407509005"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.mewccrypto.com:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
-                        "discord": "Meowmancer#2099"
+                        "discord": "351803108407509005"
                     }
                 ]
             },
