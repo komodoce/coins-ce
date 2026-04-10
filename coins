@@ -16390,27 +16390,6 @@
     }
   },
   {
-    "coin": "UBQ",
-    "name": "ubiq",
-    "fname": "Ubiq",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 8,
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 8
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Ubiq",
-    "links": {
-      "homepage": "https://ubiqsmart.com"
-    }
-  },
-  {
     "coin": "PNK-ERC20",
     "name": "pnk_erc20",
     "fname": "Kleros",

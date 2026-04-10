@@ -164,7 +164,6 @@ class CoinConfig:
             "ATOM": "TENDERMINT",
             "OSMO": "TENDERMINT",
             "IRIS": "TENDERMINT",
-            "UBQ": "Ubiq",
         }
         self.testnet_protocols = {
             "GLEECT": "GRC-20",
@@ -175,7 +174,6 @@ class CoinConfig:
             "NUCLEUSTEST": "TENDERMINT",
             "MATICTEST": "Matic",
             "TRXT": "TRX",
-            "UBQ": "Ubiq",
         }
         self.coin_type = coin_data["protocol"]["type"]
         self.data.update(
