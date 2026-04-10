@@ -21873,6 +21873,16 @@
                         "discord": "635448663543644170"
                     }
                 ]
+            },
+            {
+                "url": "lcc-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -21923,6 +21933,16 @@
                 "contact": [
                     {
                         "discord": "635448663543644170"
+                    }
+                ]
+            },
+            {
+                "url": "lcc-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -43661,6 +43681,9 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
+            {
+                "url": "https://iris-rpc.publicnode.com"
+            },
             {
                 "url": "https://rpc.cosmos.directory/irisnet"
             },
