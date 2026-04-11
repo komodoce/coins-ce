@@ -4651,10 +4651,12 @@
         "1775779786": "online"
       },
       "electrum.mewccrypto.com:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775872768": "online"
       },
       "electrum.mewccrypto.com:50004": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775872768": "online"
       },
       "meowcoinelectrum.xyz:50002": {
         "1775779786": "online"
@@ -5651,13 +5653,16 @@
     },
     "by_server": {
       "x1.raptoreum.com:50001": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775872768": "online"
       },
       "x1.raptoreum.com:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775872768": "online"
       },
       "x1.raptoreum.com:50004": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775872768": "online"
       },
       "x2.raptoreum.com:50001": {
         "1775779786": "online"
