@@ -27667,6 +27667,10 @@
         },
         "electrum": [
             {
+                "url": "x1.raptoreum.com:50004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "x2.raptoreum.com:50004",
                 "protocol": "WSS"
             }
@@ -39400,6 +39404,16 @@
             {
                 "url": "electrs.mewccrypto.com:50004",
                 "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "351803108407509005"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "351803108407509005"
