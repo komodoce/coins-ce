@@ -13336,6 +13336,33 @@
                 ]
             },
             {
+                "url": "elecx.kmsoftware.org:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx.kmsoftware.org:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx.kmsoftware.org:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
                 "url": "elecx1.dingocoin.com:3339",
                 "protocol": "TCP",
                 "contact": [
@@ -13355,6 +13382,168 @@
             },
             {
                 "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx2.kmsoftware.org:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx2.kmsoftware.org:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx2.kmsoftware.org:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed1.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed1.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed2.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed2.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed2.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed3.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed3.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed3.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed4.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed4.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed4.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -31771,6 +31960,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
