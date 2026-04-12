@@ -2021,6 +2021,15 @@
       "delecx.twinkykms.com:3342": {
         "1775779786": "online"
       },
+      "elecx.kmsoftware.org:3339": {
+        "1775966660": "online"
+      },
+      "elecx.kmsoftware.org:3341": {
+        "1775966660": "online"
+      },
+      "elecx.kmsoftware.org:3342": {
+        "1775966660": "online"
+      },
       "elecx1.dingocoin.com:3339": {
         "1775779786": "offline",
         "1775959965": "online"
@@ -2039,6 +2048,60 @@
       },
       "elecx2.dingocoin.com:3342": {
         "1775779786": "offline"
+      },
+      "elecx2.kmsoftware.org:3339": {
+        "1775966660": "online"
+      },
+      "elecx2.kmsoftware.org:3341": {
+        "1775966660": "online"
+      },
+      "elecx2.kmsoftware.org:3342": {
+        "1775966660": "online"
+      },
+      "seed1.dingocoin.com:3339": {
+        "1775966660": "online"
+      },
+      "seed1.dingocoin.com:3341": {
+        "1775966660": "online"
+      },
+      "seed1.dingocoin.com:3342": {
+        "1775966660": "online"
+      },
+      "seed2.dingocoin.com:3339": {
+        "1775966660": "online"
+      },
+      "seed2.dingocoin.com:3341": {
+        "1775966660": "online"
+      },
+      "seed2.dingocoin.com:3342": {
+        "1775966660": "online"
+      },
+      "seed3.dingocoin.com:3339": {
+        "1775966660": "online"
+      },
+      "seed3.dingocoin.com:3341": {
+        "1775966660": "online"
+      },
+      "seed3.dingocoin.com:3342": {
+        "1775966660": "online"
+      },
+      "seed4.dingocoin.com:3339": {
+        "1775966660": "online"
+      },
+      "seed4.dingocoin.com:3341": {
+        "1775966660": "online"
+      },
+      "seed4.dingocoin.com:3342": {
+        "1775966660": "online"
+      },
+      "seed5.dingocoin.com:3339": {
+        "1775966660": "online"
+      },
+      "seed5.dingocoin.com:3341": {
+        "1775966660": "online"
+      },
+      "seed5.dingocoin.com:3342": {
+        "1775966660": "online"
       }
     }
   },
@@ -2995,7 +3058,8 @@
       },
       "wss://moonbeam-rpc.publicnode.com": {
         "1775779786": "online",
-        "1775959965": "offline"
+        "1775959965": "offline",
+        "1775966660": "online"
       },
       "wss://moonbeam.drpc.org": {
         "1775779786": "online"
@@ -5288,7 +5352,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1775779786": "online"
+        "1775779786": "online",
+        "1775966660": "offline"
       },
       "https://api.harmony.one": {
         "1775779786": "online"
@@ -5971,8 +6036,34 @@
       "2.eu.tokel.electrum.dexstats.info:10077": {
         "1775779786": "offline"
       },
+      "2.eu.tokel.electrum.dexstats.info:11077": {
+        "1775966660": "offline"
+      },
+      "2.eu.tokel.electrum.dexstats.info:9077": {
+        "1775966660": "offline"
+      },
       "_metadata": {
         "2.eu.tokel.electrum.dexstats.info:10077": {
+          "contact": [
+            {
+              "email": "chmex@dexstats.info"
+            },
+            {
+              "discord": "chmex#0686"
+            }
+          ]
+        },
+        "2.eu.tokel.electrum.dexstats.info:11077": {
+          "contact": [
+            {
+              "email": "chmex@dexstats.info"
+            },
+            {
+              "discord": "chmex#0686"
+            }
+          ]
+        },
+        "2.eu.tokel.electrum.dexstats.info:9077": {
           "contact": [
             {
               "email": "chmex@dexstats.info"
