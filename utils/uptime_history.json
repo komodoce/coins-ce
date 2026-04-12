@@ -2829,6 +2829,15 @@
       "delecx.twinkykms.com:3342": {
         "1755770395": "online"
       },
+      "elecx.kmsoftware.org:3339": {
+        "1776008736": "online"
+      },
+      "elecx.kmsoftware.org:3341": {
+        "1776008736": "online"
+      },
+      "elecx.kmsoftware.org:3342": {
+        "1776008736": "online"
+      },
       "elecx1.dingocoin.com:3339": {
         "1755770395": "online",
         "1762820073": "offline",
@@ -2867,6 +2876,60 @@
       "elecx2.dingocoin.com:3342": {
         "1755770395": "online",
         "1774959961": "offline"
+      },
+      "elecx2.kmsoftware.org:3339": {
+        "1776008736": "online"
+      },
+      "elecx2.kmsoftware.org:3341": {
+        "1776008736": "online"
+      },
+      "elecx2.kmsoftware.org:3342": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3342": {
+        "1776008736": "online"
       }
     }
   },
@@ -6597,7 +6660,8 @@
       "wss://moonriver-rpc.publicnode.com": {
         "1763783058": "online",
         "1771824489": "offline",
-        "1772144114": "online"
+        "1772144114": "online",
+        "1776008736": "offline"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1773964971": "online"
@@ -7448,7 +7512,8 @@
         "1775592931": "online",
         "1775624465": "offline",
         "1775750563": "online",
-        "1775779172": "offline"
+        "1775779172": "offline",
+        "1776008736": "online"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
