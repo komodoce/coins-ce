@@ -8580,6 +8580,15 @@
         },
         "electrum": [
             {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "clam.electrum3.cipig.net:20075",
                 "protocol": "SSL",
                 "contact": [
@@ -11129,6 +11138,15 @@
                 "contact": [
                     {
                         "discord": "405102339612082177"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
                     }
                 ]
             }
@@ -39798,6 +39816,15 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -40994,7 +41021,17 @@
             "github": "https://github.com/WikiMin3R/ZetacoinE",
             "homepage": "https://zetacoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
@@ -44371,6 +44408,18 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
+            {
+                "url": "coin.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
             {
                 "url": "explorer.crionic.org:50002",
                 "protocol": "SSL",
