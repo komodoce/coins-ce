@@ -49,13 +49,16 @@
         }
       },
       "aby-ex-four.ewmci.online:50011": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "aby-ex-four.ewmci.online:50012": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "aby-ex-four.ewmci.online:50013": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "aby-ex-three.ewmci.online:50001": {
         "1775779786": "offline"
@@ -571,13 +574,16 @@
         }
       },
       "bbk-ex-three.ewmci.online:50001": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "bbk-ex-three.ewmci.online:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "bbk-ex-three.ewmci.online:50003": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "bbk-ex-two.ewmci.online:50001": {
         "1775779786": "online"
@@ -1508,13 +1514,16 @@
         }
       },
       "clam-ex-one.ewmci.online:50001": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "clam-ex-one.ewmci.online:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "clam-ex-one.ewmci.online:50003": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "clam.electrum3.cipig.net:20075": {
         "1775779786": "online"
@@ -1578,13 +1587,16 @@
         }
       },
       "coin.crionic.org:50001": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "coin.crionic.org:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "coin.crionic.org:50005": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "explorer.crionic.org:50001": {
         "1775779786": "online"
@@ -2010,7 +2022,14 @@
         "1775779786": "online"
       },
       "elecx1.dingocoin.com:3339": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
+      },
+      "elecx1.dingocoin.com:3341": {
+        "1775959965": "online"
+      },
+      "elecx1.dingocoin.com:3342": {
+        "1775959965": "online"
       },
       "elecx2.dingocoin.com:3339": {
         "1775779786": "offline"
@@ -2294,14 +2313,17 @@
   },
   "EFL": {
     "all": {
-      "1775779786": "offline"
+      "1775779786": "offline",
+      "1775959965": "online"
     },
     "by_server": {
       "electrum1.egulden.org:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "electrum1.egulden.org:50004": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "electrum2.egulden.org:50002": {
         "1775779786": "offline"
@@ -2310,10 +2332,12 @@
         "1775779786": "offline"
       },
       "electrum3.egulden.org:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "electrum3.egulden.org:50004": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "electrum5.egulden.org:11017": {
         "1775779786": "offline"
@@ -2970,7 +2994,8 @@
         "1775779786": "online"
       },
       "wss://moonbeam-rpc.publicnode.com": {
-        "1775779786": "online"
+        "1775779786": "online",
+        "1775959965": "offline"
       },
       "wss://moonbeam.drpc.org": {
         "1775779786": "online"
@@ -6788,13 +6813,16 @@
         "1775779786": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "xvc-ex-seven.ewmci.online:50002": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "xvc-ex-seven.ewmci.online:50003": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       }
     }
   },
@@ -6956,13 +6984,16 @@
         "1775779786": "offline"
       },
       "zet-ex-three.ewmci.online:50011": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
-        "1775779786": "offline"
+        "1775779786": "offline",
+        "1775959965": "online"
       }
     }
   },
