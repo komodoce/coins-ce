@@ -873,6 +873,33 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50011",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "aby-ex-four.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "aby-ex-four.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -5124,6 +5151,33 @@
             "homepage": "https://bitblocksproject.com"
         },
         "electrum": [
+            {
+                "url": "bbk-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "bbk-ex-two.ewmci.online:50001",
                 "protocol": "TCP",
@@ -9869,6 +9923,33 @@
         },
         "electrum": [
             {
+                "url": "clam-ex-one.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "clam-ex-one.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "clam.electrum3.cipig.net:20075",
                 "protocol": "SSL",
                 "contact": [
@@ -13051,6 +13132,35 @@
                         "discord": "405102339612082177"
                     }
                 ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3341",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -14401,8 +14511,28 @@
             "github": "https://github.com/Electronic-Gulden-Foundation/egulden",
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "EGLD-BEP20": {
@@ -45580,6 +45710,35 @@
                 "url": "electrumx2.vanillacash.info:50013",
                 "protocol": "WSS",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -47016,6 +47175,33 @@
             {
                 "url": "207.180.252.200:50011",
                 "protocol": "TCP"
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50011",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-three.ewmci.online:50013",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -51305,6 +51491,42 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
+            {
+                "url": "coin.crionic.org:50001",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "coin.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
+            {
+                "url": "coin.crionic.org:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
             {
                 "url": "explorer.crionic.org:50001",
                 "contact": [

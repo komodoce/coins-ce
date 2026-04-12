@@ -873,6 +873,15 @@
         },
         "electrum": [
             {
+                "url": "aby-ex-four.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -4572,6 +4581,15 @@
             "homepage": "https://bitblocksproject.com"
         },
         "electrum": [
+            {
+                "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
             {
                 "url": "bbk-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
@@ -8401,6 +8419,15 @@
         },
         "electrum": [
             {
+                "url": "clam-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "clam.electrum3.cipig.net:20075",
                 "protocol": "SSL",
                 "contact": [
@@ -10954,6 +10981,16 @@
                         "discord": "405102339612082177"
                     }
                 ]
+            },
+            {
+                "url": "elecx1.dingocoin.com:3342",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -11944,6 +11981,55 @@
             }
         ],
         "explorer_block_url": "block/"
+    },
+    "EFL": {
+        "coin": "EFL",
+        "type": "UTXO",
+        "name": "e-Gulden",
+        "coinpaprika_id": "efl-e-gulden",
+        "coingecko_id": "electronicgulden",
+        "livecoinwatch_id": "EFL",
+        "explorer_url": "https://chainz.cryptoid.info/efl/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Egulden Signed Message:\n",
+        "fname": "e-Gulden",
+        "confpath": "USERHOME/.egulden/coin.conf",
+        "rpcport": 21015,
+        "pubtype": 48,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 200000,
+        "dust": 54600,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 120,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/78'",
+        "links": {
+            "github": "https://github.com/Electronic-Gulden-Foundation/egulden",
+            "homepage": "https://electronic-gulden-foundation.gitlab.io"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            }
+        ],
+        "explorer_block_url": "block.dws?"
     },
     "EGLD-BEP20": {
         "coin": "EGLD-BEP20",
@@ -39321,6 +39407,16 @@
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "xvc-ex-seven.ewmci.online:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -40517,7 +40613,17 @@
             "github": "https://github.com/WikiMin3R/ZetacoinE",
             "homepage": "https://zetacoin.io"
         },
-        "electrum": [],
+        "electrum": [
+            {
+                "url": "zet-ex-three.ewmci.online:50012",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
@@ -43850,6 +43956,18 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
+            {
+                "url": "coin.crionic.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "diabatiis@gmail.com"
+                    },
+                    {
+                        "discord": "Diabaths#1919"
+                    }
+                ]
+            },
             {
                 "url": "explorer.crionic.org:50002",
                 "protocol": "SSL",
