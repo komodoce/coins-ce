@@ -3,10 +3,10 @@
         "icon_size": 128,
         "grid_cols": 23,
         "grid_rows": 19,
-        "total_icons": 416,
+        "total_icons": 415,
         "spritemap_width": 2944,
         "spritemap_height": 2432,
-        "generated_at": 1776048171
+        "generated_at": 1776048863
     },
     "coordinates": {
         "1inch": {
@@ -2493,14 +2493,8 @@
             "width": 128,
             "height": 128
         },
-        "zoin": {
-            "x": 0,
-            "y": 2304,
-            "width": 128,
-            "height": 128
-        },
         "zrx": {
-            "x": 128,
+            "x": 0,
             "y": 2304,
             "width": 128,
             "height": 128
