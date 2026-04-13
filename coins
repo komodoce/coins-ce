@@ -527,31 +527,6 @@
     "derivation_path": "m/44'/60'"
   },
   {
-    "coin": "AIBC",
-    "name": "aiblockchain",
-    "fname": "Aiblockchain",
-    "sign_message_prefix": "Aiblockchain Signed Message:\n",
-    "rpcport": 7772,
-    "pubtype": 23,
-    "p2shtype": 23,
-    "wiftype": 176,
-    "txfee": 0,
-    "dust": 5460,
-    "segwit": true,
-    "bech32_hrp": "aibc",
-    "mm2": 1,
-    "required_confirmations": 11,
-    "avg_blocktime": 30,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/2'",
-    "links": {
-      "github": "https://github.com/nickgsh/AiBlockChain",
-      "homepage": "https://aibc.space"
-    }
-  },
-  {
     "coin": "AIPG",
     "name": "aipowergrid",
     "fname": "AI Power Grid",
@@ -1293,44 +1268,6 @@
       "github": "https://github.com/axieinfinity",
       "homepage": "https://axieinfinity.com/"
     }
-  },
-  {
-    "coin": "AYA",
-    "name": "aryacoin",
-    "fname": "Aryacoin",
-    "sign_message_prefix": "Aryacoin Signed Message:\n",
-    "rpcport": 9332,
-    "pubtype": 23,
-    "p2shtype": 5,
-    "wiftype": 176,
-    "txfee": 100000,
-    "dust": 54600,
-    "mm2": 1,
-    "required_confirmations": 5,
-    "avg_blocktime": 30,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/357'"
-  },
-  {
-    "coin": "AYA-BEP20",
-    "name": "aya_bep20",
-    "fname": "Aryacoin",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 56,
-    "decimals": 8,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "ERC20",
-      "protocol_data": {
-        "platform": "BNB",
-        "contract_address": "0x86e5775F5c46304939c40959812bC220dD1c0333"
-      }
-    },
-    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "BABYDOGE-BEP20",
@@ -5326,11 +5263,11 @@
   {
     "coin": "EWT",
     "name": "ewt",
-    "fname": "Energy Web",
+    "fname": "Energy Web (OLD)",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 246,
-    "use_access_list": true,
+    "wallet_only": true,
     "max_eth_tx_type": 2,
     "required_confirmations": 3,
     "avg_blocktime": 5,
@@ -5342,6 +5279,28 @@
     },
     "derivation_path": "m/44'/60'",
     "trezor_coin": "Energy Web",
+    "links": {
+      "homepage": "https://www.energyweb.org"
+    }
+  },
+  {
+    "coin": "EWT-ERC20",
+    "name": "ewt_erc20",
+    "fname": "Energy Web",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0xB66a5D30D04f076E78ffB0d045C55846Fdcde928"
+      }
+    },
+    "derivation_path": "m/44'/60'",
     "links": {
       "homepage": "https://www.energyweb.org"
     }
@@ -5653,7 +5612,6 @@
     "bech32_hrp": "fc",
     "txfee": 0,
     "mm2": 1,
-    "wallet_only": false,
     "required_confirmations": 3,
     "avg_blocktime": 60,
     "protocol": {
@@ -16417,27 +16375,6 @@
     }
   },
   {
-    "coin": "UBQ",
-    "name": "ubiq",
-    "fname": "Ubiq",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 8,
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 8
-      }
-    },
-    "derivation_path": "m/44'/60'",
-    "trezor_coin": "Ubiq",
-    "links": {
-      "homepage": "https://ubiqsmart.com"
-    }
-  },
-  {
     "coin": "PNK-ERC20",
     "name": "pnk_erc20",
     "fname": "Kleros",
@@ -17340,30 +17277,6 @@
     },
     "derivation_path": "m/44'/141'",
     "trezor_coin": "Komodo"
-  },
-  {
-    "coin": "ZOIN",
-    "name": "zoin",
-    "fname": "ZoinCommunity",
-    "sign_message_prefix": "Zoincoin Signed Message:\n",
-    "rpcport": 8256,
-    "pubtype": 80,
-    "p2shtype": 53,
-    "wiftype": 208,
-    "segwit": false,
-    "txfee": 1000000,
-    "dust": 1000000,
-    "mm2": 1,
-    "required_confirmations": 3,
-    "avg_blocktime": 150,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/60'",
-    "links": {
-      "github": "https://github.com/seopub/zoincomumity",
-      "homepage": "http://zoincommunity.com/"
-    }
   },
   {
     "coin": "NFT_ETH",
