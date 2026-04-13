@@ -1736,6 +1736,31 @@
       }
     }
   },
+  "BTGS": {
+    "all": {
+      "1776100016": "online"
+    },
+    "by_server": {
+      "electrum.bitcoingold.site:50001": {
+        "1776100016": "online"
+      },
+      "electrum.bitcoingold.site:50002": {
+        "1776100016": "online"
+      },
+      "electrum.bitcoingold.site:50005": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50001": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50002": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50005": {
+        "1776100016": "online"
+      }
+    }
+  },
   "BTX": {
     "all": {
       "1755770395": "online"
@@ -2529,7 +2554,8 @@
         "1771550721": "online",
         "1772587456": "offline",
         "1774368443": "online",
-        "1774987573": "offline"
+        "1774987573": "offline",
+        "1776100016": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",

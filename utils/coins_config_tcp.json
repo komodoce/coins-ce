@@ -6641,6 +6641,56 @@
         ],
         "explorer_block_url": "block/"
     },
+    "BTGS": {
+        "coin": "BTGS",
+        "type": "UTXO",
+        "name": "Bitcoin Gold BTGS",
+        "coinpaprika_id": "btgs-bitcoingold",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explore.btgscoin.site/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "BitcoinGold Signed Message:\n",
+        "fname": "Bitcoin Gold BTGS",
+        "rpcport": 18888,
+        "pubtype": 38,
+        "p2shtype": 22,
+        "wiftype": 176,
+        "fork_id": "0x00",
+        "signature_version": "base",
+        "txfee": 1000,
+        "segwit": true,
+        "bech32_hrp": "bcg",
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/18888'",
+        "links": {
+            "github": "https://github.com/BTGSCOINDEV/BTGS",
+            "homepage": "https://bitcoingold.site",
+            "homepage2": "https://btgscoin.site"
+        },
+        "electrum": [
+            {
+                "url": "electrum.bitcoingold.site:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum.btgscoin.site:50002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BTT-BEP20": {
         "coin": "BTT-BEP20",
         "type": "BEP-20",
@@ -10566,6 +10616,10 @@
                 "url": "failover.dgc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "electrumx.dgc.ewmcx.org:50001",
+                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
