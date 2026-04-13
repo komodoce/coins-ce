@@ -14433,6 +14433,10 @@
                 ]
             },
             {
+                "url": "electrumx1.mydogecoin.fun:60002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumx1.mydogecoin.fun:60003",
                 "protocol": "WSS"
             },
@@ -21887,32 +21891,8 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [
-            {
-                "url": "electrum2.ilien.io:30069",
-                "contact": [
-                    {
-                        "email": "admin@ilien.io"
-                    },
-                    {
-                        "discord": "siu - Chainmakers#3920"
-                    }
-                ],
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum2.ilien.io:65011",
-                "contact": [
-                    {
-                        "email": "admin@ilien.io"
-                    },
-                    {
-                        "discord": "siu - Chainmakers#3920"
-                    }
-                ],
-                "protocol": "TCP"
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "ILN-BEP20": {
