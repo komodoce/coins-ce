@@ -1428,46 +1428,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "AIBC": {
-        "coin": "AIBC",
-        "type": "UTXO",
-        "name": "Aiblockchain",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "AIBC",
-        "explorer_url": "http://95.111.231.8:3001/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Aiblockchain Signed Message:\n",
-        "fname": "Aiblockchain",
-        "rpcport": 7772,
-        "pubtype": 23,
-        "p2shtype": 23,
-        "wiftype": 176,
-        "txfee": 0,
-        "dust": 5460,
-        "segwit": true,
-        "bech32_hrp": "aibc",
-        "mm2": 1,
-        "required_confirmations": 11,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/2'",
-        "links": {
-            "github": "https://github.com/nickgsh/AiBlockChain",
-            "homepage": "https://aibc.space"
-        },
-        "electrum": [],
-        "delisted": true,
-        "explorer_block_url": "block/"
-    },
     "AIPG": {
         "coin": "AIPG",
         "type": "UTXO",
@@ -3667,104 +3627,6 @@
                 "url": "https://rpc.mevblocker.io"
             }
         ],
-        "explorer_block_url": "block/"
-    },
-    "AYA": {
-        "coin": "AYA",
-        "type": "UTXO",
-        "name": "Aryacoin",
-        "coinpaprika_id": "aya-aryacoin",
-        "coingecko_id": "aryacoin",
-        "livecoinwatch_id": "AYA",
-        "explorer_url": "https://explorer.aryacoin.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Aryacoin Signed Message:\n",
-        "fname": "Aryacoin",
-        "rpcport": 9332,
-        "pubtype": 23,
-        "p2shtype": 5,
-        "wiftype": 176,
-        "txfee": 100000,
-        "dust": 54600,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/357'",
-        "electrum": [
-            {
-                "url": "159.69.73.223:5151",
-                "protocol": "TCP"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "AYA-BEP20": {
-        "coin": "AYA-BEP20",
-        "type": "BEP-20",
-        "name": "Aryacoin",
-        "coinpaprika_id": "",
-        "coingecko_id": "aryacoin",
-        "livecoinwatch_id": "AYA",
-        "explorer_url": "https://bscscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Aryacoin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 56,
-        "decimals": 8,
-        "avg_blocktime": 3,
-        "required_confirmations": 3,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "BNB",
-                "contract_address": "0x86e5775F5c46304939c40959812bC220dD1c0333"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x86e5775F5c46304939c40959812bC220dD1c0333",
-        "parent_coin": "BNB",
-        "swap_contract_address": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
-        "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
-        "nodes": [
-            {
-                "url": "https://bsc-dataseed1.ninicoin.io"
-            },
-            {
-                "url": "https://bsc-dataseed2.defibit.io"
-            },
-            {
-                "url": "https://bsc-dataseed3.bnbchain.org"
-            },
-            {
-                "url": "https://bsc-rpc.publicnode.com",
-                "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc1.cipig.net:18655",
-                "ws_url": "wss://bsc1.cipig.net:38655"
-            },
-            {
-                "url": "https://bsc3.cipig.net:18655",
-                "ws_url": "wss://bsc3.cipig.net:38655"
-            }
-        ],
-        "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
     "BABYDOGE-BEP20": {
@@ -7873,7 +7735,7 @@
         "name": "Bitcoin Gold BTGS",
         "coinpaprika_id": "btgs-bitcoingold",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "BTGS",
         "explorer_url": "https://explore.btgscoin.site/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -16662,7 +16524,7 @@
     "EWT": {
         "coin": "EWT",
         "type": "EWT",
-        "name": "Energy Web",
+        "name": "Energy Web (OLD)",
         "coinpaprika_id": "ewt-energy-web-token",
         "coingecko_id": "energy-web-token",
         "livecoinwatch_id": "EWT",
@@ -16673,12 +16535,11 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Energy Web",
+        "wallet_only": true,
+        "fname": "Energy Web (OLD)",
         "rpcport": 80,
         "mm2": 1,
         "chain_id": 246,
-        "use_access_list": true,
         "max_eth_tx_type": 2,
         "required_confirmations": 3,
         "avg_blocktime": 5,
@@ -16699,6 +16560,67 @@
             {
                 "url": "https://rpc.energyweb.org",
                 "ws_url": "wss://rpc.energyweb.org/ws"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "EWT-ERC20": {
+        "coin": "EWT-ERC20",
+        "type": "ERC-20",
+        "name": "Energy Web",
+        "coinpaprika_id": "ewt-energy-web-token",
+        "coingecko_id": "energy-web-token",
+        "livecoinwatch_id": "EWT",
+        "explorer_url": "https://etherscan.io/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "Energy Web",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 1,
+        "decimals": 18,
+        "avg_blocktime": 15,
+        "required_confirmations": 3,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "ETH",
+                "contract_address": "0xB66a5D30D04f076E78ffB0d045C55846Fdcde928"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "links": {
+            "homepage": "https://www.energyweb.org"
+        },
+        "contract_address": "0xB66a5D30D04f076E78ffB0d045C55846Fdcde928",
+        "parent_coin": "ETH",
+        "swap_contract_address": "0x61EEC68Cf64d1b31e41EA713356De2563fB6D3F1",
+        "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
+        "nodes": [
+            {
+                "url": "https://eth3.cipig.net:18555",
+                "ws_url": "wss://eth3.cipig.net:38555",
+                "contact": [
+                    {
+                        "email": "cipi@komodoplatform.com"
+                    }
+                ]
+            },
+            {
+                "url": "https://ethereum-rpc.publicnode.com",
+                "ws_url": "wss://ethereum-rpc.publicnode.com"
+            },
+            {
+                "url": "https://mainnet.gateway.tenderly.co",
+                "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.mevblocker.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -30332,10 +30254,6 @@
             {
                 "url": "https://moonbeam-rpc.publicnode.com",
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonbeam.network",
@@ -50517,44 +50435,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "UBQ": {
-        "coin": "UBQ",
-        "type": "Ubiq",
-        "name": "Ubiq",
-        "coinpaprika_id": "ubq-ubiq",
-        "coingecko_id": "ubiq",
-        "livecoinwatch_id": "UBQ",
-        "explorer_url": "https://ubiqscan.io/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Ubiq",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 8,
-        "required_confirmations": 3,
-        "avg_blocktime": 15,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 8
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "trezor_coin": "Ubiq",
-        "links": {
-            "homepage": "https://ubiqsmart.com"
-        },
-        "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
-        "nodes": [],
-        "delisted": true,
-        "explorer_block_url": "block/"
-    },
     "PNK-ERC20": {
         "coin": "PNK-ERC20",
         "type": "ERC-20",
@@ -53380,45 +53260,6 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
-        "explorer_block_url": "block/"
-    },
-    "ZOIN": {
-        "coin": "ZOIN",
-        "type": "UTXO",
-        "name": "ZoinCommunity",
-        "coinpaprika_id": "zoin-zoin",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "http://zoincommunity.com:3001/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Zoincoin Signed Message:\n",
-        "fname": "ZoinCommunity",
-        "rpcport": 8256,
-        "pubtype": 80,
-        "p2shtype": 53,
-        "wiftype": 208,
-        "segwit": false,
-        "txfee": 1000000,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 150,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/60'",
-        "links": {
-            "github": "https://github.com/seopub/zoincomumity",
-            "homepage": "http://zoincommunity.com/"
-        },
         "electrum": [],
         "delisted": true,
         "explorer_block_url": "block/"
