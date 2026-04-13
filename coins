@@ -15926,25 +15926,6 @@
     }
   },
   {
-    "coin": "SEPOLIAETH",
-    "name": "sepolia",
-    "fname": "Sepolia",
-    "rpcport": 80,
-    "mm2": 1,
-    "chain_id": 11155111,
-    "sign_message_prefix": "Sepolia Signed Message:\n",
-    "trezor_coin": "Sepolia",
-    "required_confirmations": 3,
-    "avg_blocktime": 15,
-    "protocol": {
-      "type": "ETH",
-      "protocol_data": {
-        "chain_id": 11155111
-      }
-    },
-    "derivation_path": "m/44'/60'"
-  },
-  {
     "coin": "REV-ERC20",
     "name": "rev_erc20",
     "fname": "Revain",
