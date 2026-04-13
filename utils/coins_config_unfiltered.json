@@ -7529,7 +7529,7 @@
         "name": "Bitcoin Gold BTGS",
         "coinpaprika_id": "btgs-bitcoingold",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "BTGS",
         "explorer_url": "https://explore.btgscoin.site/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -7869,26 +7869,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -8004,26 +7984,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -13219,33 +13179,6 @@
                         "discord": "115619332448321541"
                     }
                 ]
-            },
-            {
-                "url": "seed5.dingocoin.com:3339",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed5.dingocoin.com:3341",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed5.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -14601,16 +14534,6 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
-            {
-                "url": "electrum1.egulden.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "electrum1.egulden.org:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
             {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
@@ -31537,6 +31460,9 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
+            {
+                "url": "https://1rpc.io/one"
+            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -52475,74 +52401,6 @@
             },
             {
                 "url": "electrum1.jumpcoin.net:50003",
-                "protocol": "WSS"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "BTGS": {
-        "coin": "BTGS",
-        "type": "UTXO",
-        "name": "Bitcoin Gold BTGS",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://explore.btgscoin.site/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "BitcoinGold Signed Message:\n",
-        "fname": "Bitcoin Gold BTGS",
-        "rpcport": 18888,
-        "p2pport": 18881,
-        "pubtype": 38,
-        "p2shtype": 22,
-        "wiftype": 176,
-        "decimals": 8,
-        "fork_id": "0x00",
-        "signature_version": "base",
-        "txfee": 1000,
-        "segwit": true,
-        "bech32_hrp": "bcg",
-        "mm2": 1,
-        "required_confirmations": 6,
-        "avg_blocktime": 600,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/18888'",
-        "links": {
-            "github": "https://github.com/BTGSCOINDEV/BTGS",
-            "homepage": "https://bitcoingold.site",
-            "homepage2": "https://btgscoin.site"
-        },
-        "electrum": [
-            {
-                "url": "electrum.bitcoingold.site:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum.bitcoingold.site:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum.bitcoingold.site:50005",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrum.btgscoin.site:50001",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrum.btgscoin.site:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum.btgscoin.site:50005",
                 "protocol": "WSS"
             }
         ],
