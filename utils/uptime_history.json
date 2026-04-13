@@ -2140,19 +2140,22 @@
         "1755770395": "online",
         "1767483691": "offline",
         "1768699088": "online",
-        "1775750563": "offline"
+        "1775750563": "offline",
+        "1775959086": "online"
       },
       "clam-ex-one.ewmci.online:50002": {
         "1755770395": "online",
         "1767483691": "offline",
         "1768699088": "online",
-        "1775750563": "offline"
+        "1775750563": "offline",
+        "1775959086": "online"
       },
       "clam-ex-one.ewmci.online:50003": {
         "1755770395": "online",
         "1767483691": "offline",
         "1768699088": "online",
-        "1775750563": "offline"
+        "1775750563": "offline",
+        "1775959086": "online"
       },
       "clam.electrum3.cipig.net:20075": {
         "1755770395": "online"
@@ -2220,21 +2223,24 @@
         "1759450423": "online",
         "1762013934": "offline",
         "1766366022": "online",
-        "1768612207": "offline"
+        "1768612207": "offline",
+        "1775959086": "online"
       },
       "coin.crionic.org:50002": {
         "1755770395": "offline",
         "1759450423": "online",
         "1762013934": "offline",
         "1766366022": "online",
-        "1768612207": "offline"
+        "1768612207": "offline",
+        "1775959086": "online"
       },
       "coin.crionic.org:50005": {
         "1755770395": "offline",
         "1759450423": "online",
         "1762013934": "offline",
         "1766366022": "online",
-        "1768612207": "offline"
+        "1768612207": "offline",
+        "1775959086": "online"
       },
       "explorer.crionic.org:50001": {
         "1755770395": "online"
@@ -2823,13 +2829,23 @@
       "delecx.twinkykms.com:3342": {
         "1755770395": "online"
       },
+      "elecx.kmsoftware.org:3339": {
+        "1776008736": "online"
+      },
+      "elecx.kmsoftware.org:3341": {
+        "1776008736": "online"
+      },
+      "elecx.kmsoftware.org:3342": {
+        "1776008736": "online"
+      },
       "elecx1.dingocoin.com:3339": {
         "1755770395": "online",
         "1762820073": "offline",
         "1763079262": "online",
         "1767483691": "offline",
         "1767567872": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1775959086": "online"
       },
       "elecx1.dingocoin.com:3341": {
         "1755770395": "online",
@@ -2837,7 +2853,8 @@
         "1763079262": "online",
         "1767483691": "offline",
         "1767567872": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1775959086": "online"
       },
       "elecx1.dingocoin.com:3342": {
         "1755770395": "online",
@@ -2845,7 +2862,8 @@
         "1763079262": "online",
         "1767483691": "offline",
         "1767567872": "online",
-        "1770168231": "offline"
+        "1770168231": "offline",
+        "1775959086": "online"
       },
       "elecx2.dingocoin.com:3339": {
         "1755770395": "online",
@@ -2858,6 +2876,60 @@
       "elecx2.dingocoin.com:3342": {
         "1755770395": "online",
         "1774959961": "offline"
+      },
+      "elecx2.kmsoftware.org:3339": {
+        "1776008736": "online"
+      },
+      "elecx2.kmsoftware.org:3341": {
+        "1776008736": "online"
+      },
+      "elecx2.kmsoftware.org:3342": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed1.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed2.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed3.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed4.dingocoin.com:3342": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3339": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3341": {
+        "1776008736": "online"
+      },
+      "seed5.dingocoin.com:3342": {
+        "1776008736": "online"
       }
     }
   },
@@ -4913,11 +4985,35 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum1.ilien.io:30069": {
+          "contact": [
+            {
+              "email": "admin@ilien.io"
+            },
+            {
+              "discord": "siu - Chainmakers#3920"
+            }
+          ]
+        },
+        "electrum1.ilien.io:65011": {
+          "contact": [
+            {
+              "email": "admin@ilien.io"
+            },
+            {
+              "discord": "siu - Chainmakers#3920"
+            }
+          ]
+        }
+      },
       "electrum1.ilien.io:30069": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1775959086": "offline"
       },
       "electrum1.ilien.io:65011": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1775959086": "offline"
       },
       "electrum2.ilien.io:30069": {
         "1755770395": "online"
@@ -6564,7 +6660,8 @@
       "wss://moonriver-rpc.publicnode.com": {
         "1763783058": "online",
         "1771824489": "offline",
-        "1772144114": "online"
+        "1772144114": "online",
+        "1776008736": "offline"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1773964971": "online"
@@ -7415,7 +7512,8 @@
         "1775592931": "online",
         "1775624465": "offline",
         "1775750563": "online",
-        "1775779172": "offline"
+        "1775779172": "offline",
+        "1776008736": "online"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -9783,19 +9881,22 @@
         "1755770395": "online",
         "1758413660": "offline",
         "1760163826": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       },
       "xvc-ex-seven.ewmci.online:50002": {
         "1755770395": "online",
         "1758413660": "offline",
         "1760163826": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       },
       "xvc-ex-seven.ewmci.online:50003": {
         "1755770395": "online",
         "1758413660": "offline",
         "1760163826": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       }
     }
   },
@@ -10050,7 +10151,8 @@
         "1768699088": "online",
         "1771378210": "offline",
         "1771550721": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       },
       "zet-ex-three.ewmci.online:50012": {
         "1755770395": "offline",
@@ -10063,7 +10165,8 @@
         "1768699088": "online",
         "1771378210": "offline",
         "1771550721": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       },
       "zet-ex-three.ewmci.online:50013": {
         "1755770395": "offline",
@@ -10076,7 +10179,8 @@
         "1768699088": "online",
         "1771378210": "offline",
         "1771550721": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1775959086": "online"
       }
     }
   },
