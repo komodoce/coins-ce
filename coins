@@ -17252,30 +17252,6 @@
     "trezor_coin": "Komodo"
   },
   {
-    "coin": "ZOIN",
-    "name": "zoin",
-    "fname": "ZoinCommunity",
-    "sign_message_prefix": "Zoincoin Signed Message:\n",
-    "rpcport": 8256,
-    "pubtype": 80,
-    "p2shtype": 53,
-    "wiftype": 208,
-    "segwit": false,
-    "txfee": 1000000,
-    "dust": 1000000,
-    "mm2": 1,
-    "required_confirmations": 3,
-    "avg_blocktime": 150,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/44'/60'",
-    "links": {
-      "github": "https://github.com/seopub/zoincomumity",
-      "homepage": "http://zoincommunity.com/"
-    }
-  },
-  {
     "coin": "NFT_ETH",
     "name": "nft_ethereum",
     "fname": "Ethereum",
