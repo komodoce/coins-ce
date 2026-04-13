@@ -1401,46 +1401,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "AIBC": {
-        "coin": "AIBC",
-        "type": "UTXO",
-        "name": "Aiblockchain",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "AIBC",
-        "explorer_url": "http://95.111.231.8:3001/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Aiblockchain Signed Message:\n",
-        "fname": "Aiblockchain",
-        "rpcport": 7772,
-        "pubtype": 23,
-        "p2shtype": 23,
-        "wiftype": 176,
-        "txfee": 0,
-        "dust": 5460,
-        "segwit": true,
-        "bech32_hrp": "aibc",
-        "mm2": 1,
-        "required_confirmations": 11,
-        "avg_blocktime": 30,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/2'",
-        "links": {
-            "github": "https://github.com/nickgsh/AiBlockChain",
-            "homepage": "https://aibc.space"
-        },
-        "electrum": [],
-        "delisted": true,
-        "explorer_block_url": "block/"
-    },
     "AIPG": {
         "coin": "AIPG",
         "type": "UTXO",
@@ -29957,10 +29917,6 @@
             {
                 "url": "https://moonbeam-rpc.publicnode.com",
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonbeam.network",
