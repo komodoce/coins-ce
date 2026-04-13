@@ -1736,6 +1736,31 @@
       }
     }
   },
+  "BTGS": {
+    "all": {
+      "1776100016": "online"
+    },
+    "by_server": {
+      "electrum.bitcoingold.site:50001": {
+        "1776100016": "online"
+      },
+      "electrum.bitcoingold.site:50002": {
+        "1776100016": "online"
+      },
+      "electrum.bitcoingold.site:50005": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50001": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50002": {
+        "1776100016": "online"
+      },
+      "electrum.btgscoin.site:50005": {
+        "1776100016": "online"
+      }
+    }
+  },
   "BTX": {
     "all": {
       "1755770395": "online"
@@ -2529,7 +2554,8 @@
         "1771550721": "online",
         "1772587456": "offline",
         "1774368443": "online",
-        "1774987573": "offline"
+        "1774987573": "offline",
+        "1776100016": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
@@ -4982,7 +5008,8 @@
   },
   "ILN": {
     "all": {
-      "1755770395": "online"
+      "1755770395": "online",
+      "1776045774": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -5005,6 +5032,26 @@
               "discord": "siu - Chainmakers#3920"
             }
           ]
+        },
+        "electrum2.ilien.io:30069": {
+          "contact": [
+            {
+              "email": "admin@ilien.io"
+            },
+            {
+              "discord": "siu - Chainmakers#3920"
+            }
+          ]
+        },
+        "electrum2.ilien.io:65011": {
+          "contact": [
+            {
+              "email": "admin@ilien.io"
+            },
+            {
+              "discord": "siu - Chainmakers#3920"
+            }
+          ]
         }
       },
       "electrum1.ilien.io:30069": {
@@ -5016,10 +5063,12 @@
         "1775959086": "offline"
       },
       "electrum2.ilien.io:30069": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1776045774": "offline"
       },
       "electrum2.ilien.io:65011": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1776045774": "offline"
       }
     }
   },
@@ -6661,7 +6710,8 @@
         "1763783058": "online",
         "1771824489": "offline",
         "1772144114": "online",
-        "1776008736": "offline"
+        "1776008736": "offline",
+        "1776045774": "online"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1773964971": "online"
@@ -6735,7 +6785,8 @@
         "1758289389": "online",
         "1766366022": "offline",
         "1768785451": "online",
-        "1775592931": "offline"
+        "1775592931": "offline",
+        "1776045774": "online"
       },
       "electrumx1.mydogecoin.fun:60003": {
         "1758289389": "online",
