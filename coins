@@ -5230,11 +5230,11 @@
   {
     "coin": "EWT",
     "name": "ewt",
-    "fname": "Energy Web",
+    "fname": "Energy Web (OLD)",
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 246,
-    "use_access_list": true,
+    "wallet_only": true,
     "max_eth_tx_type": 2,
     "required_confirmations": 3,
     "avg_blocktime": 5,
@@ -5246,6 +5246,28 @@
     },
     "derivation_path": "m/44'/60'",
     "trezor_coin": "Energy Web",
+    "links": {
+      "homepage": "https://www.energyweb.org"
+    }
+  },
+  {
+    "coin": "EWT-ERC20",
+    "name": "ewt_erc20",
+    "fname": "Energy Web",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 18,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0xB66a5D30D04f076E78ffB0d045C55846Fdcde928"
+      }
+    },
+    "derivation_path": "m/44'/60'",
     "links": {
       "homepage": "https://www.energyweb.org"
     }
@@ -5557,7 +5579,6 @@
     "bech32_hrp": "fc",
     "txfee": 0,
     "mm2": 1,
-    "wallet_only": false,
     "required_confirmations": 3,
     "avg_blocktime": 60,
     "protocol": {
