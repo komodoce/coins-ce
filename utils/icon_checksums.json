@@ -67,17 +67,9 @@
     "original": "1db731ee51bb6575041f591e162afe3ad7081841f3af85a7d293c9140cc43d8d",
     "processed": "bff592ba05611b19b4a5681e5b5414187c47aeb3fc8f202564c1c7c4c0dea59c"
   },
-  "aya.png": {
-    "original": "4e332278af14c9dbbb04321e4590af86808591f18cf7c89c018b6ef14c7fbb0a",
-    "processed": "a49db3074b31c4bfa3c241c2aec9090d243fbe1f7fe9bbd3c17d661c3125a2e4"
-  },
   "nito.png": {
     "original": "af32051d94f2943289ad0f0debc52171acfd0b5734cce6044c5c562f18842d38",
     "processed": "09839ca55afb663d26752590a0638b9b82f5c5c515bc78e06971a95315508d01"
-  },
-  "aibc.png": {
-    "original": "9f4f2d171b04ad418518849da5e238557391cee48b700bbf6d7c8d6c938f41ac",
-    "processed": "674b23c4b130161bd56f7977bf57d3d98f0720b2e19b360a444b5768af153833"
   },
   "fjc.png": {
     "original": "dc9b04ba570a61ad0559cc1ddc2b7e1d102b83c894dd351dcc78f6b3b3e72046",
@@ -283,10 +275,6 @@
     "original": "8e51b2446b4f90988d38171f21b5a3b48670a018480b720b1e60c5e21362fc1b",
     "processed": "4e4fe43f80d4ca1a5f5a557ba5bec7fbba07d85d312ee10e21996ed15a750a4f"
   },
-  "ubq.png": {
-    "original": "0470576a8a94811dd8df8caad698386fd7314aa4931cf45126b393bd1056edae",
-    "processed": "a2b0a79171c0e1a2d4a6389ae49e233c5c61681e0940a66017b49c9bf7e5b287"
-  },
   "ksm.png": {
     "original": "8281033573298b9a0939957b23f9f36a170c390634ce74798cb7cbcbf72d5b53",
     "processed": "7d5ef404772dcb93143760112db3d25c66ee4c4bf7e89a736f721bdc9af2045c"
@@ -302,10 +290,6 @@
   "brz.png": {
     "original": "4a1ef46fd3eb84fbc9349313718a13ca338c3d1dc901bed174ae9e1efd2d9721",
     "processed": "4fcce7cbac8af4a5f0312b6d122e26185873298c813285a5ebd5dd60e5de00e5"
-  },
-  "zoin.png": {
-    "original": "a0869de0b8081835d2144fd4e53822cc72ea58973aa7cb4a447daab0d1c523bc",
-    "processed": "bbd6fb5ac746bec6914f076f42838ccba9777e5456f11f8603b7ecbca1f52f9b"
   },
   "colx.png": {
     "original": "6834fd17faf01e9c506ad8d5caf60d45379d7789769aaf177dc0376b4bbc9254",
@@ -1930,5 +1914,9 @@
   "aslp.png": {
     "original": "b1768586f12dbc9412edd1f528d060a26e4f0c957c70b77986a5f5731c2d9f3c",
     "processed": "3165eae04d84f07240b6979fd3329e3c238db978f78e71ea7aac8488f35ee2a4"
+  },
+  "krgn.png": {
+    "original": "88f14926d962b51091d5d0d69ebd6af83d1099e53a53bcf957dfbf0c60db8539",
+    "processed": "f173ebe34ca54275864c418be794cd7435c20ab8b9dfe0113b5ead1c9fa481eb"
   }
 }

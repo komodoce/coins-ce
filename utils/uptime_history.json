@@ -1767,7 +1767,8 @@
         "1776045906": "offline"
       },
       "electrumx.dgc.ewmcx.org:50001": {
-        "1776045906": "offline"
+        "1776045906": "offline",
+        "1776074015": "online"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1776045906": "offline"
@@ -3963,6 +3964,19 @@
       }
     }
   },
+  "KRGN": {
+    "all": {
+      "1776074015": "online"
+    },
+    "by_server": {
+      "electrum-kerrigan.jskitty.cat:50001": {
+        "1776074015": "online"
+      },
+      "electrum-kerrigan.jskitty.cat:50002": {
+        "1776074015": "online"
+      }
+    }
+  },
   "LBC": {
     "all": {
       "1776045906": "online"
@@ -5294,7 +5308,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1776045906": "online"
+        "1776045906": "online",
+        "1776074015": "offline"
       },
       "https://api.harmony.one": {
         "1776045906": "online"
