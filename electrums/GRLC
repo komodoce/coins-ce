@@ -61,6 +61,7 @@
     {
         "url": "electrum.maxpuig.com:50002",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "contact": [
             {
                 "discord": "orpheas#1503"
