@@ -771,7 +771,8 @@
         "1776101842": "online"
       },
       "wss://bsc-rpc.publicnode.com": {
-        "1776101842": "online"
+        "1776101842": "online",
+        "1776391967": "offline"
       },
       "wss://bsc1.cipig.net:38655": {
         "1776101842": "online"
@@ -2481,13 +2482,16 @@
         "1776101842": "online"
       },
       "electrumx01.firo.org:50001": {
-        "1776101842": "offline"
+        "1776101842": "offline",
+        "1776391967": "online"
       },
       "electrumx01.firo.org:50002": {
-        "1776101842": "offline"
+        "1776101842": "offline",
+        "1776391967": "online"
       },
       "electrumx01.firo.org:50004": {
-        "1776101842": "offline"
+        "1776101842": "offline",
+        "1776391967": "online"
       },
       "electrumx02.firo.org:50001": {
         "1776101842": "online"
@@ -2965,7 +2969,8 @@
         "1776101842": "online"
       },
       "wss://moonbeam-rpc.publicnode.com": {
-        "1776101842": "online"
+        "1776101842": "online",
+        "1776391967": "offline"
       },
       "wss://moonbeam.drpc.org": {
         "1776101842": "online"
