@@ -2,7 +2,7 @@ name: Update Coin Configs and create 128x128 images in icons dir
 
 on:
   push:
-    branches: [ "nogeo" ]
+    branches: [ "master" ]
     paths-ignore:
       - 'utils/*.json'
       - 'utils/spritemap.png'
