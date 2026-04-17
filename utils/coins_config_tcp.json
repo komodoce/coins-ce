@@ -14334,6 +14334,15 @@
                 ]
             },
             {
+                "url": "electrumx01.firo.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx02.firo.org:50002",
                 "protocol": "SSL",
                 "contact": [
