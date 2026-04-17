@@ -182,10 +182,8 @@
     "MASK-BEP20": "MASK",
     "MASK-ERC20": "MASK",
     "MASK-PLG20": "MASK",
-    "MATIC": "MATIC",
-    "MATIC-BEP20": "MATIC",
-    "MATIC-ERC20": "MATIC",
-    "MATIC-KRC20": "MATIC",
+    "POL": "POL",
+    "POL-ERC20": "POL",
     "MKR-AVX20": "MKR",
     "MKR-BEP20": "MKR",
     "MKR-ERC20": "MKR",
@@ -337,7 +335,5 @@
     "XEC": "XEC",
     "ATOM": "ATOM",
     "OSMO": "OSMO",
-    "ATOM-IBC_IRIS": "ATOM",
-    "ATOM-IBC_NUCLEUSTEST": "ATOM",
-    "OSMO-IBC_NUCLEUSTEST": "OSMO"
+    "ATOM-IBC_IRIS": "ATOM"
 }

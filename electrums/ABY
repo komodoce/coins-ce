@@ -38,6 +38,7 @@
   {
     "url": "elec-seeder-two.artbytecoin.org:50012",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "elec-seeder-two.artbytecoin.org:50013"
   }
 ]

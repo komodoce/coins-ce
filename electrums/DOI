@@ -2,6 +2,7 @@
     {
         "url": "itchy-jellyfish-89.doi.works:50002",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "contact": [
             {
                 "github": "https://github.com/doichain/electrum-doi/issues",

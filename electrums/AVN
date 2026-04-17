@@ -21,7 +21,8 @@
   },
   {
     "url": "electrum-eu.avn.network:50002",
-    "protocol": "SSL",        
+    "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "email": "contact@avn.network" }
     ],
@@ -35,10 +36,11 @@
   },
   {
     "url": "electrum-ca.avn.network:50002",
-    "protocol": "SSL",        
+    "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "email": "contact@avn.network" }
     ],
     "ws_url": "electrum-ca.avn.network:50003"
-  } 
+  }
 ]

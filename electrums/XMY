@@ -3,6 +3,7 @@
     "url": "xmy-ex-one.ewmci.online:50002",
     "ws_url": "xmy-ex-one.ewmci.online:50003",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "475820011634819072" }
     ]
@@ -18,6 +19,7 @@
     "url": "xmy-ex-two.ewmci.online:50002",
     "ws_url": "xmy-ex-two.ewmci.online:50003",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "475820011634819072" }
     ]

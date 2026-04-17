@@ -3,6 +3,7 @@
     "url": "elecx1.dingocoin.com:3342",
     "ws_url": "elecx1.dingocoin.com:3341",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "115619332448321541" }
     ]
@@ -18,6 +19,7 @@
     "url": "elecx2.dingocoin.com:3342",
     "ws_url": "elecx2.dingocoin.com:3341",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "115619332448321541" }
     ]
@@ -33,6 +35,7 @@
     "url": "delecx.twinkykms.com:3342",
     "ws_url": "delecx.twinkykms.com:3341",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "405102339612082177" }
     ]

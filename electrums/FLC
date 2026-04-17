@@ -2,6 +2,7 @@
   {
     "url": "electrum.myfloki.com:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       {"email": "electrum@myfloki.com"}
     ],

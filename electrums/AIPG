@@ -2,6 +2,7 @@
   {
     "url": "electrumx1.aipowergrid.io:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "discord": "482101557383528448" } 
     ],
@@ -10,6 +11,7 @@
   {
     "url": "electrumx2.aipowergrid.io:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
         {
             "discord": "482101557383528448"

@@ -2,20 +2,13 @@ name: Update Coin Configs and create 128x128 images in icons dir
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "nogeo" ]
     paths-ignore:
       - 'utils/*.json'
       - 'utils/spritemap.png'
 
   schedule:
     - cron:  '0 0 * * *'
-  workflow_dispatch:
-    inputs:
-      target_branch:
-        description: Branch to run against and target for PR
-        required: true
-        default: master
-        type: string
 
 jobs:
   update_configs:

@@ -9,6 +9,7 @@
   {
     "url": "v2.cryptocollider.com:8443",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "ws_url": "v2.cryptocollider.com:5001",
     "contact": [
       { "email": "electrumx@cryptocollider.com" },

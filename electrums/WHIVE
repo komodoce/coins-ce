@@ -18,6 +18,7 @@
   {
     "url": "electrumx1.cointest.com:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "email": "protocol@whive.io" },
       { "discord": "whiveio#9340" },
@@ -27,6 +28,7 @@
   {
     "url": "electrumx2.cointest.com:50002",
     "protocol": "SSL",
+    "disable_cert_verification": true,
     "contact": [
       { "email": "protocol@whive.io" },
       { "discord": "whiveio#9340" },
