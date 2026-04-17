@@ -312,7 +312,8 @@
         "1776409708": "online"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
-        "1776409708": "online"
+        "1776409708": "online",
+        "1776410187": "offline"
       },
       "wss://avalanche.drpc.org": {
         "1776409708": "online"
@@ -779,7 +780,8 @@
         "1776409708": "online"
       },
       "wss://bsc-rpc.publicnode.com": {
-        "1776409708": "online"
+        "1776409708": "online",
+        "1776410187": "offline"
       },
       "wss://bsc1.cipig.net:38655": {
         "1776409708": "online"
@@ -1952,13 +1954,16 @@
         "1776409708": "online"
       },
       "seed5.dingocoin.com:3339": {
-        "1776409708": "offline"
+        "1776409708": "offline",
+        "1776410187": "online"
       },
       "seed5.dingocoin.com:3341": {
-        "1776409708": "offline"
+        "1776409708": "offline",
+        "1776410187": "online"
       },
       "seed5.dingocoin.com:3342": {
-        "1776409708": "offline"
+        "1776409708": "offline",
+        "1776410187": "online"
       }
     }
   },
@@ -3093,7 +3098,8 @@
         "1776409708": "online"
       },
       "wss://moonbeam-rpc.publicnode.com": {
-        "1776409708": "online"
+        "1776409708": "online",
+        "1776410187": "offline"
       },
       "wss://moonbeam.drpc.org": {
         "1776409708": "online"
