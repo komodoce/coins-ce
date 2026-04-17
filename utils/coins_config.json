@@ -13369,6 +13369,33 @@
                         "discord": "115619332448321541"
                     }
                 ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3339",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3342",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
