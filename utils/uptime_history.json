@@ -312,7 +312,8 @@
         "1776412378": "online"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       },
       "wss://avalanche.drpc.org": {
         "1776412378": "online"
@@ -771,7 +772,8 @@
         "1776412378": "online"
       },
       "wss://bsc-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       },
       "wss://bsc1.cipig.net:38655": {
         "1776412378": "online"
@@ -2336,7 +2338,8 @@
         "1776412378": "online"
       },
       "wss://ethereum-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       },
       "wss://mainnet.gateway.tenderly.co": {
         "1776412378": "online"
@@ -2359,7 +2362,8 @@
         "1776412378": "online"
       },
       "wss://arbitrum-one-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       }
     }
   },
@@ -2379,7 +2383,8 @@
         "1776412378": "online"
       },
       "wss://base-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       }
     }
   },
@@ -5341,7 +5346,8 @@
         "1776412378": "offline"
       },
       "wss://polygon-bor-rpc.publicnode.com": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776480349": "online"
       },
       "wss://polygon.drpc.org": {
         "1776412378": "online"
