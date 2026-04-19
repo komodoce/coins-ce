@@ -7949,6 +7949,18 @@
         },
         "electrum": [
             {
+                "url": "electrum.blastinvest.com:10008",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.shorelinecrypto.com:10008",
                 "protocol": "SSL",
                 "contact": [
@@ -10903,27 +10915,9 @@
                 ]
             },
             {
-                "url": "elecx.kmsoftware.org:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
                 "url": "elecx1.dingocoin.com:3342",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "elecx2.kmsoftware.org:3342",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "115619332448321541"
@@ -10941,15 +10935,6 @@
             },
             {
                 "url": "seed2.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed3.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -25876,6 +25861,18 @@
             "homepage": "https://nengcoin.io"
         },
         "electrum": [
+            {
+                "url": "electrum.blastinvest.com:10002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@shorelinecrypto.com"
+                    },
+                    {
+                        "discord": "honglu69#5911"
+                    }
+                ]
+            },
             {
                 "url": "electrum.shorelinecrypto.com:10002",
                 "protocol": "SSL",
@@ -44132,6 +44129,19 @@
             {
                 "url": "electrum2.kiirocoin.org:50002",
                 "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1061740404439007403"
+                    },
+                    {
+                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kiirocoin.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "1061740404439007403"
