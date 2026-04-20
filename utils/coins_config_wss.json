@@ -6034,6 +6034,16 @@
         },
         "electrum": [
             {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6113,6 +6123,16 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
@@ -9809,9 +9829,27 @@
                 ]
             },
             {
+                "url": "elecx.kmsoftware.org:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
                 "url": "elecx1.dingocoin.com:3341",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "elecx2.kmsoftware.org:3341",
+                "protocol": "WSS",
                 "contact": [
                     {
                         "discord": "115619332448321541"
@@ -9837,7 +9875,16 @@
                 ]
             },
             {
-                "url": "seed4.dingocoin.com:3341",
+                "url": "seed3.dingocoin.com:3341",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "115619332448321541"
+                    }
+                ]
+            },
+            {
+                "url": "seed5.dingocoin.com:3341",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -31810,6 +31857,11 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
