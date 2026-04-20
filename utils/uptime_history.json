@@ -1044,10 +1044,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1776412378": "online"
@@ -1091,10 +1093,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1776412378": "online"
@@ -5216,7 +5220,8 @@
     "all": {},
     "by_server": {
       "https://1rpc.io/one": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "https://api.harmony.one": {
         "1776412378": "online"
@@ -6182,10 +6187,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1776412378": "offline"
+        "1776412378": "offline",
+        "1776655358": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1776412378": "online"
